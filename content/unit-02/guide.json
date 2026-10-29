@@ -1,0 +1,120 @@
+{
+  "flows": [
+    {
+      "id": "FC1",
+      "title": "The Unit 2 pattern",
+      "deck": 7,
+      "steps": [
+        "Innovation (credit, caravanserai, compass, saddles)",
+        "More trade",
+        "Bigger cities and states",
+        "Cultural and environmental effects (religion, technology, crops, disease)"
+      ]
+    },
+    {
+      "id": "FC2",
+      "title": "Mongol story",
+      "deck": 2,
+      "steps": [
+        "1206: Temujin elected Genghis Khan",
+        "1210–1227: conquers Jin, Kara Khitai, Khwarazm",
+        "1236–1240: Golden Horde takes Russia, Kiev destroyed",
+        "1258: Hulegu destroys Baghdad",
+        "1260: Kublai becomes Great Khan (Yuan from 1271)",
+        "1350s: White Lotus revolts",
+        "1368: Zhu Yuanzhang founds the Ming"
+      ]
+    },
+    {
+      "id": "FC3",
+      "title": "Black Death path",
+      "deck": 6,
+      "steps": [
+        "Central or East Asia",
+        "along Silk Road and Mongol-era routes",
+        "trading ports and ships",
+        "Mediterranean and Europe (1347)",
+        "labor shortages and higher wages"
+      ]
+    },
+    {
+      "id": "FC4",
+      "title": "Indian Ocean cycle",
+      "deck": 3,
+      "steps": [
+        "Monsoon timing",
+        "merchants wait in port for months",
+        "settle and marry locally",
+        "diasporic communities",
+        "cultural blending (Swahili culture, spread of Islam)"
+      ]
+    },
+    {
+      "id": "FC5",
+      "title": "Mali's rise",
+      "deck": 4,
+      "steps": [
+        "Muslim merchants boost trans-Saharan trade (7th–8th centuries)",
+        "better saddles and caravans carry heavy loads",
+        "Mali taxes and protects the gold-salt trade (1200s)",
+        "Mansa Musa's 1324 pilgrimage",
+        "mosques and schools in Timbuktu"
+      ]
+    }
+  ],
+  "tables": [
+    {
+      "title": "The three networks compared",
+      "rows": [
+        [
+          "",
+          "Silk Roads",
+          "Indian Ocean",
+          "Trans-Saharan"
+        ],
+        [
+          "Terrain",
+          "Overland (Gobi, mountains, Central Asia)",
+          "Sea, driven by monsoon winds",
+          "Desert"
+        ],
+        [
+          "Transport",
+          "Horses, camels, caravans",
+          "Dhows and junks",
+          "Camel caravans; people walked"
+        ],
+        [
+          "Key technology",
+          "Caravanserai, flying cash, camel saddles",
+          "Compass, astrolabe, lateen sail, stern rudder",
+          "Camel saddle, organized caravans"
+        ],
+        [
+          "Main goods",
+          "Silk, tea, porcelain, spices, paper, gunpowder",
+          "Cotton, spices, ivory, gold, rice, timber, slaves",
+          "Gold, ivory, slaves, kola nuts; salt, cloth, horses"
+        ],
+        [
+          "Main challenge",
+          "Mountains, deserts, political division",
+          "Timing the monsoons; piracy",
+          "Extreme desert, finding water"
+        ],
+        [
+          "Key cities and states",
+          "Kashgar, Samarkand, Chang'an",
+          "Calicut, Malacca, Gujarat, Swahili city-states",
+          "Timbuktu, Gao, Marrakesh, Cairo"
+        ],
+        [
+          "Religions spread",
+          "Buddhism, Neo-Confucianism, Islam",
+          "Buddhism, Hinduism, Islam",
+          "Islam"
+        ]
+      ]
+    }
+  ]
+}

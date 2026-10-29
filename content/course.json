@@ -1,0 +1,19 @@
+{
+  "id": "apworld",
+  "name": "AP World History",
+  "tagline": "One kit per unit, built from AMSCO. Pick a unit to study; progress in each one is saved in this browser.",
+  "hub": "https://dn4563.github.io/Study-Hub-by-David/",
+  "accent": "#8E3B2F",
+  "accentDark": "#E08A7B",
+  "examTab": "Mock test",
+  "units": [
+    {
+      "id": "u2",
+      "dir": "unit-02",
+      "label": "Unit 2",
+      "title": "Networks of Exchange",
+      "blurb": "1200 to 1450: the Silk Roads, the Mongol Empire, the Indian Ocean, trans-Saharan trade, and the cultural and environmental effects of exchange (AMSCO 2.1 to 2.7).",
+      "legacyKeys": { "kit": "apw_unit2_kit_v1", "pt": "apw_unit2_pt_v1" }
+    }
+  ]
+}

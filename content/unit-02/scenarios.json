@@ -1,0 +1,401 @@
+[
+  {
+    "id": "SQ1",
+    "deck": 1,
+    "q": "A classmate claims, \"The Silk Roads were created after 1200 when the Mongols and merchants built brand-new routes.\" Which reply is most accurate?",
+    "opts": [
+      "Mongols laid out the first overland routes, and merchants later added caravanserai and credit along them.",
+      "They vanished after the Han and Rome fell, so the post-1200 network had no earlier trade behind it.",
+      "They were revived by Arab merchants in the 8th–9th centuries; after 1200 they carried more goods farther.",
+      "Merchants opened them to reach Europe, since Chinese demand for gold and silver was already strong."
+    ],
+    "ans": 2,
+    "exp": "The Unit 2 rule is growth and intensification of existing routes. The wrong answers either credit the Mongols with creating the routes or treat the network as new or disconnected from earlier trade.",
+    "why": [
+      "The Mongols did not lay out the first overland routes; the routes already existed and the Mongols united them.",
+      "The routes were not dead after the Han and Rome fell; they were revived by Arab merchants before 1200.",
+      "",
+      "This invents a reason for opening the routes; the textbook describes revival and growth of existing routes."
+    ]
+  },
+  {
+    "id": "SQ2",
+    "deck": 1,
+    "q": "Why did Chinese authorities develop flying cash for merchants?",
+    "opts": [
+      "Mongol rulers demanded that customs duties be paid in paper to fund the caravanserai network.",
+      "Bulky copper coins hampered large trades, so deposits in one city could be redeemed in another.",
+      "China lacked a money economy, so paper credit was introduced to replace barter along the routes.",
+      "European banking houses insisted on a Chinese credit system before buying silk and porcelain."
+    ],
+    "ans": 1,
+    "exp": "China already had a money economy, so the idea that paper credit replaced barter is wrong; the problem was that copper coins were too heavy to carry for big trades. Nothing in the textbook ties flying cash to Mongol duties or European demands.",
+    "why": [
+      "The text does not say Mongol rulers required duties to be paid in paper to fund caravanserai.",
+      "",
+      "China already had a money economy; flying cash solved the problem of carrying heavy copper coins.",
+      "Nothing says European banking houses demanded a Chinese credit system."
+    ]
+  },
+  {
+    "id": "SQ3",
+    "deck": 1,
+    "q": "A student building a causal chain for Silk Road growth wants to open with the cause the textbook treats as most significant. Which should come first?",
+    "opts": [
+      "Crusaders returning to Europe with a taste for eastern spices.",
+      "Chinese artisans expanding porcelain production for export.",
+      "The Mongol Empire uniting the routes under one authority.",
+      "Improved camel saddles raising the loads caravans could carry."
+    ],
+    "ans": 2,
+    "exp": "The textbook says no other cause had as much impact as the rise of the Mongol Empire. The other choices are real but secondary causes.",
+    "why": [
+      "The Crusades are a real cause but secondary; they did not unite the routes the way the Mongols did.",
+      "Expanded porcelain production is a real cause but not the one the textbook calls most significant.",
+      "",
+      "Better camel saddles helped, but the textbook ranks the Mongol Empire above them."
+    ]
+  },
+  {
+    "id": "SQ4",
+    "deck": 2,
+    "q": "In 1250, a Russian prince keeps ruling his own city but sends regular tribute to the Golden Horde. This arrangement best illustrates the Mongols'",
+    "opts": [
+      "insistence on replacing local officials with Mongol governors.",
+      "use of forced conversion to unify conquered peoples.",
+      "habit of destroying every city that surrendered to them.",
+      "reliance on indirect rule through existing local rulers."
+    ],
+    "ans": 3,
+    "exp": "The Mongols ruled northern Russia through existing princes who paid tribute; they chose indirect rule partly because they did not want to live in the forests. Surrendering cities were often spared, and the Mongols tolerated religions.",
+    "why": [
+      "The Mongols kept local princes in place; they did not replace them with Mongol governors.",
+      "The Mongols tolerated religions and did not force conversion.",
+      "Cities that surrendered were often spared; the Mongols did not destroy every one.",
+      ""
+    ]
+  },
+  {
+    "id": "SQ5",
+    "deck": 2,
+    "q": "A Chinese scholar in the 1340s complains that foreigners fill government posts and the civil service exams have been abandoned. Which result most directly followed from this kind of resentment?",
+    "opts": [
+      "A revolt led by Zhu Yuanzhang that ended the Yuan and founded the Ming in 1368.",
+      "A Mongol retreat to Karakorum after Kublai Khan lost the title of Great Khan in 1260.",
+      "A Yuan conquest of Japan and Java that restored the dynasty's prestige among scholars.",
+      "A merger of the Yuan with the Il-khanate to counter the rising White Lotus Society."
+    ],
+    "ans": 0,
+    "exp": "Hiring foreigners and dismantling the exams alienated the scholar-gentry; with the White Lotus Society organizing and Yuan military failures (including Japan and Java), Zhu Yuanzhang overthrew the Yuan in 1368.",
+    "why": [
+      "",
+      "The Mongols did not retreat to Karakorum because of resentment among Chinese scholars; this event is unrelated.",
+      "Yuan campaigns against Japan and Java failed and hurt the dynasty; they did not restore its prestige.",
+      "The Yuan did not merge with the Il-khanate; the White Lotus Society opposed them."
+    ]
+  },
+  {
+    "id": "SQ6",
+    "deck": 2,
+    "q": "A student writes that the Mongols invented the gunpowder weapons that reshaped warfare. Which revision is most accurate?",
+    "opts": [
+      "Mongols developed gunpowder in Central Asia and carried it east into China during the Yuan.",
+      "Mongols spread and adapted Chinese gunpowder and siege technology picked up from conquered peoples.",
+      "Mongols acquired gunpowder only after the Ming, when Zheng He's fleets carried it west.",
+      "Mongols avoided new weapons, relying only on horse archery until the Black Death."
+    ],
+    "ans": 1,
+    "exp": "Unit 2 stresses that the Mongols facilitated the transfer of technologies they did not invent. Gunpowder came from China, and the Mongols borrowed siege weapons from conquered engineers.",
+    "why": [
+      "Gunpowder was developed in China, not in Central Asia.",
+      "",
+      "The Mongols used gunpowder weapons long before the Ming and Zheng He.",
+      "The Mongols did not avoid new weapons; they borrowed siege technology from conquered peoples."
+    ]
+  },
+  {
+    "id": "SQ7",
+    "deck": 3,
+    "q": "In summer, a Swahili merchant reaches Calicut with ivory and gold and wants to return to East Africa. Why would he most likely wait in port for months?",
+    "opts": [
+      "Chinese law barred foreign ships from the Indian coast until the next trading season began.",
+      "Lateen sails could not catch the wind during the summer months, so ships stayed in harbor.",
+      "The astrolabe could only fix a ship's latitude in winter, so navigators refused summer voyages.",
+      "Sailing home depended on the winds reversing, so he waited for the northeast winter monsoon."
+    ],
+    "ans": 3,
+    "exp": "Monsoon knowledge was essential: summer winds from the southwest carried ships toward India, and the winter winds from the northeast carried them back. Merchants often stayed in port for months waiting for favorable winds.",
+    "why": [
+      "No Chinese law barred foreign ships from the Indian coast; the delay was caused by the winds.",
+      "Lateen sails could catch the wind; the problem was that the monsoon winds blew the wrong way until they reversed.",
+      "The astrolabe worked in any season; it is not what kept ships in port.",
+      ""
+    ]
+  },
+  {
+    "id": "SQ8",
+    "deck": 3,
+    "q": "Malacca grew wealthy even though it had little farmland or mining. Which explanation is best supported by the textbook?",
+    "opts": [
+      "It charged fees on ships using the strait and used the revenue to build a navy.",
+      "It sold surplus rice from large farms to the fleets of Zheng He.",
+      "It mined tin and gold on the peninsula for export to Arabia and India.",
+      "It manufactured porcelain for Muslim buyers using imported Persian cobalt."
+    ],
+    "ans": 0,
+    "exp": "Malacca's prosperity rested on trade, not agriculture, mining, or manufacturing: fees on passing ships funded a navy that kept the strait safe.",
+    "why": [
+      "",
+      "Malacca had little farmland and did not sell rice to Zheng He's fleets as its source of wealth.",
+      "The scenario says Malacca had little mining, so mining tin and gold cannot explain its wealth.",
+      "Malacca grew rich from trade fees, not from manufacturing porcelain."
+    ]
+  },
+  {
+    "id": "SQ9",
+    "deck": 3,
+    "q": "Arab and Persian merchants settled in western Indian ports and married local women, raising their children as Muslims. This best shows that Islam often spread in South Asia through",
+    "opts": [
+      "state-run conversion programs organized by the Abbasid caliphs across the coast.",
+      "the forced migration of Muslim artisans ordered by Mongol rulers.",
+      "merchant settlement and intermarriage, not only through missionaries or armies.",
+      "Chinese tribute missions that required local rulers to convert."
+    ],
+    "ans": 2,
+    "exp": "The textbook says Dar al-Islam merchants brought Islam to southern Asia through intermarriage, not missionary work or conquest alone. The other choices describe mechanisms the text does not support.",
+    "why": [
+      "The Abbasid caliphs did not run conversion programs across the coast; merchants spread Islam by settling and marrying.",
+      "The Mongols did not order Muslim artisans to migrate to spread Islam.",
+      "",
+      "Chinese tribute missions did not require local rulers to convert."
+    ]
+  },
+  {
+    "id": "SQ10",
+    "deck": 4,
+    "q": "Which description of exchange across the Sahara is accurate?",
+    "opts": [
+      "Gold moved north and salt moved south, with horses also flowing from the north.",
+      "Salt moved north from the Sahel to pay for gold produced in North African mines.",
+      "Camels carried silk south while West Africans sent porcelain north across the desert.",
+      "Gold and salt both traveled south from the Mediterranean to pay for horses."
+    ],
+    "ans": 0,
+    "exp": "Gold, ivory, slaves, and kola nuts went north; salt, textiles, horses, and metals went south. The wrong answers reverse the directions or import goods from other networks.",
+    "why": [
+      "",
+      "This reverses the direction: salt moved south and gold moved north.",
+      "Silk and porcelain belong to the Silk Roads and Indian Ocean, not to Sahara trade.",
+      "Gold traveled north, not south; this reverses the direction of exchange."
+    ]
+  },
+  {
+    "id": "SQ11",
+    "deck": 4,
+    "q": "A student writes, \"Mali created the trans-Saharan trade in the 1200s.\" Which revision best fits the evidence?",
+    "opts": [
+      "Mali built the first caravan routes after Ghana weakened and then invited Muslim merchants to use them.",
+      "Mali grew rich taxing and protecting a trade that already existed before its rise.",
+      "Mali began the gold trade when Sundiata learned of Saharan salt mines while in exile.",
+      "Mali expanded an older trade, but only after Songhai conquests opened routes to North Africa."
+    ],
+    "ans": 1,
+    "exp": "Trans-Saharan trade grew with Muslim merchants in the 7th–8th centuries and was already famous by the 8th century; Mali taxed and protected it. Songhai replaced Mali later, so the claim that Songhai conquests came first is out of order.",
+    "why": [
+      "The trade already existed before Mali; Mali did not build the first routes.",
+      "",
+      "This invents a story about Sundiata and salt mines; the trade began far earlier.",
+      "Songhai replaced Mali later, so Songhai conquests could not have opened the routes first."
+    ]
+  },
+  {
+    "id": "SQ12",
+    "deck": 4,
+    "q": "Camels were in North Africa by the 3rd century B.C.E., yet heavy cargo trade across the Sahara boomed much later. Which development best explains the shift?",
+    "opts": [
+      "The introduction of the horse, which was better suited to long stretches without water.",
+      "Caravanserai networks across the Sahara that housed traders and animals like Silk Road inns.",
+      "The use of cowrie shells as currency, which made payment for heavy goods easier.",
+      "A saddle developed by the Somalis that let camels carry loads of roughly 600 pounds."
+    ],
+    "ans": 3,
+    "exp": "Without a load-bearing saddle, camels could not carry heavy trade goods. Camels replaced horses in the desert, so the claim that horses were introduced to solve the problem reverses the story.",
+    "why": [
+      "Horses are not better suited to deserts; camels replaced horses there, so this reverses the story.",
+      "Caravanserai are a Silk Road feature, not what explained the boom in Sahara trade.",
+      "Cowrie shells are a currency; they do not allow camels to carry heavier loads.",
+      ""
+    ]
+  },
+  {
+    "id": "SQ13",
+    "deck": 5,
+    "q": "A Chinese monk explains Buddhist ideas using Daoist concepts his listeners already know. This best illustrates",
+    "opts": [
+      "conquest, in which a ruler imposes one religion over local traditions.",
+      "isolation, in which Chinese scholars rejected all foreign religious ideas.",
+      "syncretism, in which beliefs blend to form new faiths such as Chan Buddhism.",
+      "replacement, in which Buddhism fully displaced Daoism among ordinary Chinese."
+    ],
+    "ans": 2,
+    "exp": "Monks related Buddhism to Daoist principles, and the blend became Chan (Zen) Buddhism. Religions usually blended with local beliefs rather than replacing them.",
+    "why": [
+      "Conquest imposes a religion; here the monk blends ideas, which is the opposite.",
+      "Isolation means rejecting foreign ideas; the Chinese here accepted and blended Buddhism.",
+      "",
+      "Replacement means Buddhism displaced Daoism, but the two blended instead."
+    ]
+  },
+  {
+    "id": "SQ14",
+    "deck": 5,
+    "q": "A historian reads Marco Polo's description of Hangzhou, which stresses silk production and paper money. What is the most reasonable inference about the source?",
+    "opts": [
+      "It reflects a Muslim scholar's view, so it likely stresses religious learning and sacred law.",
+      "It reflects a merchant's view, so it likely stresses trade and should be cross-checked.",
+      "It reflects a Chinese official's view, so it likely downplays foreign trade and commerce.",
+      "It reflects a pilgrim's view, so it likely stresses sacred sites and spiritual visions."
+    ],
+    "ans": 1,
+    "exp": "Polo was a Venetian merchant whose point of view kept him focused on trade-related matters. Ibn Battuta wrote as a Muslim scholar; Margery Kempe wrote as a pilgrim.",
+    "why": [
+      "Polo was a Venetian merchant, not a Muslim scholar; Ibn Battuta wrote as a Muslim scholar.",
+      "",
+      "Polo was a foreigner, not a Chinese official.",
+      "Polo was a merchant, not a pilgrim; Margery Kempe wrote as a pilgrim."
+    ]
+  },
+  {
+    "id": "SQ15",
+    "deck": 5,
+    "q": "A student wants a city whose history shows that trade prosperity was not permanent. Which evidence about Constantinople fits best?",
+    "opts": [
+      "Founded by Mongol khans, it was abandoned when the Ming ended their rule in 1368.",
+      "Its Silk Road markets collapsed when Tamerlane ravaged it in 1389–90.",
+      "It lost its trade when monsoon patterns shifted away from the Bosporus in the 1300s.",
+      "The Fourth Crusade in 1204 and plague in the 1340s weakened it before 1453."
+    ],
+    "ans": 3,
+    "exp": "Constantinople was weakened by the 1204 Fourth Crusade, and plague in 1346 and 1349 killed about half its people, before the Ottomans took it in 1453. Tamerlane ravaged Kashgar, not Constantinople.",
+    "why": [
+      "Constantinople was not founded by Mongol khans and was not abandoned in 1368.",
+      "Tamerlane ravaged Kashgar, not Constantinople.",
+      "Monsoon patterns did not shift away from the Bosporus; monsoons are an Indian Ocean feature.",
+      ""
+    ]
+  },
+  {
+    "id": "SQ16",
+    "deck": 6,
+    "q": "How did Champa rice most directly contribute to the growth of Chinese cities?",
+    "opts": [
+      "Quick ripening and two crops a year fed more people, spurring migration and city growth.",
+      "Its tribute value led the Chinese court to move its capital to Champa in central Vietnam.",
+      "Its drought resistance let farmers abandon terraces and settle the dry northern steppe.",
+      "Its popularity ended Chinese demand for luxury exports, shifting labor from workshops to farms."
+    ],
+    "ans": 0,
+    "exp": "A reliable food supply grew the population, people migrated to the rice-growing south, and cities grew. Nothing in the text supports a capital move, abandoning terraces, or ending luxury exports.",
+    "why": [
+      "",
+      "The court did not move its capital to Champa; the rice arrived as tribute.",
+      "The rice's quick ripening, not drought resistance, mattered, and farmers did not abandon terraces for the steppe.",
+      "The rice did not end demand for luxury exports; it fed a growing population."
+    ]
+  },
+  {
+    "id": "SQ17",
+    "deck": 6,
+    "q": "After the Black Death, a European laborer demands higher pay and a lord must agree. Which long-term effect does this best illustrate?",
+    "opts": [
+      "A rise in Mongol tribute demands that forced peasants to seek new employers.",
+      "The success of banking houses in lending money to peasants during the plague.",
+      "Labor shortages that raised the value of workers and helped weaken feudalism.",
+      "The growth of caravanserai that created new jobs for displaced farmworkers."
+    ],
+    "ans": 2,
+    "exp": "With fewer workers, each person's labor became more valuable, so workers could demand higher wages, which helped lay the groundwork for feudalism's decline.",
+    "why": [
+      "Mongol tribute demands are not the cause of laborers demanding higher pay after the plague.",
+      "Banking houses lending to peasants is not what this scenario shows.",
+      "",
+      "Caravanserai are a Silk Road feature, not a source of jobs for farmworkers in Europe."
+    ]
+  },
+  {
+    "id": "SQ18",
+    "deck": 6,
+    "q": "Indonesian seafarers introduced bananas to Sub-Saharan Africa. Which effect is directly supported by the textbook?",
+    "opts": [
+      "Banana plantations triggered the Atlantic slave trade by creating demand for enslaved labor in Africa.",
+      "The nutritious crop boosted population and let Bantu speakers settle where yams grew poorly.",
+      "The crop spread Islam into West Africa as Muslim merchants carried bananas across the Sahara.",
+      "The arrival of bananas ended trade with Southwest Asia since East Africa no longer needed food imports."
+    ],
+    "ans": 1,
+    "exp": "Bananas provided more nutrition, spiking population and allowing Bantu-speaking peoples to move into regions where yams did not grow easily. The other options invent connections.",
+    "why": [
+      "Banana plantations did not trigger the Atlantic slave trade; the textbook supports no such link.",
+      "",
+      "Bananas did not spread Islam; the textbook gives no such connection.",
+      "Bananas did not end trade with Southwest Asia; the textbook gives no such effect."
+    ]
+  },
+  {
+    "id": "SQ19",
+    "deck": 7,
+    "q": "Which statement is the best-supported difference between Indian Ocean trade and Silk Road trade?",
+    "opts": [
+      "Indian Ocean merchants relied on state protection, while Silk Road merchants traveled without any.",
+      "Indian Ocean trade spread religions, while Silk Road trade involved only goods and technology.",
+      "Indian Ocean trade began in 1200, while the Silk Roads had existed for over a thousand years.",
+      "Indian Ocean merchants moved goods too heavy for land, while Silk Road merchants specialized in luxuries."
+    ],
+    "ans": 3,
+    "exp": "Ships could carry heavy cargo cheaply, while Silk Road merchants tended to specialize in luxury goods. Both networks used state protection and spread religions, and both predate 1200.",
+    "why": [
+      "Both networks relied on state protection, so this is not a difference.",
+      "Both networks spread religions, so this is not a difference.",
+      "Indian Ocean trade began long before 1200, so it did not start then.",
+      ""
+    ]
+  },
+  {
+    "id": "SQ20",
+    "deck": 7,
+    "q": "Which similarity among the Silk Roads, Indian Ocean, and trans-Saharan networks is best supported?",
+    "opts": [
+      "Each depended on the same animals and ships to move goods between regions.",
+      "Each produced trading cities and relied on stable states to protect merchants and routes.",
+      "Each carried mostly luxury goods because bulky cargo could not be moved profitably.",
+      "Each was created by a single empire that opened the route after 1200."
+    ],
+    "ans": 1,
+    "exp": "All three produced trading cities (the \"knots\" of the network) and needed stable states for protection. They used different transport and goods, and all predate 1200.",
+    "why": [
+      "The networks used different transport, such as camels and ships, so they did not rely on the same animals and ships.",
+      "",
+      "Not all carried mostly luxury goods; Indian Ocean ships also moved heavy cargo.",
+      "No single empire created all three, and all existed before 1200."
+    ]
+  },
+  {
+    "id": "SQ21",
+    "deck": 7,
+    "q": "Which statement about gender in the networks of exchange, 1200–1450, is best supported?",
+    "opts": [
+      "Societies stayed mostly patriarchal, with exceptions such as Mongol women and Southeast Asian market women.",
+      "Trade increased women's political power in nearly every society along the major routes.",
+      "Mongol women were bound by the burka and foot binding adopted from conquered peoples.",
+      "European women were barred from guilds and worked only in households."
+    ],
+    "ans": 0,
+    "exp": "Most societies remained patriarchies; Mongol women refused the burka and foot binding, Southeast Asian women controlled marketplaces, and European women worked as farmers and artisans and had their own guilds.",
+    "why": [
+      "",
+      "Trade did not give women political power in nearly every society; most remained patriarchal.",
+      "Mongol women refused the burka and foot binding, so this reverses the facts.",
+      "European women worked as farmers and artisans and had their own guilds."
+    ]
+  }
+]
