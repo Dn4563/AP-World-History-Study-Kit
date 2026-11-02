@@ -1,0 +1,389 @@
+{
+ "flows": [
+  {
+   "id": "FC1",
+   "title": "From the Mongols to Unit 3",
+   "deck": 1,
+   "steps": [
+    "Mongol Empire splits into rival khanates",
+    "Black Death and revolts weaken Mongol power (1340s–1368)",
+    "Power vacuum across Asia",
+    "Turkic and other new states use gunpowder to fill it",
+    "Ottoman, Safavid, Mughal, Qing and Russian empires expand"
+   ]
+  },
+  {
+   "id": "FC2",
+   "title": "How a land empire works (the Unit 3 pattern)",
+   "deck": 4,
+   "steps": [
+    "Gunpowder conquest",
+    "Many peoples and religions to rule",
+    "Loyal elites and professional armies",
+    "Legitimacy through religion, art and architecture",
+    "Revenue through taxes, tax farming and tribute",
+    "Overspending, weak heirs and revolts lead to decline"
+   ]
+  },
+  {
+   "id": "FC3",
+   "title": "Chaldiran and its effects",
+   "deck": 3,
+   "steps": [
+    "1501: Ismail I makes Shi'a Islam the Safavid state religion",
+    "1514: Ottoman guns beat Safavid cavalry at Chaldiran",
+    "Safavid expansion west stops",
+    "Abbas I rebuilds the army with muskets, artillery and ghulams",
+    "Sunni–Shi'a divide hardens between the two empires"
+   ]
+  },
+  {
+   "id": "FC4",
+   "title": "The Reformation and its wars",
+   "deck": 5,
+   "steps": [
+    "1517: Luther attacks indulgences",
+    "1521: Luther excommunicated; German princes back him",
+    "1540–1563: Jesuits approved; Council of Trent",
+    "1555: Peace of Augsburg (Catholic or Lutheran)",
+    "1618–1648: Thirty Years' War",
+    "1648: Peace of Westphalia (Calvinism added)"
+   ]
+  },
+  {
+   "id": "FC5",
+   "title": "Mughal rise and decline",
+   "deck": 6,
+   "steps": [
+    "1526: Babur wins at Panipat with cannons",
+    "Akbar: tolerance, ends jizya, Hindus in government",
+    "Shah Jahan builds the Taj Mahal",
+    "Aurangzeb: restores jizya, wars in the Deccan",
+    "Revolts and an empty treasury; Britain and France gain ground"
+   ]
+  },
+  {
+   "id": "FC6",
+   "title": "Sikhism: from teaching to self-defense",
+   "deck": 5,
+   "steps": [
+    "Late 1400s: Guru Nanak founds Sikhism in Punjab",
+    "Akbar grants land to Sikhs",
+    "1604: Adi Granth installed at Amritsar",
+    "1606: Jahangir executes Guru Arjan",
+    "1699: Guru Gobind Singh founds the Khalsa"
+   ]
+  }
+ ],
+ "tables": [
+  {
+   "title": "The land empires at a glance",
+   "rows": [
+    [
+     "Empire",
+     "Where",
+     "How it expanded",
+     "Legitimacy",
+     "Revenue"
+    ],
+    [
+     "Ottoman",
+     "SE Europe, Middle East, N. Africa",
+     "Cannons, Janissaries, navy",
+     "Sultan as caliph; Topkapi, Suleymaniye",
+     "Tax farming; jizya"
+    ],
+    [
+     "Safavid",
+     "Persia (Iran)",
+     "Gunpowder army, ghulams",
+     "Shi'a Islam as state religion; Isfahan",
+     "Taxes used to push Shi'a Islam"
+    ],
+    [
+     "Mughal",
+     "South Asia",
+     "Artillery at Panipat, alliances",
+     "Akbar's tolerance; Taj Mahal",
+     "Zamindars; jizya (ended, then restored)"
+    ],
+    [
+     "Qing (Manchu)",
+     "China, Central and East Asia",
+     "Banner armies; conquest of Ming",
+     "Mandate of Heaven, Confucian exam, portraits",
+     "Land tax, tribute"
+    ],
+    [
+     "Russia",
+     "Siberia to the Pacific",
+     "Cossacks with firearms",
+     "Tsar as Orthodox ruler; St. Petersburg",
+     "Serfdom; head tax (1718)"
+    ],
+    [
+     "Songhai",
+     "West Africa (Gao, Timbuktu)",
+     "Control of trans-Saharan trade",
+     "Askia promotes Islam",
+     "Tributary states; trade"
+    ]
+   ]
+  },
+  {
+   "title": "Loyal elites compared",
+   "rows": [
+    [
+     "Empire",
+     "Elite",
+     "Where they came from",
+     "Why it worked"
+    ],
+    [
+     "Ottoman",
+     "Janissaries and officials (devshirme)",
+     "Christian boys from the Balkans",
+     "No family ties; loyal only to the sultan"
+    ],
+    [
+     "Safavid",
+     "Ghulams; 'men of the pen'",
+     "Georgians, Armenians, Circassians; Persians",
+     "Offset clan-loyal Qizilbash warriors"
+    ],
+    [
+     "Qing",
+     "Scholar-officials",
+     "Confucian civil service exam",
+     "Educated, loyal; made the Manchus look Chinese"
+    ],
+    [
+     "Tokugawa Japan",
+     "Salaried samurai",
+     "Former warriors",
+     "Paid by the shogun, not by feudal lords"
+    ],
+    [
+     "Russia",
+     "Oprichnina; Table of Ranks",
+     "Lower officials and merchants; promotion by service",
+     "Weakened the boyars"
+    ],
+    [
+     "France",
+     "Intendants",
+     "Royal appointees",
+     "Carried out the king's orders in the provinces"
+    ]
+   ]
+  },
+  {
+   "title": "Akbar vs. Aurangzeb",
+   "rows": [
+    [
+     "",
+     "Akbar (r. 1556–1605)",
+     "Aurangzeb (r. 1658–1707)"
+    ],
+    [
+     "Jizya",
+     "Abolished",
+     "Restored"
+    ],
+    [
+     "Religious policy",
+     "Tolerance; Din-i Ilahi; land grants to Sikhs",
+     "Strict Sunni rule; opposed Hindu influences"
+    ],
+    [
+     "Hindus",
+     "Government posts, Hindu wives",
+     "Revolts by Hindus, Sikhs, Marathas"
+    ],
+    [
+     "Result",
+     "Stable, well-governed empire",
+     "Largest size, but empty treasury and decline"
+    ]
+   ]
+  },
+  {
+   "title": "Religion in the three Islamic empires (AMSCO)",
+   "rows": [
+    [
+     "",
+     "Ottoman",
+     "Safavid",
+     "Mughal"
+    ],
+    [
+     "Branch",
+     "Mostly Sunni",
+     "Mostly Shi'a",
+     "Sunni rulers, Hindu majority"
+    ],
+    [
+     "Tolerance",
+     "Some under Suleiman; millet system",
+     "None; Ismail I forced Sunnis to convert",
+     "Tolerance under Akbar; less later"
+    ],
+    [
+     "Military",
+     "Janissaries; strong navy",
+     "Qizilbash, then ghulams; no significant navy",
+     "Warriors granted villages; small navy"
+    ]
+   ]
+  },
+  {
+   "title": "Legitimacy: religion, art, architecture",
+   "rows": [
+    [
+     "Method",
+     "Examples"
+    ],
+    [
+     "Religion",
+     "Divine right (Europe); caliph claim (Ottoman); Mandate of Heaven (Qing); Mexica human sacrifice; Askia promotes Islam (Songhai); Sapa Inca as child of the sun"
+    ],
+    [
+     "Art",
+     "Qing imperial portraits; Ottoman miniature paintings; Mughal miniatures; European royal patronage"
+    ],
+    [
+     "Architecture",
+     "Taj Mahal; Versailles; Topkapi and Suleymaniye; Coricancha in Cusco; St. Petersburg; Isfahan"
+    ]
+   ]
+  },
+  {
+   "title": "Revenue systems",
+   "rows": [
+    [
+     "System",
+     "Empire",
+     "How it worked"
+    ],
+    [
+     "Tax farming",
+     "Ottoman",
+     "Private collectors pay a fixed sum and keep any surplus"
+    ],
+    [
+     "Zamindars",
+     "Mughal",
+     "Local collectors take land taxes and keep a share"
+    ],
+    [
+     "Tribute lists",
+     "Mexica",
+     "Conquered provinces send goods (Codex Mendoza: 38 provinces)"
+    ],
+    [
+     "Single Whip / silver",
+     "Ming China",
+     "Land tax and labor combined into one silver payment (c. 1580)"
+    ],
+    [
+     "Head tax",
+     "Russia",
+     "1718: tax on each person replaces land tax"
+    ]
+   ]
+  },
+  {
+   "title": "Christianity splits",
+   "rows": [
+    [
+     "",
+     "Lutheran",
+     "Calvinist",
+     "Anglican",
+     "Catholic Reformation"
+    ],
+    [
+     "Leader",
+     "Martin Luther",
+     "John Calvin",
+     "Henry VIII",
+     "Popes; Council of Trent; Ignatius of Loyola"
+    ],
+    [
+     "Key idea",
+     "Faith alone; Bible over Church hierarchy",
+     "Predestination; the elect",
+     "King, not Pope, heads the church",
+     "Reaffirm doctrine; fix abuses; missions"
+    ],
+    [
+     "Where",
+     "Northern Germany, Scandinavia",
+     "Geneva, Huguenots in France, Scotland, Puritans",
+     "England",
+     "Southern Europe; missions to Asia and the Americas"
+    ]
+   ]
+  }
+ ],
+ "cheat": [
+  {
+   "title": "The five-empire memory trick",
+   "kind": "list",
+   "items": [
+    "Only Quietly Students Must Study = Ottoman, Qing, Safavid, Mughal, Songhai.",
+    "Plus Russia (AMSCO counts it as a gunpowder empire)."
+   ]
+  },
+  {
+   "title": "Contextualization sentence",
+   "kind": "list",
+   "items": [
+    "\"The collapse of the Mongol Empire left a power vacuum across Asia, and new empires used gunpowder weapons to fill it.\""
+   ]
+  },
+  {
+   "title": "Sunni or Shi'a?",
+   "kind": "table",
+   "rows": [
+    [
+     "Ottoman",
+     "Safavid",
+     "Mughal"
+    ],
+    [
+     "Sunni",
+     "Shi'a",
+     "Sunni (rulers)"
+    ]
+   ]
+  },
+  {
+   "title": "Three battles to know",
+   "kind": "list",
+   "items": [
+    "1514 Chaldiran: Ottoman guns beat Safavid cavalry (Sunni vs. Shi'a).",
+    "1526 Panipat: Babur's carts, cannons and matchlocks found the Mughal Empire.",
+    "1591 Tondibi: Moroccan muskets beat Songhai and take the gold routes."
+   ]
+  },
+  {
+   "title": "SAQ checklist (TEA)",
+   "kind": "list",
+   "items": [
+    "T: answer the question in its own words.",
+    "E: one specific name, place, term or date.",
+    "A: explain how it proves your point (\"which led to,\" \"because\").",
+    "Stay inside 1450–1750."
+   ]
+  }
+ ],
+ "topicDeck": {
+  "Context": 1,
+  "Expansion": 2,
+  "Rivalries": 3,
+  "Ruling": 4,
+  "Belief systems": 5,
+  "Comparison": 6
+ }
+}

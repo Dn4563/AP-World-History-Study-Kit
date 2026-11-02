@@ -1,0 +1,1453 @@
+{
+ "sections": [
+  {
+   "name": "MCQ Set A",
+   "mode": "practice",
+   "tips": [
+    "Read the question stem before the source so you know what you are looking for.",
+    "For \"best used as evidence of\" or \"best illustrates\" questions, first name the idea the source shows (expansion, legitimacy, administration, revenue, belief systems, continuity or change), then pick the option that matches it.",
+    "Eliminate options that are true in history but not shown by the source, or that belong to the wrong time, region or empire.",
+    "Watch for extreme words (\"only,\" \"all,\" \"never,\" \"completely\"): they are usually wrong.",
+    "For \"claim\" questions, the answer must be stated or directly supported in the text.",
+    "Watch the empire swap trap: Janissaries vs. ghulams, tax farming vs. zamindars, divine right vs. Mandate of Heaven, Sunni Ottomans vs. Shi'a Safavids."
+   ],
+   "sources": {
+    "R1": {
+     "title": "Suleiman the Magnificent on power",
+     "attr": "Suleiman I, Ottoman sultan (ruled 1520–1566), as quoted at the start of AMSCO Topic 3.1.",
+     "label": "",
+     "text": "What men call sovereignty is a worldly strife and constant war; Worship of God is the highest throne, the happiest of all estates."
+    },
+    "T1": {
+     "title": "Religion in the Ottoman, Safavid and Mughal Empires, 1450–1750",
+     "attr": "Your textbook, AMSCO Topic 3.3.",
+     "label": "Adapted from a table in your textbook (AMSCO).",
+     "table": [
+      [
+       "Ottoman Empire",
+       "Safavid Empire",
+       "Mughal Empire"
+      ],
+      [
+       "Mostly Sunni, with some tolerance under Suleiman; less tolerance under later rulers",
+       "Mostly Shi'a; no tolerance: Ismail I made conversion mandatory for the Sunni population",
+       "Tolerance under Akbar, but his blend of Islam and Hinduism did not prove popular; less tolerance under later rulers"
+      ]
+     ]
+    },
+    "P1": {
+     "title": "Recruiting the sultan's servants",
+     "attr": "Summary based on AMSCO Topic 3.2 and your 3.2 cheat sheet.",
+     "label": "Practice source (written for practice from your class materials; not a verbatim quotation).",
+     "paras": [
+      "Each year, Ottoman officials took boys between the ages of 8 and 20 from Christian villages in the Balkans. The boys were converted to Islam and given a demanding education in politics, the arts and warfare.",
+      "The most able became Janissaries, the elite infantry of the sultan, or were trained as scribes, tax collectors and governors. Although they were called \"slaves of the state,\" some rose to the highest offices, and some parents even hoped their sons would be chosen."
+     ]
+    },
+    "P7": {
+     "title": "A historian on Chaldiran",
+     "attr": "Argument based on your 3.1 slides, Pocket Dictionary and AMSCO.",
+     "label": "Practice source (written for practice from your class materials; not a verbatim quotation).",
+     "text": "At Chaldiran in 1514, Ottoman cannons and Janissary musketeers cut down the Safavid cavalry. The defeat halted Safavid expansion to the west, and the Safavids spent the next century rebuilding their army with firearms. Yet the battle was never only about weapons or borders. The Sunni Ottomans and the Shi'a Safavids each regarded the other's Islam as a betrayal of the faith, and the war turned that religious divide into a frontier between two states."
+    },
+    "R4": {
+     "title": "A Qing emperor on foreigners",
+     "attr": "Qianlong, emperor of China, as quoted (and dated 1735) at the start of AMSCO Topic 3.4. AMSCO spells the name \"Quinlong.\"",
+     "label": "",
+     "text": "Foreigners appreciate only military power. . . . Thus, they submit to us wholeheartedly and do not dare to despise China once we display our hunting techniques to them."
+    }
+   },
+   "questions": [
+    {
+     "id": "A1",
+     "type": "mcq",
+     "skill": "Claim in a source",
+     "topic": "Expansion",
+     "stem": "Which of the following best describes a claim Suleiman makes in the passage?",
+     "options": [
+      "Sovereignty is the highest goal of a ruler",
+      "Constant war is a ruler's religious duty",
+      "Worship of God is better than worldly power",
+      "The sultan should give up the throne to clergy"
+     ],
+     "ans": 2,
+     "exp": "He contrasts 'worldly strife and constant war' with worship of God, 'the highest throne.'",
+     "why": [
+      "He says the opposite: worship, not sovereignty, is the highest throne.",
+      "He calls war a worldly strife, not a religious duty.",
+      "",
+      "He says nothing about handing power to clergy."
+     ],
+     "src": "R1"
+    },
+    {
+     "id": "A2",
+     "type": "mcq",
+     "skill": "Using outside knowledge",
+     "topic": "Expansion",
+     "stem": "Which of the following best shows a tension between Suleiman's words and his reign?",
+     "options": [
+      "He led armies against Hungary and Vienna",
+      "He converted the Hagia Sophia into a church",
+      "He refused to issue any law codes for the empire",
+      "He moved the Ottoman capital to the city of Isfahan"
+     ],
+     "ans": 0,
+     "exp": "AMSCO notes that although he praised worship over power, Suleiman personally led armies against Belgrade, Rhodes and Hungary.",
+     "why": [
+      "",
+      "Mehmed II converted it into a mosque in 1453, not into a church.",
+      "Suleiman issued law codes; that is part of why he is called the Magnificent.",
+      "Isfahan was the Safavid capital under Abbas I."
+     ],
+     "src": "R1"
+    },
+    {
+     "id": "A3",
+     "type": "mcq",
+     "skill": "Comparison from data",
+     "topic": "Comparison",
+     "stem": "Based on the table, which statement best compares the three empires?",
+     "options": [
+      "All three empires forced their subjects to convert to the ruler's own branch of Islam",
+      "Their religious policies varied, and tolerance often declined over time",
+      "All three empires became steadily more tolerant after 1450",
+      "Only the Mughal Empire was ruled by Muslims in this period"
+     ],
+     "ans": 1,
+     "exp": "Policies ranged from forced conversion (Safavid) to tolerance (Akbar), and two of the three became less tolerant under later rulers.",
+     "why": [
+      "Only the Safavids forced conversion; Akbar tolerated other faiths.",
+      "",
+      "The table shows less tolerance under later rulers, not more.",
+      "All three were Muslim-ruled empires."
+     ],
+     "src": "T1"
+    },
+    {
+     "id": "A4",
+     "type": "mcq",
+     "skill": "Cause of a development",
+     "topic": "Rivalries",
+     "stem": "The Safavid policy described in the table most directly contributed to which of the following?",
+     "options": [
+      "Peace between the Safavids and their Sunni neighbors",
+      "The founding of Sikhism in the Punjab region of India",
+      "The Mughal decision to abolish the jizya tax",
+      "Hostility with the Sunni Ottoman Empire"
+     ],
+     "ans": 3,
+     "exp": "Shi'a Islam as a unifying force denied legitimacy to Sunnis and caused frequent hostilities with the Ottomans.",
+     "why": [
+      "Forcing Sunnis to convert fueled conflict with Sunni neighbors.",
+      "Sikhism grew from Hindu–Muslim contact in South Asia.",
+      "Akbar's choice was about his own subjects, not Safavid policy.",
+      ""
+     ],
+     "src": "T1"
+    },
+    {
+     "id": "A5",
+     "type": "mcq",
+     "skill": "Continuity and change",
+     "topic": "Comparison",
+     "stem": "Which of the following best explains the Mughal pattern shown in the table?",
+     "options": [
+      "Akbar's successors converted the empire to Hinduism",
+      "Akbar's Din-i Ilahi became the empire's main religion",
+      "Later emperors reversed Akbar's tolerance",
+      "British rulers banned religious tolerance in India"
+     ],
+     "ans": 2,
+     "exp": "Aurangzeb restored the jizya and enforced strict Sunni rule.",
+     "why": [
+      "The Mughal rulers stayed Muslim.",
+      "The table says his blended faith did not prove popular.",
+      "",
+      "British political rule came much later, in the 1800s."
+     ],
+     "src": "T1"
+    },
+    {
+     "id": "A6",
+     "type": "mcq",
+     "skill": "Purpose of a system",
+     "topic": "Ruling",
+     "stem": "The system described in the passage was designed mainly to",
+     "options": [
+      "create officials and soldiers loyal only to the sultan",
+      "spread Christianity among the Muslim population of the Balkans",
+      "give powerful noble families more control of the government",
+      "raise revenue by selling government jobs to Balkan villages"
+     ],
+     "ans": 0,
+     "exp": "Cut off from their families, the recruits owed everything to the sultan.",
+     "why": [
+      "",
+      "The boys were converted to Islam, not the other way around.",
+      "It worked against noble families by creating servants with no family ties.",
+      "The boys were taken, not sold jobs."
+     ],
+     "src": "P1"
+    },
+    {
+     "id": "A7",
+     "type": "mcq",
+     "skill": "Comparison",
+     "topic": "Ruling",
+     "stem": "Which of the following was most similar in purpose to the system in the passage?",
+     "options": [
+      "The Mughal use of zamindars to collect land taxes",
+      "The Mexica collection of tribute from conquered provinces",
+      "The Peace of Augsburg's rule on religious choice",
+      "The Safavid use of ghulams"
+     ],
+     "ans": 3,
+     "exp": "Both the Ottomans and Safavids used enslaved soldier-administrators from minority groups to offset rival loyalties.",
+     "why": [
+      "Zamindars were tax collectors who kept a share, not a loyal slave corps.",
+      "Tribute raised revenue; it did not create a loyal elite.",
+      "That was a European religious settlement.",
+      ""
+     ],
+     "src": "P1"
+    },
+    {
+     "id": "A8",
+     "type": "mcq",
+     "skill": "Evidence of a claim",
+     "topic": "Ruling",
+     "stem": "Which detail from the passage best supports the claim that the system offered some upward mobility?",
+     "options": [
+      "Boys were taken from Christian villages in the Balkans",
+      "Some parents hoped their sons would be chosen",
+      "The boys were converted to Islam",
+      "They were called \"slaves of the state\""
+     ],
+     "ans": 1,
+     "exp": "If families wanted their sons chosen, the system must have offered a path up.",
+     "why": [
+      "This shows who was taken, not that they could rise.",
+      "",
+      "Conversion does not show a chance to rise in status.",
+      "This shows low legal status, the opposite of mobility."
+     ],
+     "src": "P1"
+    },
+    {
+     "id": "A9",
+     "type": "mcq",
+     "skill": "Historian's argument",
+     "topic": "Rivalries",
+     "stem": "Which of the following best describes the historian's main argument?",
+     "options": [
+      "Chaldiran was decided by religion rather than by weapons",
+      "Chaldiran was both a military and a religious turning point",
+      "Chaldiran ended the conflict between Sunni and Shi'a Muslims",
+      "Chaldiran showed that cavalry was better than firearms"
+     ],
+     "ans": 1,
+     "exp": "The historian stresses guns and borders, then says it was 'never only about weapons or borders.'",
+     "why": [
+      "The historian says the weapons decided the battle and religion shaped its meaning.",
+      "",
+      "It turned the divide into a frontier; it did not end the conflict.",
+      "Firearms beat the cavalry."
+     ],
+     "src": "P7"
+    },
+    {
+     "id": "A10",
+     "type": "mcq",
+     "skill": "Effect of an event",
+     "topic": "Rivalries",
+     "stem": "Which of the following was a long-term effect of the battle described in the passage?",
+     "options": [
+      "Abbas I rebuilt the Safavid army with guns",
+      "The Ottomans abandoned the use of cannons in later wars",
+      "The Safavids conquered Istanbul and the Bosporus",
+      "The Mughals adopted Shi'a Islam as their state religion"
+     ],
+     "ans": 0,
+     "exp": "Losing at Chaldiran pushed the Safavids to adopt firearms.",
+     "why": [
+      "",
+      "The Ottomans kept their artillery.",
+      "The Safavids never took Istanbul.",
+      "The Mughals were Sunni."
+     ],
+     "src": "P7"
+    },
+    {
+     "id": "A11",
+     "type": "mcq",
+     "skill": "Point of view",
+     "topic": "Comparison",
+     "stem": "Qianlong's statement most directly reflects which of the following?",
+     "options": [
+      "Confidence that shows of force kept foreigners in line",
+      "Qing fear that foreign armies would soon conquer Beijing",
+      "A Qing plan to open every port to European merchants",
+      "A Qing belief that trade mattered more than military strength"
+     ],
+     "ans": 0,
+     "exp": "He claims military display makes foreigners submit.",
+     "why": [
+      "",
+      "He says foreigners 'do not dare to despise China.'",
+      "The Qing limited Europeans to Guangzhou.",
+      "He says foreigners respect only military power."
+     ],
+     "src": "R4"
+    },
+    {
+     "id": "A12",
+     "type": "mcq",
+     "skill": "Using outside knowledge",
+     "topic": "Expansion",
+     "stem": "Which of the following Qing actions best supports the emperor's view in the passage?",
+     "options": [
+      "Keeping the Confucian civil service exam for officials",
+      "Military campaigns that annexed Xinjiang",
+      "Requiring Han Chinese men to wear the queue",
+      "Failed and costly campaigns against Burma and Vietnam"
+     ],
+     "ans": 1,
+     "exp": "Qianlong's campaigns in the west added Xinjiang by force.",
+     "why": [
+      "The exam is about governing China, not impressing foreigners with force.",
+      "",
+      "The queue was aimed at the Han majority, not foreigners.",
+      "Failed campaigns weaken his claim rather than support it."
+     ],
+     "src": "R4"
+    },
+    {
+     "id": "A13",
+     "type": "mcq",
+     "skill": "Limits of a source",
+     "topic": "Comparison",
+     "stem": "A historian using this passage to study Qing foreign relations should consider that",
+     "options": [
+      "the passage was written by a European visitor who never met the emperor",
+      "the passage describes events after the fall of the Qing",
+      "the emperor had reasons to make Qing power look unchallenged",
+      "the emperor had no knowledge of the world beyond China"
+     ],
+     "ans": 2,
+     "exp": "A ruler describing his own power has a clear point of view.",
+     "why": [
+      "It was written by the Qing emperor himself.",
+      "It is from the emperor's own reign.",
+      "",
+      "He was writing precisely about foreigners."
+     ],
+     "src": "R4"
+    }
+   ]
+  },
+  {
+   "name": "MCQ Set B",
+   "mode": "practice",
+   "tips": [
+    "Read the question stem before the source so you know what you are looking for.",
+    "For \"best used as evidence of\" or \"best illustrates\" questions, first name the idea the source shows (expansion, legitimacy, administration, revenue, belief systems, continuity or change), then pick the option that matches it.",
+    "Eliminate options that are true in history but not shown by the source, or that belong to the wrong time, region or empire.",
+    "Watch for extreme words (\"only,\" \"all,\" \"never,\" \"completely\"): they are usually wrong.",
+    "For \"claim\" questions, the answer must be stated or directly supported in the text.",
+    "Watch the empire swap trap: Janissaries vs. ghulams, tax farming vs. zamindars, divine right vs. Mandate of Heaven, Sunni Ottomans vs. Shi'a Safavids."
+   ],
+   "sources": {
+    "R2": {
+     "title": "King James I on monarchy",
+     "attr": "James I, king of England (1566–1625), as quoted at the start of AMSCO Topic 3.2.",
+     "label": "",
+     "text": "The state of monarchy is the supremest thing upon earth: for kings are not only God's lieutenants upon earth, and sit upon God's throne, but even by God himself they are called gods."
+    },
+    "P2": {
+     "title": "Controlling the daimyo",
+     "attr": "Summary based on AMSCO Topic 3.2.",
+     "label": "Practice source (written for practice from your class materials; not a verbatim quotation).",
+     "text": "Japan was divided into about 250 territories, each ruled by a daimyo with his own army. The Tokugawa shoguns required every daimyo to keep a residence in his home territory and another in the capital, Edo. When a daimyo returned to his own lands, his family stayed behind in Edo. Over time the daimyo became landlords who managed their territories rather than independent warlords."
+    },
+    "M1": {
+     "title": "One of the Ninety-Five Theses, 1517",
+     "attr": "Martin Luther, a monk and professor in Wittenberg, Thesis 86.",
+     "label": "Quoted from memory of a standard English translation; check the exact wording (VERIFY).",
+     "text": "Why does not the pope, whose wealth today is greater than the wealth of the richest Crassus, build the basilica of St. Peter with his own money rather than with the money of poor believers?"
+    },
+    "P6": {
+     "title": "The teachings of Guru Nanak",
+     "attr": "Summary based on your 3.3 slides and AMSCO Topic 3.3.",
+     "label": "Practice source (written for practice from your class materials; not a verbatim quotation).",
+     "text": "Guru Nanak, who lived in the Punjab in the late 1400s, taught that there is one God, who can be reached through personal devotion, meditation and honest living rather than through ritual. He welcomed followers from Hindu and Muslim families alike and rejected the caste system, teaching that all people are equal before God."
+    },
+    "P5": {
+     "title": "A record of tribute",
+     "attr": "Description based on your 3.2 slides.",
+     "label": "Practice source (written for practice from your class materials; not a verbatim quotation).",
+     "text": "Around 1541, scribes in New Spain copied older Mexica records into a book now called the Codex Mendoza. Page after page lists what each of 38 conquered provinces owed to Tenochtitlan every year: bundles of cotton cloaks, warriors' costumes, bright feathers, precious stones and bags of cacao."
+    }
+   },
+   "questions": [
+    {
+     "id": "B1",
+     "type": "mcq",
+     "skill": "Claim in a source",
+     "topic": "Ruling",
+     "stem": "Which of the following best describes James I's claim?",
+     "options": [
+      "A monarch must share power with Parliament",
+      "Kings should obey the Pope as God's representative",
+      "Kings earn the right to rule through good government",
+      "A monarch's authority comes from God"
+     ],
+     "ans": 3,
+     "exp": "This is the divine right of kings.",
+     "why": [
+      "He calls monarchy 'the supremest thing upon earth.'",
+      "He says kings themselves are God's lieutenants.",
+      "That is closer to the Mandate of Heaven.",
+      ""
+     ],
+     "src": "R2"
+    },
+    {
+     "id": "B2",
+     "type": "mcq",
+     "skill": "Comparison",
+     "topic": "Comparison",
+     "stem": "James I's view is most similar to which of the following?",
+     "options": [
+      "The Peace of Augsburg letting rulers choose a faith",
+      "Mughal zamindars keeping a share of the taxes",
+      "Ottoman sultans calling themselves caliph",
+      "The Tokugawa requiring daimyo to live in Edo"
+     ],
+     "ans": 2,
+     "exp": "Both tie the ruler's authority to religion.",
+     "why": [
+      "That is about which church, not the source of royal power.",
+      "That is a revenue system.",
+      "",
+      "That is a way of controlling nobles, not a religious claim."
+     ],
+     "src": "R2"
+    },
+    {
+     "id": "B3",
+     "type": "mcq",
+     "skill": "Continuity and change",
+     "topic": "Ruling",
+     "stem": "Which development in England in 1689 most directly challenged the view in the passage?",
+     "options": [
+      "The Bill of Rights requiring Parliament's consent for taxes",
+      "The founding of the Anglican Church by Henry VIII in the 1530s",
+      "The defeat of the Spanish Armada by the English navy in 1588",
+      "The appointment of royal intendants in the provinces"
+     ],
+     "ans": 0,
+     "exp": "Parliament now checked the monarch on taxes and the army.",
+     "why": [
+      "",
+      "That came earlier and strengthened the king.",
+      "That was a war with Spain, a century earlier.",
+      "Intendants were French officials."
+     ],
+     "src": "R2"
+    },
+    {
+     "id": "B4",
+     "type": "mcq",
+     "skill": "Purpose of a policy",
+     "topic": "Ruling",
+     "stem": "The policy described in the passage was designed mainly to",
+     "options": [
+      "increase trade between Japan and Portuguese merchants in the ports",
+      "keep powerful regional lords under central control",
+      "spread Christianity among the samurai families",
+      "give the daimyo more independence from the shogun"
+     ],
+     "ans": 1,
+     "exp": "Families in Edo were effectively hostages, so the daimyo stayed loyal.",
+     "why": [
+      "The policy is about the daimyo, not foreign trade.",
+      "",
+      "The Tokugawa banned Christianity.",
+      "It did the opposite."
+     ],
+     "src": "P2"
+    },
+    {
+     "id": "B5",
+     "type": "mcq",
+     "skill": "Comparison",
+     "topic": "Comparison",
+     "stem": "The Tokugawa policy in the passage is most similar to which of the following?",
+     "options": [
+      "Akbar's gifts of land to the new Sikh faith in Punjab",
+      "The Ottoman navy's capture of the island of Rhodes",
+      "The Ming switch to collecting taxes in silver",
+      "Louis XIV keeping nobles at Versailles"
+     ],
+     "ans": 3,
+     "exp": "Both rulers kept powerful nobles where they could be watched.",
+     "why": [
+      "That was religious tolerance, not control of nobles.",
+      "That was a conquest, not control of nobles.",
+      "That was a revenue reform.",
+      ""
+     ],
+     "src": "P2"
+    },
+    {
+     "id": "B6",
+     "type": "mcq",
+     "skill": "Claim in a source",
+     "topic": "Belief systems",
+     "stem": "Luther's question most directly criticizes",
+     "options": [
+      "the Church's use of believers' money",
+      "the authority of the Bible over Christians",
+      "the building of churches in any form",
+      "the Ottoman threat to Christian Europe"
+     ],
+     "ans": 0,
+     "exp": "He asks why the Pope uses poor believers' money instead of his own.",
+     "why": [
+      "",
+      "Luther defended the Bible's authority.",
+      "He objects to who pays, not to building churches.",
+      "The thesis is about the Pope's wealth."
+     ],
+     "src": "M1"
+    },
+    {
+     "id": "B7",
+     "type": "mcq",
+     "skill": "Context",
+     "topic": "Belief systems",
+     "stem": "The practice that Luther most strongly attacked in 1517 was the",
+     "options": [
+      "translation of the Bible into German by Catholic priests",
+      "founding of the Jesuit order by Ignatius of Loyola",
+      "sale of indulgences",
+      "the Council of Trent's reforms of the priesthood"
+     ],
+     "ans": 2,
+     "exp": "Indulgences raised money from believers, including for building St. Peter's.",
+     "why": [
+      "Luther translated the Bible himself.",
+      "The Jesuits were approved in 1540, after Luther's protest.",
+      "",
+      "Trent met from 1545, in response to Luther."
+     ],
+     "src": "M1"
+    },
+    {
+     "id": "B8",
+     "type": "mcq",
+     "skill": "Effect",
+     "topic": "Belief systems",
+     "stem": "Which of the following was the most direct result of protests like the one in the passage?",
+     "options": [
+      "The reunion of the Catholic and Orthodox churches",
+      "A lasting split in Western Christianity",
+      "The immediate end of the papacy in Rome",
+      "The conversion of the Holy Roman Emperor to Islam"
+     ],
+     "ans": 1,
+     "exp": "Lutheran, Calvinist and Anglican churches broke from Rome.",
+     "why": [
+      "The split described here is Catholic versus Protestant.",
+      "",
+      "The papacy continued and launched the Counter-Reformation.",
+      "Charles V fought to defend Catholicism."
+     ],
+     "src": "M1"
+    },
+    {
+     "id": "B9",
+     "type": "mcq",
+     "skill": "Context",
+     "topic": "Belief systems",
+     "stem": "The teachings described in the passage developed most directly in the context of",
+     "options": [
+      "the Protestant Reformation as it spread across northern Europe",
+      "the arrival of Jesuit missionaries in Goa in 1542",
+      "Safavid efforts to spread Shi'a Islam into India",
+      "interaction between Hinduism and Islam in South Asia"
+     ],
+     "ans": 3,
+     "exp": "Sikhism grew out of contact between Hindu and Muslim communities.",
+     "why": [
+      "Sikhism began in the Punjab, not Europe.",
+      "Nanak taught before the Jesuits arrived.",
+      "The context is Hindu–Muslim contact, not Safavid policy.",
+      ""
+     ],
+     "src": "P6"
+    },
+    {
+     "id": "B10",
+     "type": "mcq",
+     "skill": "Comparison",
+     "topic": "Belief systems",
+     "stem": "Guru Nanak's rejection of caste is most similar to which of the following?",
+     "options": [
+      "Luther's challenge to the Church's power over believers",
+      "Ismail I's demand that every Sunni in Persia convert to Shi'a Islam",
+      "Aurangzeb's restoration of the tax on non-Muslims",
+      "The Qing requirement that Han men wear the queue"
+     ],
+     "ans": 0,
+     "exp": "Both challenged religious hierarchies that stood between people and God.",
+     "why": [
+      "",
+      "That is forced conversion, not equality.",
+      "That added a burden on some groups.",
+      "That marked one group as subject to another."
+     ],
+     "src": "P6"
+    },
+    {
+     "id": "B11",
+     "type": "mcq",
+     "skill": "Continuity and change",
+     "topic": "Belief systems",
+     "stem": "Which of the following best describes a change in Sikhism after the period of Guru Nanak?",
+     "options": [
+      "Sikhs adopted the caste system to win Mughal support",
+      "Sikhs merged with the Safavid state religion of Persia",
+      "Persecution led Sikhs to organize for self-defense",
+      "Sikhs abandoned their scripture after Akbar's death"
+     ],
+     "ans": 2,
+     "exp": "After Jahangir executed Guru Arjan in 1606, Gobind Singh founded the Khalsa in 1699.",
+     "why": [
+      "Sikhism kept rejecting caste.",
+      "Sikhism stayed a separate faith.",
+      "",
+      "The Adi Granth was installed in 1604, after Akbar."
+     ],
+     "src": "P6"
+    },
+    {
+     "id": "B12",
+     "type": "mcq",
+     "skill": "Best used as evidence",
+     "topic": "Ruling",
+     "stem": "The record described in the passage is best used as evidence of",
+     "options": [
+      "how the Mexica funded their state",
+      "Mexica use of a Confucian exam to choose officials",
+      "Spanish tax farming in the Americas before 1500",
+      "Mexica trade with Ming China across the Pacific"
+     ],
+     "ans": 0,
+     "exp": "Tribute lists show revenue flowing from provinces to Tenochtitlan.",
+     "why": [
+      "",
+      "The exam was Chinese.",
+      "The Spanish arrived in Mexico in 1519.",
+      "The record lists tribute from provinces, not trade with China."
+     ],
+     "src": "P5"
+    },
+    {
+     "id": "B13",
+     "type": "mcq",
+     "skill": "Comparison",
+     "topic": "Comparison",
+     "stem": "The Mexica system in the passage differs from Ottoman revenue collection mainly because the Mexica",
+     "options": [
+      "collected taxes through private tax farmers who bid for regions",
+      "relied on payments from conquered peoples",
+      "ran a large, centralized bureaucracy of officials",
+      "taxed non-Muslims at a higher rate"
+     ],
+     "ans": 1,
+     "exp": "The Aztec Empire was a tributary empire that relied on force and tribute.",
+     "why": [
+      "That describes the Ottomans.",
+      "",
+      "AMSCO says the Aztecs were less centralized.",
+      "That is the jizya in Islamic empires."
+     ],
+     "src": "P5"
+    }
+   ]
+  },
+  {
+   "name": "SAQs",
+   "mode": "practice",
+   "tips": [
+    "Use TEA for every part: T = Topic sentence (answer the question directly, restating its words), E = Evidence (a specific person, place, term or date), A = Analysis (explain how the evidence proves your point, using \"which led to,\" \"because\" or \"this allowed\").",
+    "Label your answers A, B and C and write in complete sentences. No introduction or thesis.",
+    "\"Identify\" or \"describe\" means give accurate details. \"Explain\" means show how or why.",
+    "Stay inside 1450 to 1750 unless the question says otherwise.",
+    "Aim for about 13 minutes per SAQ: about 1 to plan and 12 to write.",
+    "Self-check: Did I give a specific example? Did I explain the connection? Right empire, right century?"
+   ],
+   "sources": {
+    "P7": {
+     "title": "A historian on Chaldiran",
+     "attr": "Argument based on your 3.1 slides, Pocket Dictionary and AMSCO.",
+     "label": "Practice source (written for practice from your class materials; not a verbatim quotation).",
+     "text": "At Chaldiran in 1514, Ottoman cannons and Janissary musketeers cut down the Safavid cavalry. The defeat halted Safavid expansion to the west, and the Safavids spent the next century rebuilding their army with firearms. Yet the battle was never only about weapons or borders. The Sunni Ottomans and the Shi'a Safavids each regarded the other's Islam as a betrayal of the faith, and the war turned that religious divide into a frontier between two states."
+    },
+    "T3": {
+     "title": "Sources of legitimacy",
+     "attr": "Your textbook, AMSCO Topic 3.4.",
+     "label": "Adapted from a table in your textbook (AMSCO).",
+     "table": [
+      [
+       "Source of legitimacy",
+       "Examples"
+      ],
+      [
+       "Religion",
+       "Rulers in Islamic empires used the title \"caliph\"; European monarchs claimed divine right; Songhai rulers converted to Islam; the Aztecs (Mexica) used human sacrifice"
+      ],
+      [
+       "Art",
+       "Portraits of Qing emperors; miniature paintings in the Ottoman Empire; financial support of artists by European rulers"
+      ],
+      [
+       "Monumental architecture",
+       "Mausolea such as the Taj Mahal and mosques in the Mughal Empire; European palaces such as Versailles and El Escorial"
+      ]
+     ]
+    },
+    "P9": {
+     "title": "Settling Europe's religious wars",
+     "attr": "Summary based on AMSCO Topic 3.3.",
+     "label": "Practice source (written for practice from your class materials; not a verbatim quotation).",
+     "text": "In 1555 the Peace of Augsburg allowed each German prince to decide whether his state would be Catholic or Lutheran; subjects who disagreed could move. Nearly a century later, after the Thirty Years' War had brought famine and disease to much of Central Europe, the Peace of Westphalia (1648) added Calvinism as a third choice. Afterward France, Spain and Italy were mostly Catholic, northern Europe was Lutheran or Calvinist, and England had its own Protestant state church."
+    }
+   },
+   "questions": [
+    {
+     "id": "SAQ1",
+     "type": "saq",
+     "lead": "Using the passage, answer (A), (B) and (C).",
+     "parts": [
+      {
+       "k": "A",
+       "prompt": "Identify one military factor that helped the Ottomans win at Chaldiran, according to the passage.",
+       "skill": "Identifying a claim from a source",
+       "model": "One military factor was the Ottomans' gunpowder weapons. The passage says 'Ottoman cannons and Janissary musketeers cut down the Safavid cavalry.' Firearms let the Ottoman army beat an enemy that still relied on horsemen.",
+       "tea": [
+        "One military factor was the Ottomans' gunpowder weapons.",
+        "The passage says 'Ottoman cannons and Janissary musketeers cut down the Safavid cavalry.'",
+        "Firearms let the Ottoman army beat an enemy that still relied on horsemen."
+       ],
+       "earns": "You name cannons, artillery, firearms or the Janissaries, tied to the passage.",
+       "weak": "\"The Ottomans were stronger.\" Too general; name the weapons or the troops."
+      },
+      {
+       "k": "B",
+       "prompt": "Explain one way religion shaped the conflict between the Ottoman and Safavid Empires.",
+       "skill": "Explaining a cause",
+       "model": "Religion deepened the rivalry because the Ottomans were Sunni and the Safavids were Shi'a. Ismail I made Shi'a Islam the Safavid state religion in 1501 and denied legitimacy to Sunnis. Because each side saw the other's Islam as heresy, border disputes became religious wars, which made the rivalry long and bitter.",
+       "tea": [
+        "Religion deepened the rivalry because the Ottomans were Sunni and the Safavids were Shi'a.",
+        "Ismail I made Shi'a Islam the Safavid state religion in 1501 and denied legitimacy to Sunnis.",
+        "Because each side saw the other's Islam as heresy, border disputes became religious wars, which made the rivalry long and bitter."
+       ],
+       "earns": "You identify Sunni Ottomans versus Shi'a Safavids and explain how that difference fueled or intensified the conflict.",
+       "weak": "\"They had different religions.\" Name the branches and explain the effect."
+      },
+      {
+       "k": "C",
+       "prompt": "Explain one way the Safavid Empire changed after Chaldiran.",
+       "skill": "Explaining change over time",
+       "model": "After Chaldiran, the Safavids rebuilt their army around gunpowder weapons. Shah Abbas I (r. 1588–1629) added muskets, artillery and loyal ghulam soldiers. This change let the Safavids reach their height and defend themselves against the Ottomans.",
+       "tea": [
+        "After Chaldiran, the Safavids rebuilt their army around gunpowder weapons.",
+        "Shah Abbas I (r. 1588–1629) added muskets, artillery and loyal ghulam soldiers.",
+        "This change let the Safavids reach their height and defend themselves against the Ottomans."
+       ],
+       "earns": "You describe a specific change (Abbas I's military reforms, ghulams, Isfahan as capital) and explain why it followed the defeat.",
+       "weak": "\"They got better.\" Say what changed and who changed it."
+      }
+     ],
+     "src": "P7"
+    },
+    {
+     "id": "SAQ2",
+     "type": "saq",
+     "lead": "Answer (A), (B) and (C).",
+     "parts": [
+      {
+       "k": "A",
+       "prompt": "Identify one method a ruler used to legitimize power in a land-based empire between 1450 and 1750.",
+       "skill": "Identifying a historical development",
+       "model": "One method was monumental architecture. The Mughal emperor Shah Jahan built the Taj Mahal in Agra. Its size and beauty displayed Mughal wealth and reinforced the ruler's authority.",
+       "tea": [
+        "One method was monumental architecture.",
+        "The Mughal emperor Shah Jahan built the Taj Mahal in Agra.",
+        "Its size and beauty displayed Mughal wealth and reinforced the ruler's authority."
+       ],
+       "earns": "Any accurate method with an example: divine right, caliph claim, Mandate of Heaven, human sacrifice, sun temples, imperial portraits, Versailles, Taj Mahal, Askia promoting Islam.",
+       "weak": "\"Rulers built things.\" Name the building and the ruler."
+      },
+      {
+       "k": "B",
+       "prompt": "Explain one similarity in how two land-based empires legitimized their rule.",
+       "skill": "Comparison: similarity",
+       "model": "Both France and the Ottoman Empire used religion to justify their rulers' power. Louis XIV claimed divine right, and Ottoman sultans claimed to be caliphs, successors to the Prophet. In both cases, linking the ruler to God made opposing him look like opposing the faith, which strengthened central authority.",
+       "tea": [
+        "Both France and the Ottoman Empire used religion to justify their rulers' power.",
+        "Louis XIV claimed divine right, and Ottoman sultans claimed to be caliphs, successors to the Prophet.",
+        "In both cases, linking the ruler to God made opposing him look like opposing the faith, which strengthened central authority."
+       ],
+       "earns": "Two empires, one shared method, and a reason the method worked.",
+       "weak": "Listing two examples without saying how they are alike."
+      },
+      {
+       "k": "C",
+       "prompt": "Explain one difference in how two land-based empires collected revenue.",
+       "skill": "Comparison: difference",
+       "model": "The Ottomans and the Mexica collected revenue in different ways. The Ottomans used tax farming, where private collectors paid a fixed sum and kept the surplus, while the Mexica demanded tribute from conquered provinces, recorded in lists like the Codex Mendoza. The Ottoman system taxed the empire's own subjects through a market in collection rights, while the Mexica relied on force and fear over peoples they had conquered.",
+       "tea": [
+        "The Ottomans and the Mexica collected revenue in different ways.",
+        "The Ottomans used tax farming, where private collectors paid a fixed sum and kept the surplus, while the Mexica demanded tribute from conquered provinces, recorded in lists like the Codex Mendoza.",
+        "The Ottoman system taxed the empire's own subjects through a market in collection rights, while the Mexica relied on force and fear over peoples they had conquered."
+       ],
+       "earns": "Two specific systems from two empires and an explanation of the difference.",
+       "weak": "Describing only one empire."
+      }
+     ]
+    },
+    {
+     "id": "SAQ3",
+     "type": "saq",
+     "lead": "Using the table, answer (A), (B) and (C).",
+     "parts": [
+      {
+       "k": "A",
+       "prompt": "Identify one example from the table of a ruler using religion to legitimize power.",
+       "skill": "Identifying evidence from a source",
+       "model": "One example is European monarchs claiming divine right. The table lists 'European monarchs claimed divine right.' By saying their power came from God, kings like Louis XIV and James I placed themselves above earthly challenge.",
+       "tea": [
+        "One example is European monarchs claiming divine right.",
+        "The table lists 'European monarchs claimed divine right.'",
+        "By saying their power came from God, kings like Louis XIV and James I placed themselves above earthly challenge."
+       ],
+       "earns": "Any religion example from the table, correctly described.",
+       "weak": "Choosing an art or architecture example for a religion question."
+      },
+      {
+       "k": "B",
+       "prompt": "Explain why rulers of empires with diverse populations needed methods like those in the table.",
+       "skill": "Explaining a cause",
+       "model": "Rulers needed these methods because they governed many ethnic and religious groups who did not share one loyalty. For example, the Manchu Qing were a minority ruling Han Chinese, so they used imperial portraits and the Mandate of Heaven. Religion, art and architecture gave diverse subjects a reason to accept the ruler beyond military force.",
+       "tea": [
+        "Rulers needed these methods because they governed many ethnic and religious groups who did not share one loyalty.",
+        "For example, the Manchu Qing were a minority ruling Han Chinese, so they used imperial portraits and the Mandate of Heaven.",
+        "Religion, art and architecture gave diverse subjects a reason to accept the ruler beyond military force."
+       ],
+       "earns": "You connect diversity or conquest to the need for legitimacy, with a specific example.",
+       "weak": "Restating the table without explaining why."
+      },
+      {
+       "k": "C",
+       "prompt": "Explain one way a ruler's religious policy weakened an empire between 1450 and 1750.",
+       "skill": "Explaining an effect",
+       "model": "Aurangzeb's religious policy weakened the Mughal Empire. He restored the jizya on non-Muslims and enforced strict Sunni rule. This angered Hindus, Sikhs and others, sparking rebellions that, along with costly wars, drained the empire.",
+       "tea": [
+        "Aurangzeb's religious policy weakened the Mughal Empire.",
+        "He restored the jizya on non-Muslims and enforced strict Sunni rule.",
+        "This angered Hindus, Sikhs and others, sparking rebellions that, along with costly wars, drained the empire."
+       ],
+       "earns": "A specific policy and how it weakened a state (Aurangzeb; Louis XIV's revocation of the Edict of Nantes driving out skilled Huguenots; Jahangir's execution of Guru Arjan).",
+       "weak": "\"Religion caused problems.\" Name the ruler, the policy and the effect."
+      }
+     ],
+     "src": "T3"
+    },
+    {
+     "id": "SAQ4",
+     "type": "saq",
+     "lead": "Using the passage, answer (A), (B) and (C).",
+     "parts": [
+      {
+       "k": "A",
+       "prompt": "Describe one change in the religious settlement of Europe between 1555 and 1648, according to the passage.",
+       "skill": "Describing change from a source",
+       "model": "One change was that Calvinism became an accepted choice. The Peace of Augsburg (1555) allowed only Catholicism or Lutheranism, but the Peace of Westphalia (1648) added Calvinism. This shows that the religious split had widened and that rulers had to accept more diversity.",
+       "tea": [
+        "One change was that Calvinism became an accepted choice.",
+        "The Peace of Augsburg (1555) allowed only Catholicism or Lutheranism, but the Peace of Westphalia (1648) added Calvinism.",
+        "This shows that the religious split had widened and that rulers had to accept more diversity."
+       ],
+       "earns": "You state the addition of Calvinism (or a correct change) and ground it in the passage.",
+       "weak": "Describing only one treaty."
+      },
+      {
+       "k": "B",
+       "prompt": "Explain one cause of the religious divisions described in the passage.",
+       "skill": "Explaining a cause",
+       "model": "The religious divisions began with the Protestant Reformation. In 1517 Martin Luther attacked the sale of indulgences in his Ninety-Five Theses, and German princes backed him to escape the Pope's power. As Lutheran, Calvinist and Anglican churches formed, Europe split into rival states that fought over religion.",
+       "tea": [
+        "The religious divisions began with the Protestant Reformation.",
+        "In 1517 Martin Luther attacked the sale of indulgences in his Ninety-Five Theses, and German princes backed him to escape the Pope's power.",
+        "As Lutheran, Calvinist and Anglican churches formed, Europe split into rival states that fought over religion."
+       ],
+       "earns": "Luther, Calvin, Henry VIII or Church corruption, with an explanation of how it divided Europe.",
+       "weak": "Naming Luther with no explanation."
+      },
+      {
+       "k": "C",
+       "prompt": "Explain one way the Catholic Church responded to the developments in the passage.",
+       "skill": "Explaining a response",
+       "model": "The Catholic Church responded with the Counter-Reformation. The Council of Trent (1545–1563) reaffirmed Catholic doctrine and corrected some abuses, and the Jesuits spread Catholicism through schools and missions. These efforts kept southern Europe Catholic and spread Catholicism to Asia and the Americas.",
+       "tea": [
+        "The Catholic Church responded with the Counter-Reformation.",
+        "The Council of Trent (1545–1563) reaffirmed Catholic doctrine and corrected some abuses, and the Jesuits spread Catholicism through schools and missions.",
+        "These efforts kept southern Europe Catholic and spread Catholicism to Asia and the Americas."
+       ],
+       "earns": "Trent, the Jesuits, the Inquisition or the Index, with its effect.",
+       "weak": "Saying the Church 'fought back' with no specifics."
+      }
+     ],
+     "src": "P9"
+    }
+   ]
+  },
+  {
+   "name": "Mock MCQs",
+   "mode": "exam",
+   "exam": "Mock test",
+   "examTips": [
+    "Treat this like the real test: turn the Timer on, leave Shuffle off, and do all 13 questions without looking anything up.",
+    "Aim for about one minute per question. Flag hard ones and come back.",
+    "When you finish, do the Mock SAQs tab (choose 2 of the 3, about 13 minutes each), then use Retest Missed Questions."
+   ],
+   "tips": [
+    "Read the question stem before the source so you know what you are looking for.",
+    "For \"best used as evidence of\" or \"best illustrates\" questions, first name the idea the source shows (expansion, legitimacy, administration, revenue, belief systems, continuity or change), then pick the option that matches it.",
+    "Eliminate options that are true in history but not shown by the source, or that belong to the wrong time, region or empire.",
+    "Watch for extreme words (\"only,\" \"all,\" \"never,\" \"completely\"): they are usually wrong.",
+    "For \"claim\" questions, the answer must be stated or directly supported in the text.",
+    "Watch the empire swap trap: Janissaries vs. ghulams, tax farming vs. zamindars, divine right vs. Mandate of Heaven, Sunni Ottomans vs. Shi'a Safavids."
+   ],
+   "sources": {
+    "M2": {
+     "title": "A Habsburg ambassador at Suleiman's court",
+     "attr": "Ogier Ghiselin de Busbecq, ambassador of the Habsburg ruler to the Ottoman court, letters written in the 1550s.",
+     "label": "Quoted from memory of a standard English translation; check the exact wording (VERIFY).",
+     "text": "In making his appointments the Sultan pays no regard to any pretensions on the score of wealth or rank. . . . It is by merit that men rise in the service. . . . Those who receive the highest offices from the Sultan are for the most part the sons of shepherds or herdsmen."
+    },
+    "P3": {
+     "title": "Two emperors, one empire",
+     "attr": "Argument based on AMSCO Topics 3.1, 3.3 and 3.4 and your study guide.",
+     "label": "Practice source (written for practice from your class materials; not a verbatim quotation).",
+     "paras": [
+      "Akbar inherited a Muslim dynasty ruling a land where most people were Hindu. He gave Hindus places in his government, married Hindu wives, exempted Hindus from the tax on non-Muslims and invited scholars of many faiths to debate at his court. The empire he left behind was one of the richest and best-governed states in the world.",
+      "His great-grandson Aurangzeb restored the tax on non-Muslims and insisted on a strict Sunni way of life. He also fought for decades to conquer the south. By his death in 1707 the empire was larger than ever, but its treasury was drained and rebellions had broken out among Hindus, Sikhs and others."
+     ]
+    },
+    "R3": {
+     "title": "A king changes his faith",
+     "attr": "Henry IV, king of France, on becoming Catholic in 1593, as quoted at the start of AMSCO Topic 3.3.",
+     "label": "",
+     "text": "Paris is well worth a Mass."
+    },
+    "T2": {
+     "title": "Taxes and the military in the Islamic empires",
+     "attr": "Your textbook, AMSCO Topic 3.4.",
+     "label": "Adapted from a table in your textbook (AMSCO).",
+     "table": [
+      [
+       "",
+       "Ottoman Empire",
+       "Safavid Empire",
+       "Mughal Empire"
+      ],
+      [
+       "Taxes",
+       "Taxes on non-Muslims; taxes on peasants",
+       "Taxation policies used to encourage adherence to Shi'a Islam",
+       "Taxes on unbelievers abolished by Akbar but reinstated later; taxes on peasants"
+      ],
+      [
+       "Military",
+       "Warriors (often trained Janissaries) granted villages; strong navy",
+       "Qizilbash warriors helped establish the empire; no significant navy",
+       "Warriors granted villages; small navy"
+      ]
+     ]
+    },
+    "P8": {
+     "title": "Silver and the Ming state",
+     "attr": "Summary based on your 3.2 slides and AMSCO Topic 3.4.",
+     "label": "Practice source (written for practice from your class materials; not a verbatim quotation).",
+     "text": "Paper money had led to counterfeiting and runaway inflation, so the Ming ordered taxes to be paid in rice and later in silver. Around 1580 the Single Whip reform combined land taxes and labor duties into a single silver payment. To meet the demand, enormous amounts of silver flowed into China from mines in Japan and from Potosí in South America."
+    }
+   },
+   "questions": [
+    {
+     "id": "M1",
+     "type": "mcq",
+     "skill": "Claim in a source",
+     "topic": "Ruling",
+     "stem": "Which of the following best describes Busbecq's main observation?",
+     "options": [
+      "Ottoman officials came mostly from old noble families",
+      "The sultan sold high offices to wealthy merchants",
+      "The sultan chose officials by a written exam",
+      "Ottoman officials rose by merit, not birth"
+     ],
+     "ans": 3,
+     "exp": "Appointments ignored wealth and rank; men rose by merit.",
+     "why": [
+      "He says high officials were mostly sons of shepherds and herdsmen.",
+      "He says the sultan ignores wealth and rank.",
+      "He describes merit in service, not an exam.",
+      ""
+     ],
+     "src": "M2"
+    },
+    {
+     "id": "M2",
+     "type": "mcq",
+     "skill": "Context",
+     "topic": "Ruling",
+     "stem": "The pattern Busbecq describes was made possible mainly by",
+     "options": [
+      "the devshirme, which trained recruits loyal to the sultan",
+      "the millet system, which let Christians govern themselves",
+      "tax farming, which let rich men buy offices",
+      "the Confucian civil service exam used in the empire"
+     ],
+     "ans": 0,
+     "exp": "The devshirme created officials who owed their rise to the sultan, not to family.",
+     "why": [
+      "",
+      "The millet system concerned religious communities, not officials.",
+      "Tax farming was about revenue, and he says wealth did not matter.",
+      "That was Chinese."
+     ],
+     "src": "M2"
+    },
+    {
+     "id": "M3",
+     "type": "mcq",
+     "skill": "Limits of a source",
+     "topic": "Ruling",
+     "stem": "Which of the following would a historian most need to consider about Busbecq as a source?",
+     "options": [
+      "He could not have seen the Ottoman court in person",
+      "He may have praised the Ottomans to criticize Europe",
+      "He wrote his account centuries after Suleiman's reign",
+      "He was an Ottoman official promoting his own career"
+     ],
+     "ans": 1,
+     "exp": "An outsider's comparison can reveal and distort; his purpose matters.",
+     "why": [
+      "He was an ambassador at the court.",
+      "",
+      "He wrote in the 1550s, during Suleiman's reign.",
+      "He was a Habsburg ambassador, an outsider."
+     ],
+     "src": "M2"
+    },
+    {
+     "id": "M4",
+     "type": "mcq",
+     "skill": "Argument",
+     "topic": "Comparison",
+     "stem": "Which of the following best states the argument of the passage?",
+     "options": [
+      "Military conquest alone explains the Mughal decline after 1707",
+      "Akbar and Aurangzeb followed the same religious policy",
+      "Religious policy shaped Mughal strength and weakness",
+      "The Mughal Empire shrank steadily after Akbar"
+     ],
+     "ans": 2,
+     "exp": "Tolerance helped stability; intolerance and costly wars brought revolt and an empty treasury.",
+     "why": [
+      "The passage stresses religious policy alongside costly wars.",
+      "The passage contrasts them.",
+      "",
+      "It reached its largest size under Aurangzeb."
+     ],
+     "src": "P3"
+    },
+    {
+     "id": "M5",
+     "type": "mcq",
+     "skill": "Cause",
+     "topic": "Comparison",
+     "stem": "Which of the following most directly led to the rebellions described in the second paragraph?",
+     "options": [
+      "Restoring the jizya and enforcing strict Sunni rule",
+      "Akbar's grants of land to Hindus, Muslims, Sikhs and Christians",
+      "The Safavid conquest of Delhi in the late 1600s",
+      "A Portuguese invasion of northern India"
+     ],
+     "ans": 0,
+     "exp": "Aurangzeb's intolerance sparked revolts among Hindus, Sikhs and others.",
+     "why": [
+      "",
+      "Akbar's policies brought stability.",
+      "The Safavids did not conquer Delhi.",
+      "No such invasion is described."
+     ],
+     "src": "P3"
+    },
+    {
+     "id": "M6",
+     "type": "mcq",
+     "skill": "Comparison",
+     "topic": "Comparison",
+     "stem": "Akbar's approach in the first paragraph is most similar to which of the following?",
+     "options": [
+      "Ismail I's demand that every Sunni in Persia convert to Shi'a Islam",
+      "Louis XIV's revocation of the Edict of Nantes",
+      "The Qing requirement that Han men wear the queue",
+      "The Ottoman millet system"
+     ],
+     "ans": 3,
+     "exp": "Both let a Muslim-ruled state govern a religiously diverse population with some tolerance.",
+     "why": [
+      "That is forced conversion, the opposite of tolerance.",
+      "That ended toleration.",
+      "That forced a sign of submission.",
+      ""
+     ],
+     "src": "P3"
+    },
+    {
+     "id": "M7",
+     "type": "mcq",
+     "skill": "Point of view",
+     "topic": "Belief systems",
+     "stem": "Henry IV's statement most directly suggests that he",
+     "options": [
+      "believed Protestantism was the only true faith",
+      "valued political unity over religious doctrine",
+      "planned to force all Huguenots to become Catholic",
+      "wanted the Pope to rule France directly"
+     ],
+     "ans": 1,
+     "exp": "He converted to win Paris and peace.",
+     "why": [
+      "He gave up Protestantism to become Catholic.",
+      "",
+      "He granted the Huguenots toleration in 1598.",
+      "He was securing his own throne."
+     ],
+     "src": "R3"
+    },
+    {
+     "id": "M8",
+     "type": "mcq",
+     "skill": "Using outside knowledge",
+     "topic": "Belief systems",
+     "stem": "Which later action by Henry IV best fits the attitude in the quotation?",
+     "options": [
+      "The Peace of Augsburg letting German princes choose",
+      "The revocation of toleration for French Protestants",
+      "Issuing the Edict of Nantes in 1598",
+      "The founding of the Church of England"
+     ],
+     "ans": 2,
+     "exp": "Toleration in 1598 matched his practical approach.",
+     "why": [
+      "That was signed in 1555, in the Holy Roman Empire.",
+      "Louis XIV did that in 1685.",
+      "",
+      "That was Henry VIII of England."
+     ],
+     "src": "R3"
+    },
+    {
+     "id": "M9",
+     "type": "mcq",
+     "skill": "Comparison from data",
+     "topic": "Comparison",
+     "stem": "Based on the table, which statement best compares the three empires?",
+     "options": [
+      "All three empires had strong navies to protect their trade",
+      "All taxed peasants, but they differed in sea power",
+      "None of the three empires taxed non-Muslims at any time",
+      "All three relied on the Qizilbash to build their armies"
+     ],
+     "ans": 1,
+     "exp": "Taxes on peasants were common; naval strength varied from strong to almost none.",
+     "why": [
+      "Only the Ottomans had a strong navy.",
+      "",
+      "The Ottomans did, and the Mughals did except under Akbar.",
+      "The Qizilbash were Safavid."
+     ],
+     "src": "T2"
+    },
+    {
+     "id": "M10",
+     "type": "mcq",
+     "skill": "Cause from data",
+     "topic": "Comparison",
+     "stem": "The Safavid tax policy in the table most likely reflects which goal?",
+     "options": [
+      "Funding a large navy to rival the Ottoman fleet",
+      "Winning support from Sunni subjects",
+      "Ending the rivalry with the Mughals",
+      "Strengthening the state's Shi'a identity"
+     ],
+     "ans": 3,
+     "exp": "Taxes were used to encourage adherence to Shi'a Islam.",
+     "why": [
+      "The table says the Safavids had no significant navy.",
+      "Encouraging Shi'a Islam put pressure on Sunnis.",
+      "Tax policy toward their own subjects would not end a foreign rivalry.",
+      ""
+     ],
+     "src": "T2"
+    },
+    {
+     "id": "M11",
+     "type": "mcq",
+     "skill": "Comparison from data",
+     "topic": "Comparison",
+     "stem": "According to the table, which Ottoman military practice did the Mughals share?",
+     "options": [
+      "Granting villages to warriors for their upkeep",
+      "Relying on Qizilbash warriors to found the state",
+      "Keeping a strong navy to protect trade",
+      "Using taxes to encourage adherence to Shi'a Islam"
+     ],
+     "ans": 0,
+     "exp": "Both empires granted villages to warriors, so soldiers drew income directly from the land.",
+     "why": [
+      "",
+      "The Qizilbash were Safavid.",
+      "The table gives the Mughals only a small navy.",
+      "That is the Safavid tax policy."
+     ],
+     "src": "T2"
+    },
+    {
+     "id": "M12",
+     "type": "mcq",
+     "skill": "Cause",
+     "topic": "Ruling",
+     "stem": "According to the passage, why did the Ming turn to silver for taxes?",
+     "options": [
+      "Silver was the only metal the empire produced",
+      "The Mongols had required taxes in silver",
+      "Paper money had led to counterfeiting",
+      "Portuguese merchants demanded payment in silver"
+     ],
+     "ans": 2,
+     "exp": "Problems with paper money pushed the Ming to hard currency.",
+     "why": [
+      "The silver came largely from Japan and the Americas.",
+      "The passage blames paper money, not the Mongols.",
+      "",
+      "The passage is about Ming tax policy."
+     ],
+     "src": "P8"
+    },
+    {
+     "id": "M13",
+     "type": "mcq",
+     "skill": "Effect / connection",
+     "topic": "Ruling",
+     "stem": "The development in the passage best illustrates which broader process?",
+     "options": [
+      "The decline of long-distance trade after 1450",
+      "Chinese conquest of silver mines abroad",
+      "The end of China's money economy",
+      "Global trade linking China to the Americas"
+     ],
+     "ans": 3,
+     "exp": "This connects Unit 3 to Unit 4's global silver trade.",
+     "why": [
+      "Silver flowing across oceans shows trade expanding.",
+      "China bought silver; it did not conquer Potosí.",
+      "Silver kept the money economy going.",
+      ""
+     ],
+     "src": "P8"
+    }
+   ]
+  },
+  {
+   "name": "Mock SAQs",
+   "mode": "exam",
+   "exam": "Mock test",
+   "examTips": [
+    "Like the real test: choose TWO of the three SAQs. Turn the Timer on and give yourself about 13 minutes each.",
+    "Write complete sentences for A, B and C, and only then check your answers."
+   ],
+   "tips": [
+    "Use TEA for every part: T = Topic sentence (answer the question directly, restating its words), E = Evidence (a specific person, place, term or date), A = Analysis (explain how the evidence proves your point, using \"which led to,\" \"because\" or \"this allowed\").",
+    "Label your answers A, B and C and write in complete sentences. No introduction or thesis.",
+    "\"Identify\" or \"describe\" means give accurate details. \"Explain\" means show how or why.",
+    "Stay inside 1450 to 1750 unless the question says otherwise.",
+    "Aim for about 13 minutes per SAQ: about 1 to plan and 12 to write.",
+    "Self-check: Did I give a specific example? Did I explain the connection? Right empire, right century?"
+   ],
+   "sources": {
+    "R5": {
+     "title": "The oath of an English justice of the peace",
+     "attr": "Oath of office under the Tudor monarchs, as quoted in AMSCO Topic 3.2.",
+     "label": "",
+     "text": "[You shall] swear that as Justices of the Peace . . . in all articles in the King's Commission to you directed, ye shall do equal right to the poor and to the rich after your cunning wit, and power, and after the laws and customs of the realm and statutes thereof made."
+    },
+    "P6": {
+     "title": "The teachings of Guru Nanak",
+     "attr": "Summary based on your 3.3 slides and AMSCO Topic 3.3.",
+     "label": "Practice source (written for practice from your class materials; not a verbatim quotation).",
+     "text": "Guru Nanak, who lived in the Punjab in the late 1400s, taught that there is one God, who can be reached through personal devotion, meditation and honest living rather than through ritual. He welcomed followers from Hindu and Muslim families alike and rejected the caste system, teaching that all people are equal before God."
+    }
+   },
+   "questions": [
+    {
+     "id": "MSAQ1",
+     "type": "saq",
+     "lead": "Using the excerpt, answer (A), (B) and (C).",
+     "parts": [
+      {
+       "k": "A",
+       "prompt": "Describe one duty of a justice of the peace, according to the excerpt.",
+       "skill": "Describing a claim from a source",
+       "model": "One duty was to give equal justice to all people. The oath says justices must 'do equal right to the poor and to the rich' according to 'the laws and customs of the realm.' This shows they enforced the monarch's law fairly in the counties.",
+       "tea": [
+        "One duty was to give equal justice to all people.",
+        "The oath says justices must 'do equal right to the poor and to the rich' according to 'the laws and customs of the realm.'",
+        "This shows they enforced the monarch's law fairly in the counties."
+       ],
+       "earns": "You describe enforcing the king's law, treating rich and poor equally, or carrying out the King's Commission.",
+       "weak": "\"They were officials.\" Describe what they had to do."
+      },
+      {
+       "k": "B",
+       "prompt": "Explain how officials like those in the excerpt helped English monarchs centralize power.",
+       "skill": "Explaining a cause",
+       "model": "Justices of the peace helped centralize power by carrying the monarch's authority into every county. Under the Tudors (1485–1603) their numbers and responsibilities grew, while feudal lords lost power. Because local order now depended on officials enforcing royal law, the crown no longer needed to rely on independent nobles.",
+       "tea": [
+        "Justices of the peace helped centralize power by carrying the monarch's authority into every county.",
+        "Under the Tudors (1485–1603) their numbers and responsibilities grew, while feudal lords lost power.",
+        "Because local order now depended on officials enforcing royal law, the crown no longer needed to rely on independent nobles."
+       ],
+       "earns": "You connect the justices to weaker nobles or stronger royal control with a specific detail.",
+       "weak": "Repeating part A."
+      },
+      {
+       "k": "C",
+       "prompt": "Explain one difference between how England and France were governed by about 1700.",
+       "skill": "Comparison: difference",
+       "model": "England developed a limited monarchy while France became an absolute monarchy. In England the Bill of Rights of 1689 required Parliament's agreement for taxes and an army, while Louis XIV of France ruled by divine right and said, 'I am the state.' So English kings were checked by Parliament, while the French king held complete authority.",
+       "tea": [
+        "England developed a limited monarchy while France became an absolute monarchy.",
+        "In England the Bill of Rights of 1689 required Parliament's agreement for taxes and an army, while Louis XIV of France ruled by divine right and said, 'I am the state.'",
+        "So English kings were checked by Parliament, while the French king held complete authority."
+       ],
+       "earns": "England (Parliament, Bill of Rights) versus France (absolutism, Louis XIV, intendants, Versailles), with an explanation.",
+       "weak": "Describing only France."
+      }
+     ],
+     "src": "R5"
+    },
+    {
+     "id": "MSAQ2",
+     "type": "saq",
+     "lead": "Answer (A), (B) and (C).",
+     "parts": [
+      {
+       "k": "A",
+       "prompt": "Identify one way gunpowder helped a land-based empire expand between 1450 and 1750.",
+       "skill": "Identifying a historical development",
+       "model": "Gunpowder helped the Ottoman Empire take fortified cities. In 1453 Mehmed II's huge bronze cannons broke the walls of Constantinople. Taking the city ended the Byzantine Empire and gave the Ottomans a capital that controlled the Bosporus.",
+       "tea": [
+        "Gunpowder helped the Ottoman Empire take fortified cities.",
+        "In 1453 Mehmed II's huge bronze cannons broke the walls of Constantinople.",
+        "Taking the city ended the Byzantine Empire and gave the Ottomans a capital that controlled the Bosporus."
+       ],
+       "earns": "Any accurate example: Constantinople, Chaldiran, Panipat, Tondibi, Cossacks in Siberia, Manchu banners.",
+       "weak": "\"They had guns.\" Name the empire and the event."
+      },
+      {
+       "k": "B",
+       "prompt": "Explain one similarity in how two empires expanded in this period.",
+       "skill": "Comparison: similarity",
+       "model": "The Mughals and Morocco both used firearms to defeat larger armies. Babur's cannons and matchlocks won at Panipat in 1526, and Moroccan musketeers beat a bigger Songhai army at Tondibi in 1591. In both cases gunpowder gave smaller forces an advantage over armies using older tactics, which let them take new territory.",
+       "tea": [
+        "The Mughals and Morocco both used firearms to defeat larger armies.",
+        "Babur's cannons and matchlocks won at Panipat in 1526, and Moroccan musketeers beat a bigger Songhai army at Tondibi in 1591.",
+        "In both cases gunpowder gave smaller forces an advantage over armies using older tactics, which let them take new territory."
+       ],
+       "earns": "Two empires, one shared method, and why it worked.",
+       "weak": "Two separate descriptions with no comparison."
+      },
+      {
+       "k": "C",
+       "prompt": "Explain one reason a land-based empire declined by the 1700s.",
+       "skill": "Explaining a cause",
+       "model": "One reason was the cost of maintaining large armies. Aurangzeb's long wars in the Deccan against the Marathas drained the Mughal treasury. Without money and with revolts spreading, the empire weakened, letting Britain and France gain power in India.",
+       "tea": [
+        "One reason was the cost of maintaining large armies.",
+        "Aurangzeb's long wars in the Deccan against the Marathas drained the Mughal treasury.",
+        "Without money and with revolts spreading, the empire weakened, letting Britain and France gain power in India."
+       ],
+       "earns": "A specific cause (costly wars, weak heirs and harem politics, failure to modernize, high taxes, rebellions) for a named empire.",
+       "weak": "\"It got weak.\" Explain why."
+      }
+     ]
+    },
+    {
+     "id": "MSAQ3",
+     "type": "saq",
+     "lead": "Using the passage, answer (A), (B) and (C).",
+     "parts": [
+      {
+       "k": "A",
+       "prompt": "Describe one teaching of Guru Nanak, according to the passage.",
+       "skill": "Describing a claim from a source",
+       "model": "One teaching was that all people are equal before God. The passage says Nanak 'rejected the caste system.' This challenged the Hindu social order that ranked people by birth.",
+       "tea": [
+        "One teaching was that all people are equal before God.",
+        "The passage says Nanak 'rejected the caste system.'",
+        "This challenged the Hindu social order that ranked people by birth."
+       ],
+       "earns": "One God, devotion over ritual, equality, rejecting caste, welcoming Hindus and Muslims.",
+       "weak": "\"He taught about God.\" Be specific."
+      },
+      {
+       "k": "B",
+       "prompt": "Explain how the development of Sikhism shows interaction between belief systems.",
+       "skill": "Explaining a development",
+       "model": "Sikhism shows interaction because it grew out of contact between Hindus and Muslims in the Punjab. It combined devotion to one God, similar to Islam, with ideas of personal devotion found in Hinduism, and welcomed followers from both. This makes it an example of syncretism, a new faith created by contact between existing ones.",
+       "tea": [
+        "Sikhism shows interaction because it grew out of contact between Hindus and Muslims in the Punjab.",
+        "It combined devotion to one God, similar to Islam, with ideas of personal devotion found in Hinduism, and welcomed followers from both.",
+        "This makes it an example of syncretism, a new faith created by contact between existing ones."
+       ],
+       "earns": "Hindu–Muslim contact, syncretism, and how the faith reflects both.",
+       "weak": "Calling it a mix with no explanation."
+      },
+      {
+       "k": "C",
+       "prompt": "Explain one way Mughal rulers' treatment of the Sikhs changed between 1550 and 1700.",
+       "skill": "Explaining change over time",
+       "model": "Mughal treatment of the Sikhs changed from support to persecution. Akbar gave land grants to the Sikhs, but in 1606 Jahangir had Guru Arjan executed. This persecution pushed Sikhs toward armed self-defense, and in 1699 Guru Gobind Singh founded the Khalsa.",
+       "tea": [
+        "Mughal treatment of the Sikhs changed from support to persecution.",
+        "Akbar gave land grants to the Sikhs, but in 1606 Jahangir had Guru Arjan executed.",
+        "This persecution pushed Sikhs toward armed self-defense, and in 1699 Guru Gobind Singh founded the Khalsa."
+       ],
+       "earns": "A specific before and after, with an explanation.",
+       "weak": "Describing only Akbar or only Jahangir."
+      }
+     ],
+     "src": "P6"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,344 @@
+[
+ {
+  "id": "SQ1",
+  "deck": 1,
+  "q": "A classmate writes: \"The Unit 3 empires rose because the Mongols handed them their lands.\" Which correction is most accurate?",
+  "opts": [
+   "The Mongols were still the strongest power in all of Asia in 1500",
+   "The Mongol breakup left a vacuum new states filled",
+   "The Unit 3 empires were all founded by Mongol khans",
+   "The Unit 3 empires conquered the Mongols at their peak"
+  ],
+  "ans": 1,
+  "exp": "Contextualization: collapse, vacuum, gunpowder.",
+  "why": [
+   "Mongol power had collapsed by then.",
+   "",
+   "Only the Mughals had Mongol ancestry, through Babur.",
+   "They rose after the Mongols fell apart."
+  ]
+ },
+ {
+  "id": "SQ2",
+  "deck": 2,
+  "q": "A sultan's army breaks through city walls that had stood for centuries by firing massive bronze cannons. Which development does this show?",
+  "opts": [
+   "Gunpowder drove imperial expansion",
+   "Religious tolerance won over conquered peoples",
+   "Tribute systems funded imperial armies",
+   "Maritime empires replaced land empires in Asia"
+  ],
+  "ans": 0,
+  "exp": "Constantinople, 1453.",
+  "why": [
+   "",
+   "Cannons are military, not religious policy.",
+   "This is about weapons, not revenue.",
+   "This is a land siege, not a sea empire."
+  ]
+ },
+ {
+  "id": "SQ3",
+  "deck": 2,
+  "q": "A North African army crosses the Sahara in 1591 and defeats a larger West African army with firearms. What best explains the invasion?",
+  "opts": [
+   "The invaders wanted to spread Shi'a Islam",
+   "The invaders were fleeing the Ottoman army",
+   "The invaders wanted the gold trade routes",
+   "The West Africans had attacked Spain first"
+  ],
+  "ans": 2,
+  "exp": "Morocco took on Songhai to control the gold trade.",
+  "why": [
+   "Both states were Sunni Muslim.",
+   "The goal was gold, not escape.",
+   "",
+   "No such attack happened."
+  ]
+ },
+ {
+  "id": "SQ4",
+  "deck": 3,
+  "q": "Two Muslim empires, one Sunni and one Shi'a, fight a major battle in 1514 in northwestern Iran. Which statement is most accurate?",
+  "opts": [
+   "The Safavids beat the Ottomans at Panipat",
+   "The Mughals beat the Safavids at Kandahar",
+   "The Ottomans beat the Mamluks at Chaldiran",
+   "Ottomans beat Safavids at Chaldiran"
+  ],
+  "ans": 3,
+  "exp": "Chaldiran: Sunni Ottomans versus Shi'a Safavids.",
+  "why": [
+   "Panipat was Babur's battle in India in 1526.",
+   "Kandahar changed hands later, in the 1600s.",
+   "The Mamluks fell in 1516–1517 in Egypt and Syria.",
+   ""
+  ]
+ },
+ {
+  "id": "SQ5",
+  "deck": 3,
+  "q": "Which statement best compares the two rivalries of the Safavid Empire, according to your textbook?",
+  "opts": [
+   "Religion mattered more in the Ottoman war",
+   "Religion caused both rivalries equally and nothing else mattered",
+   "Neither rivalry involved any religious disagreement",
+   "The Safavids fought both rivals mainly over the gold of Timbuktu"
+  ],
+  "ans": 0,
+  "exp": "Watch-out: the Safavid–Mughal war centered on Kandahar and trade.",
+  "why": [
+   "",
+   "AMSCO says the Mughal war was mainly about resources and trade routes.",
+   "The Ottoman–Safavid rivalry was strongly religious.",
+   "Timbuktu was in West Africa."
+  ]
+ },
+ {
+  "id": "SQ6",
+  "deck": 4,
+  "q": "An emperor lets local landholders collect taxes from peasants and keep a share as payment. Which empire and system?",
+  "opts": [
+   "Mughal zamindars",
+   "Ottoman tax farming",
+   "Mexica tribute lists",
+   "The Ming Single Whip"
+  ],
+  "ans": 0,
+  "exp": "Zamindars kept a share of the land tax.",
+  "why": [
+   "",
+   "Ottoman tax farmers bid for the right to collect and paid a fixed sum up front.",
+   "Tribute came from conquered provinces.",
+   "That combined taxes into one silver payment."
+  ]
+ },
+ {
+  "id": "SQ7",
+  "deck": 4,
+  "q": "A government orders that land taxes and labor duties be combined and paid in silver. Which state?",
+  "opts": [
+   "Ming China",
+   "Safavid Persia under Shah Abbas I",
+   "Tokugawa Japan under the shoguns",
+   "Russia under Peter the Great"
+  ],
+  "ans": 0,
+  "exp": "The Single Whip reform, around 1580.",
+  "why": [
+   "",
+   "The Safavids are not linked to this reform.",
+   "Japan supplied silver; the reform was Chinese.",
+   "Peter introduced a head tax in 1718."
+  ]
+ },
+ {
+  "id": "SQ8",
+  "deck": 4,
+  "q": "A French king builds an enormous palace, decorates it with sun imagery and makes his court revolve around him. What is he doing?",
+  "opts": [
+   "Using tax farming to raise money",
+   "Using the devshirme to train officials",
+   "Using religious tolerance to win support",
+   "Using architecture to legitimize rule"
+  ],
+  "ans": 3,
+  "exp": "Versailles: monumental architecture plus control of nobles.",
+  "why": [
+   "The palace is about display and control.",
+   "That is Ottoman.",
+   "This is about the king's glory, not tolerance.",
+   ""
+  ]
+ },
+ {
+  "id": "SQ9",
+  "deck": 4,
+  "q": "A shogun requires every regional lord to keep a home in the capital and leave his family there when he is away. What is the main goal?",
+  "opts": [
+   "Encouraging trade with Portugal",
+   "Training lords as Christian priests",
+   "Preventing lords from rebelling",
+   "Collecting tribute from China"
+  ],
+  "ans": 2,
+  "exp": "Alternate attendance kept the daimyo under control.",
+  "why": [
+   "The policy is about lords, not foreign trade.",
+   "The Tokugawa banned Christianity.",
+   "",
+   "Japan did not collect tribute from China."
+  ]
+ },
+ {
+  "id": "SQ10",
+  "deck": 4,
+  "q": "Which pair shows two rulers creating elites loyal only to themselves rather than to nobles?",
+  "opts": [
+   "The Taj Mahal and Versailles",
+   "The devshirme and the oprichnina",
+   "The Peace of Augsburg and Westphalia",
+   "The jizya and the head tax"
+  ],
+  "ans": 1,
+  "exp": "Ottoman and Russian rulers bypassed the nobility.",
+  "why": [
+   "Those are buildings, not elites.",
+   "",
+   "Those are religious settlements.",
+   "Those are taxes."
+  ]
+ },
+ {
+  "id": "SQ11",
+  "deck": 5,
+  "q": "A monk criticizes the sale of indulgences and argues that Scripture outranks Church hierarchy. What movement does he start?",
+  "opts": [
+   "The Protestant break",
+   "The Counter-Reformation",
+   "Sikhism in the Punjab region of South Asia",
+   "The Scientific Revolution"
+  ],
+  "ans": 0,
+  "exp": "Martin Luther, 1517.",
+  "why": [
+   "",
+   "That was the Catholic response.",
+   "Sikhism grew in the Punjab.",
+   "That was based on reason and evidence, not Scripture."
+  ]
+ },
+ {
+  "id": "SQ12",
+  "deck": 5,
+  "q": "A Catholic council meets from 1545 to 1563 to reaffirm Church doctrine. Which statement about it is accurate?",
+  "opts": [
+   "It started the Protestant Reformation",
+   "It ended the Thirty Years' War in Germany",
+   "It made Calvinism a legal choice",
+   "It was part of the Catholic response"
+  ],
+  "ans": 3,
+  "exp": "The Council of Trent.",
+  "why": [
+   "Luther started that in 1517.",
+   "Westphalia ended that war in 1648.",
+   "Westphalia did that.",
+   ""
+  ]
+ },
+ {
+  "id": "SQ13",
+  "deck": 5,
+  "q": "A faith in the Punjab rejects caste, teaches devotion to one God and grows amid Hindu–Muslim interaction. Which statement is accurate?",
+  "opts": [
+   "It was imposed by the Safavid shahs",
+   "It is an example of syncretism",
+   "It began as a branch of Shi'a Islam",
+   "It was founded by Akbar as Din-i Ilahi"
+  ],
+  "ans": 1,
+  "exp": "Sikhism, founded by Guru Nanak.",
+  "why": [
+   "It grew from contact, not imposition.",
+   "",
+   "It is a separate faith.",
+   "Akbar's faith was different and unpopular."
+  ]
+ },
+ {
+  "id": "SQ14",
+  "deck": 5,
+  "q": "A new Iranian dynasty makes Twelver Shi'ism the official faith, alarming its powerful Sunni neighbor. Name both empires.",
+  "opts": [
+   "Mughals of India and Ottomans",
+   "Ottomans and Mamluks",
+   "Safavids and Ottomans",
+   "Safavids and Qing"
+  ],
+  "ans": 2,
+  "exp": "Ismail I, 1501.",
+  "why": [
+   "The Mughals ruled India, not Iran.",
+   "Neither is the Iranian dynasty.",
+   "",
+   "The Qing were not the Sunni neighbor of Iran."
+  ]
+ },
+ {
+  "id": "SQ15",
+  "deck": 6,
+  "q": "Akbar ended the tax on non-Muslims; Aurangzeb restored it. Which theme does this comparison best show?",
+  "opts": [
+   "Change in religious policy within one empire",
+   "Continuity in Mughal tolerance across 150 years",
+   "The spread of Christianity into India by force",
+   "Competition between land and sea empires"
+  ],
+  "ans": 0,
+  "exp": "Akbar vs. Aurangzeb: tolerance vs. strict Sunni rule.",
+  "why": [
+   "",
+   "The policy reversed; that is change.",
+   "The tax concerned Hindus and other non-Muslims.",
+   "This is internal religious policy."
+  ]
+ },
+ {
+  "id": "SQ16",
+  "deck": 6,
+  "q": "Foreign rulers kept China's Confucian exam but required Han men to wear their own hairstyle. What does this show?",
+  "opts": [
+   "They rejected all Chinese traditions",
+   "They fully assimilated into Han culture",
+   "They ruled through religious tolerance only",
+   "They adapted while asserting control"
+  ],
+  "ans": 3,
+  "exp": "Qing: look Chinese, stay Manchu.",
+  "why": [
+   "They kept the exam and the Mandate of Heaven.",
+   "The queue kept a Manchu marker of control.",
+   "The queue was imposed.",
+   ""
+  ]
+ },
+ {
+  "id": "SQ17",
+  "deck": 6,
+  "q": "Which empire was LEAST centralized, according to your textbook?",
+  "opts": [
+   "The Ottoman Empire, with its devshirme officials",
+   "The Aztecs, who relied on tribute and fear",
+   "The Qing Empire, with its exam-chosen officials",
+   "The Inca Empire, with its decimal provinces"
+  ],
+  "ans": 1,
+  "exp": "The Aztecs controlled Mesoamerica through force rather than bureaucracy.",
+  "why": [
+   "The devshirme created a centralized bureaucracy.",
+   "",
+   "The exam supported a strong bureaucracy.",
+   "AMSCO calls the Inca very organized."
+  ]
+ },
+ {
+  "id": "SQ18",
+  "deck": 3,
+  "q": "Your textbook explains why Russia outlasted the three Islamic gunpowder empires. Which explanation fits it best?",
+  "opts": [
+   "Russia avoided war with its neighbors",
+   "Russia converted to Islam to unify its people",
+   "Russia modernized its army on Western models",
+   "Russia had no need for firearms in Siberia"
+  ],
+  "ans": 2,
+  "exp": "Military modernization was the difference.",
+  "why": [
+   "Russia fought often.",
+   "Russia stayed Orthodox Christian.",
+   "",
+   "Cossacks used firearms in Siberia."
+  ]
+ }
+]

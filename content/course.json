@@ -13,7 +13,19 @@
       "label": "Unit 2",
       "title": "Networks of Exchange",
       "blurb": "1200 to 1450: the Silk Roads, the Mongol Empire, the Indian Ocean, trans-Saharan trade, and the cultural and environmental effects of exchange (AMSCO 2.1 to 2.7).",
-      "legacyKeys": { "kit": "apw_unit2_kit_v1", "pt": "apw_unit2_pt_v1" }
+      "legacyKeys": {
+        "kit": "apw_unit2_kit_v1",
+        "pt": "apw_unit2_pt_v1"
+      }
+    },
+    {
+      "id": "u3",
+      "dir": "unit-03",
+      "label": "Unit 3",
+      "title": "Land-Based Empires",
+      "blurb": "1450 to 1750: the Ottoman, Safavid, Mughal, Qing and Russian empires, Songhai and Tokugawa Japan; how they expanded, ruled, paid for themselves and handled religion (AMSCO 3.1 to 3.4).",
+      "learnMix": true,
+      "recall": true
     }
   ]
 }

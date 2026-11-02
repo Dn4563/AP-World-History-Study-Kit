@@ -1,0 +1,3089 @@
+{
+ "Power vacuum": [
+  {
+   "q": "After the Mongol khanates collapsed, Turkic dynasties quickly seized Anatolia, Persia and northern India. Which idea best explains this?",
+   "right": "New states filled a power vacuum",
+   "wrong": [
+    [
+     "Mongol khans gave the regions away",
+     "The Mongols did not hand over their lands; their empire fell apart and others took the space."
+    ],
+    [
+     "Europeans conquered the Mongol lands first",
+     "Europeans were not the ones who took Anatolia, Persia or India in this period."
+    ],
+    [
+     "Trade routes closed and the regions emptied",
+     "The regions were not emptied of people; they lost a strong ruler."
+    ]
+   ],
+   "exp": "When a strong ruler disappears, rivals rush in. That is a power vacuum."
+  }
+ ],
+ "Rival khanates": [
+  {
+   "q": "Which development most weakened Mongol unity from the inside?",
+   "right": "Succession fights that divided the empire",
+   "wrong": [
+    [
+     "Conversion of every khan to Christianity in the 1300s",
+     "The khans adopted local religions such as Islam and Buddhism, not all Christianity."
+    ],
+    [
+     "A single crushing defeat by the young Ottoman army",
+     "The Mongols did not fall to one big war; the Ottomans were small at the time."
+    ],
+    [
+     "The invention of gunpowder in western Europe around 1300",
+     "Gunpowder came from Song China, and its spread did not split the Mongols."
+    ]
+   ],
+   "exp": "The Mongols fell apart rather than losing one war. Family fights split the empire into four khanates."
+  }
+ ],
+ "Mongol assimilation": [
+  {
+   "q": "The Il-khans became Muslim and the Yuan rulers adopted Chinese court customs. How did this affect Mongol power?",
+   "right": "It eroded their shared identity",
+   "wrong": [
+    [
+     "It made the khanates reunite under one khan",
+     "Adopting different local customs pulled the khanates further apart."
+    ],
+    [
+     "It ended all trade on the Silk Roads",
+     "Trade weakened for other reasons, such as plague; customs did not end it."
+    ],
+    [
+     "It let them conquer western Europe",
+     "The Mongols never conquered western Europe."
+    ]
+   ],
+   "exp": "Blending into the local cultures meant the Mongols no longer acted as one people."
+  }
+ ],
+ "Ming expulsion of the Mongols (1368)": [
+  {
+   "q": "Which event ended Mongol rule in China?",
+   "right": "A Chinese rebellion in 1368",
+   "wrong": [
+    [
+     "The Manchu conquest of 1644",
+     "The Manchus overthrew the Ming, not the Mongols."
+    ],
+    [
+     "The fall of Constantinople in 1453",
+     "That was the end of the Byzantine Empire, far from China."
+    ],
+    [
+     "Timur's raids into India",
+     "Timur raided Persia and India; he did not end Mongol rule in China."
+    ]
+   ],
+   "exp": "Rebels drove the Mongols out in 1368 and founded the Ming."
+  }
+ ],
+ "Timur (Tamerlane)": [
+  {
+   "q": "Which later empire was founded by a descendant of the conqueror who crushed the Ottomans in 1402?",
+   "right": "The Mughal Empire",
+   "wrong": [
+    [
+     "The Safavid Empire",
+     "The Safavids were founded by Ismail I, not by a descendant of Timur."
+    ],
+    [
+     "The Qing Empire",
+     "The Qing were founded by the Manchus of northeast China."
+    ],
+    [
+     "The Songhai Empire",
+     "Songhai was a West African state with no link to Timur."
+    ]
+   ],
+   "exp": "Babur, founder of the Mughals, descended from Timur and from Genghis Khan."
+  }
+ ],
+ "Ghazi ideal": [
+  {
+   "q": "Historians say the founders of the Ottoman, Safavid and Mughal states followed a model of the warrior for the faith. What does this model help explain?",
+   "right": "Why their expansion had a religious purpose",
+   "wrong": [
+    [
+     "Why their rulers rejected Islam in favor of steppe gods",
+     "The model is a fighter for Islam, so it supports Islam."
+    ],
+    [
+     "Why they relied on navies more than on land armies",
+     "The model comes from the land-based steppes, not the sea."
+    ],
+    [
+     "Why they avoided war with their Muslim and Christian neighbors",
+     "The model glorifies fighting, not avoiding it."
+    ]
+   ],
+   "exp": "The ghazi ideal joined steppe warfare to holy war for Islam."
+  }
+ ],
+ "Gunpowder's origin": [
+  {
+   "q": "Why did Ottoman, Safavid and Mughal armies all have access to cannons by the 1500s?",
+   "right": "Gunpowder spread west along Mongol networks",
+   "wrong": [
+    [
+     "All three empires invented gunpowder separately at about the same time",
+     "Gunpowder came from one place, Song China."
+    ],
+    [
+     "The Portuguese sold it to all three in the early 1400s",
+     "It spread overland through Mongol networks long before most Portuguese contact."
+    ],
+    [
+     "Byzantine engineers taught it to their Turkish neighbors",
+     "The Byzantines were the targets of Ottoman cannons, not the source."
+    ]
+   ],
+   "exp": "This connects Unit 1 (Song inventions) and Unit 2 (Mongol networks) to Unit 3."
+  }
+ ],
+ "Shared roots of the Islamic empires": [
+  {
+   "q": "Which statement best describes a similarity among the Ottoman, Safavid and Mughal founders?",
+   "right": "They came from Turkic nomadic roots",
+   "wrong": [
+    [
+     "They all followed Shi'a Islam as the state faith",
+     "Only the Safavids were Shi'a; the Ottomans and Mughals were Sunni."
+    ],
+    [
+     "They all ruled Hindu majorities in South Asia",
+     "Only the Mughals ruled a Hindu majority."
+    ],
+    [
+     "They all built large navies to control the Indian Ocean",
+     "The Safavids had no real navy."
+    ]
+   ],
+   "exp": "All three descended from Turkic nomads, used gunpowder, and filled spaces left by the Mongols."
+  }
+ ],
+ "Osman": [
+  {
+   "q": "The name of the empire that took Constantinople comes from which founder?",
+   "right": "Osman, around 1300",
+   "wrong": [
+    [
+     "Mehmed II, the sultan who took the city in 1453",
+     "Mehmed II conquered Constantinople, but the empire already had its name."
+    ],
+    [
+     "Selim I, the victor at Chaldiran in 1514",
+     "Selim I won at Chaldiran; he did not found the state."
+    ],
+    [
+     "Ismail I, the young ruler crowned in 1501",
+     "Ismail I founded the Safavid Empire."
+    ]
+   ],
+   "exp": "Osman's small border state became the Ottoman Empire."
+  }
+ ],
+ "Armed trade": [
+  {
+   "q": "Two empires exchange goods, but each keeps warships nearby in case the other blocks its merchants. What is this practice called?",
+   "right": "Armed trade",
+   "wrong": [
+    [
+     "Free trade",
+     "Free markets came later and did not rely on threats of force."
+    ],
+    [
+     "Tax farming",
+     "Tax farming is a way of collecting taxes, not of trading."
+    ],
+    [
+     "A tribute system",
+     "Tribute is payment from a weaker state, not trade backed by force."
+    ]
+   ],
+   "exp": "Armed trade mixes commerce with readiness to fight, unlike later free markets."
+  }
+ ],
+ "Gunpowder empires": [
+  {
+   "q": "Your study guide names three of these states; your textbook adds Russia. What do all of them share?",
+   "right": "Firearms drove their conquests",
+   "wrong": [
+    [
+     "All were ruled by Muslim dynasties",
+     "Russia was Orthodox Christian."
+    ],
+    [
+     "All were sea-based empires that relied on navies",
+     "They were land-based empires; sea empires are Unit 4."
+    ],
+    [
+     "All were made up of a single ethnic group",
+     "They ruled many ethnic and religious groups."
+    ]
+   ],
+   "exp": "The label comes from how they expanded: cannons and muskets."
+  }
+ ],
+ "Mehmed II": [
+  {
+   "q": "Which ruler used a 26-foot bronze cannon to break walls that had stood for centuries?",
+   "right": "Mehmed II",
+   "wrong": [
+    [
+     "Suleiman I",
+     "Suleiman ruled later (1520–1566) and besieged Vienna."
+    ],
+    [
+     "Shah Abbas I",
+     "Abbas was a Safavid shah in Persia."
+    ],
+    [
+     "Babur",
+     "Babur used cannons at Panipat in India, not against city walls."
+    ]
+   ],
+   "exp": "Mehmed II's cannons broke Constantinople's triple walls in 1453."
+  }
+ ],
+ "Fall of Constantinople (1453)": [
+  {
+   "q": "Why did the Ottoman capture of this city matter for trade?",
+   "right": "It controlled the Black Sea passage",
+   "wrong": [
+    [
+     "It opened the first route to the Americas",
+     "Routes to the Americas were opened by Europeans at sea."
+    ],
+    [
+     "It gave the Ottomans Mecca and Medina",
+     "The holy cities came later, from the Mamluks in 1516–1517."
+    ],
+    [
+     "It ended trade on the Silk Roads",
+     "Istanbul remained the western end of the Silk Roads."
+    ]
+   ],
+   "exp": "Istanbul controlled the Bosporus, the only waterway linking the Aegean and Black Seas."
+  }
+ ],
+ "Hagia Sophia": [
+  {
+   "q": "Mehmed II turned the city's greatest church into a mosque. What does this act most clearly show?",
+   "right": "A change in who held power",
+   "wrong": [
+    [
+     "Continuity of Byzantine religion",
+     "Converting it marked a break, not a continuity."
+    ],
+    [
+     "A failed Ottoman siege",
+     "The siege of 1453 succeeded."
+    ],
+    [
+     "Ottoman rejection of architecture",
+     "The Ottomans kept and restored the building."
+    ]
+   ],
+   "exp": "The conversion signaled that a new, Muslim dynasty now ruled the city."
+  }
+ ],
+ "Selim I": [
+  {
+   "q": "Which conquest gave the Ottomans a strong claim to lead Sunni Islam?",
+   "right": "Taking the Mamluk lands in 1516–1517",
+   "wrong": [
+    [
+     "Taking Constantinople from the Byzantines in 1453",
+     "That gave a capital and trade, not the holy cities."
+    ],
+    [
+     "Winning the Battle of Mohács against Hungary in 1526",
+     "Mohács gave them Hungary, a Christian land."
+    ],
+    [
+     "Besieging the Habsburg capital of Vienna in 1529",
+     "The Vienna siege failed and had no link to the holy cities."
+    ]
+   ],
+   "exp": "Control of Mecca and Medina came with the Mamluk lands."
+  }
+ ],
+ "Suleiman the Magnificent": [
+  {
+   "q": "Under which ruler did the Ottomans reach their greatest power and push deepest into Europe?",
+   "right": "Suleiman I",
+   "wrong": [
+    [
+     "Mehmed II, the Conqueror",
+     "Mehmed took Constantinople but did not reach Hungary or Vienna."
+    ],
+    [
+     "Osman, the founder",
+     "Osman founded a small border state around 1300."
+    ],
+    [
+     "Selim I, conqueror of the Mamluks",
+     "Selim pushed east and south, against the Safavids and Mamluks."
+    ]
+   ],
+   "exp": "Suleiman's reign (1520–1566) was the Ottoman peak."
+  }
+ ],
+ "Battle of Mohács (1526)": [
+  {
+   "q": "Which victory brought the Ottomans to the edge of Austria?",
+   "right": "Mohács, 1526",
+   "wrong": [
+    [
+     "Chaldiran, 1514",
+     "Chaldiran was fought in Persia against the Safavids."
+    ],
+    [
+     "Lepanto, 1571",
+     "Lepanto was an Ottoman naval defeat."
+    ],
+    [
+     "Panipat, 1526",
+     "Panipat was Babur's victory in India, the same year."
+    ]
+   ],
+   "exp": "Winning Hungary at Mohács set up the siege of Vienna three years later."
+  }
+ ],
+ "Siege of Vienna (1529)": [
+  {
+   "q": "Which event marks the farthest Ottoman advance into Central Europe under Suleiman?",
+   "right": "The failed siege of Vienna in 1529",
+   "wrong": [
+    [
+     "The capture of the island of Rhodes in 1522",
+     "Rhodes is an island in the eastern Mediterranean."
+    ],
+    [
+     "The fall of the Byzantine capital in 1453",
+     "That was in southeastern Europe, not Central Europe."
+    ],
+    [
+     "The victory over the Hungarians at Mohács in 1526",
+     "Mohács came before Vienna and was not the farthest point."
+    ]
+   ],
+   "exp": "Vienna (1529) failed; the Ottomans never took it."
+  }
+ ],
+ "Ismail I": [
+  {
+   "q": "A new ruler in Persia makes Shi'a Islam the official faith in 1501. Which neighbor is most likely to see this as a threat?",
+   "right": "The Sunni Ottoman Empire",
+   "wrong": [
+    [
+     "The Hindu Maratha kingdoms",
+     "The Marathas were in India and fought the Mughals."
+    ],
+    [
+     "The Russian tsars",
+     "Russia was Orthodox Christian and far to the north."
+    ],
+    [
+     "The Manchu banners",
+     "The Manchus were in northeast Asia."
+    ]
+   ],
+   "exp": "Ismail I's Shi'a state set up the Sunni–Shi'a rivalry with the Ottomans."
+  }
+ ],
+ "Shah Abbas I": [
+  {
+   "q": "After the Safavids lost at Chaldiran, which ruler modernized their army with gunpowder weapons?",
+   "right": "Shah Abbas I",
+   "wrong": [
+    [
+     "Ismail I, the founder",
+     "Ismail lost at Chaldiran; the army was rebuilt later."
+    ],
+    [
+     "Selim I, the Ottoman victor",
+     "Selim was the Ottoman sultan who won at Chaldiran."
+    ],
+    [
+     "Akbar, the Mughal emperor",
+     "Akbar was a Mughal emperor in India."
+    ]
+   ],
+   "exp": "Abbas learned from Chaldiran and added cannons, muskets and ghulams."
+  }
+ ],
+ "Isfahan": [
+  {
+   "q": "Abbas I moved his capital in 1598 and filled it with grand buildings. Which city?",
+   "right": "Isfahan",
+   "wrong": [
+    [
+     "Istanbul",
+     "Istanbul was the Ottoman capital."
+    ],
+    [
+     "Delhi",
+     "Delhi was a Mughal capital."
+    ],
+    [
+     "Tabriz",
+     "Tabriz became a border city between Sunni and Shi'a lands."
+    ]
+   ],
+   "exp": "Abbas moved the capital from Qazvin to Isfahan."
+  }
+ ],
+ "Shah": [
+  {
+   "q": "A source calls the ruler of Persia by a Persian royal title. Which title?",
+   "right": "Shah",
+   "wrong": [
+    [
+     "Sultan",
+     "Sultan is a Muslim ruler's title used by the Ottomans."
+    ],
+    [
+     "Tsar",
+     "Tsar is the Russian title."
+    ],
+    [
+     "Shogun",
+     "Shogun is the Japanese military ruler."
+    ]
+   ],
+   "exp": "Safavid rulers were shahs; Ottoman rulers were sultans."
+  }
+ ],
+ "Safavid weaknesses": [
+  {
+   "q": "Which feature most separated the Safavids from the Ottomans as a military power?",
+   "right": "The Safavids had no real navy",
+   "wrong": [
+    [
+     "The Safavids never used firearms",
+     "Abbas I armed the Safavids with muskets and artillery."
+    ],
+    [
+     "The Safavids had no capital city",
+     "Isfahan was their capital."
+    ],
+    [
+     "The Safavids ruled no Muslims",
+     "The Safavids were a Shi'a Muslim state."
+    ]
+   ],
+   "exp": "The Ottomans had a strong navy; the Safavids had almost none."
+  }
+ ],
+ "Babur": [
+  {
+   "q": "Why is the Mughal founder's ancestry useful for a contextualization sentence?",
+   "right": "It links Mughal rule to the Mongols",
+   "wrong": [
+    [
+     "It shows the Mughals were Hindu",
+     "The Mughal rulers were Muslim."
+    ],
+    [
+     "It proves the Mughals were Persian Shi'a",
+     "The Mughals were Sunni."
+    ],
+    [
+     "It connects the Mughals to the Ming",
+     "The Ming were Chinese and unrelated."
+    ]
+   ],
+   "exp": "Babur descended from Timur and Genghis Khan; 'Mughal' comes from 'Mongol.'"
+  }
+ ],
+ "First Battle of Panipat (1526)": [
+  {
+   "q": "Which battle shows that gunpowder let a small army found a new empire?",
+   "right": "Panipat, 1526",
+   "wrong": [
+    [
+     "Chaldiran, 1514",
+     "Chaldiran was a battle between two existing empires."
+    ],
+    [
+     "Tondibi, 1591",
+     "Tondibi ended an empire rather than founding one."
+    ],
+    [
+     "Lepanto, 1571",
+     "Lepanto was a sea battle the Ottomans lost."
+    ]
+   ],
+   "exp": "At Panipat Babur beat Ibrahim Lodi with cannons and matchlocks."
+  }
+ ],
+ "Akbar": [
+  {
+   "q": "A Muslim ruler of a Hindu-majority land ends the tax on non-Muslims and gives Hindus government posts. What was his main goal?",
+   "right": "Stabilizing a diverse empire",
+   "wrong": [
+    [
+     "Converting all Hindus to Islam",
+     "He ended a tax that pressured Hindus; he did not force conversion."
+    ],
+    [
+     "Weakening his own army",
+     "His tolerance won Hindu nobles to his side."
+    ],
+    [
+     "Preparing to invade Persia",
+     "His policy targeted his own subjects, not Persia."
+    ]
+   ],
+   "exp": "Akbar's tolerance won Hindu loyalty in a diverse empire."
+  }
+ ],
+ "Aurangzeb": [
+  {
+   "q": "Which ruler made the Mughal Empire its largest yet left it weaker?",
+   "right": "Aurangzeb",
+   "wrong": [
+    [
+     "Akbar",
+     "Akbar expanded the empire and stabilized it through tolerance."
+    ],
+    [
+     "Shah Jahan",
+     "Shah Jahan is best known for building the Taj Mahal."
+    ],
+    [
+     "Babur",
+     "Babur founded the empire in 1526."
+    ]
+   ],
+   "exp": "Aurangzeb's wars in the south drained the treasury and his intolerance sparked revolts."
+  }
+ ],
+ "Origin of the name Mughal": [
+  {
+   "q": "Which word is the root of the name of the Muslim dynasty that ruled India from 1526?",
+   "right": "Mongol",
+   "wrong": [
+    [
+     "Mamluk",
+     "The Mamluks ruled Egypt and Syria."
+    ],
+    [
+     "Manchu",
+     "The Manchus founded the Qing in China."
+    ],
+    [
+     "Maratha",
+     "The Marathas were Hindu rivals of the dynasty."
+    ]
+   ],
+   "exp": "The name points back to Babur's Mongol ancestors."
+  }
+ ],
+ "Banner system": [
+  {
+   "q": "Which institution organized the army that took Beijing in 1644?",
+   "right": "The Manchu banners",
+   "wrong": [
+    [
+     "The Janissary corps",
+     "Janissaries were Ottoman soldiers."
+    ],
+    [
+     "The Cossack bands",
+     "Cossacks fought for Russia in Siberia."
+    ],
+    [
+     "The ghulam regiments",
+     "Ghulams served the Safavid shahs."
+    ]
+   ],
+   "exp": "Nurhaci's banners were both army units and administrative units."
+  }
+ ],
+ "Manchu conquest of China (1644)": [
+  {
+   "q": "Why did the Qing rulers have to work hard to prove their right to rule?",
+   "right": "They were a minority from outside China",
+   "wrong": [
+    [
+     "They had no army to defend Beijing",
+     "Their banner armies took and held Beijing."
+    ],
+    [
+     "They had rejected the civil service exam",
+     "The Qing kept the exam."
+    ],
+    [
+     "They had lost the Mandate of Heaven to the Ming",
+     "The Qing replaced the Ming and claimed the Mandate."
+    ]
+   ],
+   "exp": "As foreign rulers of a Han majority, the Manchus needed legitimacy."
+  }
+ ],
+ "Kangxi": [
+  {
+   "q": "Which ruler presided over a long period of Qing stability and expansion that included Taiwan and Tibet?",
+   "right": "Kangxi",
+   "wrong": [
+    [
+     "Qianlong",
+     "Qianlong ruled later (1736–1796) and annexed Xinjiang."
+    ],
+    [
+     "Hongwu",
+     "Hongwu founded the Ming dynasty in 1368."
+    ],
+    [
+     "Kublai Khan",
+     "Kublai founded the Yuan dynasty."
+    ]
+   ],
+   "exp": "Kangxi took Taiwan in 1683 and extended control into Tibet."
+  }
+ ],
+ "Qianlong": [
+  {
+   "q": "Which development weakened the Qing treasury late in the 1700s?",
+   "right": "Failed campaigns in Burma and Vietnam",
+   "wrong": [
+    [
+     "The loss of Taiwan to a Japanese invasion",
+     "The Qing held Taiwan in this period."
+    ],
+    [
+     "The decision to end the civil service exam",
+     "The exam continued until 1905."
+    ],
+    [
+     "Large tribute payments sent to the Mughal court",
+     "The Qing received tribute; they did not pay the Mughals."
+    ]
+   ],
+   "exp": "Qianlong's costly southern campaigns drained the treasury."
+  }
+ ],
+ "Zunghars": [
+  {
+   "q": "Which group was the Qing's main rival on the Central Asian steppe?",
+   "right": "The Zunghar Mongols",
+   "wrong": [
+    [
+     "The Hindu Marathas of the Deccan",
+     "The Marathas fought the Mughals in India."
+    ],
+    [
+     "The Pashtun rebels of Afghanistan",
+     "Pashtun rebels sacked the Safavid capital."
+    ],
+    [
+     "The Mamluk sultans of Egypt and Syria",
+     "The Mamluks were conquered by the Ottomans."
+    ]
+   ],
+   "exp": "Kangxi defeated the Zunghars in 1696."
+  }
+ ],
+ "Ivan IV": [
+  {
+   "q": "Which ruler first pushed Russia east by taking khanates ruled by descendants of the Golden Horde?",
+   "right": "Ivan IV",
+   "wrong": [
+    [
+     "Peter the Great",
+     "Peter ruled later (1682–1725) and looked west."
+    ],
+    [
+     "Kangxi",
+     "Kangxi was a Qing emperor."
+    ],
+    [
+     "Suleiman I",
+     "Suleiman was an Ottoman sultan."
+    ]
+   ],
+   "exp": "Ivan IV took Kazan and Astrakhan in the 1550s."
+  }
+ ],
+ "Cossacks": [
+  {
+   "q": "Which group fought local peoples and the Siberian khan so Russia could control the fur trade?",
+   "right": "Cossacks",
+   "wrong": [
+    [
+     "Janissaries",
+     "Janissaries were Ottoman soldiers."
+    ],
+    [
+     "Boyars",
+     "Boyars were Russian nobles, not frontier fighters."
+    ],
+    [
+     "Samurai",
+     "Samurai were Japanese warriors."
+    ]
+   ],
+   "exp": "The Stroganovs hired Cossacks to fight in Siberia."
+  }
+ ],
+ "Russian push to the Pacific": [
+  {
+   "q": "What mainly drove Russian expansion across Siberia?",
+   "right": "The fur trade",
+   "wrong": [
+    [
+     "The search for a Shi'a holy city",
+     "Russia was Orthodox Christian."
+    ],
+    [
+     "Gold from West Africa",
+     "West African gold drew Morocco, not Russia."
+    ],
+    [
+     "Silver from Potosí",
+     "Potosí silver is in South America."
+    ]
+   ],
+   "exp": "Ivan IV wanted to control the fur trade, and traders kept pushing east."
+  }
+ ],
+ "Control of the Volga": [
+  {
+   "q": "How did gaining the river that flows into the Caspian Sea help Russia?",
+   "right": "It allowed direct trade with Persia",
+   "wrong": [
+    [
+     "It gave Russia a warm-water Baltic port",
+     "St. Petersburg on the Baltic came later under Peter."
+    ],
+    [
+     "It ended Russian serfdom",
+     "Serfdom grew worse in this period."
+    ],
+    [
+     "It linked Russia to the Pacific",
+     "The Volga flows south into the Caspian, not east."
+    ]
+   ],
+   "exp": "The Volga let Moscow trade south without the Crimean Tatars in the way."
+  }
+ ],
+ "Songhai": [
+  {
+   "q": "Why did Timbuktu flourish under this West African empire?",
+   "right": "Rulers backed trade and Islamic scholarship",
+   "wrong": [
+    [
+     "It was the Ottoman capital in North Africa",
+     "Timbuktu was never an Ottoman capital."
+    ],
+    [
+     "It was the center of the global silver trade",
+     "The trade was in gold and salt."
+    ],
+    [
+     "It was protected by a large Songhai navy on the coast",
+     "Songhai was a land empire on the Niger River."
+    ]
+   ],
+   "exp": "Songhai rulers supported trade and learning, so Timbuktu became a center of both."
+  }
+ ],
+ "Battle of Tondibi (1591)": [
+  {
+   "q": "Which battle shows that gunpowder decided wars outside Eurasia too?",
+   "right": "Tondibi, 1591",
+   "wrong": [
+    [
+     "Chaldiran, 1514",
+     "Chaldiran was in Persia, in Eurasia."
+    ],
+    [
+     "Panipat, 1526",
+     "Panipat was in northern India, in Eurasia."
+    ],
+    [
+     "Mohács, 1526",
+     "Mohács was in Hungary, in Europe."
+    ]
+   ],
+   "exp": "Morocco's arquebuses defeated Songhai in West Africa."
+  }
+ ],
+ "Moroccan invasion of Songhai": [
+  {
+   "q": "What was Morocco's main goal when it invaded the Songhai Empire?",
+   "right": "Control of the gold trade routes",
+   "wrong": [
+    [
+     "Spreading Shi'a Islam across the Sahara",
+     "Both states were Sunni Muslim."
+    ],
+    [
+     "Gaining a port on the Pacific Ocean",
+     "West Africa does not border the Pacific."
+    ],
+    [
+     "Stopping Portuguese missionaries in Timbuktu and Gao",
+     "The invasion was about trade, not missionaries."
+    ]
+   ],
+   "exp": "Morocco wanted West Africa's gold."
+  }
+ ],
+ "Battle of Chaldiran (1514)": [
+  {
+   "q": "After losing this battle, the Safavids rebuilt their army with muskets and cannons. What does this show?",
+   "right": "Defeat pushed rivals to adopt gunpowder",
+   "wrong": [
+    [
+     "Cavalry was more effective than gunpowder weapons",
+     "The cavalry lost; that is why the Safavids changed."
+    ],
+    [
+     "The Ottomans gave up firearms after their victory",
+     "The Ottomans kept their artillery."
+    ],
+    [
+     "Religion played no part at all in the war between them",
+     "The battle was also a Sunni versus Shi'a clash."
+    ]
+   ],
+   "exp": "Losing to guns at Chaldiran made the Safavids adopt guns."
+  }
+ ],
+ "Ottoman–Safavid rivalry": [
+  {
+   "q": "Which statement best explains the long conflict between the Ottomans and the Safavids?",
+   "right": "Religion and territory both mattered",
+   "wrong": [
+    [
+     "It was only a dispute about religious doctrine",
+     "Your textbook says it was also about territory and trade routes."
+    ],
+    [
+     "It was only a contest over the West African gold trade",
+     "The gold trade is a West African issue."
+    ],
+    [
+     "It was mainly about which of them would control India",
+     "India was ruled by the Mughals."
+    ]
+   ],
+   "exp": "Each side saw the other's Islam as heresy, and they also fought over land and trade."
+  }
+ ],
+ "Trade embargo": [
+  {
+   "q": "The Ottomans banned trade with Safavid silk merchants. What does this show about the rivalry?",
+   "right": "It was economic as well as religious",
+   "wrong": [
+    [
+     "The two empires had no contact at all",
+     "An embargo only matters because trade existed."
+    ],
+    [
+     "The Safavids controlled the Bosporus",
+     "The Ottomans held the Bosporus."
+    ],
+    [
+     "Silk was banned by Islamic law",
+     "The ban targeted a rival, not silk itself."
+    ]
+   ],
+   "exp": "Economic pressure was part of the rivalry."
+  }
+ ],
+ "Tabriz (1541)": [
+  {
+   "q": "Your textbook says a city in Persia became part of the line between Sunni and Shi'a societies. Which city?",
+   "right": "Tabriz",
+   "wrong": [
+    [
+     "Isfahan",
+     "Isfahan was the Safavid capital, deep inside Persia."
+    ],
+    [
+     "Kandahar",
+     "Kandahar was fought over by the Safavids and Mughals."
+    ],
+    [
+     "Istanbul",
+     "Istanbul was the Ottoman capital."
+    ]
+   ],
+   "exp": "The Ottomans stopped the Safavids at Tabriz in 1541."
+  }
+ ],
+ "Kandahar": [
+  {
+   "q": "Which place was at the center of the Safavid–Mughal rivalry?",
+   "right": "Kandahar, in Afghanistan",
+   "wrong": [
+    [
+     "Constantinople, on the Bosporus",
+     "That city was taken by the Ottomans."
+    ],
+    [
+     "Vienna, in Austria",
+     "Vienna was an Ottoman target."
+    ],
+    [
+     "Timbuktu, on the Niger",
+     "Timbuktu was a Songhai city."
+    ]
+   ],
+   "exp": "Kandahar changed hands in 1622, 1638 and 1649."
+  }
+ ],
+ "Humayun": [
+  {
+   "q": "The Safavid shah sheltered the exiled Mughal ruler and helped him regain his throne. What does this show?",
+   "right": "Rivals could also cooperate",
+   "wrong": [
+    [
+     "The two empires shared one ruler",
+     "They had separate rulers."
+    ],
+    [
+     "The Mughals were Shi'a like the Safavids",
+     "The Mughals were Sunni."
+    ],
+    [
+     "Religion caused all their conflicts",
+     "Their cooperation shows the relationship was more complicated."
+    ]
+   ],
+   "exp": "Rivalry was not constant; the Safavids helped Humayun in 1555."
+  }
+ ],
+ "Mughal–Maratha conflict": [
+  {
+   "q": "How did the Marathas contribute to Mughal decline?",
+   "right": "They drained Mughal resources",
+   "wrong": [
+    [
+     "They converted the emperors to Hinduism",
+     "The Mughal emperors stayed Muslim."
+    ],
+    [
+     "They captured Kandahar",
+     "Kandahar was taken by the Safavids."
+    ],
+    [
+     "They brought British rule in 1526",
+     "1526 is when Babur founded the empire."
+    ]
+   ],
+   "exp": "Guerrilla war in the Deccan was costly and helped weaken the empire."
+  }
+ ],
+ "Battle of Lepanto (1571)": [
+  {
+   "q": "Which event showed that European sea power could defeat the Ottomans?",
+   "right": "Lepanto, 1571",
+   "wrong": [
+    [
+     "Mohács, 1526",
+     "Mohács was an Ottoman land victory."
+    ],
+    [
+     "Chaldiran, 1514",
+     "Chaldiran was an Ottoman victory over the Safavids."
+    ],
+    [
+     "The capture of Rhodes, 1522",
+     "The Ottomans won Rhodes."
+    ]
+   ],
+   "exp": "Lepanto was an Ottoman naval defeat after Suleiman's death."
+  }
+ ],
+ "Second siege of Vienna (1683)": [
+  {
+   "q": "Your textbook says the Ottomans failed to take Vienna twice. What did the second failure mark?",
+   "right": "The start of Ottoman retreat in Europe",
+   "wrong": [
+    [
+     "The Ottomans' farthest push ever into Central Europe",
+     "The 1529 siege was already their farthest push."
+    ],
+    [
+     "The founding of the first Ottoman navy in the Mediterranean",
+     "The navy existed long before."
+    ],
+    [
+     "The fall of the Safavid capital to Afghan rebels",
+     "Isfahan fell in 1722 to Afghan rebels."
+    ]
+   ],
+   "exp": "1529 was the high-water mark; 1683 was the turning point."
+  }
+ ],
+ "Harem politics": [
+  {
+   "q": "Which problem made Ottoman successions weaker after Suleiman?",
+   "right": "Rival mothers pushing their own sons",
+   "wrong": [
+    [
+     "A law banning sultans from having sons",
+     "No such law existed."
+    ],
+    [
+     "The end of the devshirme in 1453",
+     "The devshirme expanded in the 1400s and 1500s."
+    ],
+    [
+     "Elections of sultans by Janissaries",
+     "Sultans were not elected."
+    ]
+   ],
+   "exp": "Harem politics made some women powerful behind the scenes and weakened succession."
+  }
+ ],
+ "Sick Man of Europe": [
+  {
+   "q": "A cartoonist calls an empire that once besieged Vienna weak and dying. Which empire?",
+   "right": "The Ottoman Empire",
+   "wrong": [
+    [
+     "The Russian Empire under the Romanovs",
+     "Russia modernized and stayed strong."
+    ],
+    [
+     "The Qing Empire of the Manchus",
+     "The nickname refers to an empire in Europe."
+    ],
+    [
+     "The Safavid Empire of Persia",
+     "The Safavids never besieged Vienna."
+    ]
+   ],
+   "exp": "The nickname described the Ottomans' decline."
+  }
+ ],
+ "Fall of Isfahan (1722)": [
+  {
+   "q": "Which event shows the Safavid Empire's collapse after Abbas I?",
+   "right": "Pashtun rebels sacking the capital in 1722",
+   "wrong": [
+    [
+     "Morocco invading Persia across the Sahara in 1591",
+     "Morocco invaded Songhai."
+    ],
+    [
+     "The Mughals capturing Istanbul from the Ottomans",
+     "The Mughals never took Istanbul."
+    ],
+    [
+     "Ismail I founding the empire as a teenager in 1501",
+     "That was its beginning, in 1501."
+    ]
+   ],
+   "exp": "Weak shahs and falling revenue led to the 1722 sack of Isfahan."
+  }
+ ],
+ "Why Russia survived": [
+  {
+   "q": "Your textbook explains why Russia outlasted the three Islamic gunpowder empires. Which reason does it give?",
+   "right": "Russia rebuilt its army on Western models",
+   "wrong": [
+    [
+     "Russia avoided using gunpowder weapons entirely",
+     "Russia relied on firearms too."
+    ],
+    [
+     "Russia had the largest and strongest navy in all of Asia",
+     "The textbook's reason is army reform."
+    ],
+    [
+     "Russia converted to Islam to win over its southern neighbors",
+     "Russia remained Orthodox Christian."
+    ]
+   ],
+   "exp": "Military modernization let Russia survive as an independent state."
+  }
+ ],
+ "Devshirme": [
+  {
+   "q": "Why were officials recruited this way loyal to the sultan alone?",
+   "right": "They had no ties to noble families",
+   "wrong": [
+    [
+     "They were elected by local towns",
+     "They were taken by force, not elected."
+    ],
+    [
+     "They were the sultan's own relatives",
+     "They came from Christian peasant families."
+    ],
+    [
+     "They owned large private estates",
+     "Their position depended on the sultan, not on land."
+    ]
+   ],
+   "exp": "Cut off from their families, they owed everything to the sultan."
+  }
+ ],
+ "Janissaries": [
+  {
+   "q": "Which force was key to Ottoman victories at Constantinople and Chaldiran?",
+   "right": "The Janissary corps",
+   "wrong": [
+    [
+     "The Qizilbash of Persia",
+     "The Qizilbash were Safavid warriors."
+    ],
+    [
+     "The oprichnina of Ivan IV",
+     "The oprichnina served Ivan IV in Russia."
+    ],
+    [
+     "The banners of the Manchus",
+     "The banners were Manchu units."
+    ]
+   ],
+   "exp": "Janissaries were gunpowder infantry loyal to the sultan."
+  }
+ ],
+ "Ghulams": [
+  {
+   "q": "Which institution is the closest Safavid parallel to the Janissaries?",
+   "right": "The ghulams",
+   "wrong": [
+    [
+     "The zamindars",
+     "Zamindars were Mughal tax collectors."
+    ],
+    [
+     "The daimyo",
+     "Daimyo were Japanese lords."
+    ],
+    [
+     "The boyars",
+     "Boyars were Russian nobles."
+    ]
+   ],
+   "exp": "Both were elites recruited from minorities and tied directly to the ruler."
+  }
+ ],
+ "Qizilbash": [
+  {
+   "q": "Why did Shah Abbas build a slave army instead of relying only on the warriors who founded the empire?",
+   "right": "The founders were loyal to their clans",
+   "wrong": [
+    [
+     "The founders refused to fight on horseback",
+     "The point is loyalty, not horses."
+    ],
+    [
+     "The founding warriors were Christian converts",
+     "The Qizilbash were Muslim."
+    ],
+    [
+     "The founding warriors lived far away in India",
+     "They were in Persia."
+    ]
+   ],
+   "exp": "Slave soldiers offset troops loyal to tribes or local leaders."
+  }
+ ],
+ "Men of the pen": [
+  {
+   "q": "Where did the Safavid shahs find their civilian officials?",
+   "right": "Among their Persian subjects",
+   "wrong": [
+    [
+     "Among Christian boys from the Balkans",
+     "That was the Ottoman devshirme."
+    ],
+    [
+     "Through a Confucian exam",
+     "That was the Chinese system."
+    ],
+    [
+     "From the samurai class",
+     "Samurai were Japanese."
+    ]
+   ],
+   "exp": "The Safavids drew on educated Persians for their bureaucracy."
+  }
+ ],
+ "Civil service exam (Qing)": [
+  {
+   "q": "Why did the Manchu rulers keep China's traditional test for officials?",
+   "right": "To look legitimate to Han Chinese",
+   "wrong": [
+    [
+     "To give Manchus every top government job",
+     "The exam was open to Han scholars."
+    ],
+    [
+     "Because the Yuan dynasty had relied on it heavily",
+     "The Yuan sidelined the exam."
+    ],
+    [
+     "To train Janissaries for the imperial army",
+     "Janissaries were Ottoman."
+    ]
+   ],
+   "exp": "Keeping the exam made the Qing look like proper Chinese rulers."
+  }
+ ],
+ "Manchu–Han shared posts": [
+  {
+   "q": "How did the Qing reduce resistance from their Han Chinese majority?",
+   "right": "By sharing offices with Han officials",
+   "wrong": [
+    [
+     "By banning Han Chinese from the government",
+     "The Qing included Han officials."
+    ],
+    [
+     "By ending Confucian rituals at the imperial court",
+     "The Qing adopted Confucian rituals."
+    ],
+    [
+     "By moving the capital from Beijing back to Manchuria",
+     "The capital stayed in Beijing."
+    ]
+   ],
+   "exp": "Sharing posts was a legitimacy strategy."
+  }
+ ],
+ "Oprichnina": [
+  {
+   "q": "Ivan IV recruited a loyal force from outside the noble class. Which Ottoman system had a similar goal?",
+   "right": "The devshirme",
+   "wrong": [
+    [
+     "Tax farming",
+     "Tax farming raised money; it was not a loyal force."
+    ],
+    [
+     "The millet system",
+     "Millets let religious groups govern themselves."
+    ],
+    [
+     "The jizya",
+     "The jizya was a tax on non-Muslims."
+    ]
+   ],
+   "exp": "Both created servants loyal only to the ruler, not to nobles."
+  }
+ ],
+ "Boyars": [
+  {
+   "q": "Ivan IV forced opponents to move to Moscow and Peter the Great required them to serve in his government. Which group?",
+   "right": "The boyars",
+   "wrong": [
+    [
+     "The Cossacks",
+     "Cossacks were frontier warriors."
+    ],
+    [
+     "The serfs",
+     "Serfs were peasants bound to the land."
+    ],
+    [
+     "The Streltsy",
+     "The Streltsy were a military corps."
+    ]
+   ],
+   "exp": "Russian rulers kept the boyars close to control them, like Louis XIV at Versailles."
+  }
+ ],
+ "Table of Ranks": [
+  {
+   "q": "Which reform weakened the hold of birth on Russian government jobs?",
+   "right": "Peter's Table of Ranks",
+   "wrong": [
+    [
+     "Ivan IV's black-clad oprichnina",
+     "The oprichnina was a loyal force, not a promotion system."
+    ],
+    [
+     "The new head tax on peasants in 1718",
+     "The head tax raised money from peasants."
+    ],
+    [
+     "Peter's creation of the Holy Synod for the Church",
+     "The Synod controlled the Church."
+    ]
+   ],
+   "exp": "Promotion by service, not birth."
+  }
+ ],
+ "Intendants": [
+  {
+   "q": "Which officials let French kings control the provinces directly?",
+   "right": "Intendants",
+   "wrong": [
+    [
+     "Justices of the peace",
+     "Those were English officials chosen from the gentry."
+    ],
+    [
+     "Zamindars",
+     "Zamindars served the Mughals."
+    ],
+    [
+     "Daimyo",
+     "Daimyo were Japanese lords."
+    ]
+   ],
+   "exp": "Richelieu and Louis XIII expanded the intendant system."
+  }
+ ],
+ "Justices of the peace": [
+  {
+   "q": "How did Tudor monarchs govern the English counties?",
+   "right": "Through gentry officials who enforced royal law",
+   "wrong": [
+    [
+     "Through Janissaries sent out from the royal court",
+     "Janissaries were Ottoman."
+    ],
+    [
+     "Through officials chosen by a Confucian exam",
+     "That was China."
+    ],
+    [
+     "Through tax farmers who bid for each English county",
+     "That was the Ottoman Empire."
+    ]
+   ],
+   "exp": "Justices of the peace grew in number and power under the Tudors."
+  }
+ ],
+ "Daimyo": [
+  {
+   "q": "Before 1603, why was Japan hard to rule from the center?",
+   "right": "Regional lords had their own armies",
+   "wrong": [
+    [
+     "Japan had no warrior class at all",
+     "Japan had samurai."
+    ],
+    [
+     "The shogun had banned all firearms in Japan",
+     "Firearms helped unify Japan."
+    ],
+    [
+     "Japan was ruled directly by the Qing emperors",
+     "Japan was independent."
+    ]
+   ],
+   "exp": "Powerful daimyo made Japan feudal and divided."
+  }
+ ],
+ "Oda Nobunaga": [
+  {
+   "q": "How did gunpowder affect Japan in the late 1500s?",
+   "right": "It helped lords unify the country",
+   "wrong": [
+    [
+     "It caused Japan to split into khanates",
+     "Khanates are Mongol."
+    ],
+    [
+     "It was banned by the Portuguese",
+     "The Portuguese sold the muskets."
+    ],
+    [
+     "It let the Ming conquer Japan",
+     "The Ming did not conquer Japan."
+    ]
+   ],
+   "exp": "Like the gunpowder empires, Japan was unified with firearms."
+  }
+ ],
+ "Toyotomi Hideyoshi": [
+  {
+   "q": "Who completed most of Japan's unification after 1582?",
+   "right": "Toyotomi Hideyoshi",
+   "wrong": [
+    [
+     "Tokugawa Ieyasu",
+     "Ieyasu came after Hideyoshi's death in 1598."
+    ],
+    [
+     "Kangxi, the Qing emperor",
+     "Kangxi was a Qing emperor."
+    ],
+    [
+     "Ivan IV of Russia",
+     "Ivan IV ruled Russia."
+    ]
+   ],
+   "exp": "Nobunaga, Hideyoshi, then Tokugawa."
+  }
+ ],
+ "Tokugawa Ieyasu": [
+  {
+   "q": "Who founded the shogunate that brought Japan its Period of Great Peace?",
+   "right": "Tokugawa Ieyasu",
+   "wrong": [
+    [
+     "Oda Nobunaga",
+     "Nobunaga was assassinated in 1582."
+    ],
+    [
+     "Toyotomi Hideyoshi",
+     "Hideyoshi died in 1598."
+    ],
+    [
+     "Askia the Great",
+     "Askia ruled Songhai."
+    ]
+   ],
+   "exp": "Ieyasu became shogun in 1603."
+  }
+ ],
+ "Alternate attendance": [
+  {
+   "q": "Which policy is the closest Japanese parallel to Louis XIV keeping nobles at Versailles?",
+   "right": "Making lords live part-time in Edo",
+   "wrong": [
+    [
+     "Turning samurai into salaried officials",
+     "That changed warriors into officials, not where lords lived."
+    ],
+    [
+     "Banning Christianity throughout Japan",
+     "That was about religion."
+    ],
+    [
+     "Limiting trade with foreign merchants to one port",
+     "That was about foreigners."
+    ]
+   ],
+   "exp": "Both kept powerful nobles where the ruler could watch them."
+  }
+ ],
+ "Salaried samurai": [
+  {
+   "q": "Paying warriors a salary helped the shogun mainly by",
+   "right": "making warriors depend on the government",
+   "wrong": [
+    [
+     "ending the use of rice as payment in Japan",
+     "They were paid first in rice."
+    ],
+    [
+     "giving warriors more land to rule as they wished",
+     "A salary replaced dependence on land."
+    ],
+    [
+     "letting warriors build private armies of their own",
+     "It did the opposite."
+    ]
+   ],
+   "exp": "Paid officials owed their income to the shogunate, not to feudal lords."
+  }
+ ],
+ "Tokugawa isolation": [
+  {
+   "q": "Why might the Tokugawa have banned Christianity?",
+   "right": "To remove a rival source of loyalty",
+   "wrong": [
+    [
+     "Because the Jesuits never reached Japan",
+     "Jesuits did reach Japan in 1549."
+    ],
+    [
+     "Because Japan was a Muslim state",
+     "Japan was not Muslim."
+    ],
+    [
+     "Because the Qing ordered it",
+     "Japan was independent of the Qing."
+    ]
+   ],
+   "exp": "Limiting foreign influence protected the shogun's control."
+  }
+ ],
+ "Divine right of kings": [
+  {
+   "q": "James I said kings 'sit upon God's throne.' Which idea is he using?",
+   "right": "Divine right",
+   "wrong": [
+    [
+     "Mandate of Heaven",
+     "The Mandate is Chinese and can be lost through bad rule."
+    ],
+    [
+     "Separation of church and state",
+     "James joins church and state."
+    ],
+    [
+     "Rule by Parliament",
+     "He claims to be above any earthly authority."
+    ]
+   ],
+   "exp": "European monarchs justified absolute power with divine right."
+  }
+ ],
+ "Absolutism": [
+  {
+   "q": "France in the 1600s and England after 1689 developed in opposite directions. Which describes France?",
+   "right": "Total power in the king",
+   "wrong": [
+    [
+     "Parliament approving all taxes",
+     "That describes England after 1689."
+    ],
+    [
+     "Rule by elected officials",
+     "France had no elected rulers."
+    ],
+    [
+     "Power shared with the Pope",
+     "The French king did not share power with the Pope."
+    ]
+   ],
+   "exp": "France became the model of absolutism under Louis XIV."
+  }
+ ],
+ "Louis XIV": [
+  {
+   "q": "Which ruler kept his nobles at court so they could not plot in the provinces?",
+   "right": "Louis XIV",
+   "wrong": [
+    [
+     "Henry VIII",
+     "Henry VIII broke with the Pope in England."
+    ],
+    [
+     "Ivan IV",
+     "Ivan moved boyars to Moscow, but he was not the Sun King."
+    ],
+    [
+     "Akbar",
+     "Akbar ruled Mughal India."
+    ]
+   ],
+   "exp": "Louis XIV kept nobles at Versailles."
+  }
+ ],
+ "Versailles": [
+  {
+   "q": "The Palace of Versailles served which two purposes?",
+   "right": "Display power and control nobles",
+   "wrong": [
+    [
+     "Train Janissaries and store gunpowder",
+     "That would be Ottoman."
+    ],
+    [
+     "House the Pope and the Inquisition",
+     "Versailles was a royal palace."
+    ],
+    [
+     "Collect tribute and hold exams",
+     "Those are Mexica and Chinese practices."
+    ]
+   ],
+   "exp": "Monumental architecture plus control of the nobility."
+  }
+ ],
+ "Caliph claim": [
+  {
+   "q": "Which Ottoman claim most resembles European divine right?",
+   "right": "Claiming to be caliph",
+   "wrong": [
+    [
+     "Collecting the jizya",
+     "That is a tax, not a claim to authority."
+    ],
+    [
+     "Using tax farming",
+     "That is a revenue method."
+    ],
+    [
+     "Recruiting through devshirme",
+     "That is a recruitment method."
+    ]
+   ],
+   "exp": "Both link the ruler's authority to religion."
+  }
+ ],
+ "Mandate of Heaven": [
+  {
+   "q": "How does the Mandate of Heaven differ from divine right?",
+   "right": "It can be lost by ruling badly",
+   "wrong": [
+    [
+     "It came from a single creator god",
+     "Divine right comes from the Christian God; the Mandate comes from heaven."
+    ],
+    [
+     "It was only used by European kings",
+     "The Mandate is Chinese."
+    ],
+    [
+     "It rejected religious ideas entirely",
+     "Both are religious justifications."
+    ]
+   ],
+   "exp": "Bad rule, disaster or revolt showed the Mandate was lost."
+  }
+ ],
+ "Qing imperial portraits": [
+  {
+   "q": "Why did Qing emperors commission official portraits showing Confucian virtue?",
+   "right": "To show they deserved the Mandate",
+   "wrong": [
+    [
+     "To advertise Christianity to their subjects",
+     "The portraits showed Confucian virtue."
+    ],
+    [
+     "To record the tax rates of each province",
+     "Portraits are art, not records."
+    ],
+    [
+     "To honor the Mughal emperor as their overlord",
+     "They honored the Qing emperor."
+    ]
+   ],
+   "exp": "Art projected legitimacy."
+  }
+ ],
+ "Human sacrifice": [
+  {
+   "q": "How did Mexica rulers use religious ritual to support their authority?",
+   "right": "Sacrifice showed they had divine favor",
+   "wrong": [
+    [
+     "They banned all temples in Tenochtitlan",
+     "They built temples such as the Templo Mayor."
+    ],
+    [
+     "They adopted Christianity to win divine favor",
+     "That came after the Spanish conquest."
+    ],
+    [
+     "They held Confucian exams to choose priests",
+     "That was China."
+    ]
+   ],
+   "exp": "Rulers appeared as mediators between gods and people."
+  }
+ ],
+ "Coricancha": [
+  {
+   "q": "How did sun temples support the Sapa Inca's rule?",
+   "right": "They showed him as child of the sun",
+   "wrong": [
+    [
+     "They stored the empire's gunpowder",
+     "The Inca did not use gunpowder."
+    ],
+    [
+     "They housed the civil service exam",
+     "That was China."
+    ],
+    [
+     "They served as a Christian cathedral",
+     "They honored Inti."
+    ]
+   ],
+   "exp": "Religion and architecture reinforced the Sapa Inca's divine status."
+  }
+ ],
+ "Taj Mahal": [
+  {
+   "q": "Which structure is an example of Mughal monumental architecture used to show wealth and authority?",
+   "right": "The tomb Shah Jahan built in Agra",
+   "wrong": [
+    [
+     "The Suleymaniye Mosque in Istanbul",
+     "That is Ottoman, in Istanbul."
+    ],
+    [
+     "The Winter Palace in St. Petersburg",
+     "That is Russian, in St. Petersburg."
+    ],
+    [
+     "The Coricancha, the temple in Cusco",
+     "That is Inca, in Cusco."
+    ]
+   ],
+   "exp": "Shah Jahan's tomb showed Mughal grandeur."
+  }
+ ],
+ "Topkapi Palace": [
+  {
+   "q": "Which building was the home of the Ottoman sultans?",
+   "right": "Topkapi Palace",
+   "wrong": [
+    [
+     "Versailles",
+     "Versailles was French."
+    ],
+    [
+     "The Red Fort",
+     "The Red Fort was Mughal."
+    ],
+    [
+     "The Forbidden City",
+     "The Forbidden City was Chinese."
+    ]
+   ],
+   "exp": "Topkapi was begun by Mehmed II."
+  }
+ ],
+ "Suleymaniye Mosque": [
+  {
+   "q": "Which structure shows an Ottoman sultan using religious architecture to display power?",
+   "right": "The mosque Suleiman built in Istanbul",
+   "wrong": [
+    [
+     "The Taj Mahal, the tomb in Agra",
+     "That is a Mughal tomb."
+    ],
+    [
+     "The Coricancha, the temple in Cusco",
+     "That is an Inca temple."
+    ],
+    [
+     "The Mosque of Isfahan, built by the shahs",
+     "That is Safavid."
+    ]
+   ],
+   "exp": "Suleiman built mosques, forts and other great buildings."
+  }
+ ],
+ "St. Petersburg": [
+  {
+   "q": "Peter the Great built his new capital in a European style. What did this show?",
+   "right": "His admiration for Western Europe",
+   "wrong": [
+    [
+     "His loyalty to Byzantine traditions",
+     "He chose European over Byzantine style."
+    ],
+    [
+     "His conversion to Islam",
+     "Peter was Orthodox."
+    ],
+    [
+     "His defeat by Sweden",
+     "He won Baltic lands from Sweden."
+    ]
+   ],
+   "exp": "The capital was a statement of westernization and power."
+  }
+ ],
+ "Askia the Great": [
+  {
+   "q": "How did this Songhai ruler legitimize his power?",
+   "right": "By promoting Islam as the state faith",
+   "wrong": [
+    [
+     "By claiming the Mandate of Heaven like Chinese emperors",
+     "That is Chinese."
+    ],
+    [
+     "By building a palace like Versailles",
+     "That is French."
+    ],
+    [
+     "By converting to Christianity to win European allies",
+     "He promoted Islam."
+    ]
+   ],
+   "exp": "Askia used Islam, like Mansa Musa of Mali before him."
+  }
+ ],
+ "Tax farming": [
+  {
+   "q": "Why did the Ottomans let private collectors gather taxes?",
+   "right": "It raised money with less bureaucracy",
+   "wrong": [
+    [
+     "It guaranteed honest and fair collectors",
+     "Your textbook says many grew corrupt."
+    ],
+    [
+     "It ended taxes on peasants in the villages",
+     "Peasants still paid."
+    ],
+    [
+     "It was required by Christian law in the Balkans",
+     "The Ottomans were a Muslim state."
+    ]
+   ],
+   "exp": "Cheap for the state, but it invited corruption."
+  }
+ ],
+ "Zamindars": [
+  {
+   "q": "Why did the Mughal system give tax collectors a share of what they collected?",
+   "right": "To give them a reason to collect well",
+   "wrong": [
+    [
+     "To fund the Janissaries of the Ottoman army",
+     "Janissaries were Ottoman."
+    ],
+    [
+     "To pay tribute to the Safavid shahs in Persia",
+     "The Mughals did not pay the Safavids."
+    ],
+    [
+     "To support the Confucian exam system",
+     "That was China."
+    ]
+   ],
+   "exp": "A share made collection efficient, but later collectors kept more and built private armies."
+  }
+ ],
+ "Tribute": [
+  {
+   "q": "Korea sent regular gifts to the Chinese court as a sign of respect. What system is this?",
+   "right": "A tribute system",
+   "wrong": [
+    [
+     "Tax farming",
+     "Tax farming is internal tax collection."
+    ],
+    [
+     "Armed trade",
+     "Armed trade is trade backed by force."
+    ],
+    [
+     "Alternate attendance",
+     "That is a Japanese control policy."
+    ]
+   ],
+   "exp": "Tribute showed submission to a stronger power."
+  }
+ ],
+ "Codex Mendoza": [
+  {
+   "q": "A historian studying how the Mexica funded their state would find which source most useful?",
+   "right": "A copied list of provincial tribute",
+   "wrong": [
+    [
+     "Luther's Ninety-Five Theses from 1517",
+     "That is about the Catholic Church."
+    ],
+    [
+     "A Qing imperial portrait of the emperor",
+     "That shows legitimacy, not revenue."
+    ],
+    [
+     "The Edict of Nantes granting toleration",
+     "That is about French religious toleration."
+    ]
+   ],
+   "exp": "It lists textiles, feathers and stones owed to Tenochtitlan."
+  }
+ ],
+ "Single Whip reform": [
+  {
+   "q": "Combining land taxes and labor duties into a single payment in silver mainly",
+   "right": "linked China's economy to global trade",
+   "wrong": [
+    [
+     "ended Chinese demand for silver from abroad",
+     "It increased demand for silver."
+    ],
+    [
+     "replaced the civil service exam with a tax test",
+     "It was a tax reform."
+    ],
+    [
+     "created the banner system of the Manchus",
+     "Banners were Manchu."
+    ]
+   ],
+   "exp": "Demand for silver drew metal from Japan and the Americas."
+  }
+ ],
+ "Ming demand for silver": [
+  {
+   "q": "Why did silver mined in South America end up in China?",
+   "right": "Chinese taxes had to be paid in silver",
+   "wrong": [
+    [
+     "China had no money economy before 1500",
+     "China had long used money."
+    ],
+    [
+     "The Mughals forced China to trade for it",
+     "The Mughals did not control the silver trade."
+    ],
+    [
+     "Silver had been banned from use in Europe",
+     "There was no such ban."
+    ]
+   ],
+   "exp": "This connects Unit 3 to Unit 4's global trade."
+  }
+ ],
+ "Head tax (Russia, 1718)": [
+  {
+   "q": "What was one effect of Peter's 1718 tax change?",
+   "right": "Peasants became more oppressed",
+   "wrong": [
+    [
+     "Serfdom ended",
+     "Serfdom continued and worsened."
+    ],
+    [
+     "The nobles paid most taxes",
+     "Peasants bore the burden."
+    ],
+    [
+     "Russia stopped funding its army",
+     "The taxes paid for his military."
+    ]
+   ],
+   "exp": "Taxing every person squeezed the peasants."
+  }
+ ],
+ "Serfdom": [
+  {
+   "q": "In Russia, when land changed hands, what happened to the peasants on it?",
+   "right": "Control over them passed with the land",
+   "wrong": [
+    [
+     "They became free farmers who owned the land",
+     "Serfs were bound, not freed."
+    ],
+    [
+     "They were drafted into Ivan IV's oprichnina",
+     "The oprichnina came from officials and merchants."
+    ],
+    [
+     "They were all moved to build St. Petersburg",
+     "Some were forced to build it, but control passed with the land."
+    ]
+   ],
+   "exp": "Serfs were bound to the land and to its owner."
+  }
+ ],
+ "English Bill of Rights (1689)": [
+  {
+   "q": "How did England's government in 1689 differ from absolutism in France?",
+   "right": "Parliament checked the monarch",
+   "wrong": [
+    [
+     "The king ruled by divine right alone",
+     "That describes France."
+    ],
+    [
+     "The king abolished Parliament",
+     "Parliament grew stronger."
+    ],
+    [
+     "The Pope approved English taxes",
+     "England had broken with the Pope."
+    ]
+   ],
+   "exp": "England moved toward limited monarchy while France became absolute."
+  }
+ ],
+ "Peter the Great": [
+  {
+   "q": "Which ruler is the best example of a land-based ruler copying Western Europe to strengthen his state?",
+   "right": "Peter the Great",
+   "wrong": [
+    [
+     "Aurangzeb",
+     "Aurangzeb enforced strict Sunni rule, not western models."
+    ],
+    [
+     "Shah Abbas I",
+     "Abbas imported European weapons, but did not westernize his state."
+    ],
+    [
+     "Kangxi of the Qing",
+     "Kangxi kept Confucian traditions."
+    ]
+   ],
+   "exp": "Peter modernized the army, built St. Petersburg and paid officials salaries."
+  }
+ ],
+ "Streltsy": [
+  {
+   "q": "How did Peter deal with the military corps that rebelled against him?",
+   "right": "He disbanded and absorbed it",
+   "wrong": [
+    [
+     "He made it his secret police",
+     "That was closer to Ivan's oprichnina."
+    ],
+    [
+     "He sent it to fight in India",
+     "Russia did not fight in India."
+    ],
+    [
+     "He let it elect the next tsar",
+     "Peter consolidated his own power."
+    ]
+   ],
+   "exp": "Peter disbanded the Streltsy and folded them into the regular army."
+  }
+ ],
+ "Indulgences": [
+  {
+   "q": "Luther's attack on this Church practice sparked the Reformation. Which practice?",
+   "right": "Selling pardons for sin",
+   "wrong": [
+    [
+     "Translating the Bible into English",
+     "That was Wycliffe's work, not what Luther attacked."
+    ],
+    [
+     "Holding the Council of Trent",
+     "Trent came later, in response."
+    ],
+    [
+     "Building the Hagia Sophia",
+     "That was a Byzantine church."
+    ]
+   ],
+   "exp": "Luther objected to selling indulgences."
+  }
+ ],
+ "Simony": [
+  {
+   "q": "Luther objected to the Church charging money for positions such as bishop. What is this called?",
+   "right": "Simony",
+   "wrong": [
+    [
+     "Tax farming",
+     "Tax farming is a state revenue system."
+    ],
+    [
+     "Predestination",
+     "Predestination is a Calvinist belief."
+    ],
+    [
+     "Excommunication",
+     "Excommunication is expelling someone from the Church."
+    ]
+   ],
+   "exp": "Simony and indulgences were two of Luther's targets."
+  }
+ ],
+ "Ninety-Five Theses (1517)": [
+  {
+   "q": "Which document is most directly linked to the break in Western Christianity?",
+   "right": "Luther's list of charges of 1517",
+   "wrong": [
+    [
+     "The Peace of Westphalia signed in 1648",
+     "That ended the Thirty Years' War in 1648."
+    ],
+    [
+     "The Catholic Index of Prohibited Books",
+     "That was a Catholic response."
+    ],
+    [
+     "The Edict of Nantes issued by Henry IV",
+     "That granted toleration in France in 1598."
+    ]
+   ],
+   "exp": "1517 is the start date of the Protestant Reformation."
+  }
+ ],
+ "Martin Luther": [
+  {
+   "q": "Why did some German princes support this monk against the Pope?",
+   "right": "To free themselves from papal power",
+   "wrong": [
+    [
+     "Because he promised them the Pope's lands",
+     "The princes saw an opportunity; Luther did not promise lands."
+    ],
+    [
+     "Because he supported peasant revolts",
+     "Luther did not support the peasants."
+    ],
+    [
+     "Because the Ottomans ordered it",
+     "The Ottomans had no say."
+    ]
+   ],
+   "exp": "Politics and religion combined: the princes wanted independence from the Pope."
+  }
+ ],
+ "Sola fide": [
+  {
+   "q": "Which belief most directly undercut the sale of indulgences?",
+   "right": "Salvation by faith alone",
+   "wrong": [
+    [
+     "The authority of the Pope",
+     "Papal authority supported indulgences."
+    ],
+    [
+     "The Mandate of Heaven",
+     "That is Chinese."
+    ],
+    [
+     "Predestination of the elect",
+     "That is Calvinist and came later."
+    ]
+   ],
+   "exp": "If faith alone saves, paying for pardons is pointless."
+  }
+ ],
+ "John Calvin": [
+  {
+   "q": "Which reformer's followers included the Huguenots and the Puritans?",
+   "right": "John Calvin",
+   "wrong": [
+    [
+     "Martin Luther",
+     "Luther's followers were Lutherans."
+    ],
+    [
+     "Henry VIII",
+     "Henry founded the Anglican Church."
+    ],
+    [
+     "Ignatius of Loyola",
+     "He founded the Catholic Jesuits."
+    ]
+   ],
+   "exp": "Calvinist branches included the Huguenots and Puritans."
+  }
+ ],
+ "Predestination": [
+  {
+   "q": "A community believes God chose its members for salvation before birth. Which tradition?",
+   "right": "Calvinism",
+   "wrong": [
+    [
+     "Lutheranism",
+     "Lutherans stressed faith alone."
+    ],
+    [
+     "Sikhism",
+     "Sikhism rejects caste and teaches devotion to one God."
+    ],
+    [
+     "Shi'a Islam",
+     "Shi'a Islam is about leadership through Ali's descendants."
+    ]
+   ],
+   "exp": "Calvinists called the chosen 'the elect.'"
+  }
+ ],
+ "Huguenots": [
+  {
+   "q": "Which group did the Edict of Nantes protect?",
+   "right": "French Calvinists",
+   "wrong": [
+    [
+     "English Puritans in Boston",
+     "Puritans were in England."
+    ],
+    [
+     "German Lutherans in Saxony",
+     "The Peace of Augsburg dealt with Lutherans."
+    ],
+    [
+     "Spanish Jesuits in the Americas",
+     "Jesuits were Catholic."
+    ]
+   ],
+   "exp": "Henry IV granted toleration to the Huguenots in 1598."
+  }
+ ],
+ "Protestant work ethic": [
+  {
+   "q": "Which social effect has been linked to Calvinism?",
+   "right": "Valuing hard work and reinvestment",
+   "wrong": [
+    [
+     "Rejecting all trade and commerce",
+     "Calvinists were encouraged to prosper."
+    ],
+    [
+     "Ending literacy for women",
+     "Protestantism promoted literacy."
+    ],
+    [
+     "Restoring the authority of the Pope",
+     "Calvinists rejected the Pope."
+    ]
+   ],
+   "exp": "Weber linked Calvinism to hard work and reinvestment."
+  }
+ ],
+ "Anglican Church": [
+  {
+   "q": "Why did Henry VIII break with the Pope?",
+   "right": "The Pope refused to annul his marriage",
+   "wrong": [
+    [
+     "The Pope sold him too many indulgences",
+     "The break was over an annulment."
+    ],
+    [
+     "He wanted to join the new Jesuit order",
+     "He broke with Rome."
+    ],
+    [
+     "He had converted to Calvinism in Geneva",
+     "He made himself head of a new church."
+    ]
+   ],
+   "exp": "Henry wanted a male heir and a new marriage."
+  }
+ ],
+ "Counter-Reformation": [
+  {
+   "q": "Which statement best describes the Catholic Church's response to the Reformation?",
+   "right": "It reformed itself and fought back",
+   "wrong": [
+    [
+     "It accepted Protestant teachings",
+     "Trent reaffirmed Catholic doctrine."
+    ],
+    [
+     "It dissolved itself after the Reformation",
+     "It remains the largest Christian denomination."
+    ],
+    [
+     "It moved its headquarters from Rome to Istanbul",
+     "It stayed in Rome."
+    ]
+   ],
+   "exp": "Inquisition, Jesuits and the Council of Trent were its three prongs."
+  }
+ ],
+ "Council of Trent (1545–1563)": [
+  {
+   "q": "Which event kept Southern Europe Catholic by reaffirming doctrine and fixing some abuses?",
+   "right": "The council held from 1545 to 1563",
+   "wrong": [
+    [
+     "The Peace of Augsburg signed in 1555",
+     "That let German rulers choose Lutheranism."
+    ],
+    [
+     "Luther's Ninety-Five Theses of 1517",
+     "That started the Reformation."
+    ],
+    [
+     "The Thirty Years' War of 1618 to 1648",
+     "That was a war, not a council."
+    ]
+   ],
+   "exp": "Trent was the center of the Catholic Reformation."
+  }
+ ],
+ "Jesuits": [
+  {
+   "q": "How did the Catholic Reformation help Christianity grow outside Europe?",
+   "right": "Through missionaries in Asia and the Americas",
+   "wrong": [
+    [
+     "Through the Peace of Westphalia",
+     "That settled Europe's wars."
+    ],
+    [
+     "Through the Edict of Nantes in France",
+     "That was French toleration of Protestants."
+    ],
+    [
+     "Through Lutheran princes who sent missions abroad",
+     "They were Protestant."
+    ]
+   ],
+   "exp": "Jesuits went to India, Japan and the Spanish Empire."
+  }
+ ],
+ "Francis Xavier": [
+  {
+   "q": "Which person best shows the Catholic Reformation reaching Asia?",
+   "right": "A Jesuit missionary who landed in Japan in 1549",
+   "wrong": [
+    [
+     "A Lutheran prince who protected Luther in Germany",
+     "That is the Protestant Reformation in Europe."
+    ],
+    [
+     "An Ottoman tax farmer collecting from Christian villages",
+     "That is unrelated to Christianity."
+    ],
+    [
+     "A Huguenot craftsman who left France after 1685",
+     "That is about France in 1685."
+    ]
+   ],
+   "exp": "Xavier founded Catholic communities in India and Japan."
+  }
+ ],
+ "Inquisition": [
+  {
+   "q": "Which Counter-Reformation tool relied on force rather than persuasion?",
+   "right": "The Inquisition",
+   "wrong": [
+    [
+     "Jesuit schools",
+     "Schools persuaded through teaching."
+    ],
+    [
+     "Better training of priests",
+     "Training is reform, not force."
+    ],
+    [
+     "Missions to Japan",
+     "Missions tried to convert."
+    ]
+   ],
+   "exp": "The Inquisition punished those it judged heretics."
+  }
+ ],
+ "Index of Prohibited Books": [
+  {
+   "q": "Which Council of Trent action tried to control ideas?",
+   "right": "Publishing a list of banned books",
+   "wrong": [
+    [
+     "Approving the sale of indulgences",
+     "Trent corrected abuses rather than expanding them."
+    ],
+    [
+     "Founding the Anglican Church",
+     "Henry VIII did that."
+    ],
+    [
+     "Signing the Peace of Westphalia with Protestant states",
+     "That ended a war in 1648."
+    ]
+   ],
+   "exp": "The Index banned Protestant Bibles and some scientific works."
+  }
+ ],
+ "Peace of Augsburg (1555)": [
+  {
+   "q": "Under this agreement, what could a Lutheran living in a Catholic German state do?",
+   "right": "Move to a Lutheran state",
+   "wrong": [
+    [
+     "Vote to change the state religion",
+     "The ruler chose, not the people."
+    ],
+    [
+     "Practice openly where he was",
+     "Residents had to follow the state religion."
+    ],
+    [
+     "Join the Calvinist option",
+     "Calvinism was added later, in 1648."
+    ]
+   ],
+   "exp": "People who refused the ruler's choice could move."
+  }
+ ],
+ "Henry IV of France": [
+  {
+   "q": "What does 'Paris is well worth a Mass' suggest about Henry IV?",
+   "right": "He put political peace ahead of doctrine",
+   "wrong": [
+    [
+     "He wanted to destroy the Catholic Church",
+     "He converted to Catholicism."
+    ],
+    [
+     "He refused to compromise on matters of faith",
+     "He compromised."
+    ],
+    [
+     "He was a Jesuit missionary sent to convert Paris",
+     "He was a king."
+    ]
+   ],
+   "exp": "He converted to unify France, then granted toleration."
+  }
+ ],
+ "Edict of Nantes (1598)": [
+  {
+   "q": "Which act brought religious toleration to France for 87 years?",
+   "right": "Henry IV's order of 1598",
+   "wrong": [
+    [
+     "The Peace of Augsburg",
+     "That applied to the Holy Roman Empire."
+    ],
+    [
+     "The Council of Trent",
+     "Trent was a Catholic council."
+    ],
+    [
+     "The English Bill of Rights",
+     "That was English."
+    ]
+   ],
+   "exp": "It lasted until Louis XIV revoked it."
+  }
+ ],
+ "Revocation of the Edict of Nantes (1685)": [
+  {
+   "q": "What was one economic effect of Louis XIV ending toleration in 1685?",
+   "right": "Skilled craftsmen left France",
+   "wrong": [
+    [
+     "France became a Protestant kingdom",
+     "France stayed Catholic."
+    ],
+    [
+     "The Thirty Years' War broke out in Germany",
+     "That began in 1618."
+    ],
+    [
+     "The Pope lost control of the Church in Spain",
+     "That is unrelated."
+    ]
+   ],
+   "exp": "Losing the Huguenots cost France skills and industry."
+  }
+ ],
+ "Thirty Years' War (1618–1648)": [
+  {
+   "q": "Why is this war a good example of religion and politics mixing?",
+   "right": "It began over faith but drew in rival powers",
+   "wrong": [
+    [
+     "It was fought only by clergy and monks",
+     "Armies of many states fought."
+    ],
+    [
+     "It was a war between Sunni and Shi'a Muslims",
+     "It was Catholic versus Protestant."
+    ],
+    [
+     "It ended the Protestant Reformation for good and all",
+     "Protestantism survived and was recognized."
+    ]
+   ],
+   "exp": "It started as a religious conflict and became a general European war."
+  }
+ ],
+ "Peace of Westphalia (1648)": [
+  {
+   "q": "What changed between the Peace of Augsburg and the Peace of Westphalia?",
+   "right": "Calvinism became an accepted choice",
+   "wrong": [
+    [
+     "Lutheranism was banned",
+     "Lutheranism stayed an option."
+    ],
+    [
+     "The Pope regained control of Germany",
+     "German states gained autonomy."
+    ],
+    [
+     "All states had to be Catholic",
+     "Three options were allowed."
+    ]
+   ],
+   "exp": "Augsburg: Catholic or Lutheran. Westphalia: Calvinist added."
+  }
+ ],
+ "Spanish Armada (1588)": [
+  {
+   "q": "Philip II's attempt to conquer England best shows",
+   "right": "religion driving war between states",
+   "wrong": [
+    [
+     "Ottoman expansion into western Europe",
+     "Philip II was the Spanish king."
+    ],
+    [
+     "a Protestant attack on Catholic Spain",
+     "Spain was the Catholic attacker."
+    ],
+    [
+     "Peter the Great's push to westernize Russia",
+     "That is Russia."
+    ]
+   ],
+   "exp": "Philip took the Catholic cause to England in 1588."
+  }
+ ],
+ "Holy Synod": [
+  {
+   "q": "How did Peter the Great's church reform resemble Henry VIII's?",
+   "right": "The ruler placed the church under the state",
+   "wrong": [
+    [
+     "Both made their countries Roman Catholic",
+     "Russia was Orthodox; England became Anglican."
+    ],
+    [
+     "Both obeyed the Pope's orders on church matters",
+     "Both acted against outside church authority."
+    ],
+    [
+     "Both ended Christianity in their countries",
+     "Both kept Christianity."
+    ]
+   ],
+   "exp": "Both rulers brought the church under their control."
+  }
+ ],
+ "Sunni Islam": [
+  {
+   "q": "Which empires followed the larger branch of Islam?",
+   "right": "The Ottomans and the Mughals",
+   "wrong": [
+    [
+     "The Safavids and the Mughals",
+     "The Safavids were Shi'a."
+    ],
+    [
+     "The Safavids and the Ottomans",
+     "The Safavids were Shi'a."
+    ],
+    [
+     "The Qing and the Ottomans",
+     "The Qing were not Muslim."
+    ]
+   ],
+   "exp": "Ottomans and Mughals: Sunni. Safavids: Shi'a."
+  }
+ ],
+ "Shi'a Islam": [
+  {
+   "q": "Which belief separated the Safavids from their neighbors?",
+   "right": "Leadership through Ali's descendants",
+   "wrong": [
+    [
+     "Rejecting the caste system",
+     "That is Sikhism."
+    ],
+    [
+     "Salvation by faith alone",
+     "That is Lutheran."
+    ],
+    [
+     "The Mandate of Heaven from the Chinese emperors",
+     "That is Chinese."
+    ]
+   ],
+   "exp": "The split dates to a dispute over who should succeed Muhammad in 632."
+  }
+ ],
+ "Forced conversion in Safavid Persia": [
+  {
+   "q": "How did Safavid religious policy differ from Akbar's?",
+   "right": "The Safavids forced their subjects to convert",
+   "wrong": [
+    [
+     "The Safavids tolerated all religions equally",
+     "That describes Akbar."
+    ],
+    [
+     "The Safavid rulers were Hindu",
+     "They were Shi'a Muslim."
+    ],
+    [
+     "The Safavids abolished the tax on all non-Muslim subjects",
+     "Akbar abolished it."
+    ]
+   ],
+   "exp": "Safavid: no tolerance. Akbar: tolerance."
+  }
+ ],
+ "Shariah": [
+  {
+   "q": "After 1453, what legal change came to the former Byzantine lands?",
+   "right": "Islamic law replaced Byzantine law",
+   "wrong": [
+    [
+     "Confucian law replaced Islamic law",
+     "Confucian law is Chinese."
+    ],
+    [
+     "An elected parliament began writing the laws",
+     "That is English."
+    ],
+    [
+     "The Pope's canon law took over the courts",
+     "The city became Muslim-ruled."
+    ]
+   ],
+   "exp": "A sultan replaced the emperor, and shariah replaced Justinian's law."
+  }
+ ],
+ "Sikhism": [
+  {
+   "q": "A new faith in Punjab teaches devotion to one God and rejects caste. What context explains its rise?",
+   "right": "Contact between Hindus and Muslims",
+   "wrong": [
+    [
+     "The Protestant Reformation in Europe",
+     "That was in Europe."
+    ],
+    [
+     "The wars between the Ottomans and the Safavids",
+     "Those were in the Middle East."
+    ],
+    [
+     "Jesuit missions arriving in India in 1542",
+     "Sikhism began before the Jesuits arrived in 1542."
+    ]
+   ],
+   "exp": "Sikhism grew from Hindu and Muslim interaction."
+  }
+ ],
+ "Guru Nanak": [
+  {
+   "q": "Who founded the faith whose holy city is Amritsar?",
+   "right": "Guru Nanak",
+   "wrong": [
+    [
+     "Akbar",
+     "Akbar promoted Din-i Ilahi."
+    ],
+    [
+     "Ismail I",
+     "Ismail founded the Safavid Empire."
+    ],
+    [
+     "Guru Gobind Singh",
+     "He was the tenth Guru, who founded the Khalsa."
+    ]
+   ],
+   "exp": "Nanak was the first Guru."
+  }
+ ],
+ "Adi Granth": [
+  {
+   "q": "What did the fifth Guru install at Amritsar in 1604?",
+   "right": "The first Sikh scripture",
+   "wrong": [
+    [
+     "A statue of the emperor Akbar",
+     "Sikhs did not install a statue of Akbar."
+    ],
+    [
+     "Luther's Ninety-Five Theses",
+     "That is Luther's."
+    ],
+    [
+     "A Safavid royal decree on Shi'a Islam",
+     "That is unrelated."
+    ]
+   ],
+   "exp": "Guru Arjan compiled the scripture."
+  }
+ ],
+ "Execution of Guru Arjan (1606)": [
+  {
+   "q": "Which event pushed Sikhs toward armed self-defense?",
+   "right": "A Mughal emperor's execution of their Guru",
+   "wrong": [
+    [
+     "Akbar's grants of land to the Sikh community",
+     "Grants were friendly."
+    ],
+    [
+     "The Battle of Chaldiran between two Muslim empires",
+     "That was Ottoman versus Safavid."
+    ],
+    [
+     "The Peace of Augsburg signed in Germany in 1555",
+     "That was in Germany."
+    ]
+   ],
+   "exp": "Jahangir's execution of Guru Arjan in 1606 was a turning point."
+  }
+ ],
+ "Khalsa": [
+  {
+   "q": "How did Sikhism change between its founding and 1699?",
+   "right": "It became organized to defend itself",
+   "wrong": [
+    [
+     "It merged into Shi'a Islam",
+     "It stayed separate."
+    ],
+    [
+     "It adopted the Hindu caste system",
+     "It kept rejecting caste."
+    ],
+    [
+     "It became the official religion of the Mughal state",
+     "The Mughals were Muslim."
+    ]
+   ],
+   "exp": "Persecution led to the Khalsa."
+  }
+ ],
+ "Din-i Ilahi": [
+  {
+   "q": "Akbar's attempt to blend religions into one faith is an example of",
+   "right": "syncretism that failed to spread",
+   "wrong": [
+    [
+     "a Protestant reform of the Church",
+     "It was in India, not Europe."
+    ],
+    [
+     "a Shi'a revival led by the Safavids",
+     "It was a blend, not a revival."
+    ],
+    [
+     "forced conversion of all Hindus to Islam",
+     "Akbar was tolerant and did not force it."
+    ]
+   ],
+   "exp": "Din-i Ilahi was syncretic but unpopular."
+  }
+ ],
+ "Syncretism": [
+  {
+   "q": "Which example best shows contact between religions creating a new tradition?",
+   "right": "Sikhism in Punjab",
+   "wrong": [
+    [
+     "The Inquisition in Spain",
+     "That punished differences."
+    ],
+    [
+     "Shi'a Islam in Safavid Persia",
+     "That was imposed, not blended."
+    ],
+    [
+     "The Peace of Westphalia",
+     "That allowed choices; it did not blend faiths."
+    ]
+   ],
+   "exp": "Sikhism is your teacher's key example of syncretism."
+  }
+ ],
+ "Akbar's land grants to Sikhs": [
+  {
+   "q": "How did Mughal policy toward the Sikhs change between Akbar and Jahangir?",
+   "right": "From support to persecution",
+   "wrong": [
+    [
+     "From persecution to support",
+     "It went the other way."
+    ],
+    [
+     "From Hindu to Christian rule",
+     "The Mughals were Muslim."
+    ],
+    [
+     "No change occurred",
+     "Jahangir executed Guru Arjan."
+    ]
+   ],
+   "exp": "Akbar granted land; Jahangir executed Guru Arjan."
+  }
+ ],
+ "Millet system": [
+  {
+   "q": "How did a Sunni state govern Christians and Jews without constant revolt?",
+   "right": "Religious communities governed themselves",
+   "wrong": [
+    [
+     "It forced every subject to convert to Islam",
+     "That was the Safavid approach."
+    ],
+    [
+     "It ended all taxes on non-Muslim subjects",
+     "Non-Muslims paid the jizya."
+    ],
+    [
+     "It banned Christian and Jewish worship in public",
+     "Millets kept their own religious life."
+    ]
+   ],
+   "exp": "The millet system let the Ottomans rule a diverse empire."
+  }
+ ],
+ "Queue": [
+  {
+   "q": "Requiring Han men to wear the Manchu hairstyle shows the Qing",
+   "right": "forcing visible signs of loyalty",
+   "wrong": [
+    [
+     "tolerating every local custom equally",
+     "It forced a custom."
+    ],
+    [
+     "adopting Han Chinese traditions completely",
+     "The queue was Manchu."
+    ],
+    [
+     "ending the civil service exam for Han Chinese",
+     "The exam continued."
+    ]
+   ],
+   "exp": "The Qing looked Chinese in some ways but stayed Manchu in others."
+  }
+ ],
+ "Jizya": [
+  {
+   "q": "Akbar ended it; Aurangzeb restored it. What does this tax show about each ruler?",
+   "right": "Their attitude toward non-Muslims",
+   "wrong": [
+    [
+     "Their success at sea",
+     "It is a tax policy, not naval."
+    ],
+    [
+     "Their relations with the Qing emperors",
+     "It concerns their own subjects."
+    ],
+    [
+     "Their use of gunpowder weapons in battle",
+     "It is not military."
+    ]
+   ],
+   "exp": "It is the clearest test of tolerance versus intolerance."
+  }
+ ],
+ "Akbar's Hindu policy": [
+  {
+   "q": "Which result best explains why Akbar's reign was stable?",
+   "right": "Hindu elites supported his rule",
+   "wrong": [
+    [
+     "He forced Hindus to convert to Islam",
+     "He did not."
+    ],
+    [
+     "He won Kandahar from the Safavids for good",
+     "The Safavids kept Kandahar."
+    ],
+    [
+     "He ended all trade with European merchants",
+     "Trade flourished."
+    ]
+   ],
+   "exp": "Including Hindus won their loyalty."
+  }
+ ],
+ "Aurangzeb's religious policy": [
+  {
+   "q": "Compared with Akbar, Aurangzeb's religious policy led to",
+   "right": "more revolts by non-Muslims",
+   "wrong": [
+    [
+     "greater loyalty from Hindu nobles",
+     "It reduced Hindu loyalty."
+    ],
+    [
+     "the conversion of the Sikhs to Islam",
+     "Sikhs resisted."
+    ],
+    [
+     "the founding of a new blended faith at court",
+     "That was Akbar's."
+    ]
+   ],
+   "exp": "Intolerance plus costly wars weakened the empire."
+  }
+ ],
+ "Qing legitimacy": [
+  {
+   "q": "Which pair shows the Qing both adapting to and standing apart from Chinese culture?",
+   "right": "Confucian exams and the queue",
+   "wrong": [
+    [
+     "Tax farming and the devshirme",
+     "Those are Ottoman."
+    ],
+    [
+     "Divine right and the Palace of Versailles",
+     "Those are French."
+    ],
+    [
+     "Sikhism and Akbar's blended faith",
+     "Those are South Asian."
+    ]
+   ],
+   "exp": "Exams and the Mandate looked Chinese; the queue kept Manchu control."
+  }
+ ],
+ "Slave soldiers": [
+  {
+   "q": "Why did both the Ottomans and Safavids recruit soldiers from minority groups?",
+   "right": "To get soldiers loyal only to the ruler",
+   "wrong": [
+    [
+     "Because minorities paid no taxes at all",
+     "The goal was loyalty, not taxes."
+    ],
+    [
+     "Because Islamic law required minority soldiers",
+     "It was a political choice."
+    ],
+    [
+     "To prepare for a war against the Qing emperors",
+     "Neither fought the Qing."
+    ]
+   ],
+   "exp": "Janissaries and ghulams had no local power base."
+  }
+ ],
+ "Aztec tributary empire": [
+  {
+   "q": "How did the Aztec Empire differ from the Ottoman Empire in governing?",
+   "right": "It relied on tribute and fear",
+   "wrong": [
+    [
+     "It chose officials with a Confucian exam",
+     "That is China."
+    ],
+    [
+     "It controlled the region with a strong navy",
+     "The Aztecs did not have a navy like the Ottomans."
+    ],
+    [
+     "It used a forced levy of Christian boys",
+     "That is Ottoman."
+    ]
+   ],
+   "exp": "The Aztecs were less centralized than the Eurasian empires."
+  }
+ ],
+ "Inca provinces": [
+  {
+   "q": "Which statement about Inca government is supported by your textbook?",
+   "right": "Loyal nobles ran provinces organized by tens",
+   "wrong": [
+    [
+     "Scholars passed written exams to become rulers",
+     "The Inca had no exam system."
+    ],
+    [
+     "Christian boys were trained as provincial officials",
+     "That is the devshirme."
+    ],
+    [
+     "Tax farmers bid for the right to govern provinces",
+     "That is Ottoman."
+    ]
+   ],
+   "exp": "The Inca were organized and centralized, unlike the Aztecs."
+  }
+ ],
+ "Songhai scholar-officials": [
+  {
+   "q": "Where did Songhai find educated officials?",
+   "right": "In Timbuktu's Islamic schools",
+   "wrong": [
+    [
+     "In the Forbidden City in Beijing",
+     "That is China."
+    ],
+    [
+     "Through the Ottoman devshirme",
+     "That is Ottoman."
+    ],
+    [
+     "At the court of Versailles in France",
+     "That is France."
+    ]
+   ],
+   "exp": "Like the Chinese exam, it tied education to government."
+  }
+ ],
+ "Safavid–Mughal war over trade": [
+  {
+   "q": "According to your textbook, what was the core cause of war between the Safavids and the Mughals?",
+   "right": "Control of resources and trade routes",
+   "wrong": [
+    [
+     "A Sunni versus Shi'a holy war and nothing else",
+     "The textbook says religion mattered less here."
+    ],
+    [
+     "A fight over the gold mines and markets of Timbuktu",
+     "That was Morocco and Songhai."
+    ],
+    [
+     "Competing claims to the city of Constantinople",
+     "That was the Ottomans."
+    ]
+   ],
+   "exp": "Compare: Ottoman–Safavid had a strong religious cause; Safavid–Mughal less so."
+  }
+ ],
+ "Gunpowder empires' decline": [
+  {
+   "q": "Which factor appears in your textbook's list of causes for the decline of the gunpowder empires?",
+   "right": "Heavy taxes to pay for large armies",
+   "wrong": [
+    [
+     "Adopting Western military models too quickly",
+     "That is why Russia survived."
+    ],
+    [
+     "Converting to Christianity under European pressure",
+     "They remained Muslim."
+    ],
+    [
+     "Losing all access to gunpowder after 1600",
+     "They still had gunpowder."
+    ]
+   ],
+   "exp": "Expensive armies burdened peasants and villages."
+  }
+ ],
+ "Empiricism": [
+  {
+   "q": "Which approach best describes the method Francis Bacon promoted in 1620?",
+   "right": "Testing ideas with collected evidence",
+   "wrong": [
+    [
+     "Accepting church teaching on the natural world",
+     "Bacon challenged traditional ideas."
+    ],
+    [
+     "Relying on a ruler's divine right to decide truth",
+     "That is a political claim."
+    ],
+    [
+     "Blending different religions into one new faith",
+     "That is syncretism."
+    ]
+   ],
+   "exp": "Empiricism relies on data, not tradition."
+  }
+ ],
+ "Principia (1687)": [
+  {
+   "q": "How did Newton's 1687 book influence later thinkers?",
+   "right": "They saw the world as orderly and rational",
+   "wrong": [
+    [
+     "They rejected science in favor of tradition",
+     "The book advanced science."
+    ],
+    [
+     "They restored the power of the Inquisition",
+     "That is a Church institution."
+    ],
+    [
+     "They used it to end the Thirty Years' War",
+     "That war ended in 1648."
+    ]
+   ],
+   "exp": "This leads into the Enlightenment (Topic 5.1)."
+  }
+ ]
+}
