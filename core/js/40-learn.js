@@ -130,7 +130,8 @@ function learnHTML() {
         (ok ? "Correct." : "Not quite.") +
         "</b> " +
         q.explain +
-        (!ok && q.card ? '<p class="muted">This term comes back in two questions.</p>' : "") +
+        (!ok && q.recall ? '<p class="muted">This one is from ' + esc(q.recall.label) + ". It doesn't count against this lesson.</p>" : "") +
+        (!ok && q.card ? '<p class="muted">' + (MIX ? "This term comes back in a few questions, asked a different way." : "This term comes back in two questions.") + "</p>" : "") +
         "</div>" +
         (q.kind === "tf" ? "" : whyHTML(q.options, L.picked, "")) +
         '<div class="qnav"><button class="btn" data-act="lnext">Next</button></div>';
@@ -156,6 +157,11 @@ function learnHTML() {
         '<h3>Checkpoint questions to review</h3><ul class="missed">' +
         L.scenMiss.map((q) => "<li>" + q.prompt + " <b>" + esc(q.options.find((o) => o.ok).t) + "</b>. " + q.explain + "</li>").join("") +
         "</ul>";
+    if ((L.recallMiss || []).length)
+      h +=
+        '<h3>Earlier-unit questions to review</h3><ul class="missed">' +
+        L.recallMiss.map((q) => "<li><b>" + esc(q.recall.term) + "</b> (" + esc(q.recall.label) + "). " + q.explain + "</li>").join("") +
+        "</ul>";
     if (allDone) h += '<aside class="watch"><b>Every lesson done</b> Take the 40-question mixed quiz on everything and retry what you miss.</aside>';
     h +=
       '<div class="qnav"><button class="btn sec" data-act="lredo">Redo this lesson</button>' +
@@ -166,9 +172,114 @@ function learnHTML() {
   }
   return h;
 }
+/* ---------- old unit recall ----------
+   Units with "recall": true (course.json) occasionally ask about an earlier unit of the same course:
+   at most 1 question per lesson, in about 1 of 3 lessons, never in a deck's first lesson or its checkpoint.
+   Trouble terms from the old unit come first, then the ones recalled longest ago. */
+const RECALL_RATE = 1 / 3;
+const recallOn = () => !!(UNIT.recall && SAVE.settings.recall);
+const earlierUnits = () => COURSE.units.slice(0, COURSE.units.indexOf(UNIT));
+function unitCards(u) {
+  const out = [];
+  UNITDATA[u.id].decks.forEach((dk) => {
+    if (dk.optional) return;
+    dk.sections.forEach((sc, si) => sc.cards.forEach((c, ci) => out.push(Object.assign({}, c, { id: dk.id + "." + si + "." + ci, deck: dk.id, sec: dk.id + "." + si }))));
+  });
+  return out;
+}
+/* Weighted random pick from earlier units. Terms still in trouble there (count above 0 and not marked
+   "Got it") are 3 times as likely; everything else can come up too. A term recalled in the last 10 recall
+   questions or the last 2 days is skipped, so the same one doesn't keep coming back. */
+const RECALL_COOLDOWN_N = 10,
+  RECALL_COOLDOWN_MS = 2 * 24 * 3600 * 1000;
+function pickRecall() {
+  const now = Date.now(),
+    cands = [];
+  earlierUnits().forEach((u) => {
+    const saved = readJSON(keyOf(u, "kit")) || {},
+      tr = saved.trouble || {},
+      kn = saved.known || {},
+      seen = saved.recallSeen || {};
+    unitCards(u).forEach((c) => cands.push({ u: u.id, id: c.id, w: tr[c.id] > 0 && !kn[c.id] ? 3 : 1, seen: seen[c.id] || 0 }));
+  });
+  if (!cands.length) return null;
+  const recent = cands
+    .filter((c) => c.seen)
+    .sort((x, y) => y.seen - x.seen)
+    .slice(0, RECALL_COOLDOWN_N);
+  let pool = cands.filter((c) => recent.indexOf(c) < 0 && now - c.seen > RECALL_COOLDOWN_MS);
+  if (!pool.length) pool = cands.filter((c) => recent.indexOf(c) < 0);
+  if (!pool.length) pool = cands;
+  let r = Math.random() * pool.reduce((n, c) => n + c.w, 0),
+    pick = pool[pool.length - 1];
+  for (const c of pool) {
+    if ((r -= c.w) < 0) {
+      pick = c;
+      break;
+    }
+  }
+  /* Count it as recalled as soon as it is picked, so restarting a lesson doesn't pick it again. */
+  const u = COURSE.units.find((x) => x.id === pick.u),
+    k = keyOf(u, "kit"),
+    saved = readJSON(k) || {};
+  saved.recallSeen = Object.assign(saved.recallSeen || {}, { [pick.id]: now });
+  writeJSON(k, saved);
+  return pick;
+}
+function recallQ(item) {
+  const u = COURSE.units.find((x) => x.id === item.unit),
+    cards = unitCards(u),
+    card = cards.find((c) => c.id === item.id);
+  const label = "From " + u.label + ": " + u.title + ". ";
+  let q;
+  if (u.learnMix && card.asks && card.asks.length && Math.random() < 0.5) q = askQ(card, card.asks[Math.floor(Math.random() * card.asks.length)]);
+  else {
+    const dir = Math.random() < 0.5 ? "t2d" : "d2t",
+      field = dir === "t2d" ? "def" : "term",
+      same = shuf(cards.filter((c) => c !== card && c.sec === card.sec)),
+      rest = shuf(cards.filter((c) => c !== card && c.sec !== card.sec)),
+      ds = same.concat(rest).filter((c, i, a) => c[field] !== card[field] && a.findIndex((x) => x[field] === c[field]) === i).slice(0, 3);
+    q = {
+      kind: "mc",
+      dir: dir,
+      ask: dir === "t2d" ? "Which description best matches this term?" : "Which term matches this description?",
+      prompt: dir === "t2d" ? "<b>" + esc(card.term) + "</b>" : esc(card.def),
+      options: shuf([{ t: card[field], ok: true }].concat(ds.map((c) => ({ t: c[field], ok: false, why: dir === "t2d" ? 'That describes "' + c.term + '".' : '"' + c.term + '" means: ' + c.def })))),
+      explain: "<b>" + esc(card.term) + "</b>: " + esc(card.def),
+    };
+  }
+  q.card = null;
+  q.recall = { unit: u.id, id: card.id, label: u.label + ": " + u.title, term: card.term };
+  q.ask = label + q.ask;
+  return q;
+}
+/* A recall answer updates the old unit's own saved trouble count. */
+function recallResult(r, ok) {
+  const u = COURSE.units.find((x) => x.id === r.unit),
+    k = keyOf(u, "kit"),
+    saved = readJSON(k) || {};
+  saved.trouble = saved.trouble || {};
+  saved.recallSeen = saved.recallSeen || {};
+  if (ok) saved.trouble[r.id] = Math.max(0, (saved.trouble[r.id] || 0) - 1);
+  else saved.trouble[r.id] = (saved.trouble[r.id] || 0) + 1;
+  saved.recallSeen[r.id] = Date.now();
+  writeJSON(k, saved);
+}
+
 function learnQ(item) {
+  if (item.type === "recall") return recallQ(item);
   if (item.type === "sc") return scQ(D.sq[item.idx], "Checkpoint: apply it");
-  const q = mcQ(BYID[item.id], Math.random() < 0.35 ? "t2d" : "d2t", 4);
+  const card = BYID[item.id];
+  /* Mixed units: about half the questions are applied ones when the card has them. A term that comes back
+     after a miss switches form: missed a definition question, get an applied one, and the other way round. */
+  const hasAsk = MIX && card.asks && card.asks.length;
+  const applied = hasAsk && (item.avoid === "ap" ? false : item.avoid ? true : Math.random() < 0.5);
+  if (applied) {
+    const q = askQ(card, card.asks[Math.floor(Math.random() * card.asks.length)]);
+    if (item.review) q.ask = "Review from an earlier lesson. " + q.ask;
+    return q;
+  }
+  const q = mcQ(card, Math.random() < 0.35 ? "t2d" : "d2t", 4);
   if (item.review) q.ask = "Review from an earlier lesson. " + q.ask;
   return q;
 }
@@ -208,12 +319,19 @@ ACT.lquiz = () => {
   LESSONS.forEach((l, i) => {
     if (i !== li && SAVE.done[l.id]) l.cards.forEach((c) => doneC.push(c));
   });
-  const weak = shuf(doneC.filter((c) => SAVE.trouble[c.id] > 0)),
-    other = shuf(doneC.filter((c) => !(SAVE.trouble[c.id] > 0)));
+  /* Mixed units: a term used as a review in either of the last 2 lessons sits out this one. */
+  const cool = MIX ? [].concat(...(SAVE.revHist || []).slice(-2)) : [];
+  const pool = cool.length && doneC.filter((c) => cool.indexOf(c.id) < 0).length >= 3 ? doneC.filter((c) => cool.indexOf(c.id) < 0) : doneC;
+  const weak = shuf(pool.filter((c) => SAVE.trouble[c.id] > 0)),
+    other = shuf(pool.filter((c) => !(SAVE.trouble[c.id] > 0)));
   const reviews = weak
     .concat(other)
     .slice(0, Math.min(3, doneC.length))
     .map((c) => ({ type: "card", id: c.id, review: true }));
+  if (MIX) {
+    SAVE.revHist = (SAVE.revHist || []).concat([reviews.map((r) => r.id)]).slice(-2);
+    save();
+  }
   let q = shuf(lesson.cards).map((c) => ({ type: "card", id: c.id }));
   reviews.forEach((r) => q.splice(1 + Math.floor(Math.random() * q.length), 0, r));
   if (isLastOfDeck(lesson)) {
@@ -225,13 +343,28 @@ ACT.lquiz = () => {
         .map((i) => ({ type: "sc", idx: i })),
     );
   }
-  UI.L = { phase: "quiz", queue: q, cur: null, picked: null, first: 0, firstTotal: q.length, missed: new Set(), scenMiss: [], scenMissIdx: [], tried: new Set() };
+  let nRecall = 0;
+  if (recallOn() && !isFirstOfDeck(lesson) && earlierUnits().length && Math.random() < RECALL_RATE) {
+    const pick = pickRecall();
+    if (pick) {
+      const nCards = q.filter((it) => it.type !== "sc").length;
+      q.splice(1 + Math.floor(Math.random() * Math.max(1, nCards - 1)), 0, { type: "recall", unit: pick.u, id: pick.id });
+      nRecall = 1;
+    }
+  }
+  UI.L = { phase: "quiz", queue: q, cur: null, picked: null, first: 0, firstTotal: q.length - nRecall, missed: new Set(), scenMiss: [], scenMissIdx: [], recallMiss: [], tried: new Set() };
   nextLearnQ();
 };
 function learnPick(k) {
   const L = UI.L;
   if (!L || L.phase !== "quiz" || L.picked !== null || UI.run) return;
   L.picked = k;
+  if (L.cur.recall) {
+    const ok = !!L.cur.options[k].ok;
+    recallResult(L.cur.recall, ok);
+    if (!ok) (L.recallMiss = L.recallMiss || []).push(L.cur);
+    return render();
+  }
   const q = L.cur,
     ok = !!q.options[k].ok,
     key = L.item.type === "sc" ? "s" + L.item.idx : L.item.id,
@@ -250,7 +383,9 @@ function learnPick(k) {
       L.missed.add(id);
       SAVE.trouble[id] = (SAVE.trouble[id] || 0) + 1;
       setKnown(id, false);
-      L.queue.splice(Math.min(L.queue.length, 2), 0, Object.assign({}, L.item));
+      /* Mixed units bring the term back 2 or 3 questions later, in a different form; others keep the fixed 2. */
+      const gap = MIX ? 2 + Math.floor(Math.random() * 2) : 2;
+      L.queue.splice(Math.min(L.queue.length, gap), 0, Object.assign({}, L.item, MIX ? { avoid: q.kind === "ap" ? "ap" : "mc" } : {}));
     }
   } else if (!ok) {
     L.scenMiss.push(q);
@@ -317,7 +452,9 @@ function restoreL() {
     }
     const L = {
       phase: p.phase,
-      queue: (p.queue || []).filter((it) => (it.type === "sc" ? D.sq[it.idx] : BYID[it.id])),
+      queue: (p.queue || []).filter((it) =>
+        it.type === "sc" ? D.sq[it.idx] : it.type === "recall" ? COURSE.units.some((u) => u.id === it.unit && UNITDATA[u.id]) : BYID[it.id],
+      ),
       cur: null,
       picked: null,
       first: p.first || 0,
