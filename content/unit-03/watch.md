@@ -12,6 +12,7 @@ Notes where your study guide, cheat sheets, slides and textbook disagree or are 
 - (deck 4) Divine right (Europe) and the Mandate of Heaven (China) both tie rule to the divine, but the Mandate can be lost through bad rule, disaster or revolt.
 - (deck 4) Your study guide mentions the Mughal "mansabdar system" in a table but no source explains it. Don't rely on it; use zamindars for Mughal administration.
 - (deck 2) Same names, different spellings: Zunghars = Dzungars; Cuzco = Cusco; AMSCO prints the Qing emperor as "Quinlong" in one quote; it is Qianlong.
+- (deck 2) Your class's practice handout spells it "Songhay" and "Safavi"; the kit uses Songhai and Safavid. Same empires.
 - (deck 2) Unit 3 is about LAND-based empires. Sea empires (Portugal, Spain in the Americas) are Unit 4. Your 3.1 organizer says Europeans built ocean empires "in the same years."
 - (deck 5) Peace of Augsburg (1555): ruler chooses Catholic or Lutheran. Peace of Westphalia (1648): Calvinism added as a third choice.
 - (deck 5) Luther = indulgences, faith alone (1517). Calvin = predestination, Geneva, Huguenots and Puritans. Henry VIII = Anglican Church, over an annulment.

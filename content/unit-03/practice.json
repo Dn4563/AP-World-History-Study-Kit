@@ -679,6 +679,237 @@
    ]
   },
   {
+   "name": "MCQ Set C: Class practice questions",
+   "mode": "practice",
+   "tips": [
+    "These are the 9 questions from your class's Unit 3 practice handout. The stems and passages are the handout's; the choices are reordered.",
+    "The handout came without an answer key. These answers come from the passages and AMSCO 3.1–3.4. Check them against your class's key (VERIFY).",
+    "For \"best used as evidence of\" or \"best illustrates\" questions, first name the idea the source shows (expansion, legitimacy, administration, revenue, belief systems, continuity or change), then pick the option that matches it.",
+    "Eliminate options that are true in history but not shown by the source, or that belong to the wrong time, region or empire.",
+    "Watch for extreme words (\"only,\" \"all,\" \"never,\" \"completely\"): they are usually wrong."
+   ],
+   "sources": {
+    "C1": {
+     "title": "A Catholic priest meets Shah Abbas I",
+     "attr": "Father Simon, a European Roman Catholic priest, in a report to the pope on meeting the Safavid Shah Abbas I, 1588. From your class's Unit 3 practice questions.",
+     "label": "",
+     "text": "He is very valiant and has a great liking for warfare and weapons of war, which he has constantly in his hands: we have been eye-witnesses of this because, whenever we were with him, he was adjusting his [swords], testing his [muskets], etc . . . This is the great experience, which he has obtained of warfare over so many years, that he makes it in person and from the first has made him a fine soldier and very skilled, and his men so dexterous that they are little behind our men in Europe. He has introduced into his militia the use of and esteem for [muskets], in which they are very practiced. Therefore it is that his realm has been so much extended on all sides. . . . All the above mentioned soldiers, who will total some 100,000, receive pay for the whole year."
+    },
+    "C2": {
+     "title": "Sunni Ali and the Songhai state",
+     "attr": "J. Rotondo-McCord, \"Kingdoms of the Medieval Sudan,\" Xavier University. From your class's Unit 3 practice questions.",
+     "label": "",
+     "text": "Demonized as an enemy of the faith by the Muslim narrative sources, yet lionized as a warrior hero in the oral tradition, Sunni Ali, who reigned from 1464 to 1492, is one of the most controversial figures of the African Middle Ages. . . . Relying on a swift and mobile cavalry force as well as on naval control of the Niger River, Sunni Ali had conquered the agriculturally rich central Niger or 'inland delta,' including the wealthy and scholarly cities of Timbuktu and Jenne, by the 1470s. . . . He was well aware that a vast empire could not be held together by military conquests alone, but need[ed] an effective and efficient administrative structure as well. Indeed, the organization of Songhay [Songhai] government which was developed to a great degree under Sunni Ali differed substantially from previous Sudanic patterns of empire. These had been based more on alliances and relationships with tributary states than on the high degree of centralization characteristic of Songhay [Songhai]."
+    },
+    "C3": {
+     "title": "The Safavids and the Ottomans",
+     "attr": "William H. McNeill, The Rise of the West, 1963. From your class's Unit 3 practice questions.",
+     "label": "",
+     "text": "Throughout the sixteenth century, the Safavi [Safavid] empire remained a profoundly disturbing force in the Moslem [Muslim] world, dedicated to the defense and propagation of Shi'a doctrines at home and abroad. This policy implied a normal state of hostility with the Ottoman empire, punctuated only briefly by periods of peace. By the seventeenth century, however, when the Safavi empire reached its apogee [peak] under Shah Abbas the Great (1587–1629), the fanaticism of the Shi'a revolution had faded, at least in court circles; and a lasting peace with the Ottomans was concluded in 1639."
+    }
+   },
+   "questions": [
+    {
+     "id": "C1",
+     "type": "mcq",
+     "skill": "Purpose of a source",
+     "topic": "Expansion",
+     "stem": "Which claim about Father Simon's purpose for meeting Shah Abbas I is best supported by the above passage?",
+     "options": [
+      "Simon was impressed by the new technology used by the Safavids.",
+      "Simon wanted the pope to know of the Safavids' military power.",
+      "Simon hoped the pope would sell new weapons to the Safavids.",
+      "Simon thought the Safavids could teach Europeans about how to organize a military."
+     ],
+     "ans": 1,
+     "exp": "The report to the pope stresses the shah's skill, 100,000 paid soldiers, muskets and an empire \"extended on all sides\": it is a briefing on Safavid military power.",
+     "why": [
+      "He mentions muskets, but the report is about the size, skill and pay of the whole army, not a new invention.",
+      "",
+      "Nothing in the report asks for or offers weapons; the Safavids already have muskets.",
+      "He says the Safavid soldiers are \"little behind our men in Europe\": close to Europe, not ahead of it."
+     ],
+     "src": "C1"
+    },
+    {
+     "id": "C2",
+     "type": "mcq",
+     "skill": "Cause",
+     "topic": "Rivalries",
+     "stem": "Which most strongly contributed to the historical development reflected in Father Simon's description of the Safavid military structure?",
+     "options": [
+      "The Mughal emperors' support for the Sikh religion",
+      "Ottoman development of shariah",
+      "Safavid intolerance for the Sunni population",
+      "The Thirty Years' War"
+     ],
+     "ans": 2,
+     "exp": "The Shi'a Safavids forced conversion on Sunnis and fought the Sunni Ottomans over religion and territory, so they built a large gunpowder army.",
+     "why": [
+      "Mughal emperors did not support Sikhism; Jahangir executed Guru Arjan in 1606, and it has nothing to do with the Safavid army.",
+      "Islamic law did not cause a Safavid military build-up.",
+      "",
+      "That was a European war (1618–1648), decades after this 1588 report."
+     ],
+     "src": "C1"
+    },
+    {
+     "id": "C3",
+     "type": "mcq",
+     "skill": "Comparison",
+     "topic": "Comparison",
+     "stem": "This source supports the claim that the Safavids were similar to the Ottomans and the Mughals in that all three",
+     "options": [
+      "threatened to attack regions of Europe",
+      "practiced identical religious beliefs",
+      "were ahead of the Europeans in military power",
+      "used gunpowder weapons"
+     ],
+     "ans": 3,
+     "exp": "Simon describes Safavid muskets. The Ottomans, Safavids and Mughals all used firearms to expand: the gunpowder empires.",
+     "why": [
+      "Only the Ottomans pushed into Europe (Vienna); the Safavids and Mughals did not.",
+      "The Safavids were Shi'a; the Ottomans and Mughals were Sunni, and the Mughals ruled a Hindu majority.",
+      "Simon says the Safavid troops are \"little behind\" Europe's, which is not ahead.",
+      ""
+     ],
+     "src": "C1"
+    },
+    {
+     "id": "C4",
+     "type": "mcq",
+     "skill": "Comparison",
+     "topic": "Comparison",
+     "stem": "The Songhai Empire was like Japan under the Tokugawa shogunate because the Songhai",
+     "options": [
+      "created a strong central government",
+      "expanded its territory by creating distant colonies",
+      "was ruled by a Muslim",
+      "was the first empire in its region to trade gold extensively"
+     ],
+     "ans": 0,
+     "exp": "The passage stresses Songhai's \"high degree of centralization.\" The Tokugawa also centralized power, for example with alternate attendance for the daimyo.",
+     "why": [
+      "",
+      "Songhai conquered nearby lands on the Niger; neither it nor Tokugawa Japan built distant colonies.",
+      "Tokugawa Japan was not ruled by Muslims, so this is not a similarity.",
+      "Gold is not part of the passage, and it is not something Songhai shares with Tokugawa Japan."
+     ],
+     "src": "C2"
+    },
+    {
+     "id": "C5",
+     "type": "mcq",
+     "skill": "Comparison",
+     "topic": "Ruling",
+     "stem": "The Songhai Empire under Sunni Ali was different from the empire under Askia the Great because",
+     "options": [
+      "Sunni Ali made a pilgrimage to Mecca",
+      "Sunni Ali made Songhai the largest kingdom in West Africa",
+      "Askia used religion to legitimize his control",
+      "Askia used zamindars to collect taxes"
+     ],
+     "ans": 2,
+     "exp": "Sunni Ali relied on military conquest and was condemned by Muslim writers. Askia the Great was a devout Muslim who used Islam to legitimize his rule.",
+     "why": [
+      "The passage says Muslim sources called Sunni Ali an enemy of the faith; nothing ties him to a pilgrimage.",
+      "Both rulers expanded Songhai by conquest, so size is not what separates them; religion is.",
+      "",
+      "Zamindars were Mughal tax collectors in India, not part of Songhai."
+     ],
+     "src": "C2"
+    },
+    {
+     "id": "C6",
+     "type": "mcq",
+     "skill": "Ruling",
+     "topic": "Ruling",
+     "stem": "How did Askia the Great challenge Sunni Ali's legitimacy?",
+     "options": [
+      "He claimed Sunni Ali was a weak military commander.",
+      "He established strong tributary ties that had more allegiances to him than to Sunni Ali.",
+      "He reformed taxation policies throughout the kingdom.",
+      "He questioned Sunni Ali's faithfulness to the principles of Islam."
+     ],
+     "ans": 3,
+     "exp": "Muslim sources \"demonized\" Sunni Ali \"as an enemy of the faith.\" Askia based his own right to rule on Islam and attacked Sunni Ali's faith.",
+     "why": [
+      "The passage calls Sunni Ali a warrior hero with a swift cavalry; his military record was his strength.",
+      "Tributary alliances were the older Sudanic pattern; Songhai stood out for centralization instead.",
+      "Tax reform is a way of running a state, not a challenge to a rival's right to rule.",
+      ""
+     ],
+     "src": "C2"
+    },
+    {
+     "id": "C7",
+     "type": "mcq",
+     "skill": "Best used as evidence",
+     "topic": "Rivalries",
+     "stem": "Which would be the most useful source of evidence to support McNeill's contention that \"the Safavi [Safavid] empire remained a profoundly disturbing force in the Moslem [Muslim] world\"?",
+     "options": [
+      "A biography written in 2018 by an anti-Shi'a leader",
+      "A private diary written by an Ottoman government official",
+      "A Hollywood movie script about Shah Abbas I",
+      "A campaign speech by Iran's current leader on his country's history"
+     ],
+     "ans": 1,
+     "exp": "An Ottoman official was in the Muslim world at the time and saw the Safavid threat directly; a private diary has no audience to perform for.",
+     "why": [
+      "Written centuries later by someone biased against Shi'a Islam, it is weak evidence about the 1500s.",
+      "",
+      "A modern movie is made to entertain; it is not evidence from the period.",
+      "A modern political speech has a purpose (winning votes) and comes from long after the events."
+     ],
+     "src": "C3"
+    },
+    {
+     "id": "C8",
+     "type": "mcq",
+     "skill": "Continuity and change",
+     "topic": "Rivalries",
+     "stem": "Today, Iran and Turkey are often political rivals. This passage suggests that this rivalry is based on historical conflicts over",
+     "options": [
+      "how to practice Islam correctly",
+      "democracy and political extremism",
+      "control of the cities of Medina and Mecca",
+      "the role of leaders such as the shah and emperor"
+     ],
+     "ans": 0,
+     "exp": "Iran was the Shi'a Safavid Empire and Turkey the Sunni Ottoman Empire. McNeill ties their \"normal state of hostility\" to the Safavids spreading \"Shi'a doctrines.\"",
+     "why": [
+      "",
+      "Democracy is not part of the passage; the conflict it describes is over Shi'a doctrine.",
+      "The passage never mentions the holy cities.",
+      "Both empires had rulers with similar power; the passage puts the conflict in religion, not titles."
+     ],
+     "src": "C3"
+    },
+    {
+     "id": "C9",
+     "type": "mcq",
+     "skill": "Cause",
+     "topic": "Rivalries",
+     "stem": "What brought an end to the \"normal state of hostility\" between the Safavids and Ottomans mentioned in the passage?",
+     "options": [
+      "Both sides united to fight against European Christian forces that threatened them.",
+      "The Ottomans slowly weakened until the Safavids no longer saw them as a threat.",
+      "Safavid fervor for its brand of Islam slowly declined until the two empires stopped fighting.",
+      "The constant fighting increased the respect of the empires for each other, which eventually led to peace between them."
+     ],
+     "ans": 2,
+     "exp": "McNeill says that by Shah Abbas's time \"the fanaticism of the Shi'a revolution had faded,\" and a lasting peace followed in 1639.",
+     "why": [
+      "The passage mentions no alliance against Europe.",
+      "The passage explains the peace through Safavid change, not Ottoman weakness.",
+      "",
+      "McNeill says nothing about respect; he says the \"fanaticism\" faded."
+     ],
+     "src": "C3"
+    }
+   ]
+  },
+  {
    "name": "SAQs",
    "mode": "practice",
    "tips": [
