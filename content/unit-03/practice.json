@@ -910,6 +910,1240 @@
    ]
   },
   {
+   "name": "Guide quiz 3.1: Expansion",
+   "mode": "practice",
+   "tips": [
+    "Built straight from your teacher's Unit 3 study guide: every bullet and table row has a question.",
+    "Read each explanation, even when you get it right; it repeats the study guide's key point.",
+    "Use Retest missed questions at the end to go over only what you got wrong.",
+    "The last question is the guide's own \"Check yourself.\" Write your answer before you open the model."
+   ],
+   "sources": {},
+   "questions": [
+    {
+     "id": "G1.1",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Expansion",
+     "stem": "Why does your study guide group the Ottomans, Safavids and Mughals together as \"gunpowder empires\"?",
+     "options": [
+      "All three were ruled by Shi'a Muslim dynasties",
+      "All three relied mainly on cavalry archers, like the Mongols before them",
+      "All three were founded after the Ming dynasty fell in 1644",
+      "Cannons and firearms made their expansion possible"
+     ],
+     "ans": 3,
+     "exp": "The guide: cannons and firearms, not just cavalry, made their expansion possible.",
+     "why": [
+      "Only the Safavids were Shi'a; the Ottomans and Mughals were Sunni.",
+      "The guide says the opposite: firearms, not just cavalry, drove their growth.",
+      "1644 is the Qing story; these three empires were founded earlier.",
+      ""
+     ]
+    },
+    {
+     "id": "G1.2",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Expansion",
+     "stem": "Which best explains why the fall of Constantinople in 1453 mattered?",
+     "options": [
+      "It ended the Byzantine Empire and gave the Ottomans a major trade center",
+      "It ended Ottoman expansion into Central Europe and turned the empire back toward Asia",
+      "It began the Sunni–Shi'a rivalry between Ottomans and Safavids",
+      "It let the Safavids take over Persia's silk routes"
+     ],
+     "ans": 0,
+     "exp": "Mehmed II's victory ended the Byzantine Empire and gave the Ottomans a major trade center.",
+     "why": [
+      "",
+      "The farthest push into Europe came later, at Vienna in 1529.",
+      "That rivalry was set up by Chaldiran in 1514.",
+      "The Safavids were not part of the siege."
+     ]
+    },
+    {
+     "id": "G1.3",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Expansion",
+     "stem": "What allowed Mehmed II to take Constantinople?",
+     "options": [
+      "A naval blockade by Janissary-led ships from Egypt",
+      "An alliance with the Safavid shah against Byzantium",
+      "Massive cannons that broke through the walls",
+      "A long famine that made the city surrender peacefully"
+     ],
+     "ans": 2,
+     "exp": "Gunpowder is the key: massive cannons broke through the city's walls.",
+     "why": [
+      "The guide credits cannons, not a blockade; Egypt was taken later, by Selim I.",
+      "There was no such alliance; the Safavids were later Ottoman rivals.",
+      "",
+      "The walls were broken by force."
+     ]
+    },
+    {
+     "id": "G1.4",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Expansion",
+     "stem": "The failed Ottoman siege of Vienna in 1529 is best described as",
+     "options": [
+      "the battle that ended the Byzantine Empire",
+      "the Ottoman victory that set up the Sunni–Shi'a rivalry",
+      "the first time the Ottomans used cannons on a European city",
+      "the farthest Ottoman push into Central Europe"
+     ],
+     "ans": 3,
+     "exp": "Vienna did not fall, so it marks the farthest the Ottomans pushed into Central Europe.",
+     "why": [
+      "That was the fall of Constantinople in 1453.",
+      "That was Chaldiran in 1514, and Vienna was a defeat.",
+      "They had used cannons at Constantinople in 1453.",
+      ""
+     ]
+    },
+    {
+     "id": "G1.5",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Rivalries",
+     "stem": "Which was a result of the Battle of Chaldiran (1514)?",
+     "options": [
+      "The Mughals gained control of northern India",
+      "The Ottomans lost control of the Balkans to Persia",
+      "The Safavids took Istanbul and made it their capital",
+      "Safavid expansion westward was stopped"
+     ],
+     "ans": 3,
+     "exp": "The Ottoman win stopped Safavid expansion westward and set up a long Sunni–Shi'a rivalry.",
+     "why": [
+      "That came from Mughal battles in India, not Chaldiran.",
+      "The Ottomans won Chaldiran.",
+      "The Safavids lost; Istanbul stayed Ottoman.",
+      ""
+     ]
+    },
+    {
+     "id": "G1.6",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Rivalries",
+     "stem": "How did the Ottomans defeat the Safavids at Chaldiran?",
+     "options": [
+      "Artillery and Janissaries",
+      "Cossack cavalry hired from Russia",
+      "An alliance with the Mughal emperor Akbar",
+      "A larger fleet in the Persian Gulf"
+     ],
+     "ans": 0,
+     "exp": "The guide: artillery and Janissaries beat the Safavids.",
+     "why": [
+      "",
+      "Cossacks were Russian frontier warriors, not Ottoman troops.",
+      "No such alliance; Akbar ruled decades later.",
+      "Chaldiran was a land battle."
+     ]
+    },
+    {
+     "id": "G1.7",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Rivalries",
+     "stem": "According to your study guide, what sharpened the Safavid–Mughal rivalry?",
+     "options": [
+      "A shared Sunni faith that made them compete to lead Islam",
+      "Religion: Shi'a Safavids vs. Sunni Mughals",
+      "Competition over the Atlantic slave trade",
+      "Russian Cossacks invading both empires from Siberia"
+     ],
+     "ans": 1,
+     "exp": "The guide says religious difference sharpened their fights over territory. (Your textbook adds that control of trade routes around Kandahar mattered even more, so mention territory too.)",
+     "why": [
+      "They did not share a faith: the Safavids were Shi'a.",
+      "",
+      "Neither empire was part of the Atlantic trade.",
+      "Russia was not part of this rivalry."
+     ]
+    },
+    {
+     "id": "G1.8",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Expansion",
+     "stem": "Which order matches Mughal growth on your study guide?",
+     "options": [
+      "Akbar wins at Panipat, Babur takes the north, Aurangzeb loses the south",
+      "Babur wins at Panipat, Akbar takes the north, Aurangzeb pushes south",
+      "Aurangzeb founds the empire, Akbar expands it, Babur reaches the south",
+      "Babur wins at Chaldiran, Aurangzeb takes the north, Akbar pushes south"
+     ],
+     "ans": 1,
+     "exp": "Babur founded the empire with artillery at Panipat (1526), Akbar expanded across northern India, and Aurangzeb pushed it to its largest size in the south.",
+     "why": [
+      "Babur, not Akbar, won at Panipat and founded the empire.",
+      "",
+      "That reverses the order: Babur was first and Aurangzeb last.",
+      "Chaldiran was Ottoman vs. Safavid, and the roles of Akbar and Aurangzeb are swapped."
+     ]
+    },
+    {
+     "id": "G1.9",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Expansion",
+     "stem": "What does Morocco's defeat of Songhai in 1591 show?",
+     "options": [
+      "Gunpowder expansion was not limited to Eurasia",
+      "Cavalry was still stronger than firearms in Africa",
+      "The Ottomans conquered all of West Africa",
+      "Songhai used firearms to stop a Moroccan invasion"
+     ],
+     "ans": 0,
+     "exp": "The guide uses this battle to show that gunpowder expansion reached Africa too.",
+     "why": [
+      "",
+      "Morocco won because of firearms.",
+      "Morocco, not the Ottomans, beat Songhai.",
+      "Songhai lost; Morocco had the guns."
+     ]
+    },
+    {
+     "id": "G1.10",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Expansion",
+     "stem": "How did the Manchus come to rule China?",
+     "options": [
+      "They inherited the throne from the Mongol Yuan dynasty in 1368",
+      "They overthrew the Ming in 1644 and founded the Qing",
+      "They passed the civil service exams and took over the Ming court",
+      "They beat the Zunghars, who then made them emperors"
+     ],
+     "ans": 1,
+     "exp": "The Manchus overthrew the Ming in 1644 and founded the Qing, then expanded into Central and East Asia.",
+     "why": [
+      "1368 is when the Ming replaced the Yuan.",
+      "",
+      "They conquered China; they kept the exams afterward.",
+      "The Zunghar campaigns came after 1644."
+     ]
+    },
+    {
+     "id": "G1.11",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Expansion",
+     "stem": "Qing expansion into Central Asia involved long campaigns against which group?",
+     "options": [
+      "The Zunghars, a Mongol group",
+      "The Cossacks, Russian frontier warriors",
+      "The Marathas, Hindu fighters of the Deccan",
+      "The Janissaries, elite Ottoman infantry"
+     ],
+     "ans": 0,
+     "exp": "The guide: the Qing expanded through conquest and alliances, including long campaigns against the Zunghars.",
+     "why": [
+      "",
+      "Cossacks pushed Russia into Siberia; they were not the Qing's main Central Asian enemy.",
+      "The Marathas fought the Mughals in India.",
+      "Janissaries were Ottoman soldiers."
+     ]
+    },
+    {
+     "id": "G1.12",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Expansion",
+     "stem": "What opened the way for Russia to expand east?",
+     "options": [
+      "Peter the Great's new capital of St. Petersburg",
+      "The Qing defeat of the Zunghars in Central Asia",
+      "Ivan IV's conquest of Kazan and Astrakhan",
+      "Tokugawa Japan closing its ports to foreigners"
+     ],
+     "ans": 2,
+     "exp": "Ivan IV conquered Kazan and Astrakhan in the 1550s, opening the way east.",
+     "why": [
+      "St. Petersburg faced west, toward Europe, and came later.",
+      "That was Qing expansion, not Russian.",
+      "",
+      "Japan's isolation had nothing to do with Russia's push east."
+     ]
+    },
+    {
+     "id": "G1.13",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Expansion",
+     "stem": "Which group pushed Russian control across Siberia?",
+     "options": [
+      "Janissaries with cannons",
+      "Manchu banner armies",
+      "Cossacks with firearms",
+      "Salaried samurai from Japan"
+     ],
+     "ans": 2,
+     "exp": "After Ivan IV, Cossacks with firearms pushed across Siberia.",
+     "why": [
+      "Janissaries were Ottoman.",
+      "The banners were the Qing's army.",
+      "",
+      "Samurai served the Tokugawa in Japan."
+     ]
+    },
+    {
+     "id": "G1.14",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Expansion",
+     "stem": "On your study guide's 3.1 table, which empire expanded through the banner system and the conquest of Ming China?",
+     "options": [
+      "The Russian Empire",
+      "The Safavid Empire",
+      "The Qing Empire",
+      "The Mughal Empire"
+     ],
+     "ans": 2,
+     "exp": "Banner system plus the conquest of Ming China = Qing (Manchu).",
+     "why": [
+      "Russia expanded with Cossacks and firearms.",
+      "The Safavids used gunpowder armies and Shi'a identity.",
+      "",
+      "The Mughals used artillery and alliances."
+     ]
+    },
+    {
+     "id": "G1.15",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Expansion",
+     "stem": "On the same table, which empire's expansion relied on gunpowder armies and Shi'a identity?",
+     "options": [
+      "The Ottoman Empire",
+      "The Safavid Empire",
+      "The Mughal Empire",
+      "The Russian Empire"
+     ],
+     "ans": 1,
+     "exp": "The Safavids expanded in Persia and Central Asia with gunpowder armies and a Shi'a identity.",
+     "why": [
+      "The Ottomans were Sunni and expanded with cannons, Janissaries and a navy.",
+      "",
+      "The Mughals were Sunni and used artillery and alliances.",
+      "Russia was Orthodox Christian."
+     ]
+    },
+    {
+     "id": "G1.CY",
+     "type": "saq",
+     "lead": "Check yourself (from your study guide). Write your answer, then compare it to the model.",
+     "parts": [
+      {
+       "k": "A",
+       "prompt": "Explain one way gunpowder helped an empire expand.",
+       "skill": "Explaining a cause",
+       "model": "Gunpowder let the Ottomans take cities that had resisted attack for centuries. In 1453 Mehmed II used massive cannons to break through the walls of Constantinople. This ended the Byzantine Empire and gave the Ottomans a major trade center, which made the empire richer and stronger.",
+       "tea": [
+        "Gunpowder let the Ottomans take cities that had resisted attack for centuries.",
+        "In 1453 Mehmed II used massive cannons to break through the walls of Constantinople.",
+        "This ended the Byzantine Empire and gave the Ottomans a major trade center, which made the empire richer and stronger."
+       ],
+       "earns": "You name a specific empire and a specific gunpowder event, and explain how the weapons led to the gain.",
+       "weak": "\"Gunpowder made empires strong.\" Too general: name the empire, the event and how it helped."
+      },
+      {
+       "k": "B",
+       "prompt": "Explain a second way gunpowder helped a different empire expand.",
+       "skill": "Explaining a cause",
+       "model": "Gunpowder let a smaller army beat a larger one and found a new empire. At Panipat in 1526, Babur used artillery to defeat the Sultan of Delhi. This victory founded the Mughal Empire, which Akbar then expanded across northern India.",
+       "tea": [
+        "Gunpowder let a smaller army beat a larger one and found a new empire.",
+        "At Panipat in 1526, Babur used artillery to defeat the Sultan of Delhi.",
+        "This victory founded the Mughal Empire, which Akbar then expanded across northern India."
+       ],
+       "earns": "A different empire from part A, with its own event (Panipat, Chaldiran, Tondibi, Cossacks in Siberia).",
+       "weak": "Repeating the empire from part A, or naming a battle without saying what gunpowder did."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Guide quiz 3.2: Governments",
+   "mode": "practice",
+   "tips": [
+    "Built straight from your teacher's Unit 3 study guide: every bullet and table row has a question.",
+    "Read each explanation, even when you get it right; it repeats the study guide's key point.",
+    "Use Retest missed questions at the end to go over only what you got wrong.",
+    "The last question is the guide's own \"Check yourself.\" Write your answer before you open the model."
+   ],
+   "sources": {},
+   "questions": [
+    {
+     "id": "G2.1",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Ruling",
+     "stem": "According to your study guide, what did rulers need besides military force to hold a large empire together?",
+     "options": [
+      "More cavalry, bigger navies, and permanent alliances with European kings",
+      "One shared religion, one language, and one ethnic group",
+      "Elected assemblies that could limit the ruler",
+      "Loyal officials, a way to show their right to rule, and taxes"
+     ],
+     "ans": 3,
+     "exp": "Administration (loyal officials and armies), legitimacy (right to rule) and revenue (taxes).",
+     "why": [
+      "The guide's point is that force alone was not enough.",
+      "These empires ruled many peoples and faiths.",
+      "That describes England's Parliament, not the guide's three categories.",
+      ""
+     ]
+    },
+    {
+     "id": "G2.2",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Ruling",
+     "stem": "Why were devshirme recruits loyal to the sultan alone?",
+     "options": [
+      "They were paid in land they could pass to their sons",
+      "They were Turkish nobles from the sultan's own family",
+      "They had no ties to local noble families",
+      "They were elected by the Christian villages they came from"
+     ],
+     "ans": 2,
+     "exp": "Taken young, converted and trained, they owed everything to the sultan and nothing to local nobles.",
+     "why": [
+      "Hereditary land would build ties outside the sultan.",
+      "They were Christian boys from conquered lands.",
+      "",
+      "They were taken, not elected."
+     ]
+    },
+    {
+     "id": "G2.3",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Ruling",
+     "stem": "Which of your guide's categories does the devshirme belong to?",
+     "options": [
+      "Legitimacy: a religious claim to the right to rule",
+      "Revenue: a way to collect taxes from peasants",
+      "Administration: a military and official elite",
+      "Architecture: a building that shows off the sultan"
+     ],
+     "ans": 2,
+     "exp": "The devshirme produced Janissaries and officials: the Ottoman bureaucratic and military elite.",
+     "why": [
+      "It trained soldiers and officials; it was not a claim to rule.",
+      "Tax farming and zamindars are the revenue examples.",
+      "",
+      "Topkapi Palace and the mosques are the Ottoman architecture."
+     ]
+    },
+    {
+     "id": "G2.4",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Ruling",
+     "stem": "In the Mughal Empire, who collected taxes from peasants and sent a share to the central government?",
+     "options": [
+      "Janissaries",
+      "Zamindars",
+      "Daimyo",
+      "Intendants"
+     ],
+     "ans": 1,
+     "exp": "Zamindars were landholding elites who collected taxes and sent a share to the center.",
+     "why": [
+      "Janissaries were Ottoman soldiers.",
+      "",
+      "Daimyo were Japanese lords.",
+      "Intendants were French royal officials."
+     ]
+    },
+    {
+     "id": "G2.5",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Comparison",
+     "stem": "What do Ottoman tax farming and Mughal zamindars have in common?",
+     "options": [
+      "Others collected taxes and kept part",
+      "Both were religious taxes paid only by non-Muslims",
+      "Both made lords live in the capital every other year",
+      "Both were tribute paid by conquered states to show submission"
+     ],
+     "ans": 0,
+     "exp": "In both systems, people other than the central government collected taxes and kept part of what they collected.",
+     "why": [
+      "",
+      "That is the jizya.",
+      "That is Tokugawa alternate attendance.",
+      "Tribute is the Mexica and Inca example."
+     ]
+    },
+    {
+     "id": "G2.6",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Ruling",
+     "stem": "How did alternate attendance help the Tokugawa shogun control the daimyo?",
+     "options": [
+      "Lords were replaced every other year by salaried samurai loyal to him",
+      "Lords lived in the capital every other year, under his eye",
+      "Lords had to send their sons to train as Janissaries",
+      "Lords paid all their taxes in silver every other year"
+     ],
+     "ans": 1,
+     "exp": "Requiring lords to live in the capital every other year kept them where the shogun could watch them.",
+     "why": [
+      "Samurai became officials, but the lords were not replaced.",
+      "",
+      "Janissaries were Ottoman.",
+      "Alternate attendance was about where lords lived, not taxes."
+     ]
+    },
+    {
+     "id": "G2.7",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Ruling",
+     "stem": "Which Tokugawa policy limited outside influence on Japan?",
+     "options": [
+      "Inviting Jesuit missionaries to run schools across the provinces",
+      "Building St. Petersburg as a window on Europe",
+      "Limiting foreign contact and banning Christianity",
+      "Making the nobles live at Versailles"
+     ],
+     "ans": 2,
+     "exp": "The Tokugawa sharply limited foreign contact and banned Christianity.",
+     "why": [
+      "The Tokugawa banned Christianity.",
+      "That was Peter the Great in Russia.",
+      "",
+      "That was Louis XIV in France."
+     ]
+    },
+    {
+     "id": "G2.8",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Ruling",
+     "stem": "Why did Louis XIV make nobles live at Versailles?",
+     "options": [
+      "To watch them and keep them dependent on him",
+      "To train them as salaried officials for the provinces",
+      "To prepare them to lead the Counter-Reformation",
+      "Because the Bill of Rights required it"
+     ],
+     "ans": 0,
+     "exp": "Louis XIV is the guide's classic absolute ruler: Versailles kept nobles watched and dependent.",
+     "why": [
+      "",
+      "That sounds like Tokugawa samurai or French intendants, not Versailles.",
+      "Versailles was about control, not religion.",
+      "The Bill of Rights was English and limited the king."
+     ]
+    },
+    {
+     "id": "G2.9",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Ruling",
+     "stem": "How did Peter the Great's Table of Ranks change Russian government?",
+     "options": [
+      "Officials rose by service, not birth",
+      "Nobles gained the right to elect the tsar from among themselves",
+      "Only Orthodox priests could hold high office",
+      "Offices were sold to the highest bidder"
+     ],
+     "ans": 0,
+     "exp": "The Table of Ranks promoted officials by service rather than birth.",
+     "why": [
+      "",
+      "Peter strengthened the tsar's power.",
+      "The Table of Ranks was about service, not religion.",
+      "Rank came from service, not money."
+     ]
+    },
+    {
+     "id": "G2.10",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Ruling",
+     "stem": "How did the Qing win acceptance from the Han Chinese?",
+     "options": [
+      "They replaced the Confucian exams with a Manchu-only military test",
+      "They made Shi'a Islam the state religion",
+      "They gave every office to the Manchu banners",
+      "They kept the civil service exam and shared posts"
+     ],
+     "ans": 3,
+     "exp": "Keeping the Confucian exam and sharing posts between Manchu and Han officials helped win acceptance.",
+     "why": [
+      "They kept the Confucian exam.",
+      "That was the Safavids.",
+      "They shared posts between Manchu and Han officials.",
+      ""
+     ]
+    },
+    {
+     "id": "G2.11",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Ruling",
+     "stem": "Which pair are both examples of monumental architecture used to show a ruler's power?",
+     "options": [
+      "The Taj Mahal and Versailles",
+      "The Table of Ranks and the jizya",
+      "The Council of Trent and the 95 Theses",
+      "Tax farming and the zamindars"
+     ],
+     "ans": 0,
+     "exp": "Grand buildings showed power: the Taj Mahal (Mughal), Versailles (France), the Temple of the Sun in Cuzco (Inca).",
+     "why": [
+      "",
+      "These are a ranking system and a tax, not buildings.",
+      "These are a church council and a document.",
+      "These are revenue systems."
+     ]
+    },
+    {
+     "id": "G2.12",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Ruling",
+     "stem": "Which is an example of a ruler using religion to justify power?",
+     "options": [
+      "Peter the Great's Table of Ranks",
+      "Tokugawa alternate attendance",
+      "The Mexica's human sacrifice",
+      "Ottoman tax farming"
+     ],
+     "ans": 2,
+     "exp": "Religious legitimacy: divine right in Europe, human sacrifice for the Mexica, Islam for Songhai rulers.",
+     "why": [
+      "That is administration.",
+      "That is a way to control the lords.",
+      "",
+      "That is revenue."
+     ]
+    },
+    {
+     "id": "G2.13",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Comparison",
+     "stem": "The mansabdar system, Akbar's Din-i-Ilahi, the Taj Mahal and Red Fort, and zamindars all appear in which column of your guide's 3.2 table?",
+     "options": [
+      "The Ottoman Empire",
+      "The Qing Empire",
+      "The Russian Empire",
+      "The Mughal Empire"
+     ],
+     "ans": 3,
+     "exp": "All four are the Mughal column. (Your other sources don't explain the mansabdar system, so know it by name.)",
+     "why": [
+      "The Ottoman column has the devshirme, caliph, Topkapi and tax farming.",
+      "The Qing are not a column in the 3.2 table.",
+      "Russia appears only under \"Other examples\" (Table of Ranks).",
+      ""
+     ]
+    },
+    {
+     "id": "G2.14",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Comparison",
+     "stem": "Sultan as caliph, divine right of kings and Akbar's Din-i-Ilahi are all examples of",
+     "options": [
+      "revenue systems",
+      "religious legitimacy",
+      "bureaucratic or military elites",
+      "monumental architecture"
+     ],
+     "ans": 1,
+     "exp": "Each one uses religion to support the ruler's right to rule.",
+     "why": [
+      "Revenue examples are tax farming, zamindars and tribute.",
+      "",
+      "Those are the devshirme, mansabdars, samurai and Table of Ranks.",
+      "Those are buildings like Topkapi, the Taj Mahal and Versailles."
+     ]
+    },
+    {
+     "id": "G2.15",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Comparison",
+     "stem": "In your guide's 3.2 table, which revenue system belongs to the Mexica and Inca?",
+     "options": [
+      "Tax farming",
+      "Tribute",
+      "Zamindars",
+      "Serfdom"
+     ],
+     "ans": 1,
+     "exp": "The Mexica and Inca pulled wealth from conquered peoples through tribute.",
+     "why": [
+      "Ottoman.",
+      "",
+      "Mughal.",
+      "Russian, on the 3.4 table."
+     ]
+    },
+    {
+     "id": "G2.CY",
+     "type": "saq",
+     "lead": "Check yourself (from your study guide). Name two examples from different empires for each category.",
+     "parts": [
+      {
+       "k": "A",
+       "prompt": "Administration: name two examples from different empires.",
+       "skill": "Comparison",
+       "model": "Two examples of administration are the devshirme and the Table of Ranks. The Ottomans trained Christian boys taken through the devshirme as Janissaries and officials, and Peter the Great's Table of Ranks promoted Russian officials by service rather than birth. Both built a class of officials who owed their position to the ruler, not to noble families.",
+       "tea": [
+        "Two examples of administration are the devshirme and the Table of Ranks.",
+        "The Ottomans trained Christian boys taken through the devshirme as Janissaries and officials, and Peter the Great's Table of Ranks promoted Russian officials by service rather than birth.",
+        "Both built a class of officials who owed their position to the ruler, not to noble families."
+       ],
+       "earns": "Two different empires, each with a correct administration example.",
+       "weak": "Two examples from the same empire, or a revenue example like tax farming."
+      },
+      {
+       "k": "B",
+       "prompt": "Legitimacy: name two examples from different empires.",
+       "skill": "Comparison",
+       "model": "Two examples of legitimacy are the sultan as caliph and the divine right of kings. Ottoman sultans claimed to be caliphs, and European kings like Louis XIV claimed their power came from God. Both used religion to make obeying the ruler a religious duty.",
+       "tea": [
+        "Two examples of legitimacy are the sultan as caliph and the divine right of kings.",
+        "Ottoman sultans claimed to be caliphs, and European kings like Louis XIV claimed their power came from God.",
+        "Both used religion to make obeying the ruler a religious duty."
+       ],
+       "earns": "Two different empires or regions, each using religion or architecture to justify rule.",
+       "weak": "Naming a building without saying how it showed the ruler's power."
+      },
+      {
+       "k": "C",
+       "prompt": "Revenue: name two examples from different empires.",
+       "skill": "Comparison",
+       "model": "Two examples of revenue are Ottoman tax farming and Mughal zamindars. Tax farmers bought the right to collect taxes in a region, and zamindars collected taxes from peasants and sent a share to the Mughal government. In both, someone other than the central government did the collecting and kept part.",
+       "tea": [
+        "Two examples of revenue are Ottoman tax farming and Mughal zamindars.",
+        "Tax farmers bought the right to collect taxes in a region, and zamindars collected taxes from peasants and sent a share to the Mughal government.",
+        "In both, someone other than the central government did the collecting and kept part."
+       ],
+       "earns": "Two different empires' systems, such as tax farming, zamindars or tribute.",
+       "weak": "Mixing up which system belongs to which empire."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Guide quiz 3.3: Belief systems",
+   "mode": "practice",
+   "tips": [
+    "Built straight from your teacher's Unit 3 study guide: every bullet and table row has a question.",
+    "Read each explanation, even when you get it right; it repeats the study guide's key point.",
+    "Use Retest missed questions at the end to go over only what you got wrong.",
+    "The last question is the guide's own \"Check yourself.\" Write your answer before you open the model."
+   ],
+   "sources": {},
+   "questions": [
+    {
+     "id": "G3.1",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Belief systems",
+     "stem": "What was the main effect of Martin Luther's 95 Theses (1517)?",
+     "options": [
+      "It broke the religious unity of Western Europe",
+      "It reunited the Catholic and Orthodox churches under one pope",
+      "It ended the Thirty Years' War",
+      "It made Sikhism the faith of Punjab"
+     ],
+     "ans": 0,
+     "exp": "Luther challenged the Catholic Church's authority and new Protestant churches formed, breaking Western Europe's religious unity.",
+     "why": [
+      "",
+      "It split Christianity further.",
+      "That war began in 1618 and ended in 1648.",
+      "Sikhism began in India with Guru Nanak."
+     ]
+    },
+    {
+     "id": "G3.2",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Belief systems",
+     "stem": "How did the Catholic Church respond to Protestantism at the Council of Trent?",
+     "options": [
+      "It let each German ruler choose whether his lands would be Catholic or Lutheran",
+      "It reaffirmed Catholic teachings and addressed corruption",
+      "It accepted Luther's teachings and ended indulgences",
+      "It banned missionaries from leaving Europe"
+     ],
+     "ans": 1,
+     "exp": "The Council of Trent was the heart of the Catholic (Counter) Reformation.",
+     "why": [
+      "That was the Peace of Augsburg, a political treaty.",
+      "",
+      "Trent reaffirmed Catholic teaching.",
+      "The Jesuits spread Catholicism worldwide."
+     ]
+    },
+    {
+     "id": "G3.3",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Belief systems",
+     "stem": "According to your study guide, what was the combined effect of both Reformations on Christianity?",
+     "options": [
+      "It spread and grew more diverse",
+      "It shrank and was practiced only inside Europe",
+      "It united under one church again",
+      "It was replaced by Islam in Europe"
+     ],
+     "ans": 0,
+     "exp": "Together, both Reformations spread Christianity and made it more diverse.",
+     "why": [
+      "",
+      "Jesuit missionaries carried it outside Europe.",
+      "There were now Catholic and Protestant churches.",
+      "Christianity stayed Europe's main religion."
+     ]
+    },
+    {
+     "id": "G3.4",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Belief systems",
+     "stem": "How did the Jesuits spread Catholicism?",
+     "options": [
+      "Through fighting the Thirty Years' War",
+      "Through Luther's 95 Theses",
+      "Through tax farming in the colonies",
+      "Through missionaries and schools"
+     ],
+     "ans": 3,
+     "exp": "The Jesuits, formed in the Counter-Reformation, spread Catholicism through missions and schools (this connects to Unit 4).",
+     "why": [
+      "They spread the faith through teaching, not war.",
+      "Luther was the Protestant challenger.",
+      "Tax farming was an Ottoman revenue system.",
+      ""
+     ]
+    },
+    {
+     "id": "G3.5",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Belief systems",
+     "stem": "The Thirty Years' War (1618–1648) was fought partly over",
+     "options": [
+      "Protestant vs. Catholic identity",
+      "control of the trade routes through Constantinople",
+      "Sunni vs. Shi'a identity",
+      "the Mughal throne in India"
+     ],
+     "ans": 0,
+     "exp": "A major European war fought partly over Protestant vs. Catholic identity.",
+     "why": [
+      "",
+      "That was the Ottoman story.",
+      "That was the Ottoman–Safavid rivalry.",
+      "This was a European war."
+     ]
+    },
+    {
+     "id": "G3.6",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Belief systems",
+     "stem": "How did the Ottoman–Safavid rivalry affect Islam?",
+     "options": [
+      "It united Sunnis and Shi'a against Europe",
+      "It made the Ottomans convert to Shi'a Islam",
+      "It ended religious conflict in the Middle East",
+      "It deepened the Sunni–Shi'a divide"
+     ],
+     "ans": 3,
+     "exp": "Political rivalry turned religious identity into a weapon in state conflict.",
+     "why": [
+      "The rivalry divided them further.",
+      "The Ottomans stayed Sunni.",
+      "It made religious conflict worse.",
+      ""
+     ]
+    },
+    {
+     "id": "G3.7",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Belief systems",
+     "stem": "Sikhism grew out of contact between which communities?",
+     "options": [
+      "Catholics and Protestants in Germany",
+      "Hindus and Muslims in Punjab",
+      "Sunnis and Shi'a in Persia",
+      "Buddhists and Confucians in China"
+     ],
+     "ans": 1,
+     "exp": "Guru Nanak founded Sikhism in Punjab in the late 1400s.",
+     "why": [
+      "That was the Reformation.",
+      "",
+      "That was the Ottoman–Safavid split.",
+      "Sikhism began in the Punjab region of India."
+     ]
+    },
+    {
+     "id": "G3.8",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Belief systems",
+     "stem": "Which beliefs does Sikhism emphasize?",
+     "options": [
+      "Many gods and a strict caste system",
+      "Faith alone and predestination",
+      "One God, equality, no caste",
+      "The sultan as caliph of all Muslims"
+     ],
+     "ans": 2,
+     "exp": "Sikhism emphasizes one God, equality and rejection of the caste system.",
+     "why": [
+      "Sikhism rejects the caste system and teaches one God.",
+      "Those are Luther's and Calvin's teachings.",
+      "",
+      "That was the Ottoman claim."
+     ]
+    },
+    {
+     "id": "G3.9",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Belief systems",
+     "stem": "Akbar's Din-i-Ilahi is an example of",
+     "options": [
+      "the Counter-Reformation",
+      "divine right of kings",
+      "syncretism",
+      "tax farming"
+     ],
+     "ans": 2,
+     "exp": "Syncretism is mixing religious traditions; Din-i-Ilahi blended Islam, Hinduism and other faiths.",
+     "why": [
+      "That was the Catholic response in Europe.",
+      "That was a European idea.",
+      "",
+      "That was Ottoman revenue."
+     ]
+    },
+    {
+     "id": "G3.CY",
+     "type": "saq",
+     "lead": "Check yourself (from your study guide). Continuity and change in Christianity or Islam, 1450–1750.",
+     "parts": [
+      {
+       "k": "A",
+       "prompt": "Explain one continuity in Christianity or Islam during this period, with specific evidence.",
+       "skill": "Continuity",
+       "model": "One continuity is that the Catholic Church kept its core teachings. At the Council of Trent, the Church reaffirmed Catholic teachings instead of accepting Protestant ideas. This meant Catholic belief stayed the same even as the Church fixed corruption.",
+       "tea": [
+        "One continuity is that the Catholic Church kept its core teachings.",
+        "At the Council of Trent, the Church reaffirmed Catholic teachings instead of accepting Protestant ideas.",
+        "This meant Catholic belief stayed the same even as the Church fixed corruption."
+       ],
+       "earns": "A specific thing that stayed the same, with evidence such as Trent or the Sunni Ottomans.",
+       "weak": "Saying \"religion stayed important\" with no evidence."
+      },
+      {
+       "k": "B",
+       "prompt": "Explain one change in Christianity or Islam during this period, with specific evidence.",
+       "skill": "Change",
+       "model": "One change is that Western Christianity split into Catholic and Protestant churches. In 1517 Martin Luther's 95 Theses challenged the Church's authority and led to new Protestant churches. This broke Western Europe's religious unity and led to wars like the Thirty Years' War.",
+       "tea": [
+        "One change is that Western Christianity split into Catholic and Protestant churches.",
+        "In 1517 Martin Luther's 95 Theses challenged the Church's authority and led to new Protestant churches.",
+        "This broke Western Europe's religious unity and led to wars like the Thirty Years' War."
+       ],
+       "earns": "A specific change with evidence (the 95 Theses, Jesuit missions, the Sunni–Shi'a rivalry).",
+       "weak": "Describing the change without saying what caused it or what it led to."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Guide quiz 3.4: Comparison",
+   "mode": "practice",
+   "tips": [
+    "Built straight from your teacher's Unit 3 study guide: every bullet and table row has a question.",
+    "Read each explanation, even when you get it right; it repeats the study guide's key point.",
+    "Use Retest missed questions at the end to go over only what you got wrong.",
+    "The last question is the guide's own \"Check yourself.\" Write your answer before you open the model."
+   ],
+   "sources": {},
+   "questions": [
+    {
+     "id": "G4.1",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Comparison",
+     "stem": "What did the Ottoman, Qing and Russian militaries have in common, and how did they differ?",
+     "options": [
+      "All relied only on cavalry, with identical army systems",
+      "All used gunpowder, but organized armies differently",
+      "None used firearms; all relied on tribute",
+      "All copied the banner system the Ottomans invented"
+     ],
+     "ans": 1,
+     "exp": "Similar tool (gunpowder, professional armies), different organization: Janissaries, banners, Cossacks.",
+     "why": [
+      "They used gunpowder and organized armies differently.",
+      "",
+      "All used gunpowder.",
+      "The banner system was Manchu (Qing)."
+     ]
+    },
+    {
+     "id": "G4.2",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Comparison",
+     "stem": "Which empire organized its army through the banner system?",
+     "options": [
+      "The Ottomans",
+      "The Russians",
+      "The Mughals",
+      "The Qing"
+     ],
+     "ans": 3,
+     "exp": "The banner system was the Qing (Manchu) way of organizing the army.",
+     "why": [
+      "The Ottomans used Janissaries.",
+      "Russia used Cossacks.",
+      "The Mughals used artillery and alliances.",
+      ""
+     ]
+    },
+    {
+     "id": "G4.3",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Comparison",
+     "stem": "Which correctly matches a place with its idea of legitimacy?",
+     "options": [
+      "China: Mandate of Heaven",
+      "Europe: caliph claims",
+      "Ottomans: divine right of kings",
+      "Russia: Mandate of Heaven"
+     ],
+     "ans": 0,
+     "exp": "Divine right in Europe, the Mandate of Heaven in China, caliph claims by the Ottomans.",
+     "why": [
+      "",
+      "Caliph claims were Ottoman.",
+      "Divine right was European.",
+      "The Mandate of Heaven was Chinese."
+     ]
+    },
+    {
+     "id": "G4.4",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Comparison",
+     "stem": "Which contrast in religious policy is accurate?",
+     "options": [
+      "Akbar ended the jizya; the Safavids imposed Shi'a Islam",
+      "Akbar imposed Shi'a Islam; the Safavids ended the jizya",
+      "Akbar and the Safavids both fought wars over Protestant vs. Catholic",
+      "Akbar and the Safavids both forced Hindus to convert"
+     ],
+     "ans": 0,
+     "exp": "Akbar tolerated other faiths and abolished the jizya; the Safavids made Shi'a Islam the state religion.",
+     "why": [
+      "",
+      "This swaps the two.",
+      "Those were European wars.",
+      "Akbar was tolerant."
+     ]
+    },
+    {
+     "id": "G4.5",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Comparison",
+     "stem": "What was a result of Aurangzeb bringing back the jizya and enforcing stricter Sunni rule?",
+     "options": [
+      "More Hindus joined the government",
+      "The Safavids made peace with the Mughals",
+      "Sikhism disappeared from Punjab",
+      "Rebellions grew"
+     ],
+     "ans": 3,
+     "exp": "Aurangzeb's stricter policies fueled rebellions.",
+     "why": [
+      "That fits Akbar's tolerance, not Aurangzeb's policy.",
+      "This is not connected to the jizya.",
+      "Sikhism survived.",
+      ""
+     ]
+    },
+    {
+     "id": "G4.6",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Comparison",
+     "stem": "Why is Akbar vs. Aurangzeb a useful comparison?",
+     "options": [
+      "It compares the religions of two different empires",
+      "It shows how the Ottomans ruled India",
+      "It shows change within one empire",
+      "It compares Europe and Asia"
+     ],
+     "ans": 2,
+     "exp": "The guide calls it a comparison within one empire: tolerance under Akbar, strict Sunni rule under Aurangzeb.",
+     "why": [
+      "Both ruled the same empire: the Mughals.",
+      "Both were Mughal emperors.",
+      "",
+      "Both ruled in South Asia."
+     ]
+    },
+    {
+     "id": "G4.7",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Comparison",
+     "stem": "Why did the Manchus have to work harder to justify their rule?",
+     "options": [
+      "They had been defeated by the Mughals and lost their capital",
+      "They were Shi'a Muslims ruling Sunni subjects",
+      "They were outsiders ruling a Han majority",
+      "They had no army and relied on Cossacks"
+     ],
+     "ans": 2,
+     "exp": "As outsiders, the Manchus adopted Confucian traditions and the Mandate of Heaven.",
+     "why": [
+      "The Qing never fought the Mughals for their capital.",
+      "That describes no empire on the guide; the Manchus were not Muslim rulers.",
+      "",
+      "They had the banner system."
+     ]
+    },
+    {
+     "id": "G4.8",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Comparison",
+     "stem": "Tax farming, zamindars and tribute were similar because they all",
+     "options": [
+      "were religious taxes paid only by non-Muslims",
+      "pulled wealth from subjects to fund the empire",
+      "let peasants vote on how much tax they paid",
+      "were invented by the Qing and copied by others"
+     ],
+     "ans": 1,
+     "exp": "Different systems, same purpose: getting wealth from subjects to pay for the empire.",
+     "why": [
+      "That is the jizya.",
+      "",
+      "Peasants had no vote.",
+      "Each came from a different empire."
+     ]
+    },
+    {
+     "id": "G4.9",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Comparison",
+     "stem": "On your guide's 3.4 table, which empire's legitimacy rested on Shi'a Islam as the state religion?",
+     "options": [
+      "The Safavid Empire",
+      "The Ottoman Empire",
+      "The Mughal Empire",
+      "The Russian Empire"
+     ],
+     "ans": 0,
+     "exp": "Safavid: gunpowder army, Shi'a Islam as the state religion. (The table lists their revenue as land grants to the military; your other sources don't confirm that, so don't build an answer on it.)",
+     "why": [
+      "",
+      "Ottoman legitimacy: sultan as caliph, mosques (Sunni).",
+      "Mughal legitimacy: Akbar's tolerance, Taj Mahal.",
+      "Russian legitimacy: tsar as Orthodox Christian ruler."
+     ]
+    },
+    {
+     "id": "G4.10",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Comparison",
+     "stem": "On the same table, which empire funded itself through serfdom and tribute from Siberia?",
+     "options": [
+      "The Ottoman Empire",
+      "The Mughal Empire",
+      "The Russian Empire",
+      "The Qing Empire"
+     ],
+     "ans": 2,
+     "exp": "Russia: serfdom and tribute from Siberia.",
+     "why": [
+      "Ottoman revenue: tax farming.",
+      "Mughal revenue: zamindars.",
+      "",
+      "Qing revenue: land tax and tribute, not Siberia."
+     ]
+    },
+    {
+     "id": "G4.11",
+     "type": "mcq",
+     "skill": "Study guide",
+     "topic": "Comparison",
+     "stem": "According to your guide's table, how did the Russian tsar show his right to rule?",
+     "options": [
+      "As caliph of all the world's Muslims",
+      "As an Orthodox Christian ruler",
+      "Through the Mandate of Heaven",
+      "Through Shi'a Islam as state religion"
+     ],
+     "ans": 1,
+     "exp": "Tsar as Orthodox Christian ruler.",
+     "why": [
+      "That was the Ottoman sultan.",
+      "",
+      "That was China.",
+      "That was the Safavids."
+     ]
+    },
+    {
+     "id": "G4.CY",
+     "type": "saq",
+     "lead": "Check yourself (from your study guide). Write a comparison statement.",
+     "parts": [
+      {
+       "k": "A",
+       "prompt": "Give a similarity between two empires and explain why it existed.",
+       "skill": "Comparison",
+       "model": "Both the Ottomans and the Mughals used gunpowder to expand. The Ottomans used cannons and Janissaries, and Babur used artillery to win at Panipat in 1526. This similarity existed because gunpowder weapons, which had spread west from China, let armies beat cavalry and break city walls, so any empire that adopted them could grow quickly.",
+       "tea": [
+        "Both the Ottomans and the Mughals used gunpowder to expand.",
+        "The Ottomans used cannons and Janissaries, and Babur used artillery to win at Panipat in 1526.",
+        "This similarity existed because gunpowder weapons, which had spread west from China, let armies beat cavalry and break city walls, so any empire that adopted them could grow quickly."
+       ],
+       "earns": "A real similarity, two named empires with evidence, and a reason why (not just what).",
+       "weak": "\"Both were big empires.\" Too general, and no explanation of why."
+      }
+     ]
+    }
+   ]
+  },
+  {
    "name": "SAQs",
    "mode": "practice",
    "tips": [
