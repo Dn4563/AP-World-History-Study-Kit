@@ -1,6 +1,10 @@
 # Deck 1: Context: From the Mongols to Gunpowder
 
+> Unit 3 covers 1450 to 1750. The big question: after the Mongol Empire broke apart, who filled the gap, and how? The answer is a set of new land-based empires, most of them founded by Turkic peoples from Central Asia, that used a new weapon, gunpowder, to grow fast.
+
 ## Why the Mongols fell apart
+
+> In the 1200s the Mongols built the largest land empire in history. It did not last as one state. Genghis Khan's heirs fought over who should rule and split the empire into four rival khanates. The khans also took on the religions and customs of the people they ruled, so they stopped acting as one people. In China, rebels threw out the Mongol (Yuan) rulers in 1368 and founded the Ming dynasty. The result was a power vacuum across Asia: a huge area with no strong ruler, which new powers rushed to fill.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -10,6 +14,8 @@
 | Ming expulsion of the Mongols (1368) | Chinese rebels drove the Yuan rulers out of China and founded a dynasty run by Han Chinese. | China for the Chinese again. |
 
 ## New powers rise
+
+> Into that vacuum came new Turkic warrior leaders from Central Asia. Timur (Tamerlane) raided from Persia to India and even crushed the Ottomans in 1402, and later the founder of the Mughals traced his family back to him. Many of these warriors followed the ghazi ideal: nomad fighters who saw themselves as holy warriors for Islam. They also had a new tool. Gunpowder, invented in Song China, had traveled west along Mongol trade routes. One small Turkish state on the Byzantine border, led by Osman around 1300, would grow into the Ottoman Empire.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -22,13 +28,19 @@
 
 # Deck 2: Expansion (3.1)
 
+> This deck is the who-took-what part of the unit. Six powers grew by conquest in these years: the Ottomans, Safavids, Mughals, Qing, Russia and Songhai. Almost every one of them won its key battles with cannons and muskets. On the test, the pattern matters more than any single date: gunpowder plus strong rulers led to fast expansion.
+
 ## Gunpowder
+
+> "Gunpowder empire" is the label for big states with many peoples that conquered and held land with cannons and firearms. Your study guide means the Ottoman, Safavid and Mughal Empires; some sources also count the Qing and Russia. If a question asks how these empires grew so fast, the safe answer is gunpowder weapons plus strong central rulers.
 
 | Term | Definition | Hook |
 |---|---|---|
 | Gunpowder empires | Large states with many peoples that relied on cannons and firearms to conquer and control territory. | Cannons build empires. |
 
 ## Ottoman Empire
+
+> The Ottomans are the biggest story of 3.1. In 1453 Sultan Mehmed II used giant cannons to break the walls of Constantinople, ending the Byzantine Empire. He renamed the city Istanbul, made it his capital, and turned its great church, Hagia Sophia, into a mosque. Selim I then beat the Safavids and took Egypt and Syria, which made the Ottomans guardians of Mecca and Medina. Under Suleiman the Magnificent the empire hit its peak: he issued law codes, won most of Hungary at Mohács in 1526, and besieged Vienna in 1529. Vienna did not fall, and that marks the farthest the Ottomans pushed into Europe.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -42,6 +54,8 @@
 
 ## Safavid Empire
 
+> The Safavids ruled Persia (today's Iran). Ismail I founded the empire in 1501 when he was a teenager and made Shi'a Islam the state religion. That one choice set the Safavids against their Sunni neighbors, especially the Ottomans. About 90 years later Shah Abbas I ("the Great") rebuilt the army with muskets, cannons and enslaved soldiers and made Isfahan a showcase capital. The empire's weak spots: no real navy and no natural borders to defend it.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Ismail I | Founded the Safavid Empire in Persia in 1501 at about 14 or 15 and made Twelver Shi'a Islam the state religion. | Teen shah, Shi'a state. |
@@ -51,6 +65,8 @@
 | Safavid weaknesses | The empire had no real navy and no natural defenses. | Open borders, no fleet. |
 
 ## Mughal Empire
+
+> The Mughals ruled most of India. Babur, a descendant of Timur and Genghis Khan (the name Mughal comes from "Mongol"), invaded from Kabul. In 1526 at Panipat his smaller army, fighting from behind linked carts with cannons and muskets, beat the Sultan of Delhi. His grandson Akbar conquered most of northern India and kept the Hindu majority loyal by tolerating their religion. About a century later Aurangzeb made the empire its largest ever, but his strict Sunni rule and the return of the tax on non-Muslims stirred up rebellions.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -62,6 +78,8 @@
 
 ## Qing Empire
 
+> The Qing were Manchus, outsiders from northeast of China. Their leader Nurhaci organized them into military units called banners. In 1644 rebels took Beijing and the Ming collapsed; the Manchus allied with a Ming general, took the city, and founded the Qing dynasty, China's last. Emperor Kangxi added Taiwan, Mongolia and parts of Central Asia. Qianlong added Xinjiang after long wars against the Zunghars, a Mongol group, but failed campaigns in Burma and Vietnam emptied the treasury.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Banner system | Nurhaci's organization of the Manchus into military and administrative units. | Flags for every unit. |
@@ -72,6 +90,8 @@
 
 ## Russia
 
+> Russia grew from a small state around Moscow into a giant empire. Ivan IV ("the Terrible"), crowned tsar in 1547, took the cities of Kazan and Astrakhan from the Mongols' heirs. That gave Moscow control of the Volga River, a trade road south to Persia and the Ottomans, and opened the way east. Cossacks, peasant warriors with guns, pushed across Siberia for furs, and Russians reached the Pacific by 1639.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Ivan IV | Crowned tsar in 1547 (called the Terrible); took Kazan and Astrakhan from the Golden Horde's heirs, opening the way east. | Terrible, and expanding. |
@@ -81,6 +101,8 @@
 
 ## West Africa
 
+> Songhai was the great West African empire of this time. It controlled the cities of Gao and Timbuktu and the gold and salt trade across the Sahara. Its wealth drew an attack: in 1591 Morocco sent an army across the desert. At the Battle of Tondibi, Moroccan troops with firearms beat a much larger Songhai army. This is one more example of the unit's main pattern: guns beat numbers.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Songhai | West African empire that controlled Gao, Timbuktu and the trans-Saharan gold and salt trade. | Heir to Mali. |
@@ -89,7 +111,11 @@
 
 # Deck 3: Rivalries and Decline
 
+> Big empires next to each other fought, mostly over land, trade routes and religion. This deck covers those wars, then how the Islamic gunpowder empires started to weaken after about 1600 while Russia kept growing.
+
 ## Wars between empires
+
+> Neighboring empires fought constantly. Ottoman vs. Safavid was the biggest rivalry: land, trade routes and Sunni vs. Shi'a Islam. At Chaldiran in 1514, Ottoman cannons and Janissaries beat Safavid horsemen, and the Ottomans also banned trade with Safavid silk merchants. Safavid vs. Mughal was mainly about the fortress city of Kandahar in Afghanistan and the trade routes around it, even though the Safavids had earlier helped Babur's son Humayun win back his throne. Inside India, Hindu Maratha fighters used hit-and-run attacks against Aurangzeb's armies.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -103,6 +129,8 @@
 
 ## Decline
 
+> After about 1600 the Islamic gunpowder empires started to slip. The Ottomans lost at sea at Lepanto in 1571 and failed again at Vienna in 1683, the turning point of their decline in Europe. Inside the palace, wives and mothers schemed to put their own sons on the throne, which produced weak rulers. Rebels sacked the Safavid capital, Isfahan, in 1722. Russia, by contrast, kept rising because its tsars copied Western European armies. Key idea: the empires that adapted survived; the ones that didn't declined.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Battle of Lepanto (1571) | A mostly Spanish and Venetian fleet defeated the Ottoman navy. | Ottoman sea power checked. |
@@ -114,7 +142,11 @@
 
 # Deck 4: Ruling the Empires (3.2)
 
+> Conquering land is one thing; holding it is another. This deck is about the tools rulers used to stay in power: loyal officials who owed everything to the ruler, claims that God or Heaven backed them, giant buildings that showed off their power, and ways to collect taxes. The AP test loves to ask you to compare these tools across empires.
+
 ## Loyal elites
+
+> Every ruler had the same problem: nobles and local leaders with their own armies could rebel. The fix was officials who owed everything to the ruler. The Ottomans took Christian boys from the Balkans (devshirme) and trained them as Janissary soldiers and officials. The Safavids did the same with enslaved ghulams, to balance the Qizilbash warriors who had founded their state. The Qing kept China's civil service exams and split offices between Manchus and Han Chinese. Russia's Ivan IV used a black-clad force against the nobles, and Peter the Great promoted officials by service, not birth. In Europe, France's kings sent intendants to the provinces and England's monarchs relied on local justices of the peace.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -133,6 +165,8 @@
 
 ## Japan
 
+> Japan in the 1500s was split among daimyo, regional lords with private samurai armies. Three leaders unified it. Oda Nobunaga used muskets bought from the Portuguese to take Kyoto in 1568; Toyotomi Hideyoshi brought most of Japan under his control; and Tokugawa Ieyasu became shogun in 1603 and ruled from Edo (Tokyo). The Tokugawa kept the lords in line with alternate attendance: each lord had to live part of the time in the capital, and his family stayed there as hostages. Samurai became salaried officials, and Japan sharply limited contact with foreigners.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Daimyo | Regional landholding lords in Japan, each with his own army of samurai. | Japan's great lords. |
@@ -144,6 +178,8 @@
 | Tokugawa isolation | The shogunate sharply limited contact with foreigners and banned Christianity. | Doors mostly closed. |
 
 ## Legitimacy
+
+> Legitimacy means people accept that the ruler has the right to rule. Rulers earned it in two main ways. The first is religion: European kings claimed divine right (power from God), Ottoman sultans called themselves caliphs, Chinese emperors held the Mandate of Heaven, and Mexica rulers performed human sacrifice to keep the gods pleased. The second is monuments that showed off power: Versailles, the Taj Mahal, Topkapi Palace, the Suleymaniye Mosque, Peter the Great's St. Petersburg and the Inca Temple of the Sun. Louis XIV of France is the model absolute ruler: "I am the state."
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -164,6 +200,8 @@
 
 ## Revenue
 
+> Empires need money for armies and palaces. Each one had its own way of getting it. The Ottomans sold the right to collect taxes to tax farmers, who paid up front and kept the extra. The Mughals used zamindars, local tax collectors who kept a share. The Mexica (Aztecs) demanded tribute from conquered peoples, and the Codex Mendoza lists it. Ming China made everyone pay taxes in silver, which pulled in silver from Japan and the Americas. Peter the Great taxed each person, which made life harder for Russia's serfs.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Tax farming | The state sold the right to collect taxes in a region to private collectors, who paid a fixed sum and kept the surplus. | Pay first, collect later. |
@@ -177,6 +215,8 @@
 
 ## England and Russia
 
+> In these years England and Russia went in opposite directions. In England, Parliament limited the king: the Bill of Rights of 1689 said the monarch needed Parliament's consent to raise taxes or an army. In Russia, Peter the Great grew stronger, not weaker. He put down the Streltsy, a guard corps that rebelled against him, modernized the army on Western lines, and built a new capital on the Baltic. Limited monarchy versus absolute monarchy is a classic comparison.
+
 | Term | Definition | Hook |
 |---|---|---|
 | English Bill of Rights (1689) | Required Parliament's agreement for taxes and an army and guaranteed legal process before arrest. | Limits on the crown. |
@@ -185,7 +225,11 @@
 
 # Deck 5: Belief Systems (3.3)
 
+> Religion split Europe and the Islamic world in these years. In Europe, Martin Luther's protest broke the Catholic Church into Catholic and Protestant camps and led to wars. In the Islamic world, the Sunni and Shi'a split hardened into a rivalry between empires. In India, a new faith, Sikhism, grew out of contact between Hindus and Muslims.
+
 ## Protestant Reformation
+
+> In 1517 a German monk, Martin Luther, protested Church practices such as selling indulgences (payments said to reduce punishment for sins). His Ninety-Five Theses started the Protestant Reformation. He taught sola fide, salvation by faith alone, and the Church expelled him in 1521. John Calvin started a second Protestant movement in Geneva and taught predestination; French Calvinists were called Huguenots. In England, Henry VIII broke from the Pope and made the Anglican Church. Result: Western Christianity split for good.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -202,6 +246,8 @@
 
 ## Catholic response
 
+> The Catholic Church fought back with the Counter-Reformation. The Council of Trent restated Catholic teachings and fixed some abuses. The Jesuits, a new order, spread Catholicism through schools and missions as far as India and Japan. The Inquisition hunted heresy, and the Index banned books, including Protestant Bibles.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Counter-Reformation | The Catholic Church's effort to fight Protestantism and reform itself. | Rome strikes back. |
@@ -212,6 +258,8 @@
 | Index of Prohibited Books | The Catholic list of banned writings, including Protestant Bibles and Copernicus. | The banned list. |
 
 ## Wars and settlements
+
+> The split led to wars, which ended in compromises. The Peace of Augsburg (1555) let each German prince choose Catholic or Lutheran for his state. In France, Henry IV became Catholic to end the fighting and then protected Protestants with the Edict of Nantes (1598); Louis XIV later cancelled it, and many skilled Huguenots fled. The Thirty Years' War began over religion and grew into a Europe-wide war. The Peace of Westphalia (1648) ended it and added Calvinism as a third choice. Pattern: religious wars ended with rulers choosing the faith.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -226,6 +274,8 @@
 
 ## Islam
 
+> Islam's two branches split over who should lead after Muhammad. Sunnis, the majority, said leaders should be chosen; Shi'a said leadership belonged to Ali's descendants. The Ottomans and Mughals were Sunni, and the Safavids made Shi'a Islam their state religion and forced Sunnis to convert. That is why Ottoman–Safavid wars were partly religious. In Ottoman lands, Islamic law (shariah) replaced Byzantine law after 1453.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Sunni Islam | The larger branch of the Muslim faith, which holds the caliph should be chosen from Muhammad's companions; followed by the Ottomans and Mughals. | Choose the leader. |
@@ -234,6 +284,8 @@
 | Shariah | Islamic law covering all parts of life; it replaced Byzantine law in Ottoman lands after 1453. | Islamic law. |
 
 ## Sikhism and syncretism
+
+> Syncretism means blending religions into something new. Sikhism began in Punjab in the late 1400s with Guru Nanak, out of contact between Hindus and Muslims. It teaches one God, equality and rejection of caste. Akbar tolerated it and gave it land, and his own blended faith, the Din-i Ilahi, never caught on. Under later Mughal rulers the relationship turned hostile: the emperor Jahangir had Guru Arjan executed in 1606, and in 1699 the Sikhs formed the Khalsa to defend their faith.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -248,7 +300,11 @@
 
 # Deck 6: Comparing Empires (3.4)
 
+> Every empire in this unit ruled people of many religions and ethnic groups. This deck compares how each one handled that: some tolerated differences to keep the peace, others forced people to conform. Expect questions that ask for one similarity or one difference between two empires.
+
 ## Ruling diverse peoples
+
+> Every empire ruled people of other religions or ethnic groups. Some leaned on tolerance. The Ottoman millet system let each religious community run its own affairs, and Akbar gave Hindus government posts and ended the jizya, the tax on non-Muslims. Others demanded conformity. Aurangzeb brought the jizya back and enforced strict Sunni rule, which sparked revolts. The Qing did both: they adopted Chinese traditions like Confucianism to look legitimate, but forced Han men to wear the Manchu queue hairstyle as a sign of loyalty.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -261,6 +317,8 @@
 
 ## Comparing systems
 
+> These cards are ready-made comparisons. Similarity: the Ottomans and Safavids both used enslaved soldiers who were loyal only to the ruler. Difference: the Aztecs ruled loosely through force and tribute, the Incas through a tightly organized system of provinces, and Songhai through scholar-officials trained in Timbuktu. Your textbook says the Safavid–Mughal war was more about trade routes than religion. The gunpowder empires eventually declined for many reasons at once: European competition, weak rulers and heavy taxes.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Slave soldiers | Both the Ottoman sultan and the Safavid shah used enslaved troops to offset fighters loyal to tribes or local leaders. | Loyal because dependent. |
@@ -272,7 +330,11 @@
 
 # Deck 7: Scientific Revolution (optional)
 
+> This optional deck is a short preview of a European change in thinking: answers should come from evidence and experiments, not only from tradition or the Church.
+
 ## Reason and evidence
+
+> Scientists began testing ideas with evidence. Francis Bacon pushed collecting data to support a hypothesis (empiricism). Isaac Newton's Principia (1687) explained gravity and motion with mathematical laws.
 
 | Term | Definition | Hook |
 |---|---|---|
