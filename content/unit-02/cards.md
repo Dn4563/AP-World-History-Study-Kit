@@ -1,6 +1,10 @@
 # Deck 1: Silk Roads and Commercial Growth
 
+> Unit 2 covers 1200 to 1450. The big question: why did trade across Afro-Eurasia grow so much, and what did that growth change? This deck starts with the overland Silk Roads and the new ways merchants handled money and travel.
+
 ## Why trade grew
+
+> The Silk Roads were centuries old by 1200. What changed was intensification: more goods moving farther on the same routes. The textbook's main cause is the Mongols, who united the routes and made them safe. Demand mattered too: elites everywhere wanted silk, porcelain and spices, and crusaders brought that taste home to Europe. Caravans and better camel saddles made the trip possible.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -13,17 +17,21 @@
 
 ## Commercial innovations
 
+> Merchants needed ways to travel and pay safely over long distances. Caravanserai gave them roadside shelter. Money replaced barter, and China's paper money and flying cash, like Europe's bills of exchange and banking houses, let merchants move value without hauling heavy coins. The key point: these tools existed before 1200; they were improved and spread.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Caravanserai | A roadside inn (Persian for caravan plus palace) with stalls for animals and rooms and storage for travelers; made travel safer and cheaper. | Caravan plus palace. |
-| Money economy | An economy that uses money instead of barter with goods like cowrie shells or salt; China had long had one. | Money, not barter. |
+| Money economy | A system of buying and selling with currency instead of bartering with goods like cowrie shells or salt; China had long had one. | Money, not barter. |
 | Flying cash | Chinese credit system: deposit paper money in one place and withdraw the same amount elsewhere, because copper coins were too heavy to carry for big trades. | Cash that flies to another city. |
-| Paper money | Currency in paper form, first used in China, which eased large transactions. | Light enough to carry. |
+| Paper money | Printed currency, first used in China, which eased large transactions. | Light enough to carry. |
 | Bill of exchange | A document promising payment of a set amount on a set date, letting merchants move money without carrying coins. | An IOU that travels. |
-| Banking house | A precursor to modern banks where bills and credit were handled; European banking houses appeared in the 1300s. | Where the IOU gets cashed. |
+| Banking house | A business where bills and credit were handled, a precursor to today's banks; Europe's first ones appeared in the 1300s. | Where the IOU gets cashed. |
 | Improved, not invented | Caravanserai, credit, and paper money all existed before 1200; the key point is that they were improved and spread. | Upgrades, not inventions. |
 
 ## Cities and production
+
+> Busier routes built up the cities where they met, like Kashgar and Samarkand, which became centers of trade, religion and learning. Rising demand also pushed producers: China expanded iron, steel and porcelain output (proto-industrialization), and Persia and India expanded textile production for export.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -34,30 +42,38 @@
 
 # Deck 2: The Mongol Empire
 
+> The Mongols built the largest land empire in history in a few decades. This deck covers how they conquered, how they split and ruled, how their peace boosted trade and moved ideas, and why the empire fell apart.
+
 ## Rise and methods
+
+> Temujin united the Mongol clans by promoting talent over family, and the 1206 kuriltai elected him Genghis Khan. The Mongols won with fast horse archers, discipline, feigned retreats and terror, and they borrowed what they lacked, like siege weapons from captured Chinese and Persian engineers. They went after the wealth of the lands near the Silk Roads.
 
 | Term | Definition | Hook |
 |---|---|---|
 | Temujin / Genghis Khan | Mongol leader (born 1162) elected "ruler of all" at the 1206 kuriltai; united the clans and promoted talent over family. Also spelled Chinggis. | Temujin becomes "ruler of all." |
 | Kuriltai | A meeting of Mongol chieftains; the one in 1206 elected Temujin khan. | Council of chiefs. |
-| Khan / khanate | A khan is a king; a khanate is his kingdom. | Khan king, khanate kingdom. |
+| Khan / khanate | The first word means a Mongol king; the second means the kingdom he rules. | Khan king, khanate kingdom. |
 | Mongol warfare | Skilled horse archers, strict discipline, feigned retreats, terror, and terrain mapping; the Mongols also adopted conquered peoples' technology. | Fast, fierce, borrowed tech. |
 | Siege weapons | Portable towers and catapults used against walled fortifications, built with the help of captured Chinese and Persian engineers. | Walls fall to borrowed machines. |
 | Mongol motive | The Mongols coveted the wealth of neighbors nearer the Silk Roads (silk, gold) and recruited skilled captives such as craftworkers, miners, and scribes. | Follow the luxury. |
 
 ## Four khanates
 
+> After Genghis, the empire split into four khanates. Each adapted differently: the Yuan in China under Kublai became Chinese in style; the Il-khanate in Persia (founded by Hulegu, who destroyed Baghdad) used Persian officials and converted to Islam; the Golden Horde ruled Russia indirectly through local princes; and the Chagatai Khanate stayed the most traditionally Mongol.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Yuan Dynasty | Kublai Khan's Chinese dynasty (1271–1368); more Chinese in style, rebuilt the capital as Dadu, tolerated many religions; ended by the Ming. | Yuan is China. |
-| Il-khanate | Khanate in Persia and Southwest Asia founded by Hulegu; Persians served as officials; the Mongols there later converted to Islam. | Il-khanate is Persia. |
+| Il-khanate | Mongol kingdom in Persia and Southwest Asia founded by Hulegu; Persians served as officials; the Mongols there later converted to Islam. | Il-khanate is Persia. |
 | Golden Horde | Western khanate under Batu that conquered Russia and destroyed Kiev in 1240; ruled through Russian princes who paid tribute; lasted longest. | Golden Horde is Russia. |
-| Chagatai Khanate | Central Asian khanate that stayed the most traditionally Mongol. | Chagatai is Central Asia. |
+| Chagatai Khanate | Central Asian Mongol kingdom that kept the old steppe ways more than any other. | Chagatai is Central Asia. |
 | Kublai Khan | Genghis Khan's grandson; Great Khan from 1260; founded the Yuan; welcomed foreigners such as Marco Polo. | Kublai, the Chinese-style khan. |
 | Hulegu | Genghis Khan's grandson who destroyed Baghdad in 1258 and killed the caliph. | Hulegu equals Baghdad. |
 | Indirect rule | The Golden Horde ruled northern Russia through existing Russian princes who sent regular tribute. | Rule through locals. |
 
 ## Pax Mongolica and transfers
+
+> Once the conquests ended, the Mongol Peace (about 1250 to 1350) made the routes safe, and religious tolerance welcomed merchants of every faith. The yam relay system linked the empire. Ideas moved too: Greek medicine through Islamic scholars, Hindu-Arabic numerals to Europe, and a script borrowed from the Uyghurs to write Mongol.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -70,6 +86,8 @@
 
 ## Decline
 
+> The empire was too big and too divided to last: succession fights, huge distances, rulers blending into local cultures, the Black Death, failed invasions and revolts. In China, the Yuan angered the scholar-gentry by shutting them out of government; the White Lotus Society organized resistance, and Zhu Yuanzhang founded the Ming in 1368. The Mongols' legacy cuts both ways: destroyers and connectors.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Causes of Mongol decline | Succession disputes, vast distances, assimilation into local cultures, the Black Death, failed expansion (Japan, Java, others), and revolts. | Too big, too split. |
@@ -81,7 +99,11 @@
 
 # Deck 3: The Indian Ocean
 
+> The Indian Ocean was the biggest trade network of the period. This deck covers what made sea trade grow, which ports and states got rich from it, and how it spread people, religion and slavery around the ocean.
+
 ## Causes of growth
+
+> Sea trade ran on the monsoon winds, which reverse direction by season, so merchants timed their voyages and waited in port. New tools made sailing safer: the lateen sail, the stern rudder and compass from China, and the astrolabe improved by Muslim navigators. Arab and Indian dhows and huge Chinese junks carried the cargo.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -95,6 +117,8 @@
 
 ## Goods and states
 
+> Each region had a specialty: Indian cotton and pepper, Chinese silk and porcelain, Swahili gold and ivory, Southwest Asian horses. Port cities and states grew rich by hosting or taxing that trade: Calicut welcomed foreign merchants, Gujarat collected huge customs, the Swahili city-states traded gold for porcelain, and Malacca charged every ship passing its strait.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Specialized products | Cotton, pepper, and steel from India; spices from the Spice Islands; gold, ivory, and slaves from the Swahili coast; silk and porcelain from China; horses and dates from Southwest Asia. | Every region had a specialty. |
@@ -106,6 +130,8 @@
 
 ## Effects
 
+> Merchants who settled abroad formed diasporas, and Arab and Persian merchants who married local women spread Islam through family ties. China's Zheng He led huge fleets to show Ming power and collect tribute, until cost and Confucian distrust of foreign contact ended the voyages. The ocean also carried enslaved East Africans, mostly for urban, household and military work.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Diaspora | A settlement of people away from their homeland; settlers introduce their traditions into local cultures, which influence the settlers in turn. | Settle, share, swap. |
@@ -116,25 +142,33 @@
 
 # Deck 4: Trans-Saharan Trade
 
+> Across the Sahara, camel caravans linked West Africa to the Mediterranean world. This deck covers how merchants crossed the desert, what they traded, and how the trade built the empire of Mali and spread Islam.
+
 ## Desert logistics
+
+> The Sahara is about the size of China, and only its oases have water. Camels, which go long without water, made crossing possible, and Somali saddles let them carry heavy loads. Large organized caravans with guides and supplies, linked by family partners, credit and agents, kept the trade going.
 
 | Term | Definition | Hook |
 |---|---|---|
 | Sahara and oases | Huge arid desert (about the size of China) where only small oases have water; caravans traveled oasis to oasis. | Oasis, the water stop. |
 | Camel | Native to Arabia; drinks over 50 gallons quickly and travels long without water; replaced horses and donkeys in North Africa after 300 CE. | Built for the desert. |
-| Camel saddle | Saddle developed by the Somalis to carry loads of up to 600 pounds; made heavy camel freight practical. | Saddle turns camel into cargo carrier. |
+| Camel saddle | Riding gear developed by the Somalis to carry loads of up to 600 pounds; made heavy desert freight practical. | Saddle turns camel into cargo carrier. |
 | Trans-Saharan caravan | Large organized groups with guides, provisions, and thousands of camels; family partners, credit, and agents linked cities. | Safety, supplies, trust. |
 
 ## Goods
+
+> The core trade was gold for salt: gold from West Africa went north, salt from North Africa went south. Ivory, slaves and kola nuts also went north; textiles, horses, copper and brass went south. West African cities used cowrie shells as money.
 
 | Term | Definition | Hook |
 |---|---|---|
 | Gold | The most precious trans-Saharan good, from West Africa; it drew foreign traders. | Gold goes north. |
 | Salt | Came from North Africa (for example the Taghaza oasis) and was traded south for gold. | Salt goes south. |
 | Trans-Saharan goods | South to north: gold, ivory, slaves, kola nuts. North to south: salt, textiles, horses, copper and brass. | Gold up, salt down. |
-| Cowrie shells | Shells used as currency in West African trading cities. | Shells as cash. |
+| Cowrie shells | Small seashells used as currency in West African trading cities. | Shells as cash. |
 
 ## Mali and Islam
+
+> Mali grew rich by taxing and protecting the gold trade. Sundiata founded it in 1235; Mansa Musa's 1324 pilgrimage to Mecca showed off its wealth, and he then built mosques and schools in Timbuktu. Islam spread through merchants and rulers' conversions, not conquest, though most people kept their traditional beliefs. Songhai later replaced Mali.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -147,7 +181,11 @@
 
 # Deck 5: Culture, Cities, and Travelers
 
+> Trade moved more than goods. This deck covers the religions, languages, inventions and learning that traveled the routes, why cities rose and fell, and the travelers whose accounts we use as sources.
+
 ## Religion and language
+
+> Religions spread along the routes and often blended with local beliefs (syncretism). Buddhism moved from India to China, Korea and Japan, and mixed with Daoism as Chan (Zen); Neo-Confucianism mixed Confucian, Daoist and Buddhist ideas. Hinduism and Buddhism reached Southeast Asia by trade, Islam spread across Africa and Asia, and contact produced blended languages like Urdu.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -161,6 +199,8 @@
 
 ## Technology and learning
 
+> Chinese inventions like gunpowder and papermaking spread west and changed warfare and literacy. Islamic scholars translated Greek classics into Arabic, saving them, and added Indian mathematics and new medicine.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Gunpowder | Chinese invention (used for weapons) that spread west and changed warfare. | China's boom. |
@@ -168,6 +208,8 @@
 | Islamic scholars as translators | Translated Greek classics into Arabic, saving works by Aristotle and others, and added mathematics from India and advances in medicine. | Translators saved the Greeks. |
 
 ## Cities
+
+> Cities grew when there was stability, safe transport, trade, labor and food, as in Hangzhou, a city of about a million on the Grand Canal. They declined with war, disease and falling harvests, as Constantinople did after the Fourth Crusade and the plague, before the Ottomans took it in 1453.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -178,6 +220,8 @@
 
 ## Travelers
 
+> Travel accounts are key sources for this period, but each writer had a point of view. Marco Polo wrote as a Venetian merchant, Ibn Battuta as a Muslim scholar, and Margery Kempe as a Christian pilgrim. Always ask who wrote it, and why.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Marco Polo | Venetian merchant who visited Kublai Khan's court and wrote about China (back in Italy by 1295); focused on trade and cities; many Europeans doubted him. | A merchant's eye. |
@@ -187,7 +231,11 @@
 
 # Deck 6: Environmental Effects
 
+> Trade also moved crops and diseases, and growing populations put pressure on the land. This deck covers the crops that fed growth, the damage that followed, and the Black Death.
+
 ## Crops
+
+> New crops traveled the routes and changed populations. Champa rice gave China two harvests a year; Indonesian seafarers brought bananas to Africa, helping Bantu speakers settle new areas; citrus spread through Muslim lands; and sugar and cotton spread with the caliphs' conquests.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -198,12 +246,16 @@
 
 ## Degradation
 
+> More people meant more strain on the land: overgrazing, deforestation and soil erosion cut farm output. Overgrazing forced people to abandon Great Zimbabwe, and erosion hurt feudal Europe.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Environmental degradation | Larger populations strained the land: overgrazing, deforestation, and soil erosion cut farm output. | More people, thinner soil. |
 | Overgrazing and soil erosion | Overgrazing near Great Zimbabwe forced people to abandon the city in the late 1400s; deforestation and soil erosion hurt feudal Europe. | Land wears out. |
 
 ## Plague
+
+> The same routes that carried goods carried the Black Death. Fleas on rats rode ships and caravans from Central Asia, helped along by Mongol conquests, and the plague killed about a third of Europe. With fewer workers, wages rose and feudalism weakened. Boccaccio's Decameron came out of living through it.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -214,7 +266,11 @@
 
 # Deck 7: Comparing the Networks
 
+> AP questions ask you to compare. This deck lines up the Silk Roads, the Indian Ocean and the trans-Saharan routes: what they shared, how they differed, and what their societies looked like.
+
 ## Similarities
+
+> All three networks built on old routes and grew as states expanded. Stable states protected merchants and paid for new tools, trading cities held each network together, trade wealth encouraged centralized government, and ideas and ways of life moved along with goods.
 
 | Term | Definition | Hook |
 |---|---|---|
@@ -226,6 +282,8 @@
 
 ## Differences
 
+> The Silk Roads were overland and carried luxuries; the Indian Ocean was maritime, ran on the monsoon and carried bulk goods; the trans-Saharan routes crossed the desert by camel and traded gold for salt. Each region had its own currencies, and over time sea trade came to carry more than land trade.
+
 | Term | Definition | Hook |
 |---|---|---|
 | Silk Roads profile | Overland; luxury goods (silk, tea, porcelain, spices); horses, camels, and caravanserai; spread Buddhism, Neo-Confucianism, and Islam. | Land and luxuries. |
@@ -235,6 +293,8 @@
 | Maritime versus overland | As production rose, maritime trade volume began to exceed overland routes, requiring larger ships and better navigation. | Ships carry more. |
 
 ## Society
+
+> Growth didn't change everything. Labor still included peasants, artisans, debt labor and enslaved people, and most societies stayed patriarchal, with some exceptions. Trade cities became centers of learning, and growth brought costs: plague and environmental strain.
 
 | Term | Definition | Hook |
 |---|---|---|

@@ -1,0 +1,4642 @@
+{
+ "Intensification": [
+  {
+   "q": "A historian says the Silk Roads after 1200 were \"not new, but busier.\" Which term names that idea?",
+   "right": "Intensification",
+   "wrong": [
+    [
+     "Proto-industrialization, the expansion of Chinese iron, steel and porcelain output",
+     "That is about production, not the routes."
+    ],
+    [
+     "Diaspora",
+     "That is a community settled abroad."
+    ],
+    [
+     "Syncretism",
+     "That is blending religions."
+    ]
+   ],
+   "exp": "Intensification: the same old routes carried more trade over longer distances."
+  },
+  {
+   "q": "Which evidence would best support the claim that Silk Road trade intensified after 1200?",
+   "right": "More goods moving farther on the old routes",
+   "wrong": [
+    [
+     "Brand-new roads being built across Central Asia for the first time in history",
+     "The routes were centuries old; that would be invention, not intensification."
+    ],
+    [
+     "Fewer merchants on the roads",
+     "That would show decline."
+    ],
+    [
+     "Trade ending in China",
+     "That would show decline."
+    ]
+   ],
+   "exp": "Intensification means more trade over greater distances on routes that already existed."
+  }
+ ],
+ "Mongol stability": [
+  {
+   "q": "According to the textbook, what was the MOST significant cause of Silk Road growth after 1200?",
+   "right": "Mongol rule uniting and protecting the routes",
+   "wrong": [
+    [
+     "The Crusades, which made Europeans want silk and spices from the East",
+     "A cause of demand, but not the textbook's main cause."
+    ],
+    [
+     "The invention of the caravanserai",
+     "Caravanserai already existed."
+    ],
+    [
+     "The fall of Baghdad",
+     "That was destruction, not a cause of growth."
+    ]
+   ],
+   "exp": "The Mongols united the routes under one authority that protected merchants."
+  },
+  {
+   "q": "Why would a merchant in 1280 feel safer crossing Central Asia than one in 1150?",
+   "right": "One authority punished bandits and kept roads up",
+   "wrong": [
+    [
+     "Camels had just been brought to Central Asia from Arabia, making travel faster",
+     "Camels were already in use."
+    ],
+    [
+     "No one traded there in 1150",
+     "The routes were centuries old."
+    ],
+    [
+     "Paper money had been invented",
+     "Paper money isn't about safety."
+    ]
+   ],
+   "exp": "Under the Mongols one authority enforced laws, improved roads and punished bandits."
+  }
+ ],
+ "Luxury goods demand": [
+  {
+   "q": "Why did artisans in China and Persia expand production for export after 1200?",
+   "right": "Elites abroad wanted luxury goods",
+   "wrong": [
+    [
+     "Their own rulers banned them from selling any of their goods to local people",
+     "Not on your card; demand abroad drove it."
+    ],
+    [
+     "Peasants demanded porcelain",
+     "Elites were the buyers."
+    ],
+    [
+     "The Silk Roads had closed",
+     "The routes were busier, not closed."
+    ]
+   ],
+   "exp": "Elite demand for silk, porcelain, spices and fine textiles pushed artisans to produce for export."
+  },
+  {
+   "q": "Which best explains why silk and porcelain, not grain, traveled the Silk Roads?",
+   "right": "Light, valuable goods for elite buyers",
+   "wrong": [
+    [
+     "Grain could not grow anywhere along the Silk Roads, so it had to stay home",
+     "The reason is value and weight, not growing conditions."
+    ],
+    [
+     "Grain was illegal to trade",
+     "Not on your card."
+    ],
+    [
+     "Silk was heavy",
+     "Silk is light."
+    ]
+   ],
+   "exp": "The overland routes carried luxury goods that elites wanted."
+  }
+ ],
+ "Crusades (effect on demand)": [
+  {
+   "q": "How did the Crusades affect trade between Europe and Asia?",
+   "right": "They raised European demand for Asian goods",
+   "wrong": [
+    [
+     "They cut Europe off from Asian goods, since the crusaders closed the trade routes",
+     "Your card says they raised demand."
+    ],
+    [
+     "They had no effect on trade",
+     "Crusaders brought goods home."
+    ],
+    [
+     "They ended the Silk Roads",
+     "Trade grew."
+    ]
+   ],
+   "exp": "Crusaders came home with eastern fabrics and spices, raising European demand."
+  },
+  {
+   "q": "A European noble in 1250 wants silk he first saw on a relative who went east to fight. Which link does this show?",
+   "right": "Crusades → European demand",
+   "wrong": [
+    [
+     "Mongol conquest → Chinese demand for European wool and other goods",
+     "The demand ran from Europe for Asian goods."
+    ],
+    [
+     "Black Death → demand",
+     "The plague came later and cut trade."
+    ],
+    [
+     "Monsoon → demand",
+     "Monsoons drove sea voyages."
+    ]
+   ],
+   "exp": "Returning crusaders spread a taste for Asian luxuries in Europe."
+  }
+ ],
+ "Caravan": [
+  {
+   "q": "Why did Silk Road merchants travel in caravans instead of alone?",
+   "right": "Safety in numbers",
+   "wrong": [
+    [
+     "Rulers required every merchant to pay a fee to join a group before leaving",
+     "Not on your card; the reason is safety."
+    ],
+    [
+     "Camels refused to walk alone",
+     "Not the reason."
+    ],
+    [
+     "Caravans were faster",
+     "Safety was the reason."
+    ]
+   ],
+   "exp": "A caravan of merchants, animals and guides was safer than traveling alone."
+  },
+  {
+   "q": "Which pair of innovations both made caravan travel safer or cheaper?",
+   "right": "Caravanserai and better camel saddles",
+   "wrong": [
+    [
+     "Junks and lateen sails, which were used by traders all along the trade routes",
+     "Those are ships."
+    ],
+    [
+     "Stern rudders and compasses",
+     "Those are sea tools."
+    ],
+    [
+     "Champa rice and bananas",
+     "Those are crops."
+    ]
+   ],
+   "exp": "Caravanserai gave shelter; better saddles raised loads."
+  }
+ ],
+ "Camel saddle (Silk Roads)": [
+  {
+   "q": "What was the main effect of better camel saddles on Silk Road trade?",
+   "right": "Each camel carried much more",
+   "wrong": [
+    [
+     "Camels could now drink less water, so they crossed the desert without stopping",
+     "Saddles changed loads, not water needs."
+    ],
+    [
+     "Horses replaced camels",
+     "Camels stayed central."
+    ],
+    [
+     "Trade moved to the sea",
+     "Saddles helped land trade."
+    ]
+   ],
+   "exp": "Saddle design greatly increased the weight camels could carry."
+  },
+  {
+   "q": "Better saddles appear in both the Silk Road and trans-Saharan decks. What does that comparison show?",
+   "right": "Both land networks depended on camels",
+   "wrong": [
+    [
+     "Both networks were mainly sea routes that used camels to load and unload ships",
+     "Both are land routes."
+    ],
+    [
+     "Only the Silk Roads used camels",
+     "Trans-Saharan trade used camels too."
+    ],
+    [
+     "Saddles were invented in 1200",
+     "They were improved."
+    ]
+   ],
+   "exp": "Camel saddles raised loads on both overland networks."
+  }
+ ],
+ "Caravanserai": [
+  {
+   "q": "Why did caravanserai help trade grow?",
+   "right": "Travel became safer and cheaper",
+   "wrong": [
+    [
+     "They let merchants skip the long journey by sending goods through the mail",
+     "They were inns along the route."
+    ],
+    [
+     "They replaced money",
+     "That's credit or barter."
+    ],
+    [
+     "They were warships",
+     "They were inns."
+    ]
+   ],
+   "exp": "Roadside inns with animal stalls, rooms and storage made travel safer and cheaper."
+  },
+  {
+   "q": "Caravanserai, credit and paper money existed before 1200. How should you describe their role after 1200?",
+   "right": "Improved and spread",
+   "wrong": [
+    [
+     "Invented for the very first time to serve the Mongols' new trade routes",
+     "They existed before 1200."
+    ],
+    [
+     "Banned by the Mongols",
+     "They spread."
+    ],
+    [
+     "Forgotten",
+     "They spread."
+    ]
+   ],
+   "exp": "Key point: improved and spread, not invented."
+  }
+ ],
+ "Money economy": [
+  {
+   "q": "Why did a money economy make long-distance trade easier than barter?",
+   "right": "Trade didn't depend on swapping goods",
+   "wrong": [
+    [
+     "Money could be eaten if the trip ran short of food, unlike barter goods",
+     "That isn't the advantage."
+    ],
+    [
+     "Money was heavier than goods",
+     "Money is easier to move than goods."
+    ],
+    [
+     "Barter was illegal",
+     "Not on your card."
+    ]
+   ],
+   "exp": "With money, merchants didn't need someone who wanted their exact goods."
+  },
+  {
+   "q": "Cowrie shells and salt appear on the money economy card. Why?",
+   "right": "They were goods used in barter",
+   "wrong": [
+    [
+     "They were the first coins ever minted in China for long-distance trade",
+     "China used coins and paper."
+    ],
+    [
+     "They were paper money",
+     "They are physical goods."
+    ],
+    [
+     "They were taxes",
+     "Not on your card."
+    ]
+   ],
+   "exp": "A money economy uses money instead of barter with goods like cowrie shells or salt."
+  }
+ ],
+ "Flying cash": [
+  {
+   "q": "Why did China develop flying cash?",
+   "right": "Copper coins were too heavy for big trades",
+   "wrong": [
+    [
+     "Merchants wanted to avoid paying taxes to the emperor on their goods",
+     "Not on your card; weight was the reason."
+    ],
+    [
+     "Paper was cheaper than silk",
+     "Not the reason."
+    ],
+    [
+     "Banks were banned",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Deposit in one place, withdraw elsewhere, because heavy coins were hard to carry."
+  },
+  {
+   "q": "Which European tool did the same job as China's flying cash?",
+   "right": "The bill of exchange",
+   "wrong": [
+    [
+     "The caravanserai, which stored goods so merchants didn't have to carry them",
+     "That's an inn."
+    ],
+    [
+     "The astrolabe",
+     "A navigation tool."
+    ],
+    [
+     "The kuriltai",
+     "A Mongol council."
+    ]
+   ],
+   "exp": "Both let merchants move money without carrying coins."
+  }
+ ],
+ "Paper money": [
+  {
+   "q": "What problem did paper money solve?",
+   "right": "Large transactions with heavy coins",
+   "wrong": [
+    [
+     "Bandits could no longer rob caravans because paper was worthless to them",
+     "Not on your card."
+    ],
+    [
+     "It ended barter everywhere",
+     "Barter continued in places."
+    ],
+    [
+     "It replaced trade",
+     "It eased trade."
+    ]
+   ],
+   "exp": "Paper money, first used in China, eased large transactions."
+  },
+  {
+   "q": "Paper money was first used where?",
+   "right": "China",
+   "wrong": [
+    [
+     "Venice, where the first European banking houses opened in the 1300s",
+     "Banking houses came later in Europe."
+    ],
+    [
+     "Mali",
+     "Mali used gold and cowries."
+    ],
+    [
+     "Persia",
+     "Your card says China."
+    ]
+   ],
+   "exp": "Paper money was first used in China."
+  }
+ ],
+ "Bill of exchange": [
+  {
+   "q": "A Venetian merchant sells goods in Cairo and is promised a set payment on a set date. What document is this?",
+   "right": "A bill of exchange",
+   "wrong": [
+    [
+     "Flying cash, the Chinese system of depositing paper money in one place",
+     "Flying cash is Chinese."
+    ],
+    [
+     "A caravanserai",
+     "That's an inn."
+    ],
+    [
+     "A customs duty",
+     "That's a tax."
+    ]
+   ],
+   "exp": "A bill of exchange promises a set payment on a set date."
+  },
+  {
+   "q": "Why would bills of exchange encourage merchants to travel farther?",
+   "right": "Less risk of carrying coins",
+   "wrong": [
+    [
+     "Bills of exchange made it illegal for bandits to rob merchants on the road",
+     "They reduced risk by removing coins."
+    ],
+    [
+     "Bills were worth more than gold",
+     "Not the point."
+    ],
+    [
+     "Bills replaced ships",
+     "They moved money, not goods."
+    ]
+   ],
+   "exp": "Merchants could move money without carrying coins."
+  }
+ ],
+ "Banking house": [
+  {
+   "q": "Where would a merchant with a bill of exchange go to have it cashed in the 1300s?",
+   "right": "A banking house",
+   "wrong": [
+    [
+     "A caravanserai, the roadside inn where travelers kept their goods overnight",
+     "That's lodging."
+    ],
+    [
+     "A kuriltai",
+     "A Mongol council."
+    ],
+    [
+     "A mosque",
+     "Not where bills were handled."
+    ]
+   ],
+   "exp": "Banking houses handled bills and credit."
+  },
+  {
+   "q": "Banking houses in Europe were a precursor to what?",
+   "right": "Modern banks",
+   "wrong": [
+    [
+     "Modern trading companies that hired their own armies to protect their trade",
+     "Not on your card."
+    ],
+    [
+     "Caravanserai",
+     "Those are inns."
+    ],
+    [
+     "Guilds",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Banking houses were a precursor to modern banks."
+  }
+ ],
+ "Improved, not invented": [
+  {
+   "q": "A student writes, \"Caravanserai were invented during the Mongol era.\" What's the correction?",
+   "right": "They existed before 1200 and were improved",
+   "wrong": [
+    [
+     "They were invented by the Ming dynasty after the Mongols had been overthrown",
+     "They existed before 1200."
+    ],
+    [
+     "They never existed",
+     "They did."
+    ],
+    [
+     "They were invented in Europe",
+     "Your card says they existed before 1200."
+    ]
+   ],
+   "exp": "Caravanserai, credit and paper money existed before 1200; they were improved and spread."
+  },
+  {
+   "q": "Which describes CONTINUITY in commercial practices from before 1200 to after?",
+   "right": "The same tools, used more and better",
+   "wrong": [
+    [
+     "A complete break, with brand-new methods replacing the old ones everywhere",
+     "That's change, and not accurate."
+    ],
+    [
+     "Trade disappeared",
+     "Trade grew."
+    ],
+    [
+     "Only barter was used",
+     "Credit and paper money existed."
+    ]
+   ],
+   "exp": "The tools continued; their use was improved and spread."
+  }
+ ],
+ "Kashgar": [
+  {
+   "q": "Why did Kashgar become an important city?",
+   "right": "Northern and southern routes met there",
+   "wrong": [
+    [
+     "It was the capital of the Mongol Empire and home to Kublai Khan's court",
+     "Kublai's capital was Dadu."
+    ],
+    [
+     "It was a seaport",
+     "It's an oasis city."
+    ],
+    [
+     "It was in Europe",
+     "It's at China's western edge."
+    ]
+   ],
+   "exp": "Kashgar was an oasis where Silk Road routes met."
+  },
+  {
+   "q": "Kashgar was once Buddhist and later a center of Islamic scholarship. What does this change show?",
+   "right": "Trade routes carried religions",
+   "wrong": [
+    [
+     "The Mongols forced everyone in their empire to convert to the same religion",
+     "The Mongols were tolerant."
+    ],
+    [
+     "Religion never changed there",
+     "It did change."
+    ],
+    [
+     "Islam came by sea",
+     "Kashgar is inland."
+    ]
+   ],
+   "exp": "Religions spread along the trade routes that met at Kashgar."
+  }
+ ],
+ "Samarkand": [
+  {
+   "q": "What made Samarkand a \"knot\" of the Silk Roads?",
+   "right": "It sat between China and the Mediterranean",
+   "wrong": [
+    [
+     "It was a port on the Indian Ocean where monsoon ships unloaded their cargo",
+     "Samarkand is inland."
+    ],
+    [
+     "It was in West Africa",
+     "It's in Uzbekistan."
+    ],
+    [
+     "It was a Chinese capital",
+     "It's in Central Asia."
+    ]
+   ],
+   "exp": "Samarkand linked China and the Mediterranean."
+  },
+  {
+   "q": "Samarkand was religiously diverse and known for scholars. What does this suggest about trade cities?",
+   "right": "They were also centers of ideas",
+   "wrong": [
+    [
+     "They were closed to outsiders and only traded with people of one religion",
+     "Samarkand was diverse."
+    ],
+    [
+     "They had no schools",
+     "It was known for learning."
+    ],
+    [
+     "They only sold silk",
+     "Artisans made many goods."
+    ]
+   ],
+   "exp": "Trade cities like Samarkand drew people, faiths and learning."
+  }
+ ],
+ "Proto-industrialization": [
+  {
+   "q": "What caused proto-industrialization in China?",
+   "right": "Rising demand for its goods",
+   "wrong": [
+    [
+     "The Mongols banned all farming, forcing peasants into factories in the cities",
+     "Not on your card."
+    ],
+    [
+     "The Black Death",
+     "That came later and cut trade."
+    ],
+    [
+     "Zheng He's voyages",
+     "Those came later."
+    ]
+   ],
+   "exp": "Demand pushed China to expand iron, steel and porcelain production."
+  },
+  {
+   "q": "Which is an example of proto-industrialization?",
+   "right": "China expanding porcelain output for trade",
+   "wrong": [
+    [
+     "Mongols building relay stations for messengers across the empire",
+     "That's the yam."
+    ],
+    [
+     "Monks translating Greek books",
+     "That's learning."
+    ],
+    [
+     "Mansa Musa's pilgrimage",
+     "That's not production."
+    ]
+   ],
+   "exp": "Expanding iron, steel and porcelain production for trade."
+  }
+ ],
+ "Luxury production centers": [
+  {
+   "q": "Which regions expanded luxury production for export?",
+   "right": "China, Persia and India",
+   "wrong": [
+    [
+     "Mali, Russia and Japan, which made silk and porcelain for buyers in Europe",
+     "Your card names China, Persia and India."
+    ],
+    [
+     "England and France",
+     "Not on your card."
+    ],
+    [
+     "Mongolia only",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Chinese silk and porcelain and Persian and Indian textiles expanded for export."
+  },
+  {
+   "q": "How were luxury production centers and elite demand connected?",
+   "right": "Demand drove production",
+   "wrong": [
+    [
+     "Production came first, and it later created demand once the goods appeared",
+     "Your cards say demand pushed production."
+    ],
+    [
+     "They were unrelated",
+     "They were linked."
+    ],
+    [
+     "Demand fell",
+     "Demand rose."
+    ]
+   ],
+   "exp": "Elite demand pushed artisans to expand production for export."
+  }
+ ],
+ "Temujin / Genghis Khan": [
+  {
+   "q": "Temujin promoted people for talent, not family ties. What did this help him do?",
+   "right": "Unite the rival Mongol clans",
+   "wrong": [
+    [
+     "Win the support of Chinese scholars, who wanted the civil service exams kept",
+     "The Yuan later dismantled the exams."
+    ],
+    [
+     "Avoid all warfare",
+     "The Mongols fought constantly."
+    ],
+    [
+     "Convert to Islam",
+     "Not on your card."
+    ]
+   ],
+   "exp": "He united the clans and promoted talent over family."
+  },
+  {
+   "q": "What happened at the 1206 kuriltai?",
+   "right": "Temujin was elected \"ruler of all\"",
+   "wrong": [
+    [
+     "Kublai Khan founded the Yuan dynasty and moved the capital to Dadu",
+     "That was decades later."
+    ],
+    [
+     "The empire split into four khanates",
+     "That came later."
+    ],
+    [
+     "Baghdad fell",
+     "That was 1258."
+    ]
+   ],
+   "exp": "The 1206 kuriltai elected Temujin, who became Genghis Khan."
+  }
+ ],
+ "Kuriltai": [
+  {
+   "q": "How did a new Mongol khan come to power, according to your cards?",
+   "right": "Chieftains elected him at a kuriltai",
+   "wrong": [
+    [
+     "The oldest son always inherited the throne without any vote or meeting",
+     "Your card describes election by chiefs."
+    ],
+    [
+     "Chinese scholars chose him",
+     "Not on your card."
+    ],
+    [
+     "He was appointed by the caliph",
+     "Not on your card."
+    ]
+   ],
+   "exp": "A kuriltai was a meeting of chieftains; the 1206 one elected Temujin."
+  },
+  {
+   "q": "Which modern idea is the kuriltai closest to?",
+   "right": "A council that chooses a leader",
+   "wrong": [
+    [
+     "A court that tries criminals and decides what punishment they should get",
+     "Your card says it elected a khan."
+    ],
+    [
+     "A tax office",
+     "Not its role."
+    ],
+    [
+     "A school",
+     "Not its role."
+    ]
+   ],
+   "exp": "The kuriltai was a meeting of chiefs that elected the khan."
+  }
+ ],
+ "Khan / khanate": [
+  {
+   "q": "The Golden Horde was ruled by a khan. What does that make the Golden Horde?",
+   "right": "A khanate",
+   "wrong": [
+    [
+     "A caliphate, since it was ruled by the Mongols who later became Muslim",
+     "A caliphate is ruled by a caliph."
+    ],
+    [
+     "A city-state",
+     "It was a large kingdom."
+    ],
+    [
+     "A dynasty of China",
+     "That's the Yuan."
+    ]
+   ],
+   "exp": "A khanate is the kingdom of a khan."
+  },
+  {
+   "q": "Which pair matches correctly?",
+   "right": "Khan: ruler; khanate: his kingdom",
+   "wrong": [
+    [
+     "Khan: the kingdom itself; khanate: the ruler who governs the kingdom",
+     "It's the other way around."
+    ],
+    [
+     "Khan: a merchant; khanate: a caravan",
+     "Not the meaning."
+    ],
+    [
+     "Khan: a priest; khanate: a temple",
+     "Not the meaning."
+    ]
+   ],
+   "exp": "A khan is a king; a khanate is his kingdom."
+  }
+ ],
+ "Mongol warfare": [
+  {
+   "q": "Which tactic involved pretending to run away to draw enemies into a trap?",
+   "right": "Feigned retreat",
+   "wrong": [
+    [
+     "Terrain mapping, studying the ground before an attack to plan the battle",
+     "That's mapping, not a fake retreat."
+    ],
+    [
+     "Siege towers",
+     "Those attacked walls."
+    ],
+    [
+     "The yam",
+     "That carried messages."
+    ]
+   ],
+   "exp": "Feigned retreats were part of Mongol warfare."
+  },
+  {
+   "q": "Why could the Mongols take walled cities, though they were steppe horsemen?",
+   "right": "They adopted conquered peoples' technology",
+   "wrong": [
+    [
+     "They had always built stone cities of their own and knew how walls worked",
+     "They were nomads; they borrowed the know-how."
+    ],
+    [
+     "The cities surrendered without fighting every time",
+     "Many fought."
+    ],
+    [
+     "They used gunpowder they invented",
+     "Gunpowder was Chinese."
+    ]
+   ],
+   "exp": "The Mongols adopted conquered peoples' technology."
+  }
+ ],
+ "Siege weapons": [
+  {
+   "q": "Where did the Mongols get the skills to build catapults and siege towers?",
+   "right": "Captured Chinese and Persian engineers",
+   "wrong": [
+    [
+     "Their own nomadic tradition of building wooden machines on the steppe",
+     "Your card credits captured engineers."
+    ],
+    [
+     "European crusaders",
+     "Not on your card."
+    ],
+    [
+     "Mali's armies",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Siege weapons were built with captured Chinese and Persian engineers."
+  },
+  {
+   "q": "What does the Mongols' use of siege weapons show about their empire?",
+   "right": "They used conquered peoples' skills",
+   "wrong": [
+    [
+     "They refused to use any ideas that came from outside the Mongol clans",
+     "The opposite is true."
+    ],
+    [
+     "They avoided cities",
+     "They attacked walled cities."
+    ],
+    [
+     "They only fought at sea",
+     "They fought on land."
+    ]
+   ],
+   "exp": "Skilled captives helped the Mongols take walled cities."
+  }
+ ],
+ "Mongol motive": [
+  {
+   "q": "Why did the Mongols recruit miners, scribes and craftworkers from conquered lands?",
+   "right": "They wanted their skills",
+   "wrong": [
+    [
+     "They wanted to convert them to the Mongol religion before sending them home",
+     "Your card is about skills."
+    ],
+    [
+     "They had too many workers",
+     "They needed skills."
+    ],
+    [
+     "To start the Black Death",
+     "Not on your card."
+    ]
+   ],
+   "exp": "The Mongols recruited skilled captives."
+  },
+  {
+   "q": "What drew the Mongols toward lands near the Silk Roads?",
+   "right": "The wealth there, like silk and gold",
+   "wrong": [
+    [
+     "The religious sites they wanted to protect from attacks by crusaders",
+     "Your card says wealth."
+    ],
+    [
+     "The cold weather",
+     "Not on your card."
+    ],
+    [
+     "Empty land",
+     "Those lands were rich and populated."
+    ]
+   ],
+   "exp": "The Mongols coveted the wealth of their neighbors."
+  }
+ ],
+ "Yuan Dynasty": [
+  {
+   "q": "How was the Yuan different from the Mongols' homeland style of rule?",
+   "right": "It was more Chinese in style",
+   "wrong": [
+    [
+     "It was the most traditionally Mongol of all the khanates in the empire",
+     "That was the Chagatai Khanate."
+    ],
+    [
+     "It banned all religions",
+     "It tolerated many."
+    ],
+    [
+     "It was in Persia",
+     "That's the Il-khanate."
+    ]
+   ],
+   "exp": "The Yuan was more Chinese in style and rebuilt the capital as Dadu."
+  },
+  {
+   "q": "Which dynasty replaced the Yuan in 1368?",
+   "right": "The Ming",
+   "wrong": [
+    [
+     "The Song, which had ruled China before the Mongols arrived in the 1200s",
+     "The Song came before the Yuan."
+    ],
+    [
+     "The Qing",
+     "Not on your card."
+    ],
+    [
+     "The Il-khanate",
+     "That's Persia."
+    ]
+   ],
+   "exp": "The Yuan (1271–1368) was ended by the Ming."
+  }
+ ],
+ "Il-khanate": [
+  {
+   "q": "Who ran the day-to-day government in the Il-khanate?",
+   "right": "Persian officials",
+   "wrong": [
+    [
+     "Mongol warriors, who refused to let any conquered people work in government",
+     "Persians served as officials."
+    ],
+    [
+     "Chinese scholars",
+     "That's not the Il-khanate."
+    ],
+    [
+     "Russian princes",
+     "That's the Golden Horde."
+    ]
+   ],
+   "exp": "Persians served as officials in the Il-khanate."
+  },
+  {
+   "q": "The Mongols of the Il-khanate later converted to Islam. Which broader pattern does this show?",
+   "right": "Mongol rulers assimilating locally",
+   "wrong": [
+    [
+     "Mongols forcing their own religion on the people they had conquered",
+     "The Mongols took on local faiths."
+    ],
+    [
+     "Mongols staying fully traditional",
+     "That's the Chagatai."
+    ],
+    [
+     "Islam disappearing from Persia",
+     "The rulers adopted it."
+    ]
+   ],
+   "exp": "Assimilation into local cultures is one cause of Mongol decline."
+  }
+ ],
+ "Golden Horde": [
+  {
+   "q": "Which khanate lasted the longest?",
+   "right": "The Golden Horde",
+   "wrong": [
+    [
+     "The Yuan dynasty, which ruled China until it was overthrown in the 1300s",
+     "Your card says the Golden Horde lasted longest."
+    ],
+    [
+     "The Il-khanate",
+     "Not the longest."
+    ],
+    [
+     "The Chagatai Khanate",
+     "Not the longest."
+    ]
+   ],
+   "exp": "The Golden Horde lasted longest."
+  },
+  {
+   "q": "How did the Golden Horde control Russia?",
+   "right": "Through Russian princes who paid tribute",
+   "wrong": [
+    [
+     "By replacing all Russian leaders with Mongol governors from the steppe",
+     "It used existing princes."
+    ],
+    [
+     "By converting Russians to Islam",
+     "Not on your card."
+    ],
+    [
+     "Through Chinese officials",
+     "Not on your card."
+    ]
+   ],
+   "exp": "The Golden Horde ruled through Russian princes who paid tribute."
+  }
+ ],
+ "Chagatai Khanate": [
+  {
+   "q": "Which khanate kept the most traditional Mongol ways?",
+   "right": "The Chagatai Khanate",
+   "wrong": [
+    [
+     "The Yuan dynasty, which kept Mongol customs in its capital at Dadu",
+     "The Yuan was more Chinese in style."
+    ],
+    [
+     "The Il-khanate",
+     "It used Persians and converted to Islam."
+    ],
+    [
+     "The Golden Horde",
+     "Not the most traditional."
+    ]
+   ],
+   "exp": "The Chagatai Khanate in Central Asia stayed the most traditionally Mongol."
+  },
+  {
+   "q": "Compare the Yuan and the Chagatai Khanate.",
+   "right": "The Yuan adapted; the Chagatai stayed Mongol",
+   "wrong": [
+    [
+     "Both took on local customs and converted to Islam in the same way",
+     "The Yuan became Chinese-style; Chagatai stayed traditional."
+    ],
+    [
+     "Both were in China",
+     "Chagatai was Central Asia."
+    ],
+    [
+     "Neither tolerated religions",
+     "Not on your cards."
+    ]
+   ],
+   "exp": "The Yuan was more Chinese in style; the Chagatai stayed the most traditionally Mongol."
+  }
+ ],
+ "Kublai Khan": [
+  {
+   "q": "Marco Polo was welcomed at Kublai Khan's court. What does that show about Kublai?",
+   "right": "He welcomed foreigners",
+   "wrong": [
+    [
+     "He banned outsiders from China to protect it from European ideas",
+     "He welcomed foreigners."
+    ],
+    [
+     "He spoke Italian",
+     "Not on your card."
+    ],
+    [
+     "He was a merchant",
+     "He was Great Khan."
+    ]
+   ],
+   "exp": "Kublai welcomed foreigners such as Marco Polo."
+  },
+  {
+   "q": "How was Kublai related to Hulegu?",
+   "right": "Both were Genghis Khan's grandsons",
+   "wrong": [
+    [
+     "Kublai was Hulegu's father, who sent him west to conquer Persia",
+     "Both were grandsons of Genghis."
+    ],
+    [
+     "They were enemies from different clans",
+     "Not on your cards."
+    ],
+    [
+     "Hulegu was Kublai's grandson",
+     "Both were Genghis's grandsons."
+    ]
+   ],
+   "exp": "Your cards call both Genghis Khan's grandsons."
+  }
+ ],
+ "Hulegu": [
+  {
+   "q": "Why was Hulegu's capture of Baghdad in 1258 a turning point?",
+   "right": "He destroyed the city and killed the caliph",
+   "wrong": [
+    [
+     "He made Baghdad the new capital of the Yuan dynasty and moved there",
+     "The Yuan capital was Dadu."
+    ],
+    [
+     "He converted to Christianity there",
+     "Not on your card."
+    ],
+    [
+     "He signed a peace treaty",
+     "He destroyed it."
+    ]
+   ],
+   "exp": "Hulegu destroyed Baghdad and killed the caliph."
+  },
+  {
+   "q": "Which khanate did Hulegu found?",
+   "right": "The Il-khanate",
+   "wrong": [
+    [
+     "The Golden Horde, which conquered Russia and destroyed Kiev in 1240",
+     "That was Batu."
+    ],
+    [
+     "The Yuan",
+     "That was Kublai."
+    ],
+    [
+     "The Chagatai",
+     "Not Hulegu."
+    ]
+   ],
+   "exp": "Hulegu founded the Il-khanate in Persia."
+  }
+ ],
+ "Indirect rule": [
+  {
+   "q": "What was an advantage of the Golden Horde's indirect rule?",
+   "right": "Local princes did the governing",
+   "wrong": [
+    [
+     "It let the Mongols replace the Russian language with their own across the land",
+     "Indirect rule kept local princes."
+    ],
+    [
+     "It ended tribute",
+     "Princes paid tribute."
+    ],
+    [
+     "It needed more Mongol officials",
+     "It needed fewer."
+    ]
+   ],
+   "exp": "Existing Russian princes ruled and sent tribute."
+  },
+  {
+   "q": "Which other example uses local elites to govern, like the Golden Horde did?",
+   "right": "Persians serving as Il-khanate officials",
+   "wrong": [
+    [
+     "The Yuan hiring foreigners and keeping the Chinese out of government",
+     "That shut locals out."
+    ],
+    [
+     "The yam",
+     "That's messengers."
+    ],
+    [
+     "Feigned retreats",
+     "That's warfare."
+    ]
+   ],
+   "exp": "Both relied on local people to govern."
+  }
+ ],
+ "Pax Mongolica": [
+  {
+   "q": "Why did the Pax Mongolica boost trade?",
+   "right": "Safer routes and religious tolerance",
+   "wrong": [
+    [
+     "It ended all trade between Europe and China to protect Mongol merchants",
+     "It boosted trade."
+    ],
+    [
+     "It closed roads",
+     "Roads were maintained."
+    ],
+    [
+     "It started the Crusades",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Safer routes, maintained roads, punished banditry and tolerance boosted trade."
+  },
+  {
+   "q": "Which is a COST of the same Mongol connections that made the Pax Mongolica possible?",
+   "right": "Helping spread the plague",
+   "wrong": [
+    [
+     "Ending Silk Road trade by closing every road through Mongol territory",
+     "Trade grew."
+    ],
+    [
+     "Banning religions",
+     "They were tolerant."
+    ],
+    [
+     "Ending paper money",
+     "Not on your cards."
+    ]
+   ],
+   "exp": "Your cards say Mongol conquests helped transmit the plague."
+  }
+ ],
+ "Yam": [
+  {
+   "q": "What was the purpose of the yam?",
+   "right": "Carrying messages across the empire",
+   "wrong": [
+    [
+     "Carrying trade goods from China to Europe for the Mongol khans",
+     "It was a messenger system."
+    ],
+    [
+     "Collecting taxes",
+     "Not its purpose."
+    ],
+    [
+     "Training soldiers",
+     "Not its purpose."
+    ]
+   ],
+   "exp": "The yam was a relay messenger system."
+  },
+  {
+   "q": "How did the yam help the Mongols hold a huge empire?",
+   "right": "It linked distant parts quickly",
+   "wrong": [
+    [
+     "It let the Mongols move the capital to a new city every single year",
+     "It carried messages."
+    ],
+    [
+     "It replaced the army",
+     "It carried messages."
+    ],
+    [
+     "It ended trade",
+     "It helped communication."
+    ]
+   ],
+   "exp": "The relay system linked the far reaches of the empire."
+  }
+ ],
+ "Religious tolerance": [
+  {
+   "q": "Why was Mongol religious tolerance good for trade?",
+   "right": "Merchants of every faith could trade",
+   "wrong": [
+    [
+     "It forced every merchant to adopt the same religion as the khan",
+     "Tolerance means the opposite."
+    ],
+    [
+     "It ended trade",
+     "It helped trade."
+    ],
+    [
+     "It was common everywhere",
+     "Your card says it was unusual."
+    ]
+   ],
+   "exp": "Allowing many religions was unusual and helpful to trade."
+  },
+  {
+   "q": "How was Mongol tolerance unusual for the 13th century?",
+   "right": "Many religions were allowed",
+   "wrong": [
+    [
+     "They allowed only one official religion and punished anyone who refused it",
+     "That's the opposite."
+    ],
+    [
+     "They banned all religions",
+     "They allowed many."
+    ],
+    [
+     "They only allowed Buddhism",
+     "They allowed many."
+    ]
+   ],
+   "exp": "Genghis and Kublai allowed many religions."
+  }
+ ],
+ "Greco-Islamic medical knowledge": [
+  {
+   "q": "How did Greek medicine reach Western Europe?",
+   "right": "Through Islamic scholars and Mongol-era contact",
+   "wrong": [
+    [
+     "Directly from Greece, without passing through any other cultures on the way",
+     "Your card traces it through Islamic scholars."
+    ],
+    [
+     "From China",
+     "Not on your card."
+    ],
+    [
+     "From Mali",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Greek medicine, advanced by scholars like Ibn Sina, reached Europe via Mongol-era contact."
+  },
+  {
+   "q": "Which scholar advanced Greek medicine in the Islamic world?",
+   "right": "Ibn Sina",
+   "wrong": [
+    [
+     "Ibn Battuta, the Moroccan scholar who traveled through Mali and China",
+     "He was a traveler."
+    ],
+    [
+     "Marco Polo",
+     "A Venetian merchant."
+    ],
+    [
+     "Boccaccio",
+     "An Italian writer."
+    ]
+   ],
+   "exp": "Ibn Sina advanced Greek medicine."
+  }
+ ],
+ "Numbering systems": [
+  {
+   "q": "Where did the numbers Europeans call \"Arabic\" begin?",
+   "right": "India",
+   "wrong": [
+    [
+     "Arabia, which is why Europeans named the numbers after the Arabs",
+     "They began in India."
+    ],
+    [
+     "China",
+     "Not on your card."
+    ],
+    [
+     "Greece",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Hindu-Arabic numerals began in India."
+  },
+  {
+   "q": "Hindu-Arabic numerals reaching Europe is an example of what?",
+   "right": "Transfer of ideas along trade networks",
+   "wrong": [
+    [
+     "Transfer of crops from one region to another along the trade routes",
+     "Numerals are ideas, not crops."
+    ],
+    [
+     "Disease spread",
+     "Not disease."
+    ],
+    [
+     "Military conquest",
+     "It's an idea transfer."
+    ]
+   ],
+   "exp": "Ideas moved with trade during the Mongol era."
+  }
+ ],
+ "Uyghur script": [
+  {
+   "q": "Why did the Mongols adopt the Uyghur script?",
+   "right": "To write Mongol and run the empire",
+   "wrong": [
+    [
+     "To replace Chinese writing everywhere in the Yuan dynasty with Uyghur",
+     "It was adapted for Mongol."
+    ],
+    [
+     "To trade with Mali",
+     "Not on your card."
+    ],
+    [
+     "To write Greek books",
+     "Not on your card."
+    ]
+   ],
+   "exp": "The Uyghur script was adapted for the Mongol language to help run the empire."
+  },
+  {
+   "q": "The Uyghur script and siege weapons have what in common?",
+   "right": "Both were borrowed from others",
+   "wrong": [
+    [
+     "Both were invented by Genghis Khan himself to help him rule the clans",
+     "Both were borrowed."
+    ],
+    [
+     "Both were Chinese",
+     "Uyghur script isn't Chinese."
+    ],
+    [
+     "Both were for trade",
+     "Not quite."
+    ]
+   ],
+   "exp": "The Mongols adopted tools from others."
+  }
+ ],
+ "Causes of Mongol decline": [
+  {
+   "q": "Which cause of Mongol decline came from INSIDE the ruling family?",
+   "right": "Succession disputes",
+   "wrong": [
+    [
+     "The Black Death, which killed many people along the empire's trade routes",
+     "That came from outside."
+    ],
+    [
+     "Failed invasion of Japan",
+     "That's military."
+    ],
+    [
+     "Revolts",
+     "Those came from subjects."
+    ]
+   ],
+   "exp": "Succession disputes split the rulers."
+  },
+  {
+   "q": "How did the empire's vast size contribute to decline?",
+   "right": "It was hard to hold together",
+   "wrong": [
+    [
+     "It gave the Mongols too much trade, which made them stop fighting entirely",
+     "Not on your card."
+    ],
+    [
+     "It made them stronger",
+     "It strained them."
+    ],
+    [
+     "It had no effect",
+     "Distance is a listed cause."
+    ]
+   ],
+   "exp": "Vast distances, along with other causes, weakened the empire."
+  }
+ ],
+ "Foreign officials (Yuan grievance)": [
+  {
+   "q": "Why did Chinese scholar-gentry resent the Yuan?",
+   "right": "Foreigners took jobs; exams were dismantled",
+   "wrong": [
+    [
+     "The Yuan forced every scholar to move to Mongolia and learn to ride horses",
+     "Not on your card."
+    ],
+    [
+     "The Yuan raised them to power",
+     "They were shut out."
+    ],
+    [
+     "The Yuan banned trade",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Yuan rulers hired foreigners and dismantled the civil service exams."
+  },
+  {
+   "q": "Compare Yuan rule with the Il-khanate's.",
+   "right": "The Il-khanate used locals; the Yuan didn't",
+   "wrong": [
+    [
+     "Both hired local people for government and both kept the old civil service",
+     "The Yuan shut the Chinese out."
+    ],
+    [
+     "Both shut locals out",
+     "Persians served in the Il-khanate."
+    ],
+    [
+     "Neither had officials",
+     "Both did."
+    ]
+   ],
+   "exp": "Persians served as Il-khanate officials; the Yuan hired foreigners instead of Chinese."
+  }
+ ],
+ "White Lotus Society": [
+  {
+   "q": "What role did the White Lotus Society play in the 1350s?",
+   "right": "It organized against Yuan rule",
+   "wrong": [
+    [
+     "It supported the Yuan by collecting taxes from Chinese peasants for the khan",
+     "It opposed the Yuan."
+    ],
+    [
+     "It built ships",
+     "Not on your card."
+    ],
+    [
+     "It spread the plague",
+     "Not on your card."
+    ]
+   ],
+   "exp": "A secret society organizing against the Yuan."
+  },
+  {
+   "q": "Which event did the White Lotus Society help lead to?",
+   "right": "The fall of the Yuan and rise of the Ming",
+   "wrong": [
+    [
+     "The founding of the Yuan dynasty under Kublai Khan in 1271",
+     "It opposed the Yuan."
+    ],
+    [
+     "The fall of Baghdad",
+     "That was Hulegu."
+    ],
+    [
+     "The Black Death",
+     "Not a political event."
+    ]
+   ],
+   "exp": "Organized resistance helped end the Yuan in 1368."
+  }
+ ],
+ "Zhu Yuanzhang": [
+  {
+   "q": "What was unusual about the man who founded the Ming?",
+   "right": "He was a poor peasant's son and a monk",
+   "wrong": [
+    [
+     "He was a Mongol prince who switched sides and joined the Chinese rebels",
+     "Not on your card."
+    ],
+    [
+     "He was a merchant",
+     "He was a monk."
+    ],
+    [
+     "He was Kublai's son",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Zhu Yuanzhang was a Buddhist monk from a poor peasant family."
+  },
+  {
+   "q": "Which card shows the result of the Yuan's grievances?",
+   "right": "Zhu Yuanzhang founding the Ming",
+   "wrong": [
+    [
+     "Kublai Khan welcoming Marco Polo and other foreigners to his court",
+     "That's before the fall."
+    ],
+    [
+     "Hulegu destroying Baghdad",
+     "Different region."
+    ],
+    [
+     "Batu destroying Kiev",
+     "Different region."
+    ]
+   ],
+   "exp": "Resentment and revolt led to Zhu Yuanzhang overthrowing the Yuan in 1368."
+  }
+ ],
+ "Tamerlane (Timur)": [
+  {
+   "q": "Which city did Tamerlane ravage in 1389–90?",
+   "right": "Kashgar",
+   "wrong": [
+    [
+     "Baghdad, which the Mongols under Hulegu had already destroyed in 1258",
+     "That was Hulegu."
+    ],
+    [
+     "Kiev",
+     "That was Batu."
+    ],
+    [
+     "Hangzhou",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Tamerlane ravaged Kashgar in 1389–90."
+  },
+  {
+   "q": "Tamerlane taking Central Asia around 1369 fits which larger story?",
+   "right": "New powers filling the Mongol gap",
+   "wrong": [
+    [
+     "The Mongol Empire reaching its greatest size under a single Great Khan",
+     "By then it was declining."
+    ],
+    [
+     "The rise of Mali",
+     "Different region."
+    ],
+    [
+     "Zheng He's voyages",
+     "Different story."
+    ]
+   ],
+   "exp": "As the Mongols declined, conquerors like Tamerlane took their lands."
+  }
+ ],
+ "Mongol legacy": [
+  {
+   "q": "Why does your card call the Mongols \"destroyers AND connectors\"?",
+   "right": "They wrecked cities but linked trade",
+   "wrong": [
+    [
+     "They destroyed every trade route they found and connected nothing at all",
+     "They also connected Eurasia."
+    ],
+    [
+     "They only built cities",
+     "They also destroyed many."
+    ],
+    [
+     "They avoided war",
+     "They fought constantly."
+    ]
+   ],
+   "exp": "The Mongols were both destructive and connecting."
+  },
+  {
+   "q": "What is one lasting idea the Mongols spread?",
+   "right": "Centralized government",
+   "wrong": [
+    [
+     "Democracy, with leaders chosen by every person in the empire through voting",
+     "Not on your card."
+    ],
+    [
+     "Paper money",
+     "China had it before."
+    ],
+    [
+     "Buddhism",
+     "Not their legacy on your card."
+    ]
+   ],
+   "exp": "They spread ideas of centralized government."
+  }
+ ],
+ "Monsoon winds": [
+  {
+   "q": "Why did Indian Ocean merchants often wait in port for months?",
+   "right": "For the winds to reverse direction",
+   "wrong": [
+    [
+     "For the Ming emperor to give them permission to sail to the next port",
+     "Your card says the seasonal winds."
+    ],
+    [
+     "For their ships to be rebuilt",
+     "Not on your card."
+    ],
+    [
+     "For the plague to pass",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Merchants timed voyages to the monsoon and waited for it to reverse."
+  },
+  {
+   "q": "A ship leaves India for East Africa. In which season would winds from the northeast carry it?",
+   "right": "Winter",
+   "wrong": [
+    [
+     "Summer, when the monsoon blows from the southwest across the ocean",
+     "Summer winds blow from the southwest."
+    ],
+    [
+     "Any season",
+     "The winds reverse by season."
+    ],
+    [
+     "Never",
+     "Winter winds come from the northeast."
+    ]
+   ],
+   "exp": "Winter monsoon winds come from the northeast."
+  }
+ ],
+ "Lateen sail": [
+  {
+   "q": "What advantage did the lateen sail give sailors?",
+   "right": "It caught wind from many directions",
+   "wrong": [
+    [
+     "It let ships sail without any wind at all by using the force of ocean currents",
+     "It used wind."
+    ],
+    [
+     "It made ships heavier",
+     "Not its purpose."
+    ],
+    [
+     "It replaced the rudder",
+     "Different tool."
+    ]
+   ],
+   "exp": "The triangular lateen sail catches wind from many directions."
+  },
+  {
+   "q": "Your card says the lateen sail's origin is debated. How should you write about it?",
+   "right": "Say Arab sailors used it; don't claim who invented it",
+   "wrong": [
+    [
+     "Say it was a Chinese invention, the same as the compass and the stern rudder",
+     "Your card doesn't say that."
+    ],
+    [
+     "Say Europeans invented it",
+     "Not on your card."
+    ],
+    [
+     "Leave it out",
+     "It's a key tool."
+    ]
+   ],
+   "exp": "It was used by Arab sailors; its origin is debated."
+  }
+ ],
+ "Stern rudder": [
+  {
+   "q": "Which problem did the stern rudder solve?",
+   "right": "Steering and stability",
+   "wrong": [
+    [
+     "Finding a ship's latitude by measuring the angle of the stars at night",
+     "That's the astrolabe."
+    ],
+    [
+     "Finding north",
+     "That's the compass."
+    ],
+    [
+     "Catching wind",
+     "That's the sail."
+    ]
+   ],
+   "exp": "The stern rudder improved stability and steering."
+  },
+  {
+   "q": "The stern rudder and magnetic compass share which origin?",
+   "right": "Both were Chinese inventions",
+   "wrong": [
+    [
+     "Both were improved by Muslim navigators in the twelfth century for Arab ships",
+     "That's the astrolabe."
+    ],
+    [
+     "Both came from Mali",
+     "Not on your cards."
+    ],
+    [
+     "Both were Mongol",
+     "Not on your cards."
+    ]
+   ],
+   "exp": "Both are Chinese inventions."
+  }
+ ],
+ "Magnetic compass": [
+  {
+   "q": "How did the magnetic compass spread from China?",
+   "right": "Through trade across the seas",
+   "wrong": [
+    [
+     "Through the Mongol yam, which carried it overland from China to Europe",
+     "Your card says through sea trade."
+    ],
+    [
+     "Through the Crusades",
+     "Not on your card."
+    ],
+    [
+     "It never spread",
+     "It did."
+    ]
+   ],
+   "exp": "The compass spread across the seas through trade."
+  },
+  {
+   "q": "Which tool let sailors keep a heading even when clouds hid the stars?",
+   "right": "The magnetic compass",
+   "wrong": [
+    [
+     "The astrolabe, which measured how far north or south the ship had traveled",
+     "The astrolabe needs the stars."
+    ],
+    [
+     "The lateen sail",
+     "That catches wind."
+    ],
+    [
+     "The stern rudder",
+     "That steers."
+    ]
+   ],
+   "exp": "A compass points the way without needing the sky."
+  }
+ ],
+ "Astrolabe": [
+  {
+   "q": "What did an astrolabe tell a sailor?",
+   "right": "How far north or south of the equator the ship was",
+   "wrong": [
+    [
+     "How fast the ship was moving through the water compared to the wind",
+     "Not its job."
+    ],
+    [
+     "Which way north was",
+     "That's the compass."
+    ],
+    [
+     "When the monsoon would come",
+     "Not its job."
+    ]
+   ],
+   "exp": "The astrolabe shows how far north or south of the equator a ship is."
+  },
+  {
+   "q": "Who improved the astrolabe in the 12th century?",
+   "right": "Muslim navigators",
+   "wrong": [
+    [
+     "Chinese admirals such as Zheng He, who led the Ming treasure fleets",
+     "Zheng He came later."
+    ],
+    [
+     "Mongol khans",
+     "Not on your card."
+    ],
+    [
+     "Venetian merchants",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Muslim navigators improved it."
+  }
+ ],
+ "Dhow": [
+  {
+   "q": "Compare a dhow and a junk.",
+   "right": "Dhow: small Arab/Indian; junk: large Chinese",
+   "wrong": [
+    [
+     "Dhow: a large Chinese ship; junk: a small Arab ship with lateen sails",
+     "It's the reverse."
+    ],
+    [
+     "Both were Chinese",
+     "Dhows were Arab and Indian."
+    ],
+    [
+     "Both were the same size",
+     "Junks were much larger."
+    ]
+   ],
+   "exp": "Dhows were small Arab and Indian ships; junks were large Chinese ships."
+  },
+  {
+   "q": "Which sail did dhows use?",
+   "right": "Lateen sails",
+   "wrong": [
+    [
+     "Square sails of woven silk, which the Chinese supplied to Arab merchants",
+     "Dhows used lateen sails."
+    ],
+    [
+     "No sails at all",
+     "They were sailing ships."
+    ],
+    [
+     "Paper sails",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Dhows used lateen sails."
+  }
+ ],
+ "Junk": [
+  {
+   "q": "What feature made Chinese junks able to carry huge cargoes?",
+   "right": "Large size with a compartmented hull",
+   "wrong": [
+    [
+     "A single small triangular sail that could catch the wind from any direction",
+     "That's a lateen sail; junks had several sails."
+    ],
+    [
+     "Oars rowed by hundreds of slaves",
+     "Not on your card."
+    ],
+    [
+     "Being pulled by camels",
+     "No."
+    ]
+   ],
+   "exp": "Junks had multiple sails, compartmented hulls and could be up to 400 feet long."
+  },
+  {
+   "q": "Which fleet would most likely have been made of junks?",
+   "right": "Zheng He's",
+   "wrong": [
+    [
+     "The Swahili traders' fleets sailing between Kilwa and Mombasa",
+     "Swahili traders weren't Chinese."
+    ],
+    [
+     "Arab merchants'",
+     "They used dhows."
+    ],
+    [
+     "Malacca's navy",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Junks were Chinese ships, like those of the Ming fleets."
+  }
+ ],
+ "Specialized products": [
+  {
+   "q": "Which region was known for gold and ivory?",
+   "right": "The Swahili coast",
+   "wrong": [
+    [
+     "Southwest Asia, which sent horses and dates to other ports on the ocean",
+     "That's horses and dates."
+    ],
+    [
+     "China",
+     "Silk and porcelain."
+    ],
+    [
+     "India",
+     "Cotton, pepper and steel."
+    ]
+   ],
+   "exp": "Gold, ivory and slaves came from the Swahili coast."
+  },
+  {
+   "q": "Why did regional specialties make the Indian Ocean network grow?",
+   "right": "Each region had goods others wanted",
+   "wrong": [
+    [
+     "Every region produced the same goods, so merchants traded only for money",
+     "The point is that regions differed."
+    ],
+    [
+     "Specialties ended trade",
+     "They drove trade."
+    ],
+    [
+     "Only China had goods",
+     "Every region had a specialty."
+    ]
+   ],
+   "exp": "Different specialties gave every region something to trade."
+  }
+ ],
+ "Calicut": [
+  {
+   "q": "Why was Calicut called the \"City of Spices\"?",
+   "right": "It was a major spice port",
+   "wrong": [
+    [
+     "It was the only place in the world where pepper and spices could grow",
+     "Your card says it was a port known for spices."
+    ],
+    [
+     "It made porcelain",
+     "That's China."
+    ],
+    [
+     "It was in Africa",
+     "It's in southwest India."
+    ]
+   ],
+   "exp": "Calicut was a southwest Indian port known for spices."
+  },
+  {
+   "q": "Why did Arab and Chinese merchants both come to Calicut?",
+   "right": "Local rulers welcomed them",
+   "wrong": [
+    [
+     "The Mongols forced merchants to trade there instead of at other ports",
+     "Not on your card."
+    ],
+    [
+     "It was the capital of Mali",
+     "No."
+    ],
+    [
+     "It had no rivals",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Calicut's rulers welcomed foreign merchants."
+  }
+ ],
+ "Gujarat": [
+  {
+   "q": "What made Gujarat rich?",
+   "right": "Customs revenue as East-West go-between",
+   "wrong": [
+    [
+     "Gold mines that supplied the trans-Saharan caravans with gold for salt",
+     "That's West Africa."
+    ],
+    [
+     "Silk factories",
+     "That's China."
+    ],
+    [
+     "Conquest",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Gujarat's customs revenue was huge."
+  },
+  {
+   "q": "Gujarat and Malacca both grew rich in what way?",
+   "right": "Taxing trade that passed through",
+   "wrong": [
+    [
+     "Selling gold that they mined themselves to merchants from the north",
+     "Not their role."
+    ],
+    [
+     "Raiding ships",
+     "Not on your cards."
+    ],
+    [
+     "Making porcelain",
+     "That's China."
+    ]
+   ],
+   "exp": "Both collected customs and fees from passing trade."
+  }
+ ],
+ "Swahili city-states": [
+  {
+   "q": "What does the Swahili language show about East Africa's coast?",
+   "right": "Blending of Bantu and Arabic cultures",
+   "wrong": [
+    [
+     "That East Africans refused contact with any outside traders or cultures",
+     "The blend shows heavy contact."
+    ],
+    [
+     "That the coast was Chinese",
+     "Not on your card."
+    ],
+    [
+     "That Swahili came from Persia",
+     "It blends Bantu and Arabic."
+    ]
+   ],
+   "exp": "The Swahili language blends Bantu and Arabic, a result of trade contact."
+  },
+  {
+   "q": "What did Swahili city-states trade for Chinese porcelain and Indian cotton?",
+   "right": "Gold and ivory",
+   "wrong": [
+    [
+     "Silk and tea, which they made themselves for sale to merchants from China",
+     "Those were Chinese goods."
+    ],
+    [
+     "Salt",
+     "Salt was a trans-Saharan good."
+    ],
+    [
+     "Horses",
+     "From Southwest Asia."
+    ]
+   ],
+   "exp": "Swahili cities exchanged gold and ivory for porcelain and cotton."
+  }
+ ],
+ "Sultanate of Malacca": [
+  {
+   "q": "Why could Malacca grow rich without producing much itself?",
+   "right": "It charged ships passing the strait",
+   "wrong": [
+    [
+     "It mined gold and sold it to Chinese merchants, who carried it home",
+     "Your card says fees on ships."
+    ],
+    [
+     "It made silk",
+     "Not on your card."
+    ],
+    [
+     "It had no navy",
+     "It built a navy."
+    ]
+   ],
+   "exp": "Malacca grew rich from fees on ships passing the Strait of Malacca."
+  },
+  {
+   "q": "Why did Malacca build a navy?",
+   "right": "To control the strait and its fees",
+   "wrong": [
+    [
+     "To conquer China and replace the Ming as the strongest power in Asia",
+     "Not on your card."
+    ],
+    [
+     "To fight the Mongols in Russia",
+     "Wrong region."
+    ],
+    [
+     "To carry pilgrims",
+     "Not on your card."
+    ]
+   ],
+   "exp": "A navy let Malacca control shipping through the strait (an example of centralization)."
+  }
+ ],
+ "Customs duties": [
+  {
+   "q": "How did states benefit from Indian Ocean trade without trading themselves?",
+   "right": "Customs duties and port fees",
+   "wrong": [
+    [
+     "By forcing merchants to give them their ships at the end of every voyage",
+     "Not on your card."
+    ],
+    [
+     "By banning trade",
+     "That would end revenue."
+    ],
+    [
+     "By raiding caravans",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Taxes on imports and port fees gave states revenue."
+  },
+  {
+   "q": "Which card is the clearest example of customs duties?",
+   "right": "Gujarat's huge customs revenue",
+   "wrong": [
+    [
+     "Mansa Musa's pilgrimage, which displayed Mali's wealth to the world",
+     "That's spending, not customs."
+    ],
+    [
+     "The yam",
+     "Messengers."
+    ],
+    [
+     "Champa rice",
+     "A crop."
+    ]
+   ],
+   "exp": "Gujarat collected huge customs revenue."
+  }
+ ],
+ "Diaspora": [
+  {
+   "q": "Arab merchants settled in Calicut and kept their customs while adopting some local ones. What is this?",
+   "right": "A diaspora",
+   "wrong": [
+    [
+     "A caravanserai, a place where merchants stayed while trading in a city",
+     "That's an inn."
+    ],
+    [
+     "A khanate",
+     "A Mongol kingdom."
+    ],
+    [
+     "Proto-industrialization",
+     "That's production."
+    ]
+   ],
+   "exp": "A diaspora is a community settled away from home that shares traditions both ways."
+  },
+  {
+   "q": "How does a diaspora change BOTH the settlers and the locals?",
+   "right": "Traditions flow both ways",
+   "wrong": [
+    [
+     "The settlers completely replace the local culture with their own culture",
+     "Influence goes both ways."
+    ],
+    [
+     "Neither changes",
+     "Both are influenced."
+    ],
+    [
+     "Only locals change",
+     "Settlers change too."
+    ]
+   ],
+   "exp": "Settlers introduce traditions and are influenced in turn."
+  }
+ ],
+ "Merchant intermarriage": [
+  {
+   "q": "How did Islam spread in many Indian Ocean ports?",
+   "right": "Through merchants marrying local women",
+   "wrong": [
+    [
+     "Through armies that conquered each port and forced people to convert",
+     "Your card says family ties, not conquest."
+    ],
+    [
+     "Through Mongol rule",
+     "Not on this card."
+    ],
+    [
+     "Through Chinese admirals",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Arab and Persian merchants married locally, spreading Islam through family ties."
+  },
+  {
+   "q": "Compare how Islam spread in Indian Ocean ports and in West Africa.",
+   "right": "Both spread peacefully through merchants",
+   "wrong": [
+    [
+     "Both spread mainly through military conquest by Arab and Persian armies",
+     "Both cards stress peaceful spread."
+    ],
+    [
+     "Only West Africa had Islam",
+     "Both did."
+    ],
+    [
+     "Neither had Islam",
+     "Both did."
+    ]
+   ],
+   "exp": "Indian Ocean: intermarriage. West Africa: merchants and rulers' conversions, not conquest."
+  }
+ ],
+ "Zheng He": [
+  {
+   "q": "What were Zheng He's voyages meant to do?",
+   "right": "Show Ming power and collect tribute",
+   "wrong": [
+    [
+     "Conquer East Africa and set up Chinese colonies along the Swahili coast",
+     "Not on your card."
+    ],
+    [
+     "Find the Americas",
+     "Not on your card."
+    ],
+    [
+     "Spread Islam",
+     "Not on your card."
+    ]
+   ],
+   "exp": "To show Ming power, collect tribute and open markets."
+  },
+  {
+   "q": "How far did Zheng He's fleets reach?",
+   "right": "As far as East Africa",
+   "wrong": [
+    [
+     "Only to Japan and Korea, since Ming ships couldn't cross the open ocean",
+     "They reached East Africa."
+    ],
+    [
+     "Europe",
+     "Not on your card."
+    ],
+    [
+     "The Americas",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Southeast Asia, India, Arabia and East Africa."
+  }
+ ],
+ "End of the voyages": [
+  {
+   "q": "Why did China stop Zheng He's voyages?",
+   "right": "Cost and Confucian fear of foreign contact",
+   "wrong": [
+    [
+     "Zheng He's fleets were destroyed by the Portuguese navy in the Indian Ocean",
+     "Not on your card."
+    ],
+    [
+     "The voyages found nothing",
+     "Not on your card."
+    ],
+    [
+     "The plague",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Confucian scholars feared foreign contact and the cost."
+  },
+  {
+   "q": "What was a result of ending the voyages?",
+   "right": "China discouraged sailing abroad",
+   "wrong": [
+    [
+     "China built an even bigger fleet to send to Africa and the Middle East",
+     "It discouraged sailing."
+    ],
+    [
+     "China conquered Malacca",
+     "Not on your card."
+    ],
+    [
+     "China joined the Crusades",
+     "No."
+    ]
+   ],
+   "exp": "Yongle's successor ended the voyages and discouraged sailing abroad."
+  }
+ ],
+ "Indian Ocean slave trade": [
+  {
+   "q": "How did the Indian Ocean slave trade differ from the later Atlantic one?",
+   "right": "Mostly urban, household and military work",
+   "wrong": [
+    [
+     "It sent enslaved people mainly to sugar plantations in the Americas",
+     "That's the later Atlantic trade."
+    ],
+    [
+     "It didn't involve Africans",
+     "East Africans were enslaved."
+    ],
+    [
+     "It was only in China",
+     "To North Africa, the Middle East and India."
+    ]
+   ],
+   "exp": "Enslaved East Africans often did urban labor, household work or soldiering."
+  },
+  {
+   "q": "Where were enslaved East Africans sold in this period?",
+   "right": "North Africa, the Middle East and India",
+   "wrong": [
+    [
+     "The Americas, where they worked on sugar plantations owned by Europeans",
+     "That's a later period."
+    ],
+    [
+     "Only China",
+     "Not on your card."
+    ],
+    [
+     "Only Europe",
+     "Not on your card."
+    ]
+   ],
+   "exp": "To North Africa, the Middle East and India."
+  }
+ ],
+ "Sahara and oases": [
+  {
+   "q": "Why did trans-Saharan caravans travel from oasis to oasis?",
+   "right": "Only oases had water",
+   "wrong": [
+    [
+     "Rulers required merchants to pay taxes at every oasis they came to",
+     "Your card says water."
+    ],
+    [
+     "Oases had markets for silk",
+     "Not the reason."
+    ],
+    [
+     "Camels couldn't walk far",
+     "Camels go long without water."
+    ]
+   ],
+   "exp": "In the huge arid Sahara, only small oases had water."
+  },
+  {
+   "q": "How big was the Sahara, according to your card?",
+   "right": "About the size of China",
+   "wrong": [
+    [
+     "About the size of a single city like Timbuktu, so it was easy to cross",
+     "It was huge."
+    ],
+    [
+     "About the size of Mali",
+     "Your card compares it to China."
+    ],
+    [
+     "Smaller than Europe's smallest country",
+     "It's huge."
+    ]
+   ],
+   "exp": "The Sahara is about the size of China."
+  }
+ ],
+ "Camel": [
+  {
+   "q": "Why did camels replace horses and donkeys in North Africa?",
+   "right": "They could go long without water",
+   "wrong": [
+    [
+     "They were faster than horses over short distances on grass and roads",
+     "The desert advantage was water."
+    ],
+    [
+     "They were cheaper to feed meat",
+     "Camels don't eat meat."
+    ],
+    [
+     "The Mongols brought them",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Camels drink over 50 gallons quickly and travel long without water."
+  },
+  {
+   "q": "When did camels replace horses and donkeys in North Africa?",
+   "right": "After 300 CE",
+   "wrong": [
+    [
+     "After 1200 CE, when the Mongols united the trade routes across Asia",
+     "Your card says after 300 CE."
+    ],
+    [
+     "After 1500 CE",
+     "Your card says after 300 CE."
+    ],
+    [
+     "Never",
+     "They did."
+    ]
+   ],
+   "exp": "After 300 CE."
+  }
+ ],
+ "Camel saddle": [
+  {
+   "q": "What made heavy camel freight practical across the Sahara?",
+   "right": "Somali saddles carrying up to 600 pounds",
+   "wrong": [
+    [
+     "Wheeled carts that camels pulled across the sand from oasis to oasis",
+     "Not on your card."
+    ],
+    [
+     "Paper money",
+     "Not about freight."
+    ],
+    [
+     "Lateen sails",
+     "Those are for ships."
+    ]
+   ],
+   "exp": "A saddle developed by the Somalis carried loads of up to 600 pounds."
+  },
+  {
+   "q": "Who developed the camel saddle on the trans-Saharan card?",
+   "right": "The Somalis",
+   "wrong": [
+    [
+     "The Chinese, who also invented the compass and the stern rudder",
+     "Your card credits the Somalis."
+    ],
+    [
+     "The Mongols",
+     "Not on your card."
+    ],
+    [
+     "The Venetians",
+     "Not on your card."
+    ]
+   ],
+   "exp": "The Somalis developed it."
+  }
+ ],
+ "Trans-Saharan caravan": [
+  {
+   "q": "Which helped merchants trust each other across distant cities?",
+   "right": "Family partners, credit and agents",
+   "wrong": [
+    [
+     "Mongol law codes enforced by the khan's officials in every oasis town",
+     "Not on your card."
+    ],
+    [
+     "Customs duties",
+     "Those are taxes."
+    ],
+    [
+     "Monsoon winds",
+     "Those are for ships."
+    ]
+   ],
+   "exp": "Family partners, credit and agents linked cities."
+  },
+  {
+   "q": "Compare trans-Saharan caravans with Silk Road caravans.",
+   "right": "Both traveled in large groups for safety",
+   "wrong": [
+    [
+     "Trans-Saharan caravans used ships while the Silk Road caravans used camels",
+     "Both used camels."
+    ],
+    [
+     "Silk Road caravans had no animals",
+     "They did."
+    ],
+    [
+     "Neither had guides",
+     "Both used guides."
+    ]
+   ],
+   "exp": "Both moved in organized groups with guides and animals."
+  }
+ ],
+ "Gold": [
+  {
+   "q": "Why did foreign traders come to West Africa?",
+   "right": "Its gold",
+   "wrong": [
+    [
+     "Its silk and porcelain, which were the finest available anywhere",
+     "Those came from China."
+    ],
+    [
+     "Its salt",
+     "Salt came from North Africa."
+    ],
+    [
+     "Its horses",
+     "Horses came from the north."
+    ]
+   ],
+   "exp": "Gold was the most precious trans-Saharan good and drew foreign traders."
+  },
+  {
+   "q": "Which direction did gold travel?",
+   "right": "North, from West Africa",
+   "wrong": [
+    [
+     "South, from North Africa to the trading cities of West Africa",
+     "Salt went south; gold went north."
+    ],
+    [
+     "East to China",
+     "Not on your card."
+    ],
+    [
+     "It didn't move",
+     "It moved north."
+    ]
+   ],
+   "exp": "Gold went north from West Africa."
+  }
+ ],
+ "Salt": [
+  {
+   "q": "Why was salt traded south for gold?",
+   "right": "It came from North Africa",
+   "wrong": [
+    [
+     "It was mined in West Africa and sent north to oasis towns such as Taghaza",
+     "Taghaza is in North Africa."
+    ],
+    [
+     "It was used as paper money",
+     "Not on your card."
+    ],
+    [
+     "It came from China",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Salt came from North Africa, such as the Taghaza oasis."
+  },
+  {
+   "q": "Which pair names the core trans-Saharan exchange?",
+   "right": "Gold for salt",
+   "wrong": [
+    [
+     "Silk for horses, which were traded between Chinese and Central Asian merchants",
+     "That's not trans-Saharan."
+    ],
+    [
+     "Spices for cotton",
+     "Indian Ocean goods."
+    ],
+    [
+     "Tea for porcelain",
+     "Chinese goods."
+    ]
+   ],
+   "exp": "Gold went north; salt went south."
+  }
+ ],
+ "Trans-Saharan goods": [
+  {
+   "q": "Which good moved from north to south?",
+   "right": "Horses",
+   "wrong": [
+    [
+     "Kola nuts, which were grown in the forests of West Africa for sale",
+     "Kola nuts went north."
+    ],
+    [
+     "Ivory",
+     "Went north."
+    ],
+    [
+     "Gold",
+     "Went north."
+    ]
+   ],
+   "exp": "North to south: salt, textiles, horses, copper and brass."
+  },
+  {
+   "q": "Which good moved from south to north?",
+   "right": "Kola nuts",
+   "wrong": [
+    [
+     "Copper and brass, which were made in the north and sold in West Africa",
+     "Those went south."
+    ],
+    [
+     "Salt",
+     "Went south."
+    ],
+    [
+     "Textiles",
+     "Went south."
+    ]
+   ],
+   "exp": "South to north: gold, ivory, slaves, kola nuts."
+  }
+ ],
+ "Cowrie shells": [
+  {
+   "q": "What were cowrie shells used for in West African cities?",
+   "right": "As currency",
+   "wrong": [
+    [
+     "As decoration for mosques and schools built by Mansa Musa in Timbuktu",
+     "Your card says currency."
+    ],
+    [
+     "As ship ballast",
+     "Not on your card."
+    ],
+    [
+     "As tools",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Cowrie shells were used as currency."
+  },
+  {
+   "q": "Cowrie shells and Chinese flying cash appear on the same card. Which?",
+   "right": "Currencies",
+   "wrong": [
+    [
+     "Indian Ocean profile, which lists the goods carried on dhows and junks",
+     "That card lists ships and tools."
+    ],
+    [
+     "Proto-industrialization",
+     "That's production."
+    ],
+    [
+     "Syncretism",
+     "That's religion."
+    ]
+   ],
+   "exp": "The Currencies card lists silk and tin ingots, cowrie shells, coins and flying cash."
+  }
+ ],
+ "Mali Empire": [
+  {
+   "q": "How did Mali become richer than Ghana?",
+   "right": "It taxed and protected trade",
+   "wrong": [
+    [
+     "It conquered China and took control of the Silk Roads' silk trade",
+     "Not on your card."
+    ],
+    [
+     "It discovered oil",
+     "No."
+    ],
+    [
+     "It ended trade",
+     "It protected trade."
+    ]
+   ],
+   "exp": "Mali taxed and protected trade."
+  },
+  {
+   "q": "Mali and the Mongols both grew rich partly by doing what?",
+   "right": "Protecting trade routes",
+   "wrong": [
+    [
+     "Banning merchants from crossing their land without first converting",
+     "Both protected merchants."
+    ],
+    [
+     "Building ships",
+     "Neither is known for that here."
+    ],
+    [
+     "Avoiding taxes",
+     "Mali taxed trade."
+    ]
+   ],
+   "exp": "Stable states that protected trade grew rich (see the Stable states card)."
+  }
+ ],
+ "Sundiata": [
+  {
+   "q": "Who founded Mali?",
+   "right": "Sundiata",
+   "wrong": [
+    [
+     "Mansa Musa, the ruler famous for his lavish pilgrimage to Mecca in 1324",
+     "He ruled later."
+    ],
+    [
+     "Ibn Battuta",
+     "A traveler."
+    ],
+    [
+     "Zheng He",
+     "A Chinese admiral."
+    ]
+   ],
+   "exp": "Sundiata, the \"Lion Prince,\" founded Mali."
+  },
+  {
+   "q": "What did Sundiata do in 1235?",
+   "right": "Returned from exile and defeated his rivals",
+   "wrong": [
+    [
+     "Made a lavish pilgrimage to Mecca that displayed Mali's wealth to the world",
+     "That's Mansa Musa in 1324."
+    ],
+    [
+     "Founded Timbuktu's schools",
+     "That's Mansa Musa."
+    ],
+    [
+     "Lost to Songhai",
+     "That's later."
+    ]
+   ],
+   "exp": "Sundiata returned from exile in 1235 and defeated his rivals."
+  }
+ ],
+ "Mansa Musa": [
+  {
+   "q": "What did Mansa Musa's 1324 pilgrimage show the world?",
+   "right": "Mali's wealth",
+   "wrong": [
+    [
+     "Mali's military power, which it used to conquer Mecca on the journey",
+     "Your card says wealth."
+    ],
+    [
+     "Mali's poverty",
+     "It showed wealth."
+    ],
+    [
+     "That Mali was Christian",
+     "He went to Mecca."
+    ]
+   ],
+   "exp": "His lavish pilgrimage displayed Mali's wealth."
+  },
+  {
+   "q": "What did Mansa Musa do after his pilgrimage?",
+   "right": "Built mosques and schools in Timbuktu",
+   "wrong": [
+    [
+     "Moved Mali's capital to Mecca so he could be closer to the holy city",
+     "Not on your card."
+    ],
+    [
+     "Ended trade",
+     "Not on your card."
+    ],
+    [
+     "Converted to Buddhism",
+     "Not on your card."
+    ]
+   ],
+   "exp": "He built mosques and schools in Timbuktu."
+  }
+ ],
+ "Timbuktu": [
+  {
+   "q": "What was Timbuktu famous for?",
+   "right": "Islamic learning",
+   "wrong": [
+    [
+     "Building the largest ships in Africa for trade across the Indian Ocean",
+     "Timbuktu is inland."
+    ],
+    [
+     "Silk production",
+     "That's China."
+    ],
+    [
+     "Being the Mongol capital",
+     "No."
+    ]
+   ],
+   "exp": "Timbuktu became a world-renowned center of Islamic learning."
+  },
+  {
+   "q": "Timbuktu and Samarkand were both what?",
+   "right": "Trade cities that became centers of learning",
+   "wrong": [
+    [
+     "Ports on the Indian Ocean where monsoon ships unloaded their goods",
+     "Both are inland."
+    ],
+    [
+     "Mongol capitals",
+     "Not on your cards."
+    ],
+    [
+     "Buddhist cities",
+     "Both are tied to Islamic learning."
+    ]
+   ],
+   "exp": "Both were trade \"knots\" and centers of learning."
+  }
+ ],
+ "Songhai": [
+  {
+   "q": "Which kingdom replaced Mali?",
+   "right": "Songhai",
+   "wrong": [
+    [
+     "Ghana, which Mali had already surpassed in wealth during the 1200s",
+     "Ghana came before Mali."
+    ],
+    [
+     "Gujarat",
+     "That's in India."
+    ],
+    [
+     "Malacca",
+     "That's in Southeast Asia."
+    ]
+   ],
+   "exp": "Songhai replaced Mali in the late 1400s."
+  },
+  {
+   "q": "In what order did these West African powers rise?",
+   "right": "Ghana, Mali, Songhai",
+   "wrong": [
+    [
+     "Songhai, Mali and then Ghana, which became the richest of the three",
+     "Reverse order."
+    ],
+    [
+     "Mali, Ghana, Songhai",
+     "Mali followed Ghana."
+    ],
+    [
+     "Mali, Songhai, Ghana",
+     "Ghana came first."
+    ]
+   ],
+   "exp": "Mali became richer than Ghana; Songhai replaced Mali."
+  }
+ ],
+ "Spread of Islam in West Africa": [
+  {
+   "q": "How did Islam spread in West Africa?",
+   "right": "Through merchants and rulers' conversions",
+   "wrong": [
+    [
+     "Through conquest by Arab armies that forced everyone in the region to convert",
+     "Your card says not conquest."
+    ],
+    [
+     "Through Mongol rule",
+     "Not in West Africa."
+    ],
+    [
+     "Through Chinese fleets",
+     "No."
+    ]
+   ],
+   "exp": "Merchants and rulers' conversions, not conquest."
+  },
+  {
+   "q": "What does \"most West Africans kept traditional beliefs\" suggest?",
+   "right": "Islam spread mainly among rulers and merchants",
+   "wrong": [
+    [
+     "Islam was banned in West Africa and only practiced in secret by traders",
+     "Rulers converted."
+    ],
+    [
+     "Everyone converted",
+     "Most kept traditional beliefs."
+    ],
+    [
+     "Islam never arrived",
+     "It did."
+    ]
+   ],
+   "exp": "Islam spread through merchants and rulers, while most people kept traditional beliefs."
+  }
+ ],
+ "Buddhism in East Asia": [
+  {
+   "q": "Which path did Buddhism follow into East Asia?",
+   "right": "India → China → Korea and Japan",
+   "wrong": [
+    [
+     "China → India → Persia, carried west by Mongol armies after 1200",
+     "It started in India and moved east."
+    ],
+    [
+     "Japan → Korea → China",
+     "Reverse direction."
+    ],
+    [
+     "Arabia → Mali",
+     "That's Islam's route."
+    ]
+   ],
+   "exp": "Buddhism came from India along the Silk Roads, then reached Korea and Japan."
+  },
+  {
+   "q": "What role did the monk Xuanzang play?",
+   "right": "He helped popularize Buddhism in China",
+   "wrong": [
+    [
+     "He founded the Ming dynasty after leading a peasant revolt against the Yuan",
+     "That's Zhu Yuanzhang."
+    ],
+    [
+     "He translated Greek works",
+     "That's Islamic scholars."
+    ],
+    [
+     "He sailed to Africa",
+     "That's Zheng He."
+    ]
+   ],
+   "exp": "Xuanzang helped popularize Buddhism in China."
+  }
+ ],
+ "Chan (Zen) Buddhism": [
+  {
+   "q": "Chan Buddhism blends Buddhism with which tradition?",
+   "right": "Daoism",
+   "wrong": [
+    [
+     "Islam, which reached China along the same Silk Road routes as Buddhism",
+     "Your card says Daoist ideas."
+    ],
+    [
+     "Christianity",
+     "Not on your card."
+    ],
+    [
+     "Hinduism",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Chan (Zen) blends Buddhism with Daoist ideas."
+  },
+  {
+   "q": "Chan Buddhism is an example of which process?",
+   "right": "Syncretism",
+   "wrong": [
+    [
+     "Diaspora, a community of settlers living away from their original homeland",
+     "Diaspora is about people settling."
+    ],
+    [
+     "Intensification",
+     "That's about trade volume."
+    ],
+    [
+     "Proto-industrialization",
+     "That's production."
+    ]
+   ],
+   "exp": "Blending religions into a new faith is syncretism."
+  }
+ ],
+ "Neo-Confucianism": [
+  {
+   "q": "Which country made Neo-Confucianism its state ideology?",
+   "right": "Korea",
+   "wrong": [
+    [
+     "Mali, which adopted it after merchants brought it across the Sahara",
+     "Not on your card."
+    ],
+    [
+     "Persia",
+     "Not on your card."
+    ],
+    [
+     "Russia",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Korea made Neo-Confucianism its state ideology."
+  },
+  {
+   "q": "Compare Chan Buddhism and Neo-Confucianism.",
+   "right": "Both blended Chinese traditions",
+   "wrong": [
+    [
+     "Both were brought to China from Europe by merchants such as Marco Polo",
+     "Both formed in East Asia."
+    ],
+    [
+     "Neither blended anything",
+     "Both are syncretic."
+    ],
+    [
+     "Both rejected Daoism",
+     "Both drew on Daoism."
+    ]
+   ],
+   "exp": "Both are syncretic: Chan mixes Buddhism and Daoism; Neo-Confucianism mixes Confucian, Daoist and Buddhist ideas."
+  }
+ ],
+ "Syncretism": [
+  {
+   "q": "Which is an example of syncretism?",
+   "right": "Chan Buddhism blending Buddhism with Daoism",
+   "wrong": [
+    [
+     "Mongols destroying Baghdad and killing the caliph in the year 1258",
+     "That's destruction."
+    ],
+    [
+     "Mansa Musa's pilgrimage",
+     "That's practice of one faith."
+    ],
+    [
+     "Zheng He's voyages",
+     "Those were naval."
+    ]
+   ],
+   "exp": "Chan Buddhism blends Buddhism with Daoist ideas: syncretism."
+  },
+  {
+   "q": "How does syncretism differ from conversion?",
+   "right": "It blends faiths instead of replacing one",
+   "wrong": [
+    [
+     "It forces people to give up their old religion and accept a new one",
+     "That's replacement, not blending."
+    ],
+    [
+     "It ends religion",
+     "No."
+    ],
+    [
+     "It's the same thing",
+     "Blending differs from replacing."
+    ]
+   ],
+   "exp": "Syncretism blends beliefs into a new faith."
+  }
+ ],
+ "Hinduism and Buddhism in Southeast Asia": [
+  {
+   "q": "What do Angkor's monuments show?",
+   "right": "Both Hindu and Buddhist influences",
+   "wrong": [
+    [
+     "That Islam was the main religion of the Khmer Empire in this period",
+     "Your card says Hindu and Buddhist."
+    ],
+    [
+     "Only Chinese influence",
+     "Not on your card."
+    ],
+    [
+     "No religious influence",
+     "They show both."
+    ]
+   ],
+   "exp": "The Khmer Empire's Angkor monuments show both Hindu and Buddhist influences."
+  },
+  {
+   "q": "How did Hinduism and Buddhism reach Southeast Asia?",
+   "right": "Through trade",
+   "wrong": [
+    [
+     "Through conquest by Mongol armies sent south by Kublai Khan from China",
+     "Your card says trade."
+    ],
+    [
+     "Through Zheng He",
+     "Not on your card."
+    ],
+    [
+     "Through European missionaries",
+     "Not on your card."
+    ]
+   ],
+   "exp": "They spread by trade."
+  }
+ ],
+ "Islam in Africa and Asia": [
+  {
+   "q": "Which ways did Islam spread, according to this card?",
+   "right": "Merchants, missionaries and conquest",
+   "wrong": [
+    [
+     "Only through the Mongols, who forced every conquered people to convert",
+     "The Mongols were tolerant."
+    ],
+    [
+     "Only through conquest",
+     "Merchants and missionaries too."
+    ],
+    [
+     "Only through marriage",
+     "That's one way in the Indian Ocean."
+    ]
+   ],
+   "exp": "Islam spread by merchants, missionaries and conquest."
+  },
+  {
+   "q": "Which is an effect of Islam's spread named on your card?",
+   "right": "Timbuktu's learning",
+   "wrong": [
+    [
+     "The founding of the Yuan dynasty in China by Kublai Khan in 1271",
+     "Unrelated."
+    ],
+    [
+     "Champa rice",
+     "A crop."
+    ],
+    [
+     "The yam",
+     "Mongol messengers."
+    ]
+   ],
+   "exp": "Islam shaped Swahili culture, Timbuktu's learning and South Asian architecture and language."
+  }
+ ],
+ "Urdu": [
+  {
+   "q": "Urdu blends Hindi with which influences?",
+   "right": "Arabic and Persian",
+   "wrong": [
+    [
+     "Chinese and Mongol, from the Yuan officials who governed northern India",
+     "Not on your card."
+    ],
+    [
+     "Greek and Latin",
+     "Not on your card."
+    ],
+    [
+     "Bantu and Arabic",
+     "That's Swahili."
+    ]
+   ],
+   "exp": "Urdu blends Hindi with Arabic and Persian."
+  },
+  {
+   "q": "Urdu and Swahili are both examples of what?",
+   "right": "Languages blended through contact",
+   "wrong": [
+    [
+     "Languages invented by rulers to keep their governments secret",
+     "They came from contact."
+    ],
+    [
+     "Dead languages",
+     "Not on your cards."
+    ],
+    [
+     "Chinese dialects",
+     "No."
+    ]
+   ],
+   "exp": "Urdu (Hindi + Persian + Arabic) and Swahili (Bantu + Arabic) came from contact."
+  }
+ ],
+ "Gunpowder": [
+  {
+   "q": "How did gunpowder change the world after it spread west?",
+   "right": "It changed warfare",
+   "wrong": [
+    [
+     "It changed farming, since it was used to clear forests for new crops",
+     "Your card says warfare."
+    ],
+    [
+     "It ended trade",
+     "Not on your card."
+    ],
+    [
+     "It spread Buddhism",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Gunpowder spread west and changed warfare."
+  },
+  {
+   "q": "Gunpowder and papermaking share which origin?",
+   "right": "Both were Chinese",
+   "wrong": [
+    [
+     "Both were invented by Islamic scholars and carried to China by merchants",
+     "Both are Chinese."
+    ],
+    [
+     "Both were Mongol",
+     "Not on your cards."
+    ],
+    [
+     "Both came from India",
+     "Not on your cards."
+    ]
+   ],
+   "exp": "Both are Chinese inventions that spread west."
+  }
+ ],
+ "Papermaking": [
+  {
+   "q": "How did papermaking change Europe after the 13th century?",
+   "right": "Books got cheaper and literacy rose",
+   "wrong": [
+    [
+     "Paper money replaced all coins in Europe within a few years of its arrival",
+     "Not on your card."
+    ],
+    [
+     "It ended record-keeping",
+     "It improved it."
+    ],
+    [
+     "It started the Crusades",
+     "No."
+    ]
+   ],
+   "exp": "Paper made books cheaper and raised literacy and record-keeping."
+  },
+  {
+   "q": "When did papermaking reach Europe?",
+   "right": "The 13th century",
+   "wrong": [
+    [
+     "The 8th century, when Arab merchants revived the old Silk Road routes",
+     "Your card says 13th."
+    ],
+    [
+     "The 18th century",
+     "Your card says 13th."
+    ],
+    [
+     "Never",
+     "It did."
+    ]
+   ],
+   "exp": "Papermaking reached Europe in the 13th century."
+  }
+ ],
+ "Islamic scholars as translators": [
+  {
+   "q": "Why do historians say Islamic scholars \"saved the Greeks\"?",
+   "right": "They translated Greek classics into Arabic",
+   "wrong": [
+    [
+     "They protected Greece from Mongol invasion by sending armies to defend it",
+     "Your card is about translation."
+    ],
+    [
+     "They destroyed Greek books",
+     "They saved them."
+    ],
+    [
+     "They ignored Greek works",
+     "They translated them."
+    ]
+   ],
+   "exp": "They translated works by Aristotle and others into Arabic."
+  },
+  {
+   "q": "What did Islamic scholars add besides Greek works?",
+   "right": "Mathematics from India and medicine",
+   "wrong": [
+    [
+     "Silk-making and porcelain techniques that they brought from China",
+     "Not on your card."
+    ],
+    [
+     "Gunpowder",
+     "Chinese."
+    ],
+    [
+     "Lateen sails",
+     "Not on this card."
+    ]
+   ],
+   "exp": "They added mathematics from India and advances in medicine."
+  }
+ ],
+ "Hangzhou": [
+  {
+   "q": "What made Hangzhou important?",
+   "right": "Size and its place on the Grand Canal",
+   "wrong": [
+    [
+     "It was the capital of the Mongol Empire and home of the kuriltai",
+     "Not on your card."
+    ],
+    [
+     "It was in Persia",
+     "It's Chinese."
+    ],
+    [
+     "It was a desert oasis",
+     "It's on the Grand Canal."
+    ]
+   ],
+   "exp": "Hangzhou had about a million people at the southern end of the Grand Canal."
+  },
+  {
+   "q": "Hangzhou had a thriving Arab community. What does this show?",
+   "right": "Foreign merchants settled in Chinese cities",
+   "wrong": [
+    [
+     "China banned all foreigners from entering its cities during this time",
+     "Arabs lived there."
+    ],
+    [
+     "Arabs conquered Hangzhou",
+     "Not on your card."
+    ],
+    [
+     "Hangzhou was in Arabia",
+     "It's in China."
+    ]
+   ],
+   "exp": "An Arab community shows a merchant diaspora in China."
+  }
+ ],
+ "Why cities grew": [
+  {
+   "q": "Which factor would MOST help a city grow?",
+   "right": "Political stability and safe transport",
+   "wrong": [
+    [
+     "Invasion by a foreign army that destroys the walls and markets of the city",
+     "That causes decline."
+    ],
+    [
+     "Disease",
+     "Causes decline."
+    ],
+    [
+     "Falling farm output",
+     "Causes decline."
+    ]
+   ],
+   "exp": "Stability, safe transport, commerce, labor and farm output helped cities grow."
+  },
+  {
+   "q": "More farm output helped cities grow. Why?",
+   "right": "It fed more people",
+   "wrong": [
+    [
+     "It made people leave the cities to go back and work on the farms",
+     "It supported city populations."
+    ],
+    [
+     "It ended trade",
+     "No."
+    ],
+    [
+     "It caused disease",
+     "No."
+    ]
+   ],
+   "exp": "Plentiful food supports larger city populations."
+  }
+ ],
+ "Why cities declined": [
+  {
+   "q": "Which card shows a city declining for reasons on the \"Why cities declined\" card?",
+   "right": "Constantinople",
+   "wrong": [
+    [
+     "Hangzhou, which grew to about a million people on the Grand Canal",
+     "That's growth."
+    ],
+    [
+     "Samarkand",
+     "That's growth."
+    ],
+    [
+     "Timbuktu",
+     "That's growth."
+    ]
+   ],
+   "exp": "Constantinople was weakened by crusade, plague and invasion."
+  },
+  {
+   "q": "Which pair of causes of decline are opposites of causes of growth?",
+   "right": "Instability vs. stability; falling vs. more farm output",
+   "wrong": [
+    [
+     "Safe transport vs. commerce, since both of them helped the city to grow",
+     "Both are growth causes."
+    ],
+    [
+     "Plague vs. labor",
+     "Not opposites."
+    ],
+    [
+     "Invasion vs. disease",
+     "Both cause decline."
+    ]
+   ],
+   "exp": "Stability and farm output build cities; instability and falling output weaken them."
+  }
+ ],
+ "Constantinople": [
+  {
+   "q": "Which events weakened Constantinople before 1453?",
+   "right": "The Fourth Crusade and plague",
+   "wrong": [
+    [
+     "The Mongol conquest of the city and the founding of the Golden Horde there",
+     "Not on your card."
+    ],
+    [
+     "Zheng He's voyages",
+     "Unrelated."
+    ],
+    [
+     "The rise of Mali",
+     "Unrelated."
+    ]
+   ],
+   "exp": "The Fourth Crusade (1204) and plague (1346 and 1349) weakened it."
+  },
+  {
+   "q": "Who took Constantinople in 1453?",
+   "right": "The Ottomans",
+   "wrong": [
+    [
+     "The Mongols of the Golden Horde, who had already conquered Kiev in 1240",
+     "Your card says Ottomans."
+    ],
+    [
+     "The Ming",
+     "No."
+    ],
+    [
+     "The Crusaders",
+     "They weakened it in 1204."
+    ]
+   ],
+   "exp": "Constantinople fell to the Ottomans in 1453."
+  }
+ ],
+ "Marco Polo": [
+  {
+   "q": "What did Marco Polo's account focus on?",
+   "right": "Trade and cities",
+   "wrong": [
+    [
+     "Religious pilgrimages to Jerusalem, Rome and Spain made by Christians",
+     "That's Margery Kempe."
+    ],
+    [
+     "Muslim lands and law",
+     "That's Ibn Battuta."
+    ],
+    [
+     "The plague",
+     "That's Boccaccio."
+    ]
+   ],
+   "exp": "Marco Polo focused on trade and cities."
+  },
+  {
+   "q": "Why would a historian check Marco Polo against other sources?",
+   "right": "Many Europeans doubted him; his view was a merchant's",
+   "wrong": [
+    [
+     "He wrote in Chinese, so Europeans could never read what he had written",
+     "Not on your card."
+    ],
+    [
+     "He never left Venice",
+     "He visited Kublai's court."
+    ],
+    [
+     "He was a Muslim scholar",
+     "That's Ibn Battuta."
+    ]
+   ],
+   "exp": "His point of view was a merchant's, and many Europeans doubted him."
+  }
+ ],
+ "Ibn Battuta": [
+  {
+   "q": "Why did Ibn Battuta mostly visit Muslim lands?",
+   "right": "He was a Muslim scholar",
+   "wrong": [
+    [
+     "He was a Venetian merchant looking for spices and silk to sell at home",
+     "That's Marco Polo."
+    ],
+    [
+     "Non-Muslim lands were closed to all travelers",
+     "Not on your card."
+    ],
+    [
+     "He was a Christian pilgrim",
+     "That's Margery Kempe."
+    ]
+   ],
+   "exp": "A Moroccan Muslim scholar who visited mostly Muslim lands."
+  },
+  {
+   "q": "Compare Ibn Battuta and Marco Polo as sources.",
+   "right": "A scholar's eye vs. a merchant's eye",
+   "wrong": [
+    [
+     "Both wrote from a Christian point of view about pilgrimages to holy sites",
+     "That's Margery Kempe."
+    ],
+    [
+     "Both were Chinese",
+     "No."
+    ],
+    [
+     "Neither traveled",
+     "Both traveled."
+    ]
+   ],
+   "exp": "Ibn Battuta wrote as a Muslim scholar; Polo as a merchant."
+  }
+ ],
+ "Margery Kempe": [
+  {
+   "q": "What does Margery Kempe's book offer that Polo's and Ibn Battuta's don't?",
+   "right": "A middle-class Christian woman's view",
+   "wrong": [
+    [
+     "A description of China written by someone who served in Kublai's court",
+     "That's Polo."
+    ],
+    [
+     "A view of Mali",
+     "That's Ibn Battuta."
+    ],
+    [
+     "A view of Mongol warfare",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Kempe shows a middle-class woman's life and Christian pilgrimages."
+  },
+  {
+   "q": "Where did Margery Kempe make pilgrimages?",
+   "right": "Jerusalem, Rome and Spain",
+   "wrong": [
+    [
+     "Mecca, Cairo and Timbuktu, following the route Mansa Musa had taken",
+     "Those are Muslim sites."
+    ],
+    [
+     "China and India",
+     "Not on your card."
+    ],
+    [
+     "Mali",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Jerusalem, Rome and Spain."
+  }
+ ],
+ "Reading travel accounts": [
+  {
+   "q": "Before using a travel account as evidence, what should you note first?",
+   "right": "The writer's point of view",
+   "wrong": [
+    [
+     "Whether the writer used paper or parchment, since that proves it is genuine",
+     "Not on your card."
+    ],
+    [
+     "Only the date",
+     "Point of view matters most."
+    ],
+    [
+     "How long the book is",
+     "Not the point."
+    ]
+   ],
+   "exp": "Travel accounts are shaped by the writer's religion, culture and purpose."
+  },
+  {
+   "q": "Ibn Battuta criticizes customs in a non-Muslim town. How should you read that?",
+   "right": "As shaped by his Muslim point of view",
+   "wrong": [
+    [
+     "As a completely neutral report, since travelers always describe things fairly",
+     "Accounts are shaped by the writer."
+    ],
+    [
+     "As false",
+     "Point of view doesn't make it false."
+    ],
+    [
+     "As Marco Polo's view",
+     "Different writer."
+    ]
+   ],
+   "exp": "Always note the writer's religion, culture and purpose."
+  }
+ ],
+ "Champa rice": [
+  {
+   "q": "Why did Champa rice lead to population growth in China?",
+   "right": "Two crops a year, even in drought or flood",
+   "wrong": [
+    [
+     "It was a luxury good that elites bought at high prices from Champa",
+     "It was a staple that fed people."
+    ],
+    [
+     "It replaced trade",
+     "No."
+    ],
+    [
+     "It came from India",
+     "It came from Champa."
+    ]
+   ],
+   "exp": "Quick-ripening, drought- and flood-resistant rice yielded two crops a year."
+  },
+  {
+   "q": "How did Champa rice reach China?",
+   "right": "As tribute from Champa (central Vietnam)",
+   "wrong": [
+    [
+     "Through the trans-Saharan caravans that carried goods from West Africa",
+     "Wrong network."
+    ],
+    [
+     "From Zheng He's voyages",
+     "Not on your card."
+    ],
+    [
+     "From the Americas",
+     "No."
+    ]
+   ],
+   "exp": "It came from Champa and was offered to China as tribute."
+  }
+ ],
+ "Bananas": [
+  {
+   "q": "How did bananas change Sub-Saharan Africa?",
+   "right": "Population grew; Bantu-speakers settled new areas",
+   "wrong": [
+    [
+     "Bananas replaced gold as the main good traded north across the Sahara",
+     "Not on your card."
+    ],
+    [
+     "They caused famine",
+     "They boosted population."
+    ],
+    [
+     "They ended the Bantu migration",
+     "They helped it."
+    ]
+   ],
+   "exp": "Bananas boosted population and let Bantu speakers settle where yams didn't grow."
+  },
+  {
+   "q": "Who brought bananas to Sub-Saharan Africa?",
+   "right": "Indonesian seafarers",
+   "wrong": [
+    [
+     "Chinese admirals on Zheng He's voyages, who also brought porcelain",
+     "Your card says Indonesian seafarers."
+    ],
+    [
+     "Mongol armies",
+     "No."
+    ],
+    [
+     "Arab caravans",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Indonesian seafarers brought bananas."
+  }
+ ],
+ "Citrus crops": [
+  {
+   "q": "How did citrus crops reach the Mediterranean?",
+   "right": "Through Muslim lands and markets",
+   "wrong": [
+    [
+     "Through Chinese junks that sailed directly from China to the Mediterranean",
+     "Not on your card."
+    ],
+    [
+     "Through the Mongol yam",
+     "Messengers."
+    ],
+    [
+     "Through Mali",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Citrus spread through Muslim lands and markets such as Samarkand."
+  },
+  {
+   "q": "Champa rice, bananas and citrus all show what?",
+   "right": "Trade networks spread crops",
+   "wrong": [
+    [
+     "Crops never moved between regions before the Europeans arrived",
+     "They moved along trade networks."
+    ],
+    [
+     "Crops only moved by conquest",
+     "Trade moved them too."
+    ],
+    [
+     "Crops spread disease",
+     "Not the point."
+    ]
+   ],
+   "exp": "Crops moved along trade networks and changed diets and populations."
+  }
+ ],
+ "Sugar and cotton": [
+  {
+   "q": "How did sugar and cotton first spread, according to your card?",
+   "right": "Through caliphs' conquests",
+   "wrong": [
+    [
+     "Through Mongol rule, which planted them along the roads of Central Asia",
+     "Your card says caliphs' conquests."
+    ],
+    [
+     "Through Zheng He",
+     "No."
+    ],
+    [
+     "Through Mali",
+     "No."
+    ]
+   ],
+   "exp": "Caliphs' conquests spread their cultivation."
+  },
+  {
+   "q": "What later effect of sugar does your card warn about?",
+   "right": "European demand fueled enslaved labor",
+   "wrong": [
+    [
+     "Sugar caused the Black Death by attracting rats into the trading ports",
+     "Not on your card."
+    ],
+    [
+     "Sugar ended trade",
+     "No."
+    ],
+    [
+     "Sugar replaced rice",
+     "No."
+    ]
+   ],
+   "exp": "Later European demand for sugar fueled mass use of enslaved labor in the Americas."
+  }
+ ],
+ "Environmental degradation": [
+  {
+   "q": "Why did growing populations lead to environmental degradation?",
+   "right": "More people strained the land",
+   "wrong": [
+    [
+     "More people planted forests, which blocked sunlight from reaching the crops",
+     "Deforestation, not planting."
+    ],
+    [
+     "Fewer people farmed",
+     "More people strained it."
+    ],
+    [
+     "Trade stopped",
+     "Not the reason."
+    ]
+   ],
+   "exp": "Larger populations caused overgrazing, deforestation and soil erosion."
+  },
+  {
+   "q": "Which result of environmental degradation is on your card?",
+   "right": "Farm output fell",
+   "wrong": [
+    [
+     "Trade grew much faster because there was more land available for farming",
+     "Degradation cut output."
+    ],
+    [
+     "Population rose",
+     "It's caused by population rise."
+    ],
+    [
+     "Forests grew",
+     "Deforestation."
+    ]
+   ],
+   "exp": "Overgrazing, deforestation and erosion cut farm output."
+  }
+ ],
+ "Overgrazing and soil erosion": [
+  {
+   "q": "Why was Great Zimbabwe abandoned in the late 1400s?",
+   "right": "Overgrazing wore out the land",
+   "wrong": [
+    [
+     "The Mongols invaded and destroyed the city's walls with siege weapons",
+     "Not on your card."
+    ],
+    [
+     "The plague",
+     "Your card says overgrazing."
+    ],
+    [
+     "A flood",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Overgrazing near Great Zimbabwe forced people to abandon the city."
+  },
+  {
+   "q": "Which region does your card say was hurt by deforestation and soil erosion?",
+   "right": "Feudal Europe",
+   "wrong": [
+    [
+     "Ming China, which cut down forests to build Zheng He's huge ships",
+     "Not on your card."
+    ],
+    [
+     "Mali",
+     "Not on your card."
+    ],
+    [
+     "Malacca",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Deforestation and soil erosion hurt feudal Europe."
+  }
+ ],
+ "Bubonic plague (Black Death)": [
+  {
+   "q": "How did the Black Death reach Europe?",
+   "right": "Along trade routes from Central Asia",
+   "wrong": [
+    [
+     "From the Americas, carried back by European ships after the voyages",
+     "Not on your card; it came from Central Asia."
+    ],
+    [
+     "From Africa only",
+     "Your card says Central Asia."
+    ],
+    [
+     "It started in Europe",
+     "It came along trade routes."
+    ]
+   ],
+   "exp": "The plague spread along trade routes from Central Asia."
+  },
+  {
+   "q": "About what share of Europe's people did the plague kill?",
+   "right": "About a third",
+   "wrong": [
+    [
+     "Almost all of them, leaving only a few towns standing across Europe",
+     "Your card says about a third."
+    ],
+    [
+     "About one in a hundred",
+     "Far more."
+    ],
+    [
+     "None",
+     "It killed many."
+    ]
+   ],
+   "exp": "About a third of Europe, and many millions in Asia."
+  }
+ ],
+ "How the plague spread": [
+  {
+   "q": "Why did trade help spread the plague?",
+   "right": "Fleas on rats rode ships and caravans",
+   "wrong": [
+    [
+     "Merchants spread it on purpose to weaken their rivals in other cities",
+     "Not on your card."
+    ],
+    [
+     "Silk carried the disease",
+     "Fleas on animals carried it."
+    ],
+    [
+     "It spread through money",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Fleas on rats and other animals traveled on ships and caravans."
+  },
+  {
+   "q": "How did Mongol conquests relate to the plague?",
+   "right": "They helped transmit it",
+   "wrong": [
+    [
+     "They stopped it from spreading by closing the roads between their khanates",
+     "They helped spread it."
+    ],
+    [
+     "They caused it on purpose",
+     "Not on your card."
+    ],
+    [
+     "They had no link",
+     "They helped transmit it."
+    ]
+   ],
+   "exp": "Mongol conquests helped transmit the plague."
+  }
+ ],
+ "Effects of the plague": [
+  {
+   "q": "Why did wages rise after the Black Death?",
+   "right": "Fewer workers were left",
+   "wrong": [
+    [
+     "Rulers ordered higher pay to celebrate the end of the plague in Europe",
+     "Not on your card."
+    ],
+    [
+     "Trade boomed",
+     "Trade suffered."
+    ],
+    [
+     "More people were born",
+     "Fewer people were left."
+    ]
+   ],
+   "exp": "Labor shortages raised wages."
+  },
+  {
+   "q": "How did the plague weaken feudalism?",
+   "right": "Higher wages gave peasants leverage",
+   "wrong": [
+    [
+     "Feudal lords grew stronger because they owned more land per person",
+     "Your card says it weakened feudalism."
+    ],
+    [
+     "It ended farming",
+     "No."
+    ],
+    [
+     "It made cities grow",
+     "Cities suffered."
+    ]
+   ],
+   "exp": "Labor shortages raised wages and weakened feudalism."
+  }
+ ],
+ "Boccaccio": [
+  {
+   "q": "What inspired Boccaccio's Decameron?",
+   "right": "Living through the plague",
+   "wrong": [
+    [
+     "His travels to Kublai Khan's court with his father and uncle",
+     "That's Marco Polo."
+    ],
+    [
+     "A pilgrimage to Jerusalem",
+     "That's Margery Kempe."
+    ],
+    [
+     "Mansa Musa's journey",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Boccaccio lived through the plague; it inspired the Decameron."
+  },
+  {
+   "q": "Why is the Decameron useful to historians of the plague?",
+   "right": "It comes from someone who lived through it",
+   "wrong": [
+    [
+     "It is a scientific study that proved fleas on rats carried the disease",
+     "It's a literary work."
+    ],
+    [
+     "It was written in China",
+     "He was Italian."
+    ],
+    [
+     "It was written centuries later",
+     "He lived through it."
+    ]
+   ],
+   "exp": "Boccaccio witnessed the plague."
+  }
+ ],
+ "Shared origins": [
+  {
+   "q": "Which statement is true of ALL the networks?",
+   "right": "They built on routes older than 1200",
+   "wrong": [
+    [
+     "They were all created by the Mongols after the 1206 kuriltai elected Temujin",
+     "Only the Silk Roads were united by the Mongols."
+    ],
+    [
+     "They all used ships",
+     "Two were overland."
+    ],
+    [
+     "They all traded gold for salt",
+     "That's trans-Saharan."
+    ]
+   ],
+   "exp": "All built on older routes and grew as states expanded."
+  },
+  {
+   "q": "How did state expansion relate to the networks' growth?",
+   "right": "Networks grew as states expanded",
+   "wrong": [
+    [
+     "Networks shrank as states grew, because rulers banned trade with outsiders",
+     "They grew together."
+    ],
+    [
+     "They were unrelated",
+     "They grew together."
+    ],
+    [
+     "States ended networks",
+     "No."
+    ]
+   ],
+   "exp": "The networks grew as states and empires expanded."
+  }
+ ],
+ "Stable states": [
+  {
+   "q": "Which pair shows stable states protecting trade?",
+   "right": "Mongols policing roads; Mali protecting trade",
+   "wrong": [
+    [
+     "The Black Death and overgrazing, which both disrupted the trade networks",
+     "Those disrupted trade."
+    ],
+    [
+     "Champa rice and bananas",
+     "Crops."
+    ],
+    [
+     "Boccaccio and Kempe",
+     "Writers."
+    ]
+   ],
+   "exp": "Strong states protected merchants and routes."
+  },
+  {
+   "q": "What did stable states pay for, according to your card?",
+   "right": "Upgrades like compasses and saddles",
+   "wrong": [
+    [
+     "Armies that closed the trade routes to merchants from rival states",
+     "They protected routes."
+    ],
+    [
+     "The plague",
+     "No."
+    ],
+    [
+     "The Crusades",
+     "Not on your card."
+    ]
+   ],
+   "exp": "They funded compasses, lateen sails, saddles and high-yield crops."
+  }
+ ],
+ "Trading cities as \"knots\"": [
+  {
+   "q": "Which city was a knot of the Indian Ocean network?",
+   "right": "Malacca",
+   "wrong": [
+    [
+     "Samarkand, the trading city in present-day Uzbekistan known for artisans",
+     "That's Silk Roads."
+    ],
+    [
+     "Timbuktu",
+     "Trans-Saharan."
+    ],
+    [
+     "Gao",
+     "Trans-Saharan."
+    ]
+   ],
+   "exp": "Calicut and Malacca held the Indian Ocean network together."
+  },
+  {
+   "q": "Timbuktu and Gao were knots of which network?",
+   "right": "Trans-Saharan",
+   "wrong": [
+    [
+     "The Indian Ocean network, which connected East Africa to India and China",
+     "They're West African inland cities."
+    ],
+    [
+     "Silk Roads",
+     "That's Samarkand."
+    ],
+    [
+     "Mongol yam",
+     "That's messengers."
+    ]
+   ],
+   "exp": "Timbuktu and Gao held the trans-Saharan network together."
+  }
+ ],
+ "Centralization": [
+  {
+   "q": "How did trade wealth encourage centralization?",
+   "right": "It paid for planning like navies and currency",
+   "wrong": [
+    [
+     "It made rulers weaker, since merchants took over all the government jobs",
+     "Your card says the opposite."
+    ],
+    [
+     "It ended governments",
+     "No."
+    ],
+    [
+     "It caused the plague",
+     "No."
+    ]
+   ],
+   "exp": "Trade wealth funded centralized planning such as Malacca's navy and standard currencies."
+  },
+  {
+   "q": "Which example from your cards shows centralization?",
+   "right": "Malacca's navy",
+   "wrong": [
+    [
+     "Margery Kempe's book about pilgrimages to Jerusalem, Rome and Spain",
+     "A travel account."
+    ],
+    [
+     "Champa rice",
+     "A crop."
+    ],
+    [
+     "Feigned retreats",
+     "A tactic."
+    ]
+   ],
+   "exp": "Malacca's navy is centralized planning funded by trade."
+  }
+ ],
+ "Beyond goods": [
+  {
+   "q": "Besides products, what did merchants, diplomats and missionaries exchange?",
+   "right": "Ways of life",
+   "wrong": [
+    [
+     "Only silver coins, since goods were too heavy to carry on the long routes",
+     "Not on your card."
+    ],
+    [
+     "Nothing else",
+     "They exchanged ideas too."
+    ],
+    [
+     "Only weapons",
+     "Not on your card."
+    ]
+   ],
+   "exp": "They exchanged ways of life as well as products."
+  },
+  {
+   "q": "Which example shows exchange \"beyond goods\"?",
+   "right": "Hindu-Arabic numerals reaching Europe",
+   "wrong": [
+    [
+     "Gold going north and salt going south across the Sahara Desert",
+     "Those are goods."
+    ],
+    [
+     "Spices from Calicut",
+     "Goods."
+    ],
+    [
+     "Porcelain from China",
+     "Goods."
+    ]
+   ],
+   "exp": "Ideas, like numerals, moved along with goods."
+  }
+ ],
+ "Silk Roads profile": [
+  {
+   "q": "Which network carried mainly luxury goods overland?",
+   "right": "Silk Roads",
+   "wrong": [
+    [
+     "Indian Ocean, which carried goods too heavy to move by land on dhows",
+     "That's maritime and bulk."
+    ],
+    [
+     "Trans-Saharan",
+     "Gold and salt across the desert."
+    ],
+    [
+     "None",
+     "The Silk Roads did."
+    ]
+   ],
+   "exp": "Silk Roads: overland, luxury goods."
+  },
+  {
+   "q": "Which religions spread along the Silk Roads, according to the profile?",
+   "right": "Buddhism, Neo-Confucianism and Islam",
+   "wrong": [
+    [
+     "Hinduism and Christianity, carried by merchants traveling on camels",
+     "Not the profile's list."
+    ],
+    [
+     "Only Islam",
+     "Buddhism and Neo-Confucianism too."
+    ],
+    [
+     "No religions",
+     "Several spread."
+    ]
+   ],
+   "exp": "Buddhism, Neo-Confucianism and Islam spread along the Silk Roads."
+  }
+ ],
+ "Indian Ocean profile": [
+  {
+   "q": "Why could the Indian Ocean carry goods the Silk Roads couldn't?",
+   "right": "Ships moved goods too heavy for land",
+   "wrong": [
+    [
+     "The ocean was safer from bandits because the Mongols patrolled it",
+     "Not on your card."
+    ],
+    [
+     "Ships were faster than camels in every season",
+     "Monsoons limited timing."
+    ],
+    [
+     "Only the ocean had luxury goods",
+     "Silk Roads had luxuries."
+    ]
+   ],
+   "exp": "Indian Ocean trade moved goods too heavy to move by land."
+  },
+  {
+   "q": "Which tools belong to the Indian Ocean profile?",
+   "right": "Compass, lateen sail, astrolabe, rudder",
+   "wrong": [
+    [
+     "Caravanserai, camel saddles and the yam relay system of the Mongols",
+     "Those are land tools."
+    ],
+    [
+     "Siege towers and catapults",
+     "Warfare."
+    ],
+    [
+     "Cowries and salt",
+     "Currencies and goods."
+    ]
+   ],
+   "exp": "Compass, lateen sail, astrolabe and rudder."
+  }
+ ],
+ "Trans-Saharan profile": [
+  {
+   "q": "Which feature belongs only to the trans-Saharan profile?",
+   "right": "Gold traded for salt",
+   "wrong": [
+    [
+     "Monsoon winds, which decided when merchants could set out on their voyages",
+     "Indian Ocean."
+    ],
+    [
+     "Caravanserai",
+     "Silk Roads."
+    ],
+    [
+     "Junks",
+     "Indian Ocean."
+    ]
+   ],
+   "exp": "Trans-Saharan: desert, camels, gold for salt."
+  },
+  {
+   "q": "Which religion did trans-Saharan trade spread into Sub-Saharan Africa?",
+   "right": "Islam",
+   "wrong": [
+    [
+     "Buddhism, which came along the same routes that carried salt to the south",
+     "Not on your card."
+    ],
+    [
+     "Neo-Confucianism",
+     "East Asia."
+    ],
+    [
+     "Hinduism",
+     "Southeast Asia."
+    ]
+   ],
+   "exp": "Trans-Saharan trade spread Islam into Sub-Saharan Africa."
+  }
+ ],
+ "Currencies": [
+  {
+   "q": "Which currencies appear on your card?",
+   "right": "Cowrie shells, coins and flying cash",
+   "wrong": [
+    [
+     "Only gold coins, which every network used in exactly the same way",
+     "Each region had its own money."
+    ],
+    [
+     "Credit cards",
+     "No."
+    ],
+    [
+     "Only salt",
+     "Not the card's list."
+    ]
+   ],
+   "exp": "Silk and tin ingots, cowrie shells, metal coins and Chinese flying cash."
+  },
+  {
+   "q": "What does the currencies card show about the networks?",
+   "right": "Each region used its own money",
+   "wrong": [
+    [
+     "All regions used one shared currency set by the Mongol Great Khan",
+     "Each region had its own."
+    ],
+    [
+     "No one used money",
+     "Many currencies existed."
+    ],
+    [
+     "Only China used money",
+     "Many did."
+    ]
+   ],
+   "exp": "Each region had its own money."
+  }
+ ],
+ "Maritime versus overland": [
+  {
+   "q": "As production rose, which trade began to carry more?",
+   "right": "Maritime trade",
+   "wrong": [
+    [
+     "Overland trade, because camels could carry much more than ships could",
+     "Ships carried more."
+    ],
+    [
+     "Neither",
+     "Maritime grew more."
+    ],
+    [
+     "Both stopped",
+     "No."
+    ]
+   ],
+   "exp": "Maritime trade volume began to exceed overland routes."
+  },
+  {
+   "q": "What did rising maritime trade require?",
+   "right": "Larger ships and better navigation",
+   "wrong": [
+    [
+     "More caravanserai and stronger camel saddles for the long desert routes",
+     "Those are overland."
+    ],
+    [
+     "Fewer merchants",
+     "No."
+    ],
+    [
+     "Ending the monsoon",
+     "Impossible."
+    ]
+   ],
+   "exp": "Larger ships and better navigation."
+  }
+ ],
+ "Labor": [
+  {
+   "q": "Which form of labor was common along Indian Ocean and trans-Saharan routes?",
+   "right": "Trade in enslaved people",
+   "wrong": [
+    [
+     "Factory work in large mills, which employed most of the people in each city",
+     "Not on your card."
+    ],
+    [
+     "Only free peasants",
+     "Not only."
+    ],
+    [
+     "Robots",
+     "No."
+    ]
+   ],
+   "exp": "Trade in enslaved people was common along those routes."
+  },
+  {
+   "q": "Which shows continuity in labor during this period?",
+   "right": "Old labor forms continued with more demand",
+   "wrong": [
+    [
+     "Free labor replaced all slavery everywhere in the world after 1200",
+     "Not on your card."
+    ],
+    [
+     "No one worked",
+     "No."
+    ],
+    [
+     "Debt labor disappeared",
+     "It continued."
+    ]
+   ],
+   "exp": "Free peasants, artisans, debt labor and enslaved people continued; demand grew."
+  }
+ ],
+ "Gender": [
+  {
+   "q": "Which is an exception to patriarchy named on your card?",
+   "right": "Mongol women",
+   "wrong": [
+    [
+     "Chinese scholar-gentry women, who ran the civil service exams for the Yuan",
+     "Not on your card."
+    ],
+    [
+     "Mali's kings",
+     "Not an exception."
+    ],
+    [
+     "Venetian merchants",
+     "Not on your card."
+    ]
+   ],
+   "exp": "Exceptions included Mongol women, Southeast Asian marketplace women and European guild women."
+  },
+  {
+   "q": "Which best describes gender roles in this period?",
+   "right": "Mostly patriarchal, with some exceptions",
+   "wrong": [
+    [
+     "Mostly equal, with women holding most of the power in trade cities",
+     "Societies remained patriarchal."
+    ],
+    [
+     "Women ruled everywhere",
+     "No."
+    ],
+    [
+     "No exceptions at all",
+     "Your card names exceptions."
+    ]
+   ],
+   "exp": "Societies remained patriarchal, with some exceptions."
+  }
+ ],
+ "Centers of learning": [
+  {
+   "q": "Which list are all trade cities that became centers of learning?",
+   "right": "Canton, Samarkand, Timbuktu, Cairo, Venice",
+   "wrong": [
+    [
+     "Kiev, Baghdad and Kashgar, which were all destroyed by conquerors",
+     "Not this card's list."
+    ],
+    [
+     "Great Zimbabwe only",
+     "Not on this card."
+    ],
+    [
+     "Dadu only",
+     "Not on this card."
+    ]
+   ],
+   "exp": "Canton, Samarkand, Timbuktu, Cairo and Venice."
+  },
+  {
+   "q": "Why did trade cities also become centers of learning?",
+   "right": "Wealth and people from many places gathered there",
+   "wrong": [
+    [
+     "Rulers banned trade there so that people would have time to study instead",
+     "Trade continued."
+    ],
+    [
+     "They were far from trade",
+     "They were trade hubs."
+    ],
+    [
+     "Only monks lived there",
+     "Merchants did too."
+    ]
+   ],
+   "exp": "Trade brought wealth, people and ideas together."
+  }
+ ],
+ "Environmental processes": [
+  {
+   "q": "Which costs accompanied the growth of trade?",
+   "right": "Plague and environmental strain",
+   "wrong": [
+    [
+     "Falling populations everywhere and the end of all long-distance trade",
+     "Growth continued in many places."
+    ],
+    [
+     "More forests",
+     "Deforestation."
+    ],
+    [
+     "Fewer diseases",
+     "Plague spread."
+    ]
+   ],
+   "exp": "Plague outbreaks and environmental strain accompanied growth."
+  },
+  {
+   "q": "Which pair connects trade growth to an environmental cost?",
+   "right": "Bigger populations → overgrazing",
+   "wrong": [
+    [
+     "Mongol stability → more forests growing back along the Silk Roads",
+     "Not on your cards."
+    ],
+    [
+     "Plague → more workers",
+     "Plague meant fewer workers."
+    ],
+    [
+     "Champa rice → fewer people",
+     "It raised population."
+    ]
+   ],
+   "exp": "Growth strained the land through overgrazing and deforestation."
+  }
+ ]
+}

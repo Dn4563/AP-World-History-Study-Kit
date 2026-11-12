@@ -16,7 +16,8 @@
       "legacyKeys": {
         "kit": "apw_unit2_kit_v1",
         "pt": "apw_unit2_pt_v1"
-      }
+      },
+      "learnMix": true
     },
     {
       "id": "u3",
