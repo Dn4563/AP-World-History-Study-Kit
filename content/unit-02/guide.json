@@ -116,5 +116,126 @@
         ]
       ]
     }
+  ],
+  "cheat": [
+    {
+      "title": "The Unit 2 pattern",
+      "kind": "list",
+      "items": [
+        "New and improved tools (credit, caravanserai, compass, saddles) → more trade → bigger cities and states → cultural and environmental effects.",
+        "Contextualization sentence: \"After 1200, existing trade routes across Afro-Eurasia intensified as stable states, especially the Mongols, protected merchants and new technologies made travel easier.\""
+      ]
+    },
+    {
+      "title": "Three networks",
+      "kind": "table",
+      "rows": [
+        [
+          "",
+          "Silk Roads",
+          "Indian Ocean",
+          "Trans-Saharan"
+        ],
+        [
+          "Terrain",
+          "Overland",
+          "Sea (monsoons)",
+          "Desert"
+        ],
+        [
+          "Transport",
+          "Caravans, caravanserai",
+          "Dhows, junks",
+          "Camel caravans"
+        ],
+        [
+          "Key tools",
+          "Flying cash, saddles",
+          "Compass, lateen sail, astrolabe, rudder",
+          "Load-bearing camel saddle"
+        ],
+        [
+          "Goods",
+          "Luxuries: silk, porcelain, tea, spices",
+          "Spices, cotton, gold, ivory, bulk goods",
+          "Gold north, salt south"
+        ],
+        [
+          "Knot cities",
+          "Samarkand, Kashgar",
+          "Calicut, Malacca, Kilwa",
+          "Timbuktu, Gao"
+        ],
+        [
+          "Religion spread",
+          "Buddhism, Neo-Confucianism, Islam",
+          "Islam (intermarriage), Hinduism, Buddhism",
+          "Islam"
+        ]
+      ]
+    },
+    {
+      "title": "The four khanates",
+      "kind": "table",
+      "rows": [
+        [
+          "Khanate",
+          "Where",
+          "Key fact"
+        ],
+        [
+          "Yuan",
+          "China",
+          "Kublai; Chinese style; ended by the Ming in 1368"
+        ],
+        [
+          "Il-khanate",
+          "Persia",
+          "Hulegu took Baghdad (1258); Persian officials; later Muslim"
+        ],
+        [
+          "Golden Horde",
+          "Russia",
+          "Batu; ruled through Russian princes; lasted longest"
+        ],
+        [
+          "Chagatai",
+          "Central Asia",
+          "Most traditionally Mongol"
+        ]
+      ]
+    },
+    {
+      "title": "Dates to know",
+      "kind": "list",
+      "items": [
+        "1206: kuriltai elects Temujin (Genghis Khan).",
+        "1235: Sundiata founds Mali.  1240: Golden Horde destroys Kiev.",
+        "1258: Hulegu takes Baghdad.  1271: Kublai founds the Yuan.",
+        "c. 1250–1350: Pax Mongolica.  1324: Mansa Musa's pilgrimage.",
+        "1347–1351: Black Death in Europe.  1368: Ming replace the Yuan.",
+        "1405–1433: Zheng He's seven voyages.  1453: Ottomans take Constantinople."
+      ]
+    },
+    {
+      "title": "Effects in one line each",
+      "kind": "list",
+      "items": [
+        "Religion: spread by merchants and rulers, often blending (syncretism): Chan, Neo-Confucianism, Angkor, Swahili, Urdu.",
+        "Technology: gunpowder and papermaking moved west; Islamic scholars saved Greek works and added Indian math.",
+        "Crops: Champa rice (China), bananas (Africa), citrus, sugar and cotton → population growth.",
+        "Environment: overgrazing, deforestation, erosion (Great Zimbabwe abandoned).",
+        "Disease: plague rode the trade routes → labor shortage → higher wages → feudalism weakened."
+      ]
+    },
+    {
+      "title": "Travelers' points of view",
+      "kind": "list",
+      "items": [
+        "Marco Polo: Venetian merchant (trade and cities).",
+        "Ibn Battuta: Moroccan Muslim scholar (mostly Muslim lands).",
+        "Margery Kempe: English Christian pilgrim (a middle-class woman's life)."
+      ]
+    }
   ]
 }

@@ -4,321 +4,371 @@
       "name": "MCQ Set A",
       "mode": "practice",
       "tips": [
-        "Read the question stem before the source so you know what you are looking for.",
-        "For \"best used as evidence of\" or \"best illustrates\" questions, first name the idea the source shows (cause, effect, continuity, change, connection between regions), then pick the option that matches that idea.",
-        "Eliminate options that are true in history but not shown by the source, or that belong to the wrong time or region.",
-        "Watch for extreme words (\"only,\" \"all,\" \"first,\" \"created,\" \"ended,\" \"every\"): they are usually wrong.",
-        "For \"claim\" or \"evidence the author uses\" questions, the answer must be stated or directly supported in the text. Do not use outside knowledge to pick it.",
-        "For point-of-view questions, ask who wrote it, when, for whom, and why."
+        "Read the attribution line first: who wrote it, when, and why. A Ming official, a Muslim scholar and a modern historian each have a different purpose.",
+        "Find the main idea of each paragraph before you look at the choices. Many questions ask about one paragraph only.",
+        "For \"best used as evidence of\" or \"best illustrates\" questions, first name the bigger development the source shows (more trade, Mongol connections, spread of religion, crops and disease), then pick the choice that matches it.",
+        "The wrong choices are usually true-but-not-in-the-source, from the wrong network or region, or too extreme. Cross them out with the X button.",
+        "\"Practice passage\" sources were written for this kit from your class materials. Only words inside quotation marks that are labeled as real are real quotations, so don't quote the rest on the test."
       ],
       "sources": {
-        "S1": {
-          "title": "Mansa Musa of Mali in Cairo, 1324",
-          "attr": "Adapted from an Arabic account written about a decade later.",
-          "label": "Practice source (adapted for practice; not a verbatim quotation).",
-          "text": "The king of Mali, Musa, entered Cairo on his way to Mecca with a very large retinue. He and his companions spent and gave away so much gold to officials and to the poor of the city that its value in the markets fell sharply. Merchants who dealt in gold had not recovered their losses twelve years later. The king told his hosts that his kingdom lay many months' journey to the south, beyond the great desert, and that he meant to bring learned men home with him."
-        },
-        "S2": {
-          "title": "The Mongols: Destroyers and Connectors",
-          "attr": "Argument by a modern historian.",
-          "label": "Practice source (written for practice; not a verbatim quotation).",
-          "text": "The Mongols are remembered for slaughter, and the memory is deserved: Baghdad was sacked in 1258 and much of its population killed. Yet the same conquerors made the long overland routes safer than they had been in centuries. Roads were repaired and bandits were punished wherever Mongol authority reached, and a relay system of messengers and stations linked distant provinces. Merchants who had once paid tolls to a dozen rival rulers now dealt with a single authority that respected trade. It is no accident that the travelers who carried medical learning, numbers, and technology between Asia and Europe moved in these decades."
-        },
-        "S3": {
-          "title": "A Persian envoy describes Calicut, 1442",
-          "attr": "Abdu Razzak, Persian envoy who visited the port of Calicut, in his description of the city, 1442.",
-          "label": "",
-          "text": "Wealthy merchants bring in big cargoes, which they unload and unhesitatingly send into the markets without thinking in the meantime of any security, or checking the account, or keeping watch over the goods."
-        },
-        "S4": {
-          "title": "A Moroccan scholar sets out, 1325",
-          "attr": "Ibn Battuta, a Muslim scholar from Morocco, describing his departure at age 21, from the account of his travels dictated years later.",
-          "label": "",
-          "text": "I set out alone, having neither fellow-traveller in whose companionship I might find cheer, nor caravan whose part I might join, but swayed by an overmastering impulse within me and a desire long-cherished in my bosom to visit these illustrious sanctuaries."
-        },
-        "S5": {
-          "title": "The plague arrives in a port city, 1347",
-          "attr": "Adapted from a fourteenth-century European chronicle.",
-          "label": "Practice source (adapted for practice; not a verbatim quotation).",
+        "A1": {
+          "title": "A king from beyond the desert, 1324",
+          "attr": "Practice passage in the voice of a Cairo official writing about a decade after Mansa Musa's visit.",
+          "label": "Practice passage written from your class materials (textbook, review sheet, slides); not a real quotation.",
           "paras": [
-            "Merchants returning from the Black Sea ports in the autumn of 1347 brought with them a sickness that struck the harbor quarter first. Within weeks the dead lay in the streets, and physicians trained in the learning of the Arabs and the Greeks were unable to cure it.",
-            "By the next harvest, many villages stood empty. Landowners who had once dictated terms to their tenants now begged laborers to work their fields, and the workers who survived demanded wages that would have been unthinkable a few years earlier. Some lords complained that the world had been turned upside down."
+            "In the year of the pilgrimage the king of Mali, Musa, came to Cairo on his way to Mecca with a retinue larger than any the city had seen. He and his companions spent and gave away so much gold to officials, merchants and the poor that its price in our markets fell sharply. Even now, twelve years later, the dealers in gold have not recovered their losses.",
+            "The king told us that his kingdom lay many months' journey to the south, beyond the great desert, and that its wealth came from the gold of his lands, which the caravans carry north to trade for the salt of the desert. He takes a share of all this trade, and his soldiers keep the roads open for the merchants.",
+            "He is a Muslim who prays as we do, and he said that he meant to return home with learned men and books, so that the scholars of his own cities might teach the law and the faith."
+          ]
+        },
+        "A2": {
+          "title": "Destroyers and connectors",
+          "attr": "Practice passage written in the style of a modern historian of the Mongol Empire.",
+          "label": "Practice passage written from your class materials (textbook, review sheet, slides); not a real quotation.",
+          "paras": [
+            "The Mongols are remembered for slaughter, and the memory is deserved. Their armies used terror as a weapon, and when Hulegu took Baghdad in 1258, the city was sacked and the caliph killed. Cities that resisted were often destroyed so that others would surrender without a fight.",
+            "Yet the same conquerors made the long overland routes safer than they had been in centuries. Wherever Mongol authority reached, roads were repaired and bandits were punished, and the yam, a relay system of messengers and stations, linked distant provinces. Merchants who had once paid tolls to a dozen rival rulers now dealt with a single authority that respected trade, and the khans tolerated many religions, so traders of every faith were welcome.",
+            "It is no accident that the travelers who carried Greek and Islamic medicine, Hindu-Arabic numerals and Chinese technology between Asia and Europe moved in these decades. The Pax Mongolica was built on conquest, but it connected Afro-Eurasia as never before."
+          ]
+        },
+        "A3": {
+          "title": "A Persian envoy in Calicut, 1442",
+          "attr": "Practice passage built around the words of Abdu Razzak, a Persian envoy who visited Calicut in 1442. Only the sentence in quotation marks is his; it is quoted in your textbook.",
+          "label": "Practice passage written from your class materials; the quoted sentence is a real quotation from your textbook.",
+          "paras": [
+            "Calicut, on the southwest coast of India, is known to merchants as the City of Spices. Ships come to it from the ports of Arabia and Persia when the winds of the monsoon carry them east, and junks from China also anchor in its harbor. Pepper, cotton cloth and the steel of India are loaded here for the return voyage.",
+            "The ruler of the city welcomes foreign merchants of every faith, and many Arab merchants have settled here, married and raised families. The envoy was struck most by how safe trade felt: \"Wealthy merchants bring in big cargoes, which they unload and unhesitatingly send into the markets without thinking in the meantime of any security, or checking the account, or keeping watch over the goods.\"",
+            "Officers of the port collect the duties owed on the goods, and the ruler grows rich from this trade without sending out a single ship of his own."
+          ]
+        },
+        "A4": {
+          "title": "The three networks compared",
+          "attr": "Your textbook (AMSCO).",
+          "label": "Adapted from a table in your textbook (AMSCO).",
+          "table": [
+            [
+              "Network",
+              "Terrain",
+              "Transport and key technology",
+              "Goods"
+            ],
+            [
+              "Silk Roads",
+              "Overland across Central Asia",
+              "Caravans, caravanserai, flying cash",
+              "Silk, porcelain, tea, spices (luxury goods)"
+            ],
+            [
+              "Indian Ocean",
+              "Sea, driven by monsoon winds",
+              "Dhows, junks, compass, astrolabe, lateen sail",
+              "Spices, cotton, ivory, gold, and goods too heavy for land"
+            ],
+            [
+              "Trans-Saharan",
+              "Desert",
+              "Camel caravans, load-bearing camel saddle",
+              "Gold, ivory, enslaved people; salt, horses"
+            ]
+          ]
+        },
+        "A5": {
+          "title": "After the great dying",
+          "attr": "Practice passage written in the style of a modern historian of medieval Europe.",
+          "label": "Practice passage written from your class materials (textbook, review sheet, slides); not a real quotation.",
+          "paras": [
+            "The plague that reached Europe in 1347 traveled the same roads and sea lanes that had carried silk and spices. Fleas on rats rode in the holds of ships and among the bales of caravans, and the Mongol conquests that had joined Asia together helped carry the disease west. Between 1347 and 1351 it killed about a third of Europe's people, and many millions more in Asia.",
+            "The survivors inherited a changed world. In the countryside, so many workers had died that landowners who had once dictated terms to their tenants now competed for laborers. Wages rose, and peasants who could leave for better pay did so. The obligations that had tied workers to the land under feudalism began to weaken.",
+            "Trade and city life suffered in the short term, as markets emptied and cities lost many of their people. Writers such as Boccaccio, who lived through the plague in Florence, left accounts of the horror that historians still use today."
           ]
         }
       },
       "questions": [
         {
-          "id": "Q1",
+          "id": "A-1",
           "type": "mcq",
-          "src": "S1",
-          "skill": "Purpose of a detail",
-          "stem": "The author most likely mentions that gold merchants had not recovered their losses twelve years later in order to",
-          "options": [
-            "criticize Musa for wasting Mali's wealth on a pilgrimage.",
-            "show that Cairo's gold merchants knew little about West Africa.",
-            "show how a ruler's wealth could reshape distant economies.",
-            "explain why Mali's gold supply was soon exhausted."
-          ],
-          "ans": 2,
-          "exp": "The twelve-year effect shows that one ruler's spending reshaped prices in a distant economy. The author reports the loss without criticizing Musa, says nothing about what Cairo's merchants knew of West Africa, and never suggests that Mali's gold ran out.",
-          "why": [
-            "The author only reports the effect on Cairo's gold market. Nothing in the detail criticizes Musa or calls his spending wasteful.",
-            "The detail is about how long the losses lasted, not about what Cairo's merchants knew of West Africa.",
-            "",
-            "The passage never says Mali's gold ran out; the loss was in Cairo's market, not in Mali's supply."
-          ]
-        },
-        {
-          "id": "Q2",
-          "type": "mcq",
-          "src": "S1",
-          "skill": "Best illustrates a trend",
-          "stem": "The effect on Cairo's gold market described in the passage best illustrates which of the following about trade networks in this period?",
-          "options": [
-            "Distant regions were economically linked, so events in one could affect prices in another.",
-            "West African gold was valued more highly in Egypt than in any other region of Africa or Asia.",
-            "Muslim pilgrims in Cairo carried goods for sale between Mecca and North Africa.",
-            "Rulers used gifts of gold to secure the loyalty of officials in other states."
-          ],
-          "ans": 0,
-          "exp": "The effect on Cairo's prices shows that distant regions were economically linked. The passage does not say gold was valued more in Egypt than elsewhere, describe pilgrims selling goods, or say the gifts were meant to buy loyalty.",
-          "why": [
-            "",
-            "The passage never compares Egypt's valuation of gold with other regions; it only shows the effect on Cairo's prices.",
-            "No pilgrims selling goods between Mecca and North Africa are described in the passage.",
-            "Musa's gifts are not described as buying officials' loyalty; this answer adds a motive the source does not give."
-          ]
-        },
-        {
-          "id": "Q3",
-          "type": "mcq",
-          "src": "S1",
-          "skill": "Reasoning with \"despite\"",
-          "stem": "Which of the following best explains how a ruler from beyond the great desert could reach Cairo, despite the distance described in the passage?",
-          "options": [
-            "Mongol authority over North Africa had made desert travel safe for pilgrims.",
-            "Sea routes along the Atlantic coast carried most pilgrims from West Africa to Egypt.",
-            "Cairo's rulers sent armies each year to escort pilgrims across the Sahara.",
-            "Camel caravans moving between oases already linked West Africa and North Africa."
-          ],
-          "ans": 3,
-          "exp": "Camel caravans moving between desert oases already linked West Africa with North Africa, and Musa's journey used those links. The Mongols did not rule the Sahara, Atlantic sea routes were not how pilgrims reached Egypt, and nothing describes Cairo sending escorts.",
-          "why": [
-            "The Mongols did not rule North Africa or the Sahara, so their authority cannot explain Musa's journey.",
-            "Pilgrims from West Africa reached Egypt over desert routes, not by sea along the Atlantic coast.",
-            "Nothing in the passage says Cairo sent armies to escort pilgrims; this is invented.",
-            ""
-          ]
-        },
-        {
-          "id": "Q4",
-          "type": "mcq",
-          "src": "S2",
-          "skill": "Evidence the author uses",
-          "stem": "Which of the following pieces of evidence does the author use most directly to support the claim that Mongol rule benefited merchants?",
-          "options": [
-            "Baghdad was sacked in 1258 and much of its population was killed.",
-            "Medical learning, numbers, and technology were carried between Asia and Europe by travelers.",
-            "Merchants dealt with a single authority instead of paying tolls to many rulers.",
-            "A relay system of messengers and stations linked the distant provinces."
-          ],
-          "ans": 2,
-          "exp": "The author says merchants who once paid tolls to a dozen rulers now dealt with one authority that respected trade; that is the evidence aimed directly at merchants. The sack of Baghdad supports the destruction claim, and the relay system and the movement of learning are about communication and ideas, not merchants' costs.",
-          "why": [
-            "The sack of Baghdad supports the claim that the Mongols were destructive, not that they benefited merchants.",
-            "This is evidence about the spread of ideas and technology, not about the cost or safety of trade for merchants.",
-            "",
-            "The relay system is evidence about communication between provinces, not about what merchants paid or risked."
-          ]
-        },
-        {
-          "id": "Q5",
-          "type": "mcq",
-          "src": "S2",
-          "skill": "Evidence the author uses",
-          "stem": "Which of the following does the author cite as evidence that the routes were safer under the Mongols than in previous centuries?",
-          "options": [
-            "Travelers carried medical learning, numbers, and technology between Asia and Europe.",
-            "Roads were repaired and bandits were punished wherever Mongol authority reached.",
-            "Merchants had previously paid tolls to as many as a dozen rival rulers.",
-            "Baghdad's fall in 1258 removed a rival power from the trade routes."
-          ],
-          "ans": 1,
-          "exp": "Repaired roads and punished bandits are the author's direct evidence of safety. The toll detail describes the earlier cost of trade, not safety; the movement of learning is a result, and the passage does not link Baghdad's fall to safer routes.",
-          "why": [
-            "The movement of learning and technology is a result of connection, not evidence that routes were safer.",
-            "",
-            "The tolls describe what trade cost before the Mongols, not whether travel was safe.",
-            "The passage does not link Baghdad's fall to safer routes; this is an unsupported connection."
-          ]
-        },
-        {
-          "id": "Q6",
-          "type": "mcq",
-          "src": "S2",
-          "skill": "Identifying an author's argument",
-          "stem": "Which of the following best describes the author's overall argument about the Mongol Empire?",
-          "options": [
-            "Mongol violence was exaggerated by later writers, and its effects on trade were minor.",
-            "Mongol rule benefited merchants only because the empire deliberately promoted cultural exchange across Eurasia.",
-            "The Mongols destroyed existing trade routes and then rebuilt them to serve their own armies.",
-            "Mongol conquest was destructive, yet it created conditions that encouraged exchange across Eurasia."
-          ],
-          "ans": 3,
-          "exp": "The author says the reputation for slaughter is deserved and that Mongol authority also made routes safer and encouraged exchange. The words \"exaggerated,\" \"only,\" and \"to serve their own armies\" claim more than the passage says.",
-          "why": [
-            "The author says the Mongols' reputation for slaughter is deserved, so violence was not exaggerated.",
-            "The word 'only' and the claim that the Mongols deliberately promoted cultural exchange go beyond the passage.",
-            "The passage does not say the Mongols destroyed the routes and rebuilt them for their armies.",
-            ""
-          ]
-        },
-        {
-          "id": "Q7",
-          "type": "mcq",
-          "src": "S3",
-          "skill": "Best used as evidence of",
-          "stem": "The conduct of the merchants described in the passage can best be used as evidence of",
-          "options": [
-            "the role of stable, well-governed ports in long-distance trade.",
-            "the growing use of credit instruments by Indian Ocean merchants.",
-            "the importance of Muslim merchants in Indian Ocean commerce.",
-            "the dominance of Indian merchants over East African trade."
-          ],
-          "ans": 0,
-          "exp": "Merchants who leave valuable cargo unwatched must trust that the port is secure, which shows how stable states supported trade. The passage says nothing about credit instruments, the role of Muslim merchants, or Indian dominance over East African trade.",
-          "why": [
-            "",
-            "Credit instruments are not mentioned anywhere in the passage.",
-            "The passage does not focus on the role of Muslim merchants; it is about merchants trusting the port.",
-            "The passage says nothing about Indian merchants dominating East African trade."
-          ]
-        },
-        {
-          "id": "Q8",
-          "type": "mcq",
-          "src": "S3",
-          "skill": "Evaluating what would challenge an inference",
-          "stem": "Which of the following, if true, would make the merchants' conduct described in the passage most difficult to explain?",
-          "options": [
-            "Merchants trading in Calicut came from many different regions of Asia and Africa.",
-            "Most goods reaching Calicut arrived by sea rather than by overland caravan.",
-            "Calicut's rulers had no means of keeping order in the city's markets.",
-            "The envoy who wrote the account was a Muslim from Central Asia."
-          ],
-          "ans": 2,
-          "exp": "The merchants' trust in unguarded cargo makes sense only if the port was secure, so rulers who could not keep order would contradict it. Where the merchants came from, how goods arrived, and the envoy's origin do not affect whether the port was safe.",
-          "why": [
-            "Merchants coming from many regions fits a busy port and does not contradict their trust in its security.",
-            "Whether goods arrive by sea or by caravan does not affect whether merchants can trust the port.",
-            "",
-            "The envoy's origin does not change how safe the port was."
-          ]
-        },
-        {
-          "id": "Q9",
-          "type": "mcq",
-          "src": "S3",
-          "skill": "Continuity",
-          "stem": "Merchants trading at Calicut in 1442 most clearly illustrate which of the following continuities?",
-          "options": [
-            "The dominance of overland caravans in moving luxury goods between Asia and the Middle East.",
-            "Indian Ocean commerce, which had thrived long before the Mongols or the Ming voyages.",
-            "The reliance of Indian Ocean traders on Chinese state fleets for protection.",
-            "The control of Indian Ocean ports by a single empire that unified the region."
-          ],
-          "ans": 1,
-          "exp": "Indian Ocean trade existed as early as 200 B.C.E. and continued and grew in this period. The source shows a busy port, not overland caravans, Chinese protection, or one unifying empire.",
-          "why": [
-            "The passage shows a sea port, not overland caravans moving luxury goods.",
-            "",
-            "The merchants are not shown relying on Chinese fleets for protection.",
-            "The source shows a busy port, not one empire controlling the whole Indian Ocean."
-          ]
-        },
-        {
-          "id": "Q10",
-          "type": "mcq",
-          "src": "S4",
-          "skill": "Motive for travel",
-          "stem": "The passage most clearly reflects which of the following motives for travel in this period?",
-          "options": [
-            "A merchant's wish to profit from trade in luxury goods.",
-            "A diplomat's duty to deliver a ruler's message abroad.",
-            "A refugee's wish to escape the turmoil of Mongol conquests.",
-            "A traveler's religious devotion to holy places."
-          ],
-          "ans": 3,
-          "exp": "The author says an overmastering impulse and a long-cherished desire drove him to visit illustrious sanctuaries, which shows religious devotion as a motive. He never mentions profit, a diplomatic duty, or fleeing turmoil.",
-          "why": [
-            "The author never mentions profit or trade as his reason for leaving.",
-            "The author is not delivering a ruler's message; he leaves for personal reasons.",
-            "He does not mention Mongol conquests or fleeing turmoil.",
-            ""
-          ]
-        },
-        {
-          "id": "Q11",
-          "type": "mcq",
-          "src": "S4",
-          "skill": "Sourcing and point of view",
-          "stem": "A historian using this passage as evidence of why people traveled in this period should most carefully consider that",
-          "options": [
-            "it reflects one Muslim scholar's religious motives, which may not represent merchants' motives.",
-            "it was dictated to a scribe years later, which makes every detail in it unreliable for historians studying the period.",
-            "it describes a solitary departure, so it cannot be connected to any trade network.",
-            "it was composed in Arabic, so it cannot reflect experiences beyond Muslim-ruled lands."
-          ],
-          "ans": 0,
-          "exp": "Ibn Battuta wrote as a devout Muslim scholar traveling to holy places, so his motives may differ from a merchant's. The other options overstate: later dictation does not make every detail unreliable, one traveler can still use trade networks, and language does not limit where an author traveled.",
-          "why": [
-            "",
-            "Later dictation can reduce accuracy, but it does not make every detail unreliable; 'every' is too extreme.",
-            "One traveler's departure can still use trade networks; the passage does not prove it was cut off from them.",
-            "The language of a text does not limit where its author traveled."
-          ]
-        },
-        {
-          "id": "Q12",
-          "type": "mcq",
-          "src": "S5",
-          "skill": "Identifying a claim",
+          "skill": "Claim in a source",
+          "topic": "Trans-Saharan",
           "stem": "Which of the following best describes a claim made in the first paragraph?",
           "options": [
-            "The sickness reached the Black Sea ports before spreading to the harbor quarter.",
-            "Physicians trained in Arab and Greek learning were unable to cure the sickness.",
-            "Merchants from the Black Sea ports deliberately spread the sickness through the city.",
-            "Most of the city's physicians died before the sickness reached the streets."
+            "Musa was robbed of most of his gold by the officials of Cairo during his stay",
+            "Musa's spending lowered the price of gold in Cairo for years",
+            "Musa's visit made Cairo's gold dealers rich for many years afterward",
+            "Musa came to Cairo to conquer it before going on to Mecca"
           ],
           "ans": 1,
-          "exp": "The paragraph says the physicians could not cure it. It says merchants brought the sickness, not that they spread it deliberately, and it does not say the physicians died first.",
+          "exp": "So much gold flooded the market that its price fell, and dealers had not recovered twelve years later.",
           "why": [
-            "The paragraph does not say the sickness reached the Black Sea ports before the harbor quarter.",
+            "The paragraph says he spent and gave gold away.",
             "",
-            "The merchants brought the sickness, but nothing says they spread it deliberately.",
-            "The paragraph does not say the physicians died before the sickness reached the streets."
-          ]
+            "The dealers had not recovered their losses.",
+            "He came as a pilgrim."
+          ],
+          "src": "A1"
         },
         {
-          "id": "Q13",
+          "id": "A-2",
           "type": "mcq",
-          "src": "S5",
-          "skill": "Identifying a claim",
-          "stem": "Which of the following is a claim made in the second paragraph?",
+          "skill": "Best used as evidence",
+          "topic": "Trans-Saharan",
+          "stem": "The second paragraph can best be used as evidence that Mali's wealth came mainly from",
           "options": [
-            "Lords forced the surviving laborers to stay on their land at the old wages.",
-            "Villages emptied because lords had moved their tenants into the larger cities.",
-            "Surviving workers demanded higher wages, and landowners had to beg for labor.",
-            "Lords blamed a decline in religious belief for turning the world upside down."
+            "selling Chinese porcelain and silk to merchants arriving by sea from India",
+            "conquering the cities of North Africa",
+            "salt mines in the heart of the kingdom",
+            "taxing and protecting the trans-Saharan gold trade"
+          ],
+          "ans": 3,
+          "exp": "Gold went north for salt; the king took a share and his soldiers kept the roads open.",
+          "why": [
+            "Mali is inland; its trade crossed the desert.",
+            "The paragraph describes trade, not conquest.",
+            "Salt came from the desert to the north.",
+            ""
+          ],
+          "src": "A1"
+        },
+        {
+          "id": "A-3",
+          "type": "mcq",
+          "skill": "Context / effect",
+          "topic": "Culture",
+          "stem": "Musa's plan in the third paragraph most directly contributed to which development?",
+          "options": [
+            "The conversion of all West Africans to Islam within a single generation",
+            "Timbuktu's growth as a center of Islamic learning",
+            "The end of the trans-Saharan trade",
+            "Mali's conquest by Songhai"
+          ],
+          "ans": 1,
+          "exp": "After his pilgrimage Mansa Musa built mosques and schools in Timbuktu.",
+          "why": [
+            "Most West Africans kept traditional beliefs.",
+            "",
+            "Trade continued.",
+            "That came later and for other reasons."
+          ],
+          "src": "A1"
+        },
+        {
+          "id": "A-4",
+          "type": "mcq",
+          "skill": "Historian's argument",
+          "topic": "Mongols",
+          "stem": "Which of the following best states the historian's main argument?",
+          "options": [
+            "The Mongols were peaceful traders whose reputation for violence is unfair",
+            "The Mongols destroyed trade by sacking cities across Asia",
+            "Mongol conquest was destructive, but it also linked Afro-Eurasia",
+            "The Mongols invented the trade routes they controlled"
           ],
           "ans": 2,
-          "exp": "The paragraph says landowners begged laborers to work and workers demanded much higher wages. It does not say lords forced workers to stay, moved tenants to cities, or blamed religion.",
+          "exp": "Destroyers and connectors: slaughter (paragraph 1) and connection (paragraphs 2–3).",
           "why": [
-            "The paragraph says workers demanded higher wages; it does not say lords forced them to stay at old wages.",
-            "Villages emptied because of the plague, not because lords moved tenants into cities.",
+            "Paragraph 1 says the memory of slaughter is deserved.",
+            "Paragraph 2 says trade routes became safer.",
             "",
-            "Lords are not said to have blamed a decline in religious belief."
-          ]
+            "The routes were older; the Mongols made them safer."
+          ],
+          "src": "A2"
+        },
+        {
+          "id": "A-5",
+          "type": "mcq",
+          "skill": "Evidence for an argument",
+          "topic": "Mongols",
+          "stem": "Which evidence does the historian use to support the claim that the Mongols \"respected trade\"?",
+          "options": [
+            "Merchants dealt with one authority instead of many tolls",
+            "Hulegu sacked Baghdad and killed the caliph in 1258",
+            "Cities that resisted were destroyed so others would surrender",
+            "Mongol armies used terror as a weapon of war"
+          ],
+          "ans": 0,
+          "exp": "One authority instead of a dozen rival rulers, plus repaired roads and punished bandits.",
+          "why": [
+            "",
+            "That supports the destroyer side.",
+            "That supports the destroyer side.",
+            "That supports the destroyer side."
+          ],
+          "src": "A2"
+        },
+        {
+          "id": "A-6",
+          "type": "mcq",
+          "skill": "Continuity and change",
+          "topic": "Mongols",
+          "stem": "Based on the passage, which best describes a CHANGE in Silk Road trade under the Mongols?",
+          "options": [
+            "Safer routes under one ruler carried more trade and ideas",
+            "Trade switched from overland routes to the sea because the roads were destroyed",
+            "Merchants stopped traveling because of Mongol violence",
+            "Religious differences closed the routes"
+          ],
+          "ans": 0,
+          "exp": "The routes were old; Mongol unity made them safer and busier (the Pax Mongolica).",
+          "why": [
+            "",
+            "The passage says the roads were repaired.",
+            "Travelers moved in these decades.",
+            "The khans tolerated many religions."
+          ],
+          "src": "A2"
+        },
+        {
+          "id": "A-7",
+          "type": "mcq",
+          "skill": "Sourcing",
+          "topic": "Indian Ocean",
+          "stem": "The envoy's description of merchants in the quoted sentence best suggests that Calicut",
+          "options": [
+            "was a dangerous port where merchants had to guard every cargo day and night",
+            "refused to let foreign merchants unload goods",
+            "had no market at all",
+            "was a safe, orderly market that trusted foreign traders"
+          ],
+          "ans": 3,
+          "exp": "Merchants didn't bother with security or accounts: trade was safe and orderly.",
+          "why": [
+            "He says they did not need to keep watch.",
+            "Merchants unloaded freely.",
+            "Goods went straight into the markets.",
+            ""
+          ],
+          "src": "A3"
+        },
+        {
+          "id": "A-8",
+          "type": "mcq",
+          "skill": "Best used as evidence",
+          "topic": "Indian Ocean",
+          "stem": "The third paragraph can best be used as evidence of which feature of Indian Ocean states?",
+          "options": [
+            "Rulers built large navies to conquer the ports of their rivals across the ocean",
+            "Rulers banned foreign merchants",
+            "Rulers grew rich from duties on trade",
+            "Rulers depended on farming taxes alone"
+          ],
+          "ans": 2,
+          "exp": "Customs duties gave states revenue from trade (compare Gujarat and Malacca).",
+          "why": [
+            "The ruler sends out no ships of his own.",
+            "He welcomes them.",
+            "",
+            "The passage stresses duties on goods."
+          ],
+          "src": "A3"
+        },
+        {
+          "id": "A-9",
+          "type": "mcq",
+          "skill": "Context",
+          "topic": "Indian Ocean",
+          "stem": "The settling and marriage of Arab merchants described in the second paragraph most directly contributed to",
+          "options": [
+            "the spread of Buddhism from India to China along the overland Silk Roads",
+            "the spread of Islam through family ties",
+            "the end of trade between Arabia and India",
+            "the Mongol conquest of southern India"
+          ],
+          "ans": 1,
+          "exp": "Merchant intermarriage spread Islam through families rather than conquest.",
+          "why": [
+            "Wrong religion and wrong network.",
+            "",
+            "Settlement deepened trade.",
+            "Not in the passage or your cards."
+          ],
+          "src": "A3"
+        },
+        {
+          "id": "A-10",
+          "type": "mcq",
+          "skill": "Comparison",
+          "topic": "Comparison",
+          "stem": "Based on the table, which is a DIFFERENCE between the Indian Ocean and the Silk Roads?",
+          "options": [
+            "The Indian Ocean carried goods too heavy for land",
+            "Only the Silk Roads used any new technology to make long-distance trade easier",
+            "Only the Indian Ocean carried luxury goods",
+            "The Silk Roads depended on monsoon winds"
+          ],
+          "ans": 0,
+          "exp": "Indian Ocean: sea, monsoon, bulk goods. Silk Roads: overland luxuries.",
+          "why": [
+            "",
+            "Both rows list technology.",
+            "The Silk Roads carried luxuries.",
+            "That's the Indian Ocean."
+          ],
+          "src": "A4"
+        },
+        {
+          "id": "A-11",
+          "type": "mcq",
+          "skill": "Comparison",
+          "topic": "Comparison",
+          "stem": "Which conclusion about all three networks is best supported by the table?",
+          "options": [
+            "All three networks traded exactly the same goods along their routes",
+            "All three relied on monsoon winds",
+            "Each network had transport suited to its terrain",
+            "All three used flying cash"
+          ],
+          "ans": 2,
+          "exp": "Caravans for land, ships for sea, camels and saddles for desert.",
+          "why": [
+            "The goods differ by row.",
+            "Only the sea route did.",
+            "",
+            "Only the Silk Roads row lists it."
+          ],
+          "src": "A4"
+        },
+        {
+          "id": "A-12",
+          "type": "mcq",
+          "skill": "Claim in a source",
+          "topic": "Environment",
+          "stem": "Which of the following best describes the historian's claim in the first paragraph?",
+          "options": [
+            "The plague spread along the same routes as trade",
+            "The plague began in Europe and spread east along the roads to Central Asia",
+            "The plague spread only by sea",
+            "The Mongols stopped the plague"
+          ],
+          "ans": 0,
+          "exp": "Fleas on rats rode ships and caravans; Mongol conquests helped carry it west.",
+          "why": [
+            "",
+            "It reached Europe from the east.",
+            "Caravans carried it too.",
+            "Their conquests helped carry it."
+          ],
+          "src": "A5"
+        },
+        {
+          "id": "A-13",
+          "type": "mcq",
+          "skill": "Effect",
+          "topic": "Environment",
+          "stem": "The second paragraph can best be used as evidence that the plague",
+          "options": [
+            "strengthened landowners by giving them more power over the surviving peasants",
+            "lowered wages across Europe",
+            "had no effect on the countryside",
+            "weakened feudalism by making labor scarce"
+          ],
+          "ans": 3,
+          "exp": "Labor shortages raised wages and weakened feudal obligations.",
+          "why": [
+            "Landowners now competed for workers.",
+            "Wages rose.",
+            "It transformed it.",
+            ""
+          ],
+          "src": "A5"
         }
       ]
     },
@@ -326,321 +376,359 @@
       "name": "MCQ Set B",
       "mode": "practice",
       "tips": [
-        "Read the question stem before the source so you know what you are looking for.",
-        "For \"best used as evidence of\" or \"best illustrates\" questions, first name the idea the source shows (cause, effect, continuity, change, connection between regions), then pick the option that matches that idea.",
-        "Eliminate options that are true in history but not shown by the source, or that belong to the wrong time or region.",
-        "Watch for extreme words (\"only,\" \"all,\" \"first,\" \"created,\" \"ended,\" \"every\"): they are usually wrong.",
-        "For \"claim\" or \"evidence the author uses\" questions, the answer must be stated or directly supported in the text. Do not use outside knowledge to pick it.",
-        "For point-of-view questions, ask who wrote it, when, for whom, and why."
+        "Read the attribution line first: who wrote it, when, and why. A Ming official, a Muslim scholar and a modern historian each have a different purpose.",
+        "Find the main idea of each paragraph before you look at the choices. Many questions ask about one paragraph only.",
+        "For \"best used as evidence of\" or \"best illustrates\" questions, first name the bigger development the source shows (more trade, Mongol connections, spread of religion, crops and disease), then pick the choice that matches it.",
+        "The wrong choices are usually true-but-not-in-the-source, from the wrong network or region, or too extreme. Cross them out with the X button.",
+        "\"Practice passage\" sources were written for this kit from your class materials. Only words inside quotation marks that are labeled as real are real quotations, so don't quote the rest on the test."
       ],
       "sources": {
-        "S6": {
-          "title": "Ibn Battuta in Mali, c. 1352",
-          "attr": "Ibn Battuta, a Muslim scholar from Morocco, describing his travels along the Niger River and across the Sahara.",
-          "label": "",
-          "text": "From Timbuktu I sailed down the Nile [Niger] on a small boat, hollowed out of a single piece of wood...I went on . . . to Gawgaw [Gao], which is a large city on the Nile [Niger]... The buying and selling of its inhabitants is done with cowry-shells, and the same is the case at Malli [the city of Mali]. I stayed there about a month, and then set out in the direction of Tagadda by land with a large caravan of merchants from Ghadamas."
-        },
-        "S7": {
-          "title": "Old Tools, Bigger Scale",
-          "attr": "Argument by a modern historian.",
-          "label": "Practice source (written for practice; not a verbatim quotation).",
-          "text": "Historians sometimes credit the Mongols with inventing the commercial tools of the Silk Roads, but the tools were older. Caravanserai, roadside inns where travelers could rest and trade animals, had already been built in Persia centuries earlier. The Chinese had long used money, and their government had developed flying cash, a form of credit that let merchants deposit paper money in one city and collect it in another. What changed after 1200 was scale: under a single Mongol authority, these tools served many more merchants over far greater distances, and banking houses in European cities adopted similar practices in the 1300s."
-        },
-        "S8": {
-          "title": "Towns of the Zanj coast",
-          "attr": "Adapted from a medieval geographer's description of the East African coast.",
-          "label": "Practice source (written for practice; not a verbatim quotation).",
-          "text": "The towns of the Zanj coast are built of coral stone and are governed by their own rulers. Their merchants buy ivory, gold, and enslaved people from the interior and sell them to ships that arrive with the monsoon from Arabia, Persia, and India. Porcelain from China is common in their houses. The people speak a language of the coast that contains many Arabic words, and most of the leading men are Muslims."
-        },
-        "S9": {
-          "title": "The plague in Florence",
-          "attr": "Giovanni Boccaccio, an Italian author who lived through the plague in Florence, writing around 1350.",
-          "label": "",
-          "text": "Dead bodies filled every corner."
-        },
-        "S10": {
-          "title": "Champa rice in China",
-          "attr": "Adapted summary of a historian's account.",
-          "label": "Practice source (written for practice; not a verbatim quotation).",
+        "B1": {
+          "title": "A scholar on the Niger, c. 1352",
+          "attr": "Practice passage built around the words of Ibn Battuta, a Muslim scholar from Morocco. Only the words in quotation marks are his; they are quoted in your textbook.",
+          "label": "Practice passage written from your class materials; the quoted words are a real quotation from your textbook.",
           "paras": [
-            "The Chinese court received Champa rice from the rulers of Champa as tribute. The rice ripened quickly and resisted both drought and flood, and in good years a farmer could harvest two crops from the same field.",
-            "As rice farming spread across the southern lowlands and up terraced hillsides, the population grew and many families moved southward. Cities in the south expanded, and merchants found new buyers for their goods."
+            "Ibn Battuta began traveling at 21 and spent about thirty years visiting mostly Muslim lands, from Mali to China. Late in his travels he crossed the Sahara to Mali, then the richest kingdom in West Africa. He wrote as a Muslim scholar, and he paid close attention to how well the people he met followed the faith.",
+            "Of his trip along the river he wrote: \"From Timbuktu I sailed down the Nile [Niger] on a small boat, hollowed out of a single piece of wood... I went on . . . to Gawgaw [Gao], which is a large city on the Nile [Niger]... The buying and selling of its inhabitants is done with cowry-shells, and the same is the case at Malli [the city of Mali].\"",
+            "From Gao he joined \"a large caravan of merchants from Ghadamas\" heading north across the desert. Such caravans, with guides, provisions and thousands of camels, moved from oasis to oasis carrying the gold of West Africa north and returning with salt."
+          ]
+        },
+        "B2": {
+          "title": "Old tools, bigger scale",
+          "attr": "Practice passage written in the style of a modern economic historian.",
+          "label": "Practice passage written from your class materials (textbook, review sheet, slides); not a real quotation.",
+          "paras": [
+            "Historians sometimes credit the Mongols with inventing the commercial tools of the Silk Roads, but the tools were older. Caravanserai, roadside inns where travelers could rest, store goods and stable their animals, had stood along the routes for centuries. China had long had a money economy, and its government had developed paper money and flying cash, a form of credit that let a merchant deposit money in one city and collect the same amount in another, because copper coins were too heavy to carry for large trades.",
+            "What changed after 1200 was scale. Under a single Mongol authority, these tools served many more merchants over far greater distances. In Europe, merchants used bills of exchange, promises to pay a set amount on a set date, and banking houses that handled such bills appeared in the 1300s.",
+            "The lesson is one of continuity as much as change: the age of the Mongols improved and spread the tools of trade more than it invented them."
+          ]
+        },
+        "B3": {
+          "title": "Towns of the coast",
+          "attr": "Practice passage in the voice of a medieval geographer describing the East African coast.",
+          "label": "Practice passage written from your class materials (textbook, review sheet, slides); not a real quotation.",
+          "paras": [
+            "The towns of this coast, among them Kilwa, Mombasa and Mogadishu, are governed by their own rulers and look out on the sea. Their merchants buy gold and ivory from the peoples of the interior and sell them to the ships that arrive with the monsoon from Arabia, Persia and India. In return they receive cotton cloth from India, and porcelain from China is common in the houses of the rich.",
+            "The people speak a language of the coast that mixes their own Bantu speech with many Arabic words; the name the Arabs give them means \"people of the coast.\" Most of the leading men are Muslims, for the Arab and Persian merchants who settled here married the daughters of local families, and their children grew up in the faith.",
+            "Enslaved people from the interior are also sold here and carried to North Africa, to the lands of the Arabs and to India, where they labor in the cities, serve in households or fight as soldiers."
+          ]
+        },
+        "B4": {
+          "title": "Goods carried across the Sahara",
+          "attr": "Built from the table in your textbook (AMSCO) and your review cards.",
+          "label": "Table adapted from your class materials.",
+          "table": [
+            [
+              "Direction of travel",
+              "Goods"
+            ],
+            [
+              "South to north",
+              "Gold, ivory, enslaved people, kola nuts"
+            ],
+            [
+              "North to south",
+              "Salt, horses, books, copper and brass"
+            ]
+          ]
+        },
+        "B5": {
+          "title": "Crops on the move",
+          "attr": "Practice passage written in the style of a modern environmental historian.",
+          "label": "Practice passage written from your class materials (textbook, review sheet, slides); not a real quotation.",
+          "paras": [
+            "The trade networks of 1200 to 1450 carried seeds as well as silk. The Chinese court received a quick-ripening rice from the rulers of Champa, in what is now central Vietnam, as tribute. Because it resisted both drought and flood, a farmer could harvest two crops a year from the same field, and as it spread across southern China the population grew.",
+            "Across the Indian Ocean, Indonesian seafarers brought bananas to Sub-Saharan Africa. The nutritious fruit let Bantu-speaking farmers settle in places where yams did not grow, and their numbers rose. Citrus fruits moved through Muslim lands and markets such as Samarkand into the Mediterranean.",
+            "Yet more people meant more pressure on the land. Overgrazing, deforestation and soil erosion cut farm output in several regions; near Great Zimbabwe, overgrazing helped force people to abandon the city in the late 1400s."
           ]
         }
       },
       "questions": [
         {
-          "id": "B1",
+          "id": "B-1",
           "type": "mcq",
-          "src": "S6",
-          "skill": "Best used as evidence of",
-          "stem": "The use of cowrie shells described in the passage is best used as evidence of",
+          "skill": "Sourcing",
+          "topic": "Travelers",
+          "stem": "The first paragraph suggests that a historian using Ibn Battuta's account should keep in mind that he",
           "options": [
-            "the spread of Chinese paper money into the Niger valley.",
-            "the control of Niger valley markets by North African merchants.",
-            "regional differences in the money used by trading networks.",
-            "the replacement of coins by credit across the Islamic world."
-          ],
-          "ans": 2,
-          "exp": "Different networks used different forms of money: West African states used cowrie shells, while China used flying cash and paper money and other regions used metal coins. The passage says nothing about paper money in the Niger valley, control by North African merchants, or credit replacing coins.",
-          "why": [
-            "Nothing in the passage mentions Chinese paper money in the Niger valley.",
-            "The cowrie shells show local currency, not control of markets by North African merchants.",
-            "",
-            "The passage does not say credit replaced coins; cowrie shells are a physical currency."
-          ]
-        },
-        {
-          "id": "B2",
-          "type": "mcq",
-          "src": "S6",
-          "skill": "Connecting a source to a feature of a network",
-          "stem": "Ibn Battuta's departure from Mali with a large caravan of merchants most directly reflects which feature of trans-Saharan trade?",
-          "options": [
-            "Its reliance on organized caravans to cross the desert in groups.",
-            "Its dependence on seasonal winds to time long voyages across the Indian Ocean.",
-            "Its protection by a single empire that stretched across Persia and China.",
-            "Its use of roadside inns that sheltered travelers along the Silk Roads."
-          ],
-          "ans": 0,
-          "exp": "Merchants crossed the Sahara in organized caravans for safety and supplies. Monsoon timing belongs to the Indian Ocean, a single empire from Persia to China describes the Mongols, and roadside inns were a Silk Road feature.",
-          "why": [
-            "",
-            "Seasonal winds belong to Indian Ocean sailing, not to desert caravans.",
-            "A single empire stretching from Persia to China describes the Mongols, not trans-Saharan trade.",
-            "Roadside inns (caravanserai) were a Silk Road feature, not a trans-Saharan one."
-          ]
-        },
-        {
-          "id": "B3",
-          "type": "mcq",
-          "src": "S6",
-          "skill": "Drawing a conclusion from a source",
-          "stem": "That Ibn Battuta could join a caravan of merchants from Ghadames after visiting Mali best supports which conclusion about West Africa in the 14th century?",
-          "options": [
-            "West African rulers relied on Mongol protection for their trade routes.",
-            "Muslim merchants had replaced local merchants in the Niger valley cities.",
-            "West African states had abandoned local currencies for Muslim coins.",
-            "West African cities were linked to trade networks across the Sahara."
+            "was a European merchant interested mainly in prices and the goods for sale",
+            "never actually visited West Africa",
+            "wrote as a Christian pilgrim",
+            "judged what he saw from a Muslim scholar's point of view"
           ],
           "ans": 3,
-          "exp": "Joining a caravan from North Africa shows that Mali's cities were tied into trans-Saharan trade. The Mongols did not rule West Africa, nothing shows local merchants were replaced, and the same passage says cowrie shells, a local currency, were still in use.",
+          "exp": "He wrote as a Muslim scholar who paid attention to how people followed the faith.",
           "why": [
-            "The Mongols did not rule West Africa or protect its routes.",
-            "Joining a caravan does not show local merchants were replaced.",
-            "The same passage says cowrie shells, a local currency, were still used.",
+            "That describes Marco Polo.",
+            "He traveled there.",
+            "That describes Margery Kempe.",
             ""
-          ]
-        },
-        {
-          "id": "B4",
-          "type": "mcq",
-          "src": "S7",
-          "skill": "Evidence the author uses",
-          "stem": "Which of the following does the author use as evidence that the commercial tools of the Silk Roads were older than the Mongol Empire?",
-          "options": [
-            "Under one authority the tools served far more merchants over greater distances.",
-            "Caravanserai had already been built in Persia centuries before the Mongols.",
-            "European banking houses adopted similar practices in the 1300s.",
-            "Mongol rulers preferred paper money to coins for all government payments."
           ],
-          "ans": 1,
-          "exp": "The author points to caravanserai built in Persia centuries earlier as proof the tools were older. The increase in scale and the European banking houses describe what happened after 1200, and the passage says nothing about Mongol preferences for paper money.",
-          "why": [
-            "Greater scale after the Mongols is evidence of change, not that the tools were older.",
-            "",
-            "European banking houses adopting practices in the 1300s comes after 1200 and does not show the tools were older.",
-            "The passage says nothing about Mongol rulers preferring paper money."
-          ]
+          "src": "B1"
         },
         {
-          "id": "B5",
+          "id": "B-2",
           "type": "mcq",
-          "src": "S7",
-          "skill": "Weakening an argument",
-          "stem": "Which of the following, if true, would most weaken the author's claim that the commercial tools were older than the Mongol Empire?",
+          "skill": "Best used as evidence",
+          "topic": "Trans-Saharan",
+          "stem": "The quotation in the second paragraph can best be used as evidence that West African cities",
           "options": [
-            "Banking houses in European cities copied practices that were first used in China.",
-            "Records show that merchants used these tools far more often under Mongol rule than before.",
-            "Chinese sources show that paper money was already in use before the Mongol conquests.",
-            "Excavations show the earliest caravanserai in Persia date from after the Mongols."
-          ],
-          "ans": 3,
-          "exp": "The argument depends on the tools existing before the Mongols. Evidence that the earliest caravanserai were built after the Mongol conquests would undercut it, while European copying, greater use under Mongol rule, and earlier Chinese paper money are all consistent with the author's claims.",
-          "why": [
-            "European copying of earlier Chinese practices is consistent with the claim and does not weaken it.",
-            "More use under Mongol rule is consistent with tools that were older but used more widely.",
-            "Paper money already in use before the Mongols would support, not weaken, the claim.",
-            ""
-          ]
-        },
-        {
-          "id": "B6",
-          "type": "mcq",
-          "src": "S7",
-          "skill": "Historical reasoning (continuity and change)",
-          "stem": "The author's argument is best described as an example of which of the following types of historical reasoning?",
-          "options": [
-            "Continuity and change, since the tools were older but their scale grew.",
-            "Comparison, since the author sets two networks of exchange side by side.",
-            "Causation, since the author traces one single event to one outcome.",
-            "Periodization, since the author splits history at the Mongol conquests."
-          ],
-          "ans": 0,
-          "exp": "The author argues that the tools were older (continuity) but that their scale grew after 1200 (change). The passage does not compare two networks, trace one event to one outcome, or divide history at the Mongol conquests.",
-          "why": [
-            "",
-            "The author is not setting two networks side by side; the argument is about one set of tools over time.",
-            "The passage does not trace one event to one outcome.",
-            "The author does not divide history at the Mongol conquests; the tools exist on both sides of it."
-          ]
-        },
-        {
-          "id": "B7",
-          "type": "mcq",
-          "src": "S8",
-          "skill": "Best illustrates a trend",
-          "stem": "The language described in the passage best illustrates which of the following?",
-          "options": [
-            "The conquest of the entire East African coast by large organized Arab armies.",
-            "The spread of Chinese writing along Indian Ocean trade routes.",
-            "Cultural blending produced by contact between merchants and coastal peoples.",
-            "The decline of Bantu-speaking societies once Islam had arrived."
+            "used Chinese flying cash brought across the desert by merchants from the north",
+            "had no trade at all",
+            "used cowrie shells as currency",
+            "traded only by sea"
           ],
           "ans": 2,
-          "exp": "The Swahili language blends Bantu and Arabic, reflecting Arab and Persian merchants mixing with local peoples in diasporic communities. The passage mentions no conquest, Chinese writing, or decline of Bantu-speaking societies.",
+          "exp": "\"The buying and selling of its inhabitants is done with cowry-shells.\"",
           "why": [
-            "No conquest by Arab armies is mentioned; the language reflects mixing through trade.",
-            "The passage does not mention Chinese writing; the language blends Bantu and Arabic.",
+            "He describes cowrie shells.",
+            "He describes buying and selling.",
             "",
-            "Swahili shows Bantu languages blending with Arabic, not Bantu societies declining."
-          ]
-        },
-        {
-          "id": "B8",
-          "type": "mcq",
-          "src": "S8",
-          "skill": "Best illustrates an environmental factor",
-          "stem": "The phrase \"with the monsoon\" in the passage best illustrates the importance of which of the following to Indian Ocean trade?",
-          "options": [
-            "Control of narrow straits by powerful and well-funded state navies.",
-            "Seasonal winds that decided when voyages could be made.",
-            "Protection of coastal ports by walls and garrisons.",
-            "Large state fleets that carried tribute to rulers."
+            "He traveled by river and caravan."
           ],
-          "ans": 1,
-          "exp": "Ships that arrive with the monsoon show that seasonal winds determined when Indian Ocean voyages could be made. The passage does not mention navies, fortifications, or state fleets.",
-          "why": [
-            "The phrase is about winds, not about navies controlling straits.",
-            "",
-            "Walls and garrisons are not mentioned; the monsoon is a natural feature.",
-            "State fleets carrying tribute are not what 'with the monsoon' describes."
-          ]
+          "src": "B1"
         },
         {
-          "id": "B9",
+          "id": "B-3",
           "type": "mcq",
-          "src": "S8",
-          "skill": "Best used as evidence of",
-          "stem": "The passage is best used as evidence for which of the following arguments about Indian Ocean trade?",
+          "skill": "Context",
+          "topic": "Trans-Saharan",
+          "stem": "The caravans described in the third paragraph were made possible most directly by",
           "options": [
-            "Mongol rule protected Indian Ocean shipping lanes from Persia to East Africa.",
-            "Chinese fleets dominated the ports of the East African coast.",
-            "Islam spread along the East African coast through military conquest.",
-            "Trade linked East African towns to producers and buyers across the ocean."
-          ],
-          "ans": 3,
-          "exp": "Ivory and gold sold to ships from Arabia, Persia, and India, and Chinese porcelain in local houses, show East Africa tied into a wide network of exchange. The passage does not mention Mongol protection, Chinese naval dominance, or conquest as the way Islam arrived.",
-          "why": [
-            "The Mongols did not rule the Indian Ocean; the passage does not mention Mongol protection.",
-            "Chinese porcelain in houses shows trade, not that Chinese fleets dominated the ports.",
-            "The passage does not say Islam spread by conquest; it describes trade.",
-            ""
-          ]
-        },
-        {
-          "id": "B10",
-          "type": "mcq",
-          "src": "S9",
-          "skill": "Usefulness of a source",
-          "stem": "For which of the following historical questions would this quotation be most useful?",
-          "options": [
-            "How people experienced the plague in a European city.",
-            "Why the plague began in Central Asia before reaching Europe.",
-            "How many people died from the plague across Eurasia.",
-            "Which trade routes carried the plague from Asia to Europe."
+            "camels and saddles suited to desert travel",
+            "the monsoon winds, which carried the caravans quickly across the open sand",
+            "the Mongol yam relay system",
+            "Chinese junks"
           ],
           "ans": 0,
-          "exp": "A single vivid line from a witness shows how people experienced the plague. It gives no information about where the disease began, how many people died, or which routes carried it.",
+          "exp": "Camels, which go long without water, and load-bearing saddles made the crossing practical.",
           "why": [
             "",
-            "A single quotation about the plague in Florence cannot explain where the plague began.",
-            "One witness line cannot give the death toll across Eurasia.",
-            "The quotation does not mention trade routes."
-          ]
+            "Monsoons drove ships, not caravans.",
+            "That was in Asia.",
+            "Those were ships."
+          ],
+          "src": "B1"
         },
         {
-          "id": "B11",
+          "id": "B-4",
           "type": "mcq",
-          "src": "S9",
-          "skill": "Sourcing and point of view",
-          "stem": "A historian using this quotation to study the plague's effects on European society should most carefully consider that",
+          "skill": "Historian's argument",
+          "topic": "Commercial",
+          "stem": "Which best states the historian's argument?",
           "options": [
-            "it was written after the plague ended, so it cannot describe conditions accurately for historians.",
-            "it describes Florence alone, so it cannot say anything about the plague elsewhere.",
-            "it reflects one educated Italian's view of one city, not rural or non-European areas.",
-            "it was written in Italian, so it cannot be compared with Asian accounts."
+            "The Mongols invented caravanserai, credit and paper money after they united Asia",
+            "Trade declined after 1200",
+            "The tools of trade were improved and spread, not invented",
+            "Europe invented all commercial tools"
           ],
           "ans": 2,
-          "exp": "Boccaccio was an educated Italian describing Florence, so his account may not represent rural villages or other regions. The other options overstate: being written after the plague or about one city does not make an account useless, and language does not prevent comparison.",
+          "exp": "\"Improved and spread the tools of trade more than it invented them.\"",
           "why": [
-            "Being written after the plague does not make an account inaccurate; the answer is too extreme.",
-            "An account of one city can still say something about the plague, so 'cannot say anything' is too extreme.",
+            "The historian says the tools were older.",
+            "Trade grew in scale.",
             "",
-            "Language does not prevent comparison with Asian accounts; the answer overstates."
-          ]
-        },
-        {
-          "id": "B12",
-          "type": "mcq",
-          "src": "S10",
-          "skill": "Identifying a claim",
-          "stem": "Which of the following best describes a claim made in the first paragraph?",
-          "options": [
-            "Chinese farmers developed Champa rice to resist drought and flood.",
-            "Farmers could sometimes harvest two crops from the same field.",
-            "The rulers of Champa bought the rice from Chinese merchants.",
-            "Champa rice replaced all other rice grown in southern China."
+            "The passage credits China and Persia too."
           ],
-          "ans": 1,
-          "exp": "The paragraph says a farmer could sometimes harvest two crops from the same field. It says the rice reached China as tribute from Champa, not that Chinese farmers developed it or that Champa bought it, and it does not say Champa rice replaced all other rice.",
-          "why": [
-            "The paragraph says the rice came to China as tribute from Champa; it does not say Chinese farmers developed it.",
-            "",
-            "The rice reached China as tribute from Champa, not by Champa buying it from Chinese merchants.",
-            "The paragraph does not say Champa rice replaced all other rice; 'all' is too strong."
-          ]
+          "src": "B2"
         },
         {
-          "id": "B13",
+          "id": "B-5",
           "type": "mcq",
-          "src": "S10",
-          "skill": "Identifying a claim",
-          "stem": "Which of the following is a claim made in the second paragraph?",
+          "skill": "Cause",
+          "topic": "Commercial",
+          "stem": "According to the first paragraph, China developed flying cash because",
           "options": [
-            "Rice farming spread, the population grew, and many families moved south.",
-            "Merchants forced farmers to plant rice so that cities could be fed.",
-            "Terraced hillsides were abandoned once the lowlands had filled with farmers.",
-            "Population growth was fastest in northern cities where wheat was grown."
+            "the Mongols banned the use of coins and forced merchants to use paper instead",
+            "paper was cheaper than silk",
+            "banking houses required it",
+            "copper coins were too heavy for large trades"
+          ],
+          "ans": 3,
+          "exp": "Deposit in one city, collect in another, because heavy coins were hard to carry.",
+          "why": [
+            "The passage gives coin weight as the reason.",
+            "Not the reason given.",
+            "Banking houses were European.",
+            ""
+          ],
+          "src": "B2"
+        },
+        {
+          "id": "B-6",
+          "type": "mcq",
+          "skill": "Comparison",
+          "topic": "Commercial",
+          "stem": "The European practice described in the second paragraph was most similar in purpose to",
+          "options": [
+            "the caravanserai, where merchants could rest and stable animals on the roads",
+            "the camel saddle",
+            "China's flying cash",
+            "the lateen sail"
+          ],
+          "ans": 2,
+          "exp": "Bills of exchange and flying cash both moved money without carrying coins.",
+          "why": [
+            "Those gave shelter, not credit.",
+            "That raised loads.",
+            "",
+            "That caught wind."
+          ],
+          "src": "B2"
+        },
+        {
+          "id": "B-7",
+          "type": "mcq",
+          "skill": "Claim in a source",
+          "topic": "Indian Ocean",
+          "stem": "Which of the following best describes the main idea of the first paragraph?",
+          "options": [
+            "Coastal towns traded African goods for Asian goods",
+            "Coastal towns made porcelain and cotton cloth to sell to Chinese merchants",
+            "Coastal towns were ruled by China",
+            "Coastal towns traded only with each other"
           ],
           "ans": 0,
-          "exp": "The paragraph links the spread of rice farming with population growth, southward movement, expanding cities, and new buyers for merchants. The other options invent merchant coercion, abandoned terraces, or northern wheat growth.",
+          "exp": "Gold and ivory went out; Indian cloth and Chinese porcelain came in.",
           "why": [
             "",
-            "The paragraph does not say merchants forced farmers to plant rice.",
-            "No abandonment of terraced hillsides is mentioned.",
-            "Northern wheat-growing cities are not part of the paragraph's claim."
-          ]
+            "Porcelain came from China and cloth from India.",
+            "They had their own rulers.",
+            "They traded across the ocean."
+          ],
+          "src": "B3"
+        },
+        {
+          "id": "B-8",
+          "type": "mcq",
+          "skill": "Best used as evidence",
+          "topic": "Culture",
+          "stem": "The second paragraph can best be used as evidence of",
+          "options": [
+            "the forced conversion of the coast by Arab armies after a long period of war",
+            "the isolation of the coast from Arabia",
+            "the spread of Buddhism in Africa",
+            "cultural blending caused by trade"
+          ],
+          "ans": 3,
+          "exp": "A blended Bantu-Arabic language and Islam spreading through marriage.",
+          "why": [
+            "Islam spread through marriage, not conquest.",
+            "Arab merchants settled there.",
+            "Not in the passage.",
+            ""
+          ],
+          "src": "B3"
+        },
+        {
+          "id": "B-9",
+          "type": "mcq",
+          "skill": "Comparison",
+          "topic": "Comparison",
+          "stem": "The slave trade described in the third paragraph differed from the later Atlantic slave trade because enslaved people were",
+          "options": [
+            "often used in cities, households and armies",
+            "sent mainly to work on large sugar plantations in the Americas for European owners",
+            "never sold to other regions",
+            "all from Asia"
+          ],
+          "ans": 0,
+          "exp": "They labored in cities, served in households or fought as soldiers.",
+          "why": [
+            "",
+            "That's the later Atlantic trade.",
+            "They were carried abroad.",
+            "They came from the African interior."
+          ],
+          "src": "B3"
+        },
+        {
+          "id": "B-10",
+          "type": "mcq",
+          "skill": "Data",
+          "topic": "Trans-Saharan",
+          "stem": "Which conclusion is best supported by the table?",
+          "options": [
+            "West Africa produced all of its own salt, so salt was sent north to buyers there",
+            "Each region traded goods the other lacked",
+            "Horses moved south to north",
+            "Gold moved north to south"
+          ],
+          "ans": 1,
+          "exp": "Gold from the south, salt from the north: each side supplied what the other lacked.",
+          "why": [
+            "Salt moved south.",
+            "",
+            "Horses moved north to south.",
+            "Gold moved south to north."
+          ],
+          "src": "B4"
+        },
+        {
+          "id": "B-11",
+          "type": "mcq",
+          "skill": "Context",
+          "topic": "Trans-Saharan",
+          "stem": "The flow of gold shown in the table most directly helped cause",
+          "options": [
+            "the decline of West African kingdoms, which lost all of their gold to the north",
+            "the wealth of empires such as Mali",
+            "the spread of Buddhism in North Africa",
+            "the Mongol conquest of the Sahara"
+          ],
+          "ans": 1,
+          "exp": "Mali taxed and protected the gold trade and grew richer than Ghana.",
+          "why": [
+            "Mali grew rich by taxing the gold trade.",
+            "",
+            "Not on your cards.",
+            "Did not happen."
+          ],
+          "src": "B4"
+        },
+        {
+          "id": "B-12",
+          "type": "mcq",
+          "skill": "Claim in a source",
+          "topic": "Environment",
+          "stem": "The first two paragraphs support which claim?",
+          "options": [
+            "New crops reduced population because they replaced the older and healthier foods",
+            "New crops carried by trade led to population growth",
+            "Crops moved only by conquest",
+            "Crops never left their homelands"
+          ],
+          "ans": 1,
+          "exp": "Champa rice and bananas fed growing populations.",
+          "why": [
+            "Population rose.",
+            "",
+            "Tribute and seafarers moved them.",
+            "They spread widely."
+          ],
+          "src": "B5"
+        },
+        {
+          "id": "B-13",
+          "type": "mcq",
+          "skill": "Continuity and change",
+          "topic": "Environment",
+          "stem": "The final paragraph shows which consequence of the developments described earlier?",
+          "options": [
+            "Larger populations strained the land",
+            "Larger populations led to more forests, since farmers planted trees for fruit",
+            "Farm output rose without limit",
+            "Cities grew everywhere"
+          ],
+          "ans": 0,
+          "exp": "Overgrazing, deforestation and soil erosion followed population growth.",
+          "why": [
+            "",
+            "Deforestation, not more forests.",
+            "Output fell in places.",
+            "Great Zimbabwe was abandoned."
+          ],
+          "src": "B5"
         }
       ]
     },
@@ -1476,324 +1564,371 @@
         "When you finish, do the \"Mock Test: SAQs\" tab (about 13 minutes per SAQ), then use Retest Missed Questions on each tab."
       ],
       "tips": [
-        "Read the question stem before the source so you know what you are looking for.",
-        "For \"best used as evidence of\" or \"best illustrates\" questions, first name the idea the source shows (cause, effect, continuity, change, connection between regions), then pick the option that matches that idea.",
-        "Eliminate options that are true in history but not shown by the source, or that belong to the wrong time or region.",
-        "Watch for extreme words (\"only,\" \"all,\" \"first,\" \"created,\" \"ended,\" \"every\"): they are usually wrong.",
-        "For \"claim\" or \"evidence the author uses\" questions, the answer must be stated or directly supported in the text. Do not use outside knowledge to pick it.",
-        "For point-of-view questions, ask who wrote it, when, for whom, and why."
+        "Read the attribution line first: who wrote it, when, and why. A Ming official, a Muslim scholar and a modern historian each have a different purpose.",
+        "Find the main idea of each paragraph before you look at the choices. Many questions ask about one paragraph only.",
+        "For \"best used as evidence of\" or \"best illustrates\" questions, first name the bigger development the source shows (more trade, Mongol connections, spread of religion, crops and disease), then pick the choice that matches it.",
+        "The wrong choices are usually true-but-not-in-the-source, from the wrong network or region, or too extreme. Cross them out with the X button.",
+        "\"Practice passage\" sources were written for this kit from your class materials. Only words inside quotation marks that are labeled as real are real quotations, so don't quote the rest on the test."
       ],
       "sources": {
-        "S11": {
-          "title": "An official argues against the treasure voyages",
-          "attr": "Adapted from the arguments of Ming officials who opposed the voyages.",
-          "label": "Practice source (written for practice; not a verbatim quotation).",
+        "M1": {
+          "title": "Against the treasure fleets",
+          "attr": "Practice passage in the voice of a Confucian official at the Ming court, written after the death of the Yongle emperor.",
+          "label": "Practice passage written from your class materials (textbook, review sheet, slides); not a real quotation.",
           "paras": [
-            "The treasure fleets have sailed seven times and have cost the treasury sums that could have fed provinces. They return with giraffes and rare spices, curiosities that add nothing to the strength of the empire.",
-            "The foundation of the empire is the farmer and the family. Sailors who spend years among foreign peoples learn foreign customs and forget their duties to their ancestors. The emperor's successor would do well to end these voyages and keep the people at home."
+            "The treasure fleets of the admiral Zheng He have sailed seven times, as far as the coasts of Arabia and Africa. Hundreds of ships went out at a time, and each voyage cost the treasury sums that could have fed whole provinces. The fleets were sent to show the might of the Ming and to bring back tribute, and they returned with rare animals and spices.",
+            "But these are curiosities that add nothing to the strength of the empire. The foundation of the empire is the farmer and the family, as the sages taught. Sailors who spend years among foreign peoples learn foreign customs and forget their duties to their ancestors and their ruler.",
+            "The new emperor would do well to end these voyages, keep the people at home and forbid subjects to sail abroad, so that the empire may rest on its own fields."
           ]
         },
-        "S12": {
-          "title": "Samarkand",
-          "attr": "Adapted from a textbook description of Samarkand.",
-          "label": "Practice source (adapted for practice; not a verbatim quotation).",
-          "text": "Samarkand, in the valley of the Zeravshan River, was a stopping point on the Silk Roads between China and the Mediterranean. Archaeologists have found evidence of Christianity, Buddhism, Zoroastrianism, and Islam among its former residents. Between 1417 and 1422, the city's rulers built a large madrasa, a school for Islamic learning, which still stands. The city was also known for its artisans, who produced goods sold in its markets."
-        },
-        "S13": {
+        "M2": {
           "title": "The court of Kublai Khan",
-          "attr": "Adapted description of the court of Kublai Khan.",
-          "label": "Practice source (written for practice; not a verbatim quotation).",
-          "text": "Kublai Khan allows the people of his empire to follow their own religions. At his court there are Buddhist monks, Daoist priests, Muslim scholars, and Christian missionaries, and he consults them all. He gives high office to foreigners, including merchants from the western lands, because he trusts them more than he trusts the scholars of the Chinese cities."
-        },
-        "S14": {
-          "title": "The setbacks of Constantinople",
-          "attr": "Adapted from a textbook account.",
-          "label": "Practice source (adapted for practice; not a verbatim quotation).",
-          "text": "Constantinople, long a great trading city, suffered a series of blows. In 1204, soldiers of the Fourth Crusade attacked and weakened it. In 1346 and again in 1349, the bubonic plague killed roughly half its people. After a siege of 53 days, the city fell to the Ottomans in 1453."
-        },
-        "S15": {
-          "title": "Enslaved people in the Indian Ocean trade",
-          "attr": "Adapted summary of a textbook account.",
-          "label": "Practice source (written for practice; not a verbatim quotation).",
+          "attr": "Practice passage written in the style of a modern historian of Yuan China.",
+          "label": "Practice passage written from your class materials (textbook, review sheet, slides); not a real quotation.",
           "paras": [
-            "Merchants in East African ports sold enslaved people to buyers in northern Africa, the Middle East, and India. Many were put to work in seaports, in the shipping industry, and as household servants, and some served as sailors or soldiers.",
-            "Because they lived in towns and cities, enslaved people had more chances to form communities and to work alongside free laborers than those later taken to the Americas. African words, musical styles, and customs can still be found in Oman, India, and elsewhere."
+            "Kublai Khan, grandson of Genghis, became Great Khan in 1260 and founded the Yuan dynasty in China in 1271. In many ways his rule was more Chinese than Mongol: he rebuilt the capital as Dadu and took on the style of a Chinese emperor. He allowed the peoples of his empire to follow their own religions and consulted Buddhist monks, Daoist priests, Muslim scholars and Christian missionaries at his court. Foreigners such as the Venetian merchant Marco Polo were welcomed.",
+            "Yet Kublai and his successors did not trust the Chinese elite. They gave high office to foreigners, set aside the civil service examinations that had long opened government to educated Chinese, and kept themselves apart from the people they ruled. The scholar-gentry, shut out of the positions they believed were theirs, came to resent Mongol rule.",
+            "As the Black Death and revolts weakened Mongol power in the 1300s, that resentment fed rebellion. Secret groups such as the White Lotus Society organized against the Yuan, and in 1368 a former monk from a poor peasant family, Zhu Yuanzhang, drove the Mongols out and founded the Ming."
+          ]
+        },
+        "M3": {
+          "title": "How Islam traveled",
+          "attr": "Practice passage written in the style of a modern historian of world religions.",
+          "label": "Practice passage written from your class materials (textbook, review sheet, slides); not a real quotation.",
+          "paras": [
+            "Islam spread across much of Afro-Eurasia between 1200 and 1450, but the sword was only one of its paths. Along the trade routes, merchants carried the faith as they carried goods. In West Africa, rulers such as the kings of Mali adopted Islam, and Mansa Musa's pilgrimage to Mecca in 1324 announced Mali's place in the Muslim world. Timbuktu became a center of Islamic learning. Yet most West Africans kept their traditional beliefs.",
+            "Around the Indian Ocean, Arab and Persian merchants settled in port cities, married local women and raised their children as Muslims. On the East African coast, this produced the Swahili culture and a language that blends Bantu and Arabic. In Southeast Asia, the rulers of Malacca, a city-state that grew rich from ships passing its strait, became Muslim.",
+            "In South Asia, contact between Muslims and Hindus produced new blends, such as the Urdu language, which joins Hindi with Arabic and Persian."
+          ]
+        },
+        "M4": {
+          "title": "Why cities grew and declined",
+          "attr": "Your textbook (AMSCO).",
+          "label": "Adapted from a table in your textbook (AMSCO).",
+          "table": [
+            [
+              "Factors contributing to the growth of cities",
+              "Factors contributing to the decline of cities"
+            ],
+            [
+              "Political stability and decline of invasions",
+              "Political instability and invasions"
+            ],
+            [
+              "Safe and reliable transportation",
+              "Disease"
+            ],
+            [
+              "Rise of commerce",
+              "Decline of agricultural productivity"
+            ],
+            [
+              "Plentiful labor supply",
+              ""
+            ],
+            [
+              "Increased agricultural output",
+              ""
+            ]
+          ]
+        },
+        "M5": {
+          "title": "Faiths that blended",
+          "attr": "Practice passage written in the style of a modern historian of Asia.",
+          "label": "Practice passage written from your class materials (textbook, review sheet, slides); not a real quotation.",
+          "paras": [
+            "When religions traveled along the trade routes, they rarely replaced what was already there. More often they blended with it. Buddhism came from India to China along the Silk Roads, and the monk Xuanzang helped make it popular. In China it mixed with Daoist ideas to form Chan Buddhism, known in Japan as Zen, which became popular with ordinary people.",
+            "Neo-Confucianism blended the rational thought of Confucius with Daoist and Buddhist ideas, and it became the state ideology of Korea and spread to Japan and Vietnam. In Southeast Asia, the Khmer Empire's monuments at Angkor show both Hindu and Buddhist influences: later Buddhist rulers added their own sculptures to buildings while keeping the Hindu artwork.",
+            "Historians call this process syncretism: the blending of beliefs from different traditions into something new."
           ]
         }
       },
       "questions": [
         {
-          "id": "M1",
+          "id": "MK-1",
           "type": "mcq",
-          "src": "S11",
-          "skill": "Purpose of language",
-          "stem": "The author describes the giraffes and rare spices as 'curiosities' most likely in order to",
+          "skill": "Point of view",
+          "topic": "Indian Ocean",
+          "stem": "The author's argument against the voyages is most clearly shaped by",
           "options": [
-            "summarize accurately why the emperor had ordered the voyages.",
-            "argue that the voyages gave little benefit for their cost.",
-            "praise the fleets for bringing wonders from distant lands.",
-            "give the treasury a neutral list of what the fleets brought."
+            "a merchant's wish to sell more Chinese goods in the markets of Africa and Arabia",
+            "Confucian values that put farming and family first",
+            "Buddhist teachings about giving up wealth",
+            "fear of a Mongol invasion by sea"
           ],
           "ans": 1,
-          "exp": "The author lists the giraffes and spices to argue that the voyages cost a great deal and added nothing to the empire's strength. The word choice is persuasive criticism, not a summary of the emperor's goals, praise, or a neutral list.",
+          "exp": "\"The foundation of the empire is the farmer and the family, as the sages taught.\"",
           "why": [
-            "The author is arguing against the voyages, not summarizing the emperor's goals.",
+            "The author opposes contact abroad.",
             "",
-            "Calling the items 'curiosities' belittles them; it is not praise.",
-            "The word choice is persuasive, not a neutral list."
-          ]
-        },
-        {
-          "id": "M2",
-          "type": "mcq",
-          "src": "S11",
-          "skill": "Sourcing and point of view",
-          "stem": "The author's argument most clearly reflects which of the following?",
-          "options": [
-            "Confucian concern that foreign contact would weaken a stable, agrarian society.",
-            "Muslim merchants' wish to take a larger share of Indian Ocean trade and port revenue.",
-            "Mongol officials' fear of growing Ming naval power in Southeast Asia.",
-            "Buddhist monks' opposition to government-sponsored overseas travel."
+            "He cites the sages and ancestors.",
+            "Not in the passage."
           ],
-          "ans": 0,
-          "exp": "The author stresses that the empire rests on the farmer and the family and warns that sailors forget their duties to their ancestors, which reflects the Confucian emphasis on a stable agrarian social order. The passage has no Muslim merchant, Mongol, or Buddhist perspective.",
-          "why": [
-            "",
-            "No Muslim merchant perspective or interest in port revenue appears in the passage.",
-            "No Mongol officials or fear of Ming naval power are mentioned.",
-            "No Buddhist monks or opposition on religious grounds appear in the passage."
-          ]
+          "src": "M1"
         },
         {
-          "id": "M3",
+          "id": "MK-2",
           "type": "mcq",
-          "src": "S11",
-          "skill": "Contrasting viewpoints",
-          "stem": "The view expressed in the passage differs most sharply from which of the following?",
+          "skill": "Claim in a source",
+          "topic": "Indian Ocean",
+          "stem": "According to the first paragraph, the purpose of the voyages was to",
           "options": [
-            "The Confucian view that farming is the base of a stable and orderly society.",
-            "The later ban on building ships with more than two masts.",
-            "The emperor's use of the fleets to show power and collect tribute.",
-            "The successor's decision to end the voyages after Yongle's reign."
-          ],
-          "ans": 2,
-          "exp": "The author wants the voyages ended and the people kept at home, which clashes with the emperor's use of the fleets to show power and collect tribute abroad. The emphasis on farming, the ban on larger ships, and the successor's decision to end the voyages all fit the author's view.",
-          "why": [
-            "The Confucian view that farming is the base of society agrees with the author.",
-            "The ban on large ships fits the author's wish to limit sea travel.",
-            "",
-            "The successor ending the voyages agrees with the author's view."
-          ]
-        },
-        {
-          "id": "M4",
-          "type": "mcq",
-          "src": "S12",
-          "skill": "Best illustrates a trend",
-          "stem": "The religious evidence described in the passage best illustrates which of the following about trade cities in this period?",
-          "options": [
-            "They were governed by religious leaders who enforced a single faith.",
-            "They declined once merchants carried new religions to distant regions.",
-            "They relied on state-sponsored conversion programs to attract foreign merchants and scholars.",
-            "They were crossroads where merchants and travelers from different cultures met."
+            "conquer Arabia and Africa and bring them under direct Ming rule as provinces",
+            "spread Confucianism abroad",
+            "find new lands to settle",
+            "show Ming power and collect tribute"
           ],
           "ans": 3,
-          "exp": "Evidence of Christianity, Buddhism, Zoroastrianism, and Islam shows people of many faiths living in a Silk Road city. Nothing suggests a single enforced faith, decline caused by the spread of religions, or state-run conversion.",
+          "exp": "The fleets were sent to show the might of the Ming and bring back tribute.",
           "why": [
-            "The evidence of many faiths shows tolerance, not a single enforced faith.",
-            "Nothing says cities declined because religions spread.",
-            "State-run conversion programs are not mentioned.",
+            "The passage says show might and bring tribute.",
+            "Not in the passage.",
+            "Not in the passage.",
             ""
-          ]
+          ],
+          "src": "M1"
         },
         {
-          "id": "M5",
+          "id": "MK-3",
           "type": "mcq",
-          "src": "S12",
-          "skill": "Best used as evidence of",
-          "stem": "The construction of the madrasa between 1417 and 1422 is best used as evidence that",
+          "skill": "Effect",
+          "topic": "Indian Ocean",
+          "stem": "Arguments like the one in the passage most directly led to",
           "options": [
-            "Islamic scholarship in Central Asia ended after the Mongol conquests.",
-            "wealth from trade helped support centers of learning in major cities.",
-            "Samarkand's rulers had turned away from the Silk Roads toward farming.",
-            "the Ming government paid for religious schools across Central Asia."
+            "China ending the voyages and discouraging sailing abroad",
+            "China building larger fleets to compete with the Arab dhows across the ocean",
+            "the fall of the Ming dynasty",
+            "Zheng He's eighth voyage"
+          ],
+          "ans": 0,
+          "exp": "Yongle's successor ended the voyages and discouraged sailing abroad.",
+          "why": [
+            "",
+            "The voyages ended.",
+            "Not on your cards.",
+            "There were seven."
+          ],
+          "src": "M1"
+        },
+        {
+          "id": "MK-4",
+          "type": "mcq",
+          "skill": "Historian's argument",
+          "topic": "Mongols",
+          "stem": "Which best describes the historian's argument about Kublai Khan's rule?",
+          "options": [
+            "It adopted Chinese style but shut out the Chinese elite",
+            "It was completely Mongol in style and rejected every Chinese custom and tradition",
+            "It gave the scholar-gentry more power than ever",
+            "It banned all religions but Buddhism"
+          ],
+          "ans": 0,
+          "exp": "Chinese-style capital and court, but foreigners in office and no civil service exams.",
+          "why": [
+            "",
+            "Paragraph 1 says it was more Chinese than Mongol.",
+            "They were shut out.",
+            "He tolerated many."
+          ],
+          "src": "M2"
+        },
+        {
+          "id": "MK-5",
+          "type": "mcq",
+          "skill": "Evidence for an argument",
+          "topic": "Mongols",
+          "stem": "Which evidence from the passage best supports the claim that Yuan rule angered the scholar-gentry?",
+          "options": [
+            "Kublai consulted Buddhist monks, Daoist priests and Muslim scholars at court",
+            "Kublai rebuilt the capital as Dadu",
+            "The Yuan set aside the civil service examinations",
+            "Marco Polo was welcomed"
+          ],
+          "ans": 2,
+          "exp": "Shut out of office, the scholar-gentry resented Mongol rule.",
+          "why": [
+            "That shows tolerance, not the grievance.",
+            "That shows Chinese style.",
+            "",
+            "That shows openness to foreigners."
+          ],
+          "src": "M2"
+        },
+        {
+          "id": "MK-6",
+          "type": "mcq",
+          "skill": "Cause",
+          "topic": "Mongols",
+          "stem": "The third paragraph suggests that the fall of the Yuan was caused by",
+          "options": [
+            "a foreign invasion by the Golden Horde, which wanted to rule China for itself",
+            "resentment combined with disasters and organized revolt",
+            "Kublai's conversion to Islam",
+            "the end of the Silk Roads"
           ],
           "ans": 1,
-          "exp": "A major madrasa in a Silk Road city shows that trade cities also became centers of learning supported by their wealth. Islamic scholarship continued under Turkic rulers, and nothing connects the Ming or farming to the madrasa.",
+          "exp": "Resentment, disasters, the White Lotus Society and Zhu Yuanzhang's revolt.",
           "why": [
-            "The madrasa was built after the Mongol conquests, so scholarship did not end.",
+            "Not in the passage.",
             "",
-            "A major madrasa shows investment in learning, not a turn away from the Silk Roads.",
-            "The Ming government is not connected to the madrasa."
-          ]
+            "Not in the passage.",
+            "Not in the passage."
+          ],
+          "src": "M2"
         },
         {
-          "id": "M6",
+          "id": "MK-7",
           "type": "mcq",
-          "src": "S12",
+          "skill": "Historian's argument",
+          "topic": "Culture",
+          "stem": "Which best states the historian's main argument?",
+          "options": [
+            "Islam spread almost entirely through military conquest by Arab and Persian armies",
+            "Islam replaced all local beliefs wherever it went",
+            "Islam spread only in Africa",
+            "Islam spread mostly through trade, settlement and rulers"
+          ],
+          "ans": 3,
+          "exp": "Merchants, intermarriage and rulers' conversions carried Islam.",
+          "why": [
+            "The historian says the sword was only one path.",
+            "Most West Africans kept traditional beliefs.",
+            "It also spread in Asia.",
+            ""
+          ],
+          "src": "M3"
+        },
+        {
+          "id": "MK-8",
+          "type": "mcq",
           "skill": "Comparison",
-          "stem": "Samarkand's role in Silk Roads trade is most similar to which role played by Timbuktu in trans-Saharan trade?",
+          "topic": "Comparison",
+          "stem": "Based on the passage, how did the spread of Islam in West Africa compare with its spread on the East African coast?",
           "options": [
-            "A coastal port that collected fees from ships using a narrow strait.",
-            "A desert oasis that supplied salt to the caravans crossing the Sahara.",
-            "A trading city that also became a center of Islamic learning.",
-            "A capital that controlled the mines producing the region's gold."
-          ],
-          "ans": 2,
-          "exp": "Both were trading cities that also became centers of Islamic learning. The coastal strait fits Malacca, the salt oasis fits Taghaza, and Timbuktu was a city of trade and learning rather than a mining center.",
-          "why": [
-            "A coastal port collecting strait fees describes Malacca, not Timbuktu.",
-            "A salt-supplying oasis describes Taghaza, not Timbuktu.",
-            "",
-            "Timbuktu was a trade and learning city, not a gold-mining center."
-          ]
-        },
-        {
-          "id": "M7",
-          "type": "mcq",
-          "src": "S13",
-          "skill": "Continuity",
-          "stem": "The religious policy described in the passage most closely continued the policy of which earlier Mongol ruler?",
-          "options": [
-            "Genghis Khan, who allowed many religions within his empire.",
-            "Hulegu, who destroyed Baghdad and killed the caliph.",
-            "Batu, who made Russian princes convert as the price of tribute.",
-            "Timur, who spread Islam by force across Central Asia."
+            "Rulers led in West Africa; marriage did on the coast",
+            "Both regions converted completely because Arab armies conquered them at once",
+            "Neither region accepted Islam",
+            "Only the coast had Islamic learning"
           ],
           "ans": 0,
-          "exp": "Genghis Khan instituted religious tolerance throughout the empire, and Kublai Khan, like his grandfather, tolerated many faiths. Hulegu's destruction of Baghdad was not a religious policy, and Batu and Timur (who came later) did not act as the other options describe.",
+          "exp": "West Africa: kings like Mansa Musa adopted Islam. Coast: merchants married local families.",
           "why": [
             "",
-            "Hulegu's destruction of Baghdad was not a religious policy of tolerance.",
-            "Batu did not require Russian princes to convert as the price of tribute.",
-            "Timur came later and did not follow a policy of tolerance."
-          ]
-        },
-        {
-          "id": "M8",
-          "type": "mcq",
-          "src": "S13",
-          "skill": "Evaluating a source",
-          "stem": "To judge how reliably the passage reflects Kublai Khan's actual policy, a historian would most need to know",
-          "options": [
-            "how many religions were practiced in China before the Mongol conquests.",
-            "whether the Mongols used the yam relay system to carry messages.",
-            "which Mongol ruler first adopted the Uyghur script for Mongol.",
-            "who wrote the passage and whether the writer saw the court firsthand."
+            "Neither is described as conquered.",
+            "Both did.",
+            "Timbuktu was a center of learning."
           ],
-          "ans": 3,
-          "exp": "To judge reliability, a historian needs to know who wrote the passage and whether the writer saw the court firsthand. The other facts are true or interesting but do not bear on whether this account is reliable.",
-          "why": [
-            "Religions in China before the Mongols do not show whether this account is reliable.",
-            "The yam relay system has nothing to do with the passage's reliability.",
-            "Which ruler adopted the Uyghur script does not bear on the source's reliability.",
-            ""
-          ]
+          "src": "M3"
         },
         {
-          "id": "M9",
+          "id": "MK-9",
           "type": "mcq",
-          "src": "S13",
-          "skill": "Causal reasoning",
-          "stem": "The passage best supports which of the following causal arguments?",
+          "skill": "Best used as evidence",
+          "topic": "Culture",
+          "stem": "The Swahili and Urdu languages mentioned in the passage can best be used as evidence of",
           "options": [
-            "Hiring foreigners made Chinese scholars more loyal to Mongol rule.",
-            "Religious tolerance at court brought people of many faiths into service.",
-            "Consulting religious leaders let Kublai rule without relying on military force.",
-            "The Mongols' trust in merchants turned their empire into a Buddhist state."
-          ],
-          "ans": 1,
-          "exp": "Monks, priests, scholars, and missionaries all at court, plus foreigners holding office, support the argument that tolerance brought people of many faiths into service. The passage says Kublai trusted foreigners more than Chinese scholars, so it does not support greater scholar loyalty, avoiding force, or a Buddhist state.",
-          "why": [
-            "The passage says Kublai trusted foreigners more than Chinese scholars, so it does not support greater scholar loyalty.",
-            "",
-            "Nothing suggests consulting religious leaders let him avoid military force.",
-            "The passage does not claim a Buddhist state resulted from trust in merchants."
-          ]
-        },
-        {
-          "id": "M10",
-          "type": "mcq",
-          "src": "S14",
-          "skill": "Best used as evidence of",
-          "stem": "The history of Constantinople described in the passage can best be used as evidence that",
-          "options": [
-            "disease struck only the cities of Europe and the Mediterranean.",
-            "political stability alone was enough to protect a trading city's wealth.",
-            "the prosperity of trading cities was neither guaranteed nor permanent.",
-            "the Ottoman conquest ended all trade between Europe and Asia."
-          ],
-          "ans": 2,
-          "exp": "Invasion, plague, and conquest steadily weakened Constantinople, showing that a trading city's prosperity could disappear. The plague struck cities across Eurasia, and the passage does not say the Ottoman conquest ended all trade.",
-          "why": [
-            "The plague struck cities across Eurasia, not only Europe and the Mediterranean.",
-            "'Alone was enough' is too strong; the passage shows stable states still lost wealth.",
-            "",
-            "The passage does not say Ottoman conquest ended all trade between Europe and Asia."
-          ]
-        },
-        {
-          "id": "M11",
-          "type": "mcq",
-          "src": "S14",
-          "skill": "Comparison",
-          "stem": "Which of the following cities experienced a decline most similar in cause to Constantinople's setbacks from invasion?",
-          "options": [
-            "Kashgar, which declined after invasion and Tamerlane's attack.",
-            "Hangzhou, which grew as the southern end of the Grand Canal in China.",
-            "Malacca, which grew rich from fees on ships using the busy strait.",
-            "Timbuktu, which became a famous center of trade and Islamic learning."
+            "cultural blending through contact",
+            "the complete replacement of local languages by Arabic across Africa and Asia",
+            "the isolation of trading cities",
+            "Mongol rule"
           ],
           "ans": 0,
-          "exp": "Kashgar declined after conquests by nomadic invaders and was ravaged by Tamerlane in 1389–90. The other cities are examples of growth through trade.",
+          "exp": "Swahili (Bantu + Arabic) and Urdu (Hindi + Arabic + Persian) are blends.",
           "why": [
             "",
-            "Hangzhou grew through trade, so it is not an example of decline.",
-            "Malacca grew rich from fees, which is not a decline.",
-            "Timbuktu grew as a center of trade and learning, which is not a decline."
-          ]
+            "They are blends, not replacements.",
+            "They show contact.",
+            "Not related."
+          ],
+          "src": "M3"
         },
         {
-          "id": "M12",
+          "id": "MK-10",
           "type": "mcq",
-          "src": "S15",
-          "skill": "Identifying a claim",
-          "stem": "Which of the following best describes a claim made in the first paragraph?",
+          "skill": "Data",
+          "topic": "Cities",
+          "stem": "Which city's history best illustrates the factors in the right-hand column?",
           "options": [
-            "Most enslaved people were sent to farms in southern India.",
-            "Enslaved people were sold only to buyers within East Africa.",
-            "Merchants in northern Africa bought most enslaved people from India.",
-            "Some enslaved people worked as sailors or soldiers in the region."
+            "Hangzhou, a city of about a million on the Grand Canal with a thriving trade",
+            "Samarkand",
+            "Constantinople",
+            "Timbuktu"
+          ],
+          "ans": 2,
+          "exp": "Constantinople was hit by invasion (1204, 1453) and plague.",
+          "why": [
+            "That's growth.",
+            "Growth.",
+            "",
+            "Growth."
+          ],
+          "src": "M4"
+        },
+        {
+          "id": "MK-11",
+          "type": "mcq",
+          "skill": "Cause",
+          "topic": "Cities",
+          "stem": "Based on the table, which development would most likely cause a trading city to GROW?",
+          "options": [
+            "A plague arriving on ships from a distant port and killing many of its workers",
+            "Repeated invasions",
+            "Falling harvests",
+            "A strong state making the roads safe"
           ],
           "ans": 3,
-          "exp": "The first paragraph says some enslaved people served as sailors or soldiers. It says they were sold to buyers in northern Africa, the Middle East, and India, not only within East Africa, and it names seaports and households, not farms, as common workplaces.",
+          "exp": "Political stability and safe, reliable transportation help cities grow.",
           "why": [
-            "The paragraph names seaports and households as workplaces, not farms in southern India.",
-            "They were sold to buyers in northern Africa, the Middle East, and India, not only within East Africa.",
-            "The first paragraph does not say merchants in northern Africa bought most enslaved people from India.",
+            "Disease is a cause of decline.",
+            "Decline.",
+            "Decline.",
             ""
-          ]
+          ],
+          "src": "M4"
         },
         {
-          "id": "M13",
+          "id": "MK-12",
           "type": "mcq",
-          "src": "S15",
-          "skill": "Identifying a claim",
-          "stem": "Which of the following is a claim made in the second paragraph?",
+          "skill": "Historian's argument",
+          "topic": "Culture",
+          "stem": "Which best states the historian's main argument?",
           "options": [
-            "Enslaved people lived under the same conditions as those taken to the Americas.",
-            "Town life gave enslaved people more chances to form communities and work with free laborers.",
-            "Enslaved people were forbidden to form communities in the cities where they lived.",
-            "African customs and music disappeared soon after enslaved people arrived in Oman and in India."
+            "Traveling religions destroyed the older beliefs of every place they reached",
+            "Traveling religions blended with local beliefs",
+            "Religions did not travel along trade routes",
+            "Buddhism began in China"
           ],
           "ans": 1,
-          "exp": "The paragraph says living in towns and cities gave enslaved people more chances to form communities and to work alongside free laborers than those taken to the Americas. It also says African words, music, and customs survived, so the other options contradict it.",
+          "exp": "Syncretism: blending beliefs into something new.",
           "why": [
-            "The paragraph says conditions differed from those of people taken to the Americas.",
+            "The historian says they rarely replaced them.",
             "",
-            "The paragraph says town life gave more chances to form communities, not that they were forbidden.",
-            "The paragraph says African words, music, and customs survived."
-          ]
+            "They did.",
+            "It came from India."
+          ],
+          "src": "M5"
+        },
+        {
+          "id": "MK-13",
+          "type": "mcq",
+          "skill": "Best used as evidence",
+          "topic": "Culture",
+          "stem": "The description of Angkor in the second paragraph can best be used as evidence that",
+          "options": [
+            "the Khmer rulers destroyed all Hindu art after they became Buddhist",
+            "Islam was the main faith of the Khmer",
+            "Hindu and Buddhist influences coexisted in Southeast Asia",
+            "Angkor was a Chinese city"
+          ],
+          "ans": 2,
+          "exp": "Buddhist rulers added sculptures while keeping the Hindu artwork.",
+          "why": [
+            "They kept the Hindu artwork.",
+            "Not in the passage.",
+            "",
+            "It was Khmer."
+          ],
+          "src": "M5"
         }
       ]
     },
