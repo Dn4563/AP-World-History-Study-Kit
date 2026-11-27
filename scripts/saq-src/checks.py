@@ -1,0 +1,72 @@
+"""Key-word checklists for the AP World short-answer questions (SAQs). Each part's first check is the question's own
+"earns the point" list (a specific example the answer must name); "explain" parts also need an explaining connection
+("because", "so", "led to"...). The site shows these as a ✓/✗ checklist after Check Answer; students can override with
+I got it / I missed it, or use Gemini. Run: python3 scripts/saq-src/apply.py (writes them into content/*/practice.json
+and checks every model answer passes its own list)."""
+
+WHY = ["because", "as", "sparking", "angered", "drained", "weakened", "divided", "created", "spread", "ended", "so", "so that", "which", "this meant", "this let", "this made", "this gave", "this allowed", "led to", "leading to", "allowed", "let", "made", "helped", "as a result", "therefore", "since", "meaning", "caused", "resulted", "enabled", "by", "through"]
+WHY_L = "Explains how or why (because, so, which, led to)"
+
+C = {
+ # ---------- Unit 2 ----------
+ ("unit-02", "SAQ1", "A"): [[["razed", "destroy", "destroyed", "destruction", "killed", "cut down forests", "fortresses", "farmland", "muslim lands", "cities"]], ["Names a claim from the passage (destruction, killing, razed cities)"]],
+ ("unit-02", "SAQ1", "B"): [[["pax mongolica", "safer", "safe", "roads", "bandit", "banditry", "yam", "relay", "one authority", "merchants", "tolerance", "tolerant"], WHY], ["Names a Mongol policy (Pax Mongolica, safer roads, the yam, protecting merchants)", WHY_L]],
+ ("unit-02", "SAQ1", "C"): [[["plague", "black death", "disease", "gunpowder", "paper", "printing", "compass", "technology", "religion", "crop", "knowledge", "astronomy", "medicine"], WHY], ["Names a specific effect (a technology, religion, crop or disease like the plague)", WHY_L]],
+ ("unit-02", "SAQ2", "A"): [[["paper money", "silk", "merchants", "import", "imported", "currency", "goods"]], ["Names a trade detail from the passage (paper money, silk, imports)"]],
+ ("unit-02", "SAQ2", "B"): [[["flying cash", "paper money", "bills of exchange", "banking", "banks", "credit"], WHY], ["Names an innovation (flying cash, paper money, bills of exchange, banking)", WHY_L]],
+ ("unit-02", "SAQ2", "C"): [[["merchant", "venetian", "venice", "outsider", "foreign", "foreigner", "european", "europeans", "italy", "kublai"], WHY], ["Names something about Polo (merchant, Venetian, outsider, writing for Europeans)", WHY_L]],
+ ("unit-02", "SAQ3", "A"): [[["two-way", "both directions", "salt", "gold", "north", "south", "different goods", "exchange"]], ["Describes a pattern in the table (two-way exchange, salt for gold)"]],
+ ("unit-02", "SAQ3", "B"): [[["camel saddle", "saddle", "camel", "camels", "caravan", "caravans", "oasis", "oases"], WHY], ["Names a factor (camel saddle, camels, caravans, oases)", WHY_L]],
+ ("unit-02", "SAQ3", "C"): [[["mali", "mansa musa", "timbuktu", "islam", "muslim", "wealth", "wealthy", "mosques", "scholars"], WHY], ["Names an effect (Mali, Mansa Musa, Timbuktu, the spread of Islam)", WHY_L]],
+ ("unit-02", "SAQ4", "A"): [[["power", "might", "tribute", "display", "displayed", "show", "showed"]], ["Names a purpose from the passage (showing Ming power, collecting tribute)"]],
+ ("unit-02", "SAQ4", "B"): [[["monsoon", "compass", "astrolabe", "rudder", "lateen", "junk", "junks", "ports", "port"], WHY], ["Names an earlier development (monsoons, compass, astrolabe, rudder, junks, ports)", WHY_L]],
+ ("unit-02", "SAQ4", "C"): [[["confucian", "confucianism", "cost", "costs", "expensive", "successor", "money"], WHY], ["Names a reason (Confucian opposition, the cost, the new emperor's policy)", WHY_L]],
+ ("unit-02", "SAQ5", "A"): [[["overland", "land", "sea", "caravan", "ships", "terrain", "technology", "goods", "luxury", "bulky"]], ["Describes a difference shown in the table (land vs. sea, transport, goods)"]],
+ ("unit-02", "SAQ5", "B"): [[["cities", "city", "samarkand", "calicut", "protection", "protected", "technology", "diasporic", "merchant communities", "religion", "religions", "existing routes"], WHY], ["Names a similarity (trading cities, state protection, technology, merchant communities)", WHY_L]],
+ ("unit-02", "SAQ5", "C"): [[["monsoon", "open sea", "desert", "water", "mountains"], ["lateen", "compass", "astrolabe", "camel", "saddle", "caravan", "dhow", "junk", "sail", "ship"], WHY], ["Names a geographic feature (monsoon winds, desert, open sea)", "Names a technology (lateen sail, compass, camel saddle)", WHY_L]],
+ ("unit-02", "SAQ6", "A"): [[["christian", "christians", "pilgrim", "pilgrims", "community", "readers", "believers", "devout", "religious"]], ["Names a plausible audience (Christian readers, other pilgrims)"]],
+ ("unit-02", "SAQ6", "B"): [[["mediterranean", "sea routes", "overland", "routes", "merchant", "merchants", "crusades", "ships"], WHY], ["Names a route or development (Mediterranean sea routes, overland routes, the Crusades)", WHY_L]],
+ ("unit-02", "SAQ6", "C"): [[["merchant", "trade"], ["pilgrim", "religious", "religion", "christian", "visions", "devotion"]], ["Ties Polo to trade (merchant)", "Ties Kempe to religion (pilgrim)"]],
+ ("unit-02", "SAQ7", "A"): [[["khanate", "khanates", "chaghatai", "ilkhan", "golden horde", "kipchak", "yuan", "regions", "four"]], ["Uses a detail on the map (named khanates or regions)"]],
+ ("unit-02", "SAQ7", "B"): [[["safer", "safe", "roads", "protection", "protected", "merchants", "unified", "one ruling family", "pax mongolica", "bandits"], WHY], ["Names a Mongol policy (safer roads, protecting merchants, Pax Mongolica)", WHY_L]],
+ ("unit-02", "SAQ7", "C"): [[["gunpowder", "paper", "papermaking", "printing", "compass", "plague", "black death"], WHY], ["Names a technology or disease (gunpowder, paper, plague)", WHY_L]],
+ ("unit-02", "SAQ8", "A"): [[["narrow", "strait", "two seas", "shortest", "south china sea", "indian ocean", "malay", "sumatra"]], ["Describes a feature on the map (narrow strait, shortest route)"]],
+ ("unit-02", "SAQ8", "B"): [[["malacca", "gujarat", "swahili", "kilwa", "mombasa", "calicut"], WHY], ["Names a city or state (Malacca, Gujarat, Kilwa, Calicut)", WHY_L]],
+ ("unit-02", "SAQ8", "C"): [[["lateen", "monsoon", "compass", "astrolabe", "dhow", "junk"], WHY], ["Names a technology or knowledge (lateen sail, monsoons, compass, astrolabe)", WHY_L]],
+ ("unit-02", "MSAQ1", "A"): [[["fees", "fee", "charging", "navy", "taxes", "tolls"]], ["Names a way from the passage (fees on ships, a navy)"]],
+ ("unit-02", "MSAQ1", "B"): [[["monsoon", "winds"], ["wait", "waiting", "stop", "stay", "meeting", "port", "ports"]], ["Mentions the monsoon winds", "Links them to merchants waiting in port"]],
+ ("unit-02", "MSAQ1", "C"): [[["arab", "persian", "swahili", "indian", "chinese", "merchants", "community"], ["islam", "language", "arabic", "swahili", "intermarriage", "married", "blended", "religion", "culture"]], ["Names a community or place", "Names a cultural effect (Islam, language, intermarriage)"]],
+ ("unit-02", "MSAQ2", "A"): [[["opposite", "mirror", "growth", "decline", "stability", "farm", "farming", "agricultural", "commerce"]], ["Describes a pattern in the table"]],
+ ("unit-02", "MSAQ2", "B"): [[["timbuktu", "samarkand", "calicut", "malacca", "hangzhou", "kilwa", "venice", "baghdad", "cairo", "mombasa", "gujarat", "constantinople"], WHY], ["Names a specific city", WHY_L]],
+ ("unit-02", "MSAQ2", "C"): [[["baghdad", "constantinople", "kaifeng", "cairo", "venice", "samarkand", "timbuktu", "hangzhou"], ["invasion", "invaded", "sacked", "plague", "instability", "war", "mongols", "crusaders"]], ["Names a specific city", "Names a cause (invasion, plague, instability)"]],
+ # ---------- Unit 3 ----------
+ ("unit-03", "G1.CY", "A"): [[["ottoman", "ottomans", "mughal", "mughals", "safavid", "russia", "morocco", "constantinople", "mehmed"], ["cannon", "cannons", "gunpowder", "artillery", "muskets", "firearms"]], ["Names an empire or event", "Names the gunpowder weapon"]],
+ ("unit-03", "G1.CY", "B"): [[["panipat", "chaldiran", "tondibi", "cossacks", "siberia", "babur", "mughal", "morocco", "russia"]], ["Names a different empire's event (Panipat, Chaldiran, Tondibi, Siberia)"]],
+ ("unit-03", "G2.CY", "A"): [[["devshirme", "janissaries", "table of ranks", "bureaucracy", "civil service", "exam", "intendants", "officials"]], ["Names an administration example (devshirme, Table of Ranks, intendants)"]],
+ ("unit-03", "G2.CY", "B"): [[["caliph", "divine right", "mandate of heaven", "taj mahal", "versailles", "portraits", "temples", "sacrifice", "religion"]], ["Names a legitimacy example (caliph, divine right, Mandate of Heaven, architecture)"]],
+ ("unit-03", "G2.CY", "C"): [[["tax farming", "tax farmers", "zamindar", "zamindars", "tribute", "jizya", "taxes"]], ["Names a revenue system (tax farming, zamindars, tribute)"]],
+ ("unit-03", "G3.CY", "A"): [[["trent", "core teachings", "doctrine", "sunni", "pope", "catholic"]], ["Names something that stayed the same, with evidence (Trent, Sunni Ottomans)"]],
+ ("unit-03", "G3.CY", "B"): [[["luther", "95 theses", "ninety-five", "protestant", "reformation", "jesuit", "jesuits", "sunni", "shi'a", "shia", "safavid"]], ["Names a change with evidence (Luther, Jesuits, Sunni–Shi'a split)"]],
+ ("unit-03", "G4.CY", "A"): [[["ottoman", "ottomans", "mughal", "mughals", "safavid", "qing", "russia", "mexica", "inca", "songhai", "morocco"], ["because", "since", "so", "which", "existed", "let", "allowed"]], ["Names the empires", "Explains why the similarity existed"]],
+ ("unit-03", "SAQ1", "A"): [[["cannons", "cannon", "artillery", "firearms", "guns", "janissary", "janissaries", "muskets", "musketeers", "gunpowder"]], ["Names a military factor from the passage (cannons, Janissaries)"]],
+ ("unit-03", "SAQ1", "B"): [[["sunni"], ["shi'a", "shia", "shiite", "shi'ite"], WHY], ["Says the Ottomans were Sunni", "Says the Safavids were Shi'a", WHY_L]],
+ ("unit-03", "SAQ1", "C"): [[["abbas", "ghulam", "ghulams", "isfahan", "muskets", "gunpowder", "artillery", "reform", "reforms"]], ["Names a specific change (Abbas I's reforms, ghulams, Isfahan)"]],
+ ("unit-03", "SAQ2", "A"): [[["divine right", "caliph", "mandate of heaven", "sacrifice", "temple", "temples", "portrait", "portraits", "versailles", "taj mahal", "architecture", "askia", "religion"]], ["Names a method with an example"]],
+ ("unit-03", "SAQ2", "B"): [[["ottoman", "ottomans", "mughal", "mughals", "france", "french", "qing", "inca", "mexica", "aztec", "songhai", "safavid", "russia", "spain"], WHY], ["Names the empires", WHY_L]],
+ ("unit-03", "SAQ2", "C"): [[["tax farming", "tax farmers", "zamindar", "zamindars", "tribute", "jizya", "mit'a", "mita", "encomienda", "taxes"]], ["Names two revenue systems (tax farming, zamindars, tribute)"]],
+ ("unit-03", "SAQ3", "A"): [[["divine right", "caliph", "mandate of heaven", "sacrifice", "temple", "temples", "religion", "god"]], ["Names a religion example from the table"]],
+ ("unit-03", "SAQ3", "B"): [[["diverse", "diversity", "many", "groups", "minority", "conquered", "different", "ethnic"], WHY], ["Connects diversity or conquest to the need", WHY_L]],
+ ("unit-03", "SAQ3", "C"): [[["aurangzeb", "jizya", "edict of nantes", "huguenots", "jahangir", "guru arjan"], WHY], ["Names a policy (Aurangzeb's jizya, the Edict of Nantes, Guru Arjan)", WHY_L]],
+ ("unit-03", "SAQ4", "A"): [[["calvinism", "calvinist", "calvin"]], ["Says Calvinism was added (Peace of Westphalia)"]],
+ ("unit-03", "SAQ4", "B"): [[["luther", "calvin", "henry viii", "indulgences", "corruption", "reformation", "95 theses", "ninety-five"], WHY], ["Names a cause (Luther, Calvin, Henry VIII, corruption)", WHY_L]],
+ ("unit-03", "SAQ4", "C"): [[["trent", "jesuit", "jesuits", "inquisition", "index", "counter-reformation"], WHY], ["Names a response (Trent, Jesuits, Inquisition, Index)", WHY_L]],
+ ("unit-03", "MSAQ1", "A"): [[["equal", "poor", "rich", "law", "laws", "commission", "justice"]], ["Names a duty from the excerpt"]],
+ ("unit-03", "MSAQ1", "B"): [[["nobles", "lords", "feudal", "royal", "monarch", "king", "county", "counties", "local"], WHY], ["Connects them to royal control or weaker nobles", WHY_L]],
+ ("unit-03", "MSAQ1", "C"): [[["parliament", "bill of rights", "limited"], ["absolute", "absolutism", "louis xiv", "divine right", "intendants", "versailles"]], ["England: Parliament, Bill of Rights or limited monarchy", "France: absolutism, Louis XIV or intendants"]],
+ ("unit-03", "MSAQ2", "A"): [[["constantinople", "chaldiran", "panipat", "tondibi", "cossacks", "siberia", "manchu", "banners", "mehmed", "babur"]], ["Names an example (Constantinople, Panipat, Chaldiran, Tondibi)"]],
+ ("unit-03", "MSAQ2", "B"): [[["ottoman", "ottomans", "mughal", "mughals", "morocco", "moroccan", "safavid", "russia", "qing", "songhai"], WHY], ["Names the empires", WHY_L]],
+ ("unit-03", "MSAQ2", "C"): [[["wars", "war", "cost", "costs", "heirs", "harem", "modernize", "taxes", "rebellion", "rebellions", "revolts", "treasury"], ["mughal", "mughals", "ottoman", "ottomans", "safavid", "songhai", "aurangzeb", "qing", "spain"]], ["Names a cause (costly wars, weak heirs, high taxes, revolts)", "Names the empire"]],
+ ("unit-03", "MSAQ3", "A"): [[["equal", "equality", "caste", "one god", "devotion", "hindus and muslims", "ritual"]], ["Names a teaching from the passage (equality, rejecting caste, one God)"]],
+ ("unit-03", "MSAQ3", "B"): [[["hindu", "hindus", "hinduism"], ["muslim", "muslims", "islam"], WHY], ["Mentions Hinduism", "Mentions Islam", WHY_L]],
+ ("unit-03", "MSAQ3", "C"): [[["akbar", "support", "land grants", "tolerance"], ["jahangir", "arjan", "persecution", "executed", "aurangzeb", "khalsa"]], ["Before: Akbar's support", "After: persecution (Jahangir, Guru Arjan, Aurangzeb)"]],
+}

@@ -1192,7 +1192,24 @@
                 "This shows he portrays the Mongols as a destructive invading force that attacked civilians as well as armies."
               ],
               "earns": "You accurately describe any specific claim in the passage (for example, that the Mongols razed cities, killed civilians, destroyed farmland, or passed through Muslim lands before reaching Europe).",
-              "weak": "\"He says the Mongols were bad.\" This does not name a specific claim from the text."
+              "weak": "\"He says the Mongols were bad.\" This does not name a specific claim from the text.",
+              "check": [
+                [
+                  "razed",
+                  "destroy",
+                  "destroyed",
+                  "destruction",
+                  "killed",
+                  "cut down forests",
+                  "fortresses",
+                  "farmland",
+                  "muslim lands",
+                  "cities"
+                ]
+              ],
+              "checkLabels": [
+                "Names a claim from the passage (destruction, killing, razed cities)"
+              ]
             },
             {
               "k": "B",
@@ -1205,7 +1222,62 @@
                 "With less risk of robbery and faster, safer travel, merchants could carry goods farther across Eurasia, which increased trade between East Asia, the Middle East, and Europe."
               ],
               "earns": "You name a specific Mongol policy or condition (Pax Mongolica, safer roads, punished banditry, the yam relay, one authority that respected merchants, religious tolerance) and explain how it increased trade.",
-              "weak": "\"The Mongols helped trade a lot.\" (No specific evidence and no explanation.) Also avoid saying the Mongols created the Silk Roads; the routes already existed."
+              "weak": "\"The Mongols helped trade a lot.\" (No specific evidence and no explanation.) Also avoid saying the Mongols created the Silk Roads; the routes already existed.",
+              "check": [
+                [
+                  "pax mongolica",
+                  "safer",
+                  "safe",
+                  "roads",
+                  "bandit",
+                  "banditry",
+                  "yam",
+                  "relay",
+                  "one authority",
+                  "merchants",
+                  "tolerance",
+                  "tolerant"
+                ],
+                [
+                  "because",
+                  "as",
+                  "sparking",
+                  "angered",
+                  "drained",
+                  "weakened",
+                  "divided",
+                  "created",
+                  "spread",
+                  "ended",
+                  "so",
+                  "so that",
+                  "which",
+                  "this meant",
+                  "this let",
+                  "this made",
+                  "this gave",
+                  "this allowed",
+                  "led to",
+                  "leading to",
+                  "allowed",
+                  "let",
+                  "made",
+                  "helped",
+                  "as a result",
+                  "therefore",
+                  "since",
+                  "meaning",
+                  "caused",
+                  "resulted",
+                  "enabled",
+                  "by",
+                  "through"
+                ]
+              ],
+              "checkLabels": [
+                "Names a Mongol policy (Pax Mongolica, safer roads, the yam, protecting merchants)",
+                "Explains how or why (because, so, which, led to)"
+              ]
             },
             {
               "k": "C",
@@ -1218,7 +1290,63 @@
                 "Because Mongol-linked routes moved people and goods quickly over huge distances, they also moved disease, and the resulting labor shortages in Europe raised wages."
               ],
               "earns": "You give one specific effect (a technology, body of knowledge, religion, crop, or disease) and explain how the connections caused it.",
-              "weak": "\"Ideas and diseases spread.\" This names no specific example and does not explain the link."
+              "weak": "\"Ideas and diseases spread.\" This names no specific example and does not explain the link.",
+              "check": [
+                [
+                  "plague",
+                  "black death",
+                  "disease",
+                  "gunpowder",
+                  "paper",
+                  "printing",
+                  "compass",
+                  "technology",
+                  "religion",
+                  "crop",
+                  "knowledge",
+                  "astronomy",
+                  "medicine"
+                ],
+                [
+                  "because",
+                  "as",
+                  "sparking",
+                  "angered",
+                  "drained",
+                  "weakened",
+                  "divided",
+                  "created",
+                  "spread",
+                  "ended",
+                  "so",
+                  "so that",
+                  "which",
+                  "this meant",
+                  "this let",
+                  "this made",
+                  "this gave",
+                  "this allowed",
+                  "led to",
+                  "leading to",
+                  "allowed",
+                  "let",
+                  "made",
+                  "helped",
+                  "as a result",
+                  "therefore",
+                  "since",
+                  "meaning",
+                  "caused",
+                  "resulted",
+                  "enabled",
+                  "by",
+                  "through"
+                ]
+              ],
+              "checkLabels": [
+                "Names a specific effect (a technology, religion, crop or disease like the plague)",
+                "Explains how or why (because, so, which, led to)"
+              ]
             }
           ]
         },
@@ -1239,7 +1367,21 @@
                 "Paper money, silk made in large amounts for sale, and imports from other provinces show goods were bought and sold across a large market, not just made for local use."
               ],
               "earns": "You accurately describe any trade-related detail from the passage (paper money, large-scale silk production, or merchants importing goods).",
-              "weak": "\"Polo says it was a nice city.\" This is not evidence of commerce."
+              "weak": "\"Polo says it was a nice city.\" This is not evidence of commerce.",
+              "check": [
+                [
+                  "paper money",
+                  "silk",
+                  "merchants",
+                  "import",
+                  "imported",
+                  "currency",
+                  "goods"
+                ]
+              ],
+              "checkLabels": [
+                "Names a trade detail from the passage (paper money, silk, imports)"
+              ]
             },
             {
               "k": "B",
@@ -1252,7 +1394,56 @@
                 "Merchants no longer had to haul heavy copper coins over dangerous routes, so they could make larger deals over longer distances, which increased trade along the Silk Roads."
               ],
               "earns": "You name a specific innovation (flying cash, paper money, bills of exchange, banking houses) and explain how it made long-distance trade easier or safer.",
-              "weak": "\"Money made trade easier.\" This does not name a specific innovation or explain how it helped. Also remember these credit tools were existing technologies that were improved and spread, not brand-new inventions of 1200."
+              "weak": "\"Money made trade easier.\" This does not name a specific innovation or explain how it helped. Also remember these credit tools were existing technologies that were improved and spread, not brand-new inventions of 1200.",
+              "check": [
+                [
+                  "flying cash",
+                  "paper money",
+                  "bills of exchange",
+                  "banking",
+                  "banks",
+                  "credit"
+                ],
+                [
+                  "because",
+                  "as",
+                  "sparking",
+                  "angered",
+                  "drained",
+                  "weakened",
+                  "divided",
+                  "created",
+                  "spread",
+                  "ended",
+                  "so",
+                  "so that",
+                  "which",
+                  "this meant",
+                  "this let",
+                  "this made",
+                  "this gave",
+                  "this allowed",
+                  "led to",
+                  "leading to",
+                  "allowed",
+                  "let",
+                  "made",
+                  "helped",
+                  "as a result",
+                  "therefore",
+                  "since",
+                  "meaning",
+                  "caused",
+                  "resulted",
+                  "enabled",
+                  "by",
+                  "through"
+                ]
+              ],
+              "checkLabels": [
+                "Names an innovation (flying cash, paper money, bills of exchange, banking)",
+                "Explains how or why (because, so, which, led to)"
+              ]
             },
             {
               "k": "C",
@@ -1265,7 +1456,60 @@
                 "As an outsider focused on trade, he may have exaggerated or ignored parts of Chinese society that did not interest merchants, so historians must check his account against Chinese sources."
               ],
               "earns": "You identify something specific about Polo (a merchant, a Venetian, an outsider, writing for Europeans) and explain how it could limit what the source shows.",
-              "weak": "\"He might be biased.\" This does not explain why or how his point of view matters."
+              "weak": "\"He might be biased.\" This does not explain why or how his point of view matters.",
+              "check": [
+                [
+                  "merchant",
+                  "venetian",
+                  "venice",
+                  "outsider",
+                  "foreign",
+                  "foreigner",
+                  "european",
+                  "europeans",
+                  "italy",
+                  "kublai"
+                ],
+                [
+                  "because",
+                  "as",
+                  "sparking",
+                  "angered",
+                  "drained",
+                  "weakened",
+                  "divided",
+                  "created",
+                  "spread",
+                  "ended",
+                  "so",
+                  "so that",
+                  "which",
+                  "this meant",
+                  "this let",
+                  "this made",
+                  "this gave",
+                  "this allowed",
+                  "led to",
+                  "leading to",
+                  "allowed",
+                  "let",
+                  "made",
+                  "helped",
+                  "as a result",
+                  "therefore",
+                  "since",
+                  "meaning",
+                  "caused",
+                  "resulted",
+                  "enabled",
+                  "by",
+                  "through"
+                ]
+              ],
+              "checkLabels": [
+                "Names something about Polo (merchant, Venetian, outsider, writing for Europeans)",
+                "Explains how or why (because, so, which, led to)"
+              ]
             }
           ]
         },
@@ -1286,7 +1530,22 @@
                 "This shows trans-Saharan trade was a two-way exchange built on the different resources of North Africa and West Africa."
               ],
               "earns": "You accurately describe a pattern in the data (two-way exchange, salt traded for gold, or different regions supplying different goods).",
-              "weak": "\"There were many goods.\" This is not a pattern from the table."
+              "weak": "\"There were many goods.\" This is not a pattern from the table.",
+              "check": [
+                [
+                  "two-way",
+                  "both directions",
+                  "salt",
+                  "gold",
+                  "north",
+                  "south",
+                  "different goods",
+                  "exchange"
+                ]
+              ],
+              "checkLabels": [
+                "Describes a pattern in the table (two-way exchange, salt for gold)"
+              ]
             },
             {
               "k": "B",
@@ -1299,7 +1558,58 @@
                 "This let large caravans move heavy goods such as salt from oasis to oasis across the desert, which made regular long-distance trade possible."
               ],
               "earns": "You name a specific factor (the camel saddle, camels, caravans, or oases) and explain how it made desert trade possible or bigger.",
-              "weak": "\"Camels helped.\" This does not explain how. Also avoid saying the saddle started the trade; it improved an existing trade."
+              "weak": "\"Camels helped.\" This does not explain how. Also avoid saying the saddle started the trade; it improved an existing trade.",
+              "check": [
+                [
+                  "camel saddle",
+                  "saddle",
+                  "camel",
+                  "camels",
+                  "caravan",
+                  "caravans",
+                  "oasis",
+                  "oases"
+                ],
+                [
+                  "because",
+                  "as",
+                  "sparking",
+                  "angered",
+                  "drained",
+                  "weakened",
+                  "divided",
+                  "created",
+                  "spread",
+                  "ended",
+                  "so",
+                  "so that",
+                  "which",
+                  "this meant",
+                  "this let",
+                  "this made",
+                  "this gave",
+                  "this allowed",
+                  "led to",
+                  "leading to",
+                  "allowed",
+                  "let",
+                  "made",
+                  "helped",
+                  "as a result",
+                  "therefore",
+                  "since",
+                  "meaning",
+                  "caused",
+                  "resulted",
+                  "enabled",
+                  "by",
+                  "through"
+                ]
+              ],
+              "checkLabels": [
+                "Names a factor (camel saddle, camels, caravans, oases)",
+                "Explains how or why (because, so, which, led to)"
+              ]
             },
             {
               "k": "C",
@@ -1312,7 +1622,59 @@
                 "Timbuktu became a center of Islamic learning, which spread Islam and increased the prestige and power of Mali's rulers."
               ],
               "earns": "You give one specific effect (Mali's rise and wealth, Mansa Musa, Timbuktu, or the spread of Islam through merchants) and connect it to the growth of trade.",
-              "weak": "\"Mali got rich.\" This does not explain how trade caused it or give specific evidence."
+              "weak": "\"Mali got rich.\" This does not explain how trade caused it or give specific evidence.",
+              "check": [
+                [
+                  "mali",
+                  "mansa musa",
+                  "timbuktu",
+                  "islam",
+                  "muslim",
+                  "wealth",
+                  "wealthy",
+                  "mosques",
+                  "scholars"
+                ],
+                [
+                  "because",
+                  "as",
+                  "sparking",
+                  "angered",
+                  "drained",
+                  "weakened",
+                  "divided",
+                  "created",
+                  "spread",
+                  "ended",
+                  "so",
+                  "so that",
+                  "which",
+                  "this meant",
+                  "this let",
+                  "this made",
+                  "this gave",
+                  "this allowed",
+                  "led to",
+                  "leading to",
+                  "allowed",
+                  "let",
+                  "made",
+                  "helped",
+                  "as a result",
+                  "therefore",
+                  "since",
+                  "meaning",
+                  "caused",
+                  "resulted",
+                  "enabled",
+                  "by",
+                  "through"
+                ]
+              ],
+              "checkLabels": [
+                "Names an effect (Mali, Mansa Musa, Timbuktu, the spread of Islam)",
+                "Explains how or why (because, so, which, led to)"
+              ]
             }
           ]
         },
@@ -1333,7 +1695,21 @@
                 "Sending more than 300 ships carrying about 28,000 people showed foreign rulers China's strength and gained tribute for the emperor."
               ],
               "earns": "You name a purpose stated in the passage (displaying Ming power or collecting tribute).",
-              "weak": "\"To explore.\" The passage does not say this, and the question asks for a purpose according to the excerpt."
+              "weak": "\"To explore.\" The passage does not say this, and the question asks for a purpose according to the excerpt.",
+              "check": [
+                [
+                  "power",
+                  "might",
+                  "tribute",
+                  "display",
+                  "displayed",
+                  "show",
+                  "showed"
+                ]
+              ],
+              "checkLabels": [
+                "Names a purpose from the passage (showing Ming power, collecting tribute)"
+              ]
             },
             {
               "k": "B",
@@ -1346,7 +1722,59 @@
                 "This let the fleet time its voyages, steer across open water, and sail to existing trading ports instead of exploring from scratch."
               ],
               "earns": "You name a specific earlier development (monsoon knowledge, the compass, the astrolabe, the rudder, lateen sails, junks, or established ports) and explain how it enabled the voyages.",
-              "weak": "\"Zheng He started trade across the ocean.\" This is incorrect; Indian Ocean trade was centuries old, and Zheng He's voyages built on it."
+              "weak": "\"Zheng He started trade across the ocean.\" This is incorrect; Indian Ocean trade was centuries old, and Zheng He's voyages built on it.",
+              "check": [
+                [
+                  "monsoon",
+                  "compass",
+                  "astrolabe",
+                  "rudder",
+                  "lateen",
+                  "junk",
+                  "junks",
+                  "ports",
+                  "port"
+                ],
+                [
+                  "because",
+                  "as",
+                  "sparking",
+                  "angered",
+                  "drained",
+                  "weakened",
+                  "divided",
+                  "created",
+                  "spread",
+                  "ended",
+                  "so",
+                  "so that",
+                  "which",
+                  "this meant",
+                  "this let",
+                  "this made",
+                  "this gave",
+                  "this allowed",
+                  "led to",
+                  "leading to",
+                  "allowed",
+                  "let",
+                  "made",
+                  "helped",
+                  "as a result",
+                  "therefore",
+                  "since",
+                  "meaning",
+                  "caused",
+                  "resulted",
+                  "enabled",
+                  "by",
+                  "through"
+                ]
+              ],
+              "checkLabels": [
+                "Names an earlier development (monsoons, compass, astrolabe, rudder, junks, ports)",
+                "Explains how or why (because, so, which, led to)"
+              ]
             },
             {
               "k": "C",
@@ -1359,7 +1787,57 @@
                 "Because the court valued China's stable, agrarian society over overseas expansion and thought the cost was not worth it, it stopped funding the fleets."
               ],
               "earns": "You give a specific reason (Confucian opposition to foreign contact, the cost of the fleets, or the successor's policy against overseas sailing) and explain how it led to the end of the voyages.",
-              "weak": "\"They didn't want to do it anymore.\" This gives no reason and no evidence."
+              "weak": "\"They didn't want to do it anymore.\" This gives no reason and no evidence.",
+              "check": [
+                [
+                  "confucian",
+                  "confucianism",
+                  "cost",
+                  "costs",
+                  "expensive",
+                  "successor",
+                  "money"
+                ],
+                [
+                  "because",
+                  "as",
+                  "sparking",
+                  "angered",
+                  "drained",
+                  "weakened",
+                  "divided",
+                  "created",
+                  "spread",
+                  "ended",
+                  "so",
+                  "so that",
+                  "which",
+                  "this meant",
+                  "this let",
+                  "this made",
+                  "this gave",
+                  "this allowed",
+                  "led to",
+                  "leading to",
+                  "allowed",
+                  "let",
+                  "made",
+                  "helped",
+                  "as a result",
+                  "therefore",
+                  "since",
+                  "meaning",
+                  "caused",
+                  "resulted",
+                  "enabled",
+                  "by",
+                  "through"
+                ]
+              ],
+              "checkLabels": [
+                "Names a reason (Confucian opposition, the cost, the new emperor's policy)",
+                "Explains how or why (because, so, which, led to)"
+              ]
             }
           ]
         },
@@ -1380,7 +1858,24 @@
                 "Ships could carry far more weight than camels, so sea trade moved a wider range of products than overland trade."
               ],
               "earns": "You accurately describe a difference shown in the table (terrain, transport, technology, or goods) between two named networks.",
-              "weak": "\"They were different.\" This does not name the networks or any specific difference."
+              "weak": "\"They were different.\" This does not name the networks or any specific difference.",
+              "check": [
+                [
+                  "overland",
+                  "land",
+                  "sea",
+                  "caravan",
+                  "ships",
+                  "terrain",
+                  "technology",
+                  "goods",
+                  "luxury",
+                  "bulky"
+                ]
+              ],
+              "checkLabels": [
+                "Describes a difference shown in the table (land vs. sea, transport, goods)"
+              ]
             },
             {
               "k": "B",
@@ -1393,7 +1888,62 @@
                 "Cities where routes met earned money from taxes, markets, and services for merchants, so trade built urban wealth in both networks."
               ],
               "earns": "You name a specific similarity (growth built on existing routes, state protection, improved technology, trading cities, diasporic merchant communities, or the spread of religions) and support it with evidence from both networks.",
-              "weak": "\"Both traded things.\" This is too general and gives no evidence from either network."
+              "weak": "\"Both traded things.\" This is too general and gives no evidence from either network.",
+              "check": [
+                [
+                  "cities",
+                  "city",
+                  "samarkand",
+                  "calicut",
+                  "protection",
+                  "protected",
+                  "technology",
+                  "diasporic",
+                  "merchant communities",
+                  "religion",
+                  "religions",
+                  "existing routes"
+                ],
+                [
+                  "because",
+                  "as",
+                  "sparking",
+                  "angered",
+                  "drained",
+                  "weakened",
+                  "divided",
+                  "created",
+                  "spread",
+                  "ended",
+                  "so",
+                  "so that",
+                  "which",
+                  "this meant",
+                  "this let",
+                  "this made",
+                  "this gave",
+                  "this allowed",
+                  "led to",
+                  "leading to",
+                  "allowed",
+                  "let",
+                  "made",
+                  "helped",
+                  "as a result",
+                  "therefore",
+                  "since",
+                  "meaning",
+                  "caused",
+                  "resulted",
+                  "enabled",
+                  "by",
+                  "through"
+                ]
+              ],
+              "checkLabels": [
+                "Names a similarity (trading cities, state protection, technology, merchant communities)",
+                "Explains how or why (because, so, which, led to)"
+              ]
             },
             {
               "k": "C",
@@ -1406,7 +1956,68 @@
                 "These tools let ships use the winds and navigate open water out of sight of land, which made regular ocean crossings possible. (Another strong answer: in the Sahara, scarce water made camels and load-bearing saddles essential.)"
               ],
               "earns": "You link a specific geographic feature (monsoon winds, open sea, desert, scarce water, mountains) to a specific technology and explain why the technology fit that geography.",
-              "weak": "\"Geography mattered a lot.\" This names no feature, technology, or link between them."
+              "weak": "\"Geography mattered a lot.\" This names no feature, technology, or link between them.",
+              "check": [
+                [
+                  "monsoon",
+                  "open sea",
+                  "desert",
+                  "water",
+                  "mountains"
+                ],
+                [
+                  "lateen",
+                  "compass",
+                  "astrolabe",
+                  "camel",
+                  "saddle",
+                  "caravan",
+                  "dhow",
+                  "junk",
+                  "sail",
+                  "ship"
+                ],
+                [
+                  "because",
+                  "as",
+                  "sparking",
+                  "angered",
+                  "drained",
+                  "weakened",
+                  "divided",
+                  "created",
+                  "spread",
+                  "ended",
+                  "so",
+                  "so that",
+                  "which",
+                  "this meant",
+                  "this let",
+                  "this made",
+                  "this gave",
+                  "this allowed",
+                  "led to",
+                  "leading to",
+                  "allowed",
+                  "let",
+                  "made",
+                  "helped",
+                  "as a result",
+                  "therefore",
+                  "since",
+                  "meaning",
+                  "caused",
+                  "resulted",
+                  "enabled",
+                  "by",
+                  "through"
+                ]
+              ],
+              "checkLabels": [
+                "Names a geographic feature (monsoon winds, desert, open sea)",
+                "Names a technology (lateen sail, compass, camel saddle)",
+                "Explains how or why (because, so, which, led to)"
+              ]
             }
           ]
         },
@@ -1427,7 +2038,23 @@
                 "This focus on holy places and emotional devotion suggests she meant it for religious readers who valued pilgrimage and spiritual experience."
               ],
               "earns": "You describe a plausible audience (such as Christian readers, other pilgrims, or members of her community) and tie it to the content of the account.",
-              "weak": "\"Many people.\" This names no audience and does not connect to the source."
+              "weak": "\"Many people.\" This names no audience and does not connect to the source.",
+              "check": [
+                [
+                  "christian",
+                  "christians",
+                  "pilgrim",
+                  "pilgrims",
+                  "community",
+                  "readers",
+                  "believers",
+                  "devout",
+                  "religious"
+                ]
+              ],
+              "checkLabels": [
+                "Names a plausible audience (Christian readers, other pilgrims)"
+              ]
             },
             {
               "k": "B",
@@ -1440,7 +2067,58 @@
                 "Pilgrims could travel on the same routes, ports, and roads that merchants used, so reaching Jerusalem and Rome was practical."
               ],
               "earns": "You name a specific route or development (Mediterranean sea routes, overland routes across Europe, merchant networks, or contact increased by the Crusades) and explain how it made travel possible.",
-              "weak": "\"Travel was easier then.\" This is vague and gives no specific route or development."
+              "weak": "\"Travel was easier then.\" This is vague and gives no specific route or development.",
+              "check": [
+                [
+                  "mediterranean",
+                  "sea routes",
+                  "overland",
+                  "routes",
+                  "merchant",
+                  "merchants",
+                  "crusades",
+                  "ships"
+                ],
+                [
+                  "because",
+                  "as",
+                  "sparking",
+                  "angered",
+                  "drained",
+                  "weakened",
+                  "divided",
+                  "created",
+                  "spread",
+                  "ended",
+                  "so",
+                  "so that",
+                  "which",
+                  "this meant",
+                  "this let",
+                  "this made",
+                  "this gave",
+                  "this allowed",
+                  "led to",
+                  "leading to",
+                  "allowed",
+                  "let",
+                  "made",
+                  "helped",
+                  "as a result",
+                  "therefore",
+                  "since",
+                  "meaning",
+                  "caused",
+                  "resulted",
+                  "enabled",
+                  "by",
+                  "through"
+                ]
+              ],
+              "checkLabels": [
+                "Names a route or development (Mediterranean sea routes, overland routes, the Crusades)",
+                "Explains how or why (because, so, which, led to)"
+              ]
             },
             {
               "k": "C",
@@ -1453,7 +2131,25 @@
                 "Their different identities and purposes shaped what each author chose to notice and record."
               ],
               "earns": "You identify a specific difference in focus or purpose and tie it to each author's identity (merchant versus religious pilgrim).",
-              "weak": "\"They were different people.\" This does not explain how their points of view shaped their accounts."
+              "weak": "\"They were different people.\" This does not explain how their points of view shaped their accounts.",
+              "check": [
+                [
+                  "merchant",
+                  "trade"
+                ],
+                [
+                  "pilgrim",
+                  "religious",
+                  "religion",
+                  "christian",
+                  "visions",
+                  "devotion"
+                ]
+              ],
+              "checkLabels": [
+                "Ties Polo to trade (merchant)",
+                "Ties Kempe to religion (pilgrim)"
+              ]
             }
           ]
         },
@@ -1474,7 +2170,23 @@
                 "Because each region has its own name and shading, the map shows the empire had split into separate khanates ruled by different branches of the family."
               ],
               "earns": "You accurately describe the division using a detail visible on the map (named khanates or regions), not just the idea that it was big.",
-              "weak": "\"The Mongols had a lot of land.\" This does not describe division or use a detail from the map."
+              "weak": "\"The Mongols had a lot of land.\" This does not describe division or use a detail from the map.",
+              "check": [
+                [
+                  "khanate",
+                  "khanates",
+                  "chaghatai",
+                  "ilkhan",
+                  "golden horde",
+                  "kipchak",
+                  "yuan",
+                  "regions",
+                  "four"
+                ]
+              ],
+              "checkLabels": [
+                "Uses a detail on the map (named khanates or regions)"
+              ]
             },
             {
               "k": "B",
@@ -1487,7 +2199,60 @@
                 "With safer travel under one authority, merchants could move goods farther with less risk, increasing trade between East Asia, the Middle East, and Europe."
               ],
               "earns": "You name a specific Mongol policy or condition (safer roads, protection of merchants, unified control of the routes, the Pax Mongolica) and explain how it increased or changed trade.",
-              "weak": "\"The Mongols helped trade.\" This gives no specific action and no explanation."
+              "weak": "\"The Mongols helped trade.\" This gives no specific action and no explanation.",
+              "check": [
+                [
+                  "safer",
+                  "safe",
+                  "roads",
+                  "protection",
+                  "protected",
+                  "merchants",
+                  "unified",
+                  "one ruling family",
+                  "pax mongolica",
+                  "bandits"
+                ],
+                [
+                  "because",
+                  "as",
+                  "sparking",
+                  "angered",
+                  "drained",
+                  "weakened",
+                  "divided",
+                  "created",
+                  "spread",
+                  "ended",
+                  "so",
+                  "so that",
+                  "which",
+                  "this meant",
+                  "this let",
+                  "this made",
+                  "this gave",
+                  "this allowed",
+                  "led to",
+                  "leading to",
+                  "allowed",
+                  "let",
+                  "made",
+                  "helped",
+                  "as a result",
+                  "therefore",
+                  "since",
+                  "meaning",
+                  "caused",
+                  "resulted",
+                  "enabled",
+                  "by",
+                  "through"
+                ]
+              ],
+              "checkLabels": [
+                "Names a Mongol policy (safer roads, protecting merchants, Pax Mongolica)",
+                "Explains how or why (because, so, which, led to)"
+              ]
             },
             {
               "k": "C",
@@ -1500,7 +2265,57 @@
                 "Mongol control linked China, Southwest Asia, and Europe, so ideas, tools, and diseases traveled along the same connected routes."
               ],
               "earns": "You name a specific technology or disease (gunpowder, paper, printing, compass, bubonic plague) and explain how Mongol-linked routes carried it between regions.",
-              "weak": "\"Things spread because the empire was big.\" This names no technology or disease and no mechanism."
+              "weak": "\"Things spread because the empire was big.\" This names no technology or disease and no mechanism.",
+              "check": [
+                [
+                  "gunpowder",
+                  "paper",
+                  "papermaking",
+                  "printing",
+                  "compass",
+                  "plague",
+                  "black death"
+                ],
+                [
+                  "because",
+                  "as",
+                  "sparking",
+                  "angered",
+                  "drained",
+                  "weakened",
+                  "divided",
+                  "created",
+                  "spread",
+                  "ended",
+                  "so",
+                  "so that",
+                  "which",
+                  "this meant",
+                  "this let",
+                  "this made",
+                  "this gave",
+                  "this allowed",
+                  "led to",
+                  "leading to",
+                  "allowed",
+                  "let",
+                  "made",
+                  "helped",
+                  "as a result",
+                  "therefore",
+                  "since",
+                  "meaning",
+                  "caused",
+                  "resulted",
+                  "enabled",
+                  "by",
+                  "through"
+                ]
+              ],
+              "checkLabels": [
+                "Names a technology or disease (gunpowder, paper, plague)",
+                "Explains how or why (because, so, which, led to)"
+              ]
             }
           ]
         },
@@ -1521,7 +2336,22 @@
                 "Because ships going between the two regions had to pass through it, whoever controlled the strait could profit from the trade."
               ],
               "earns": "You describe a geographic feature shown on the map (a narrow strait linking two seas, the shortest route between East and Southwest Asia) and tie it to trade.",
-              "weak": "\"It was near water.\" This is too vague and does not use the map."
+              "weak": "\"It was near water.\" This is too vague and does not use the map.",
+              "check": [
+                [
+                  "narrow",
+                  "strait",
+                  "two seas",
+                  "shortest",
+                  "south china sea",
+                  "indian ocean",
+                  "malay",
+                  "sumatra"
+                ]
+              ],
+              "checkLabels": [
+                "Describes a feature on the map (narrow strait, shortest route)"
+              ]
             },
             {
               "k": "B",
@@ -1534,7 +2364,56 @@
                 "Running a navy and collecting fees required centralized planning, so trade increased the power of Malacca's government."
               ],
               "earns": "You name a specific city or state (Malacca, Gujarat, Swahili city-states such as Kilwa or Mombasa, Calicut) and explain how trade changed it (wealth, customs, centralization, growth).",
-              "weak": "\"Trade made cities rich.\" This names no city and gives no explanation."
+              "weak": "\"Trade made cities rich.\" This names no city and gives no explanation.",
+              "check": [
+                [
+                  "malacca",
+                  "gujarat",
+                  "swahili",
+                  "kilwa",
+                  "mombasa",
+                  "calicut"
+                ],
+                [
+                  "because",
+                  "as",
+                  "sparking",
+                  "angered",
+                  "drained",
+                  "weakened",
+                  "divided",
+                  "created",
+                  "spread",
+                  "ended",
+                  "so",
+                  "so that",
+                  "which",
+                  "this meant",
+                  "this let",
+                  "this made",
+                  "this gave",
+                  "this allowed",
+                  "led to",
+                  "leading to",
+                  "allowed",
+                  "let",
+                  "made",
+                  "helped",
+                  "as a result",
+                  "therefore",
+                  "since",
+                  "meaning",
+                  "caused",
+                  "resulted",
+                  "enabled",
+                  "by",
+                  "through"
+                ]
+              ],
+              "checkLabels": [
+                "Names a city or state (Malacca, Gujarat, Kilwa, Calicut)",
+                "Explains how or why (because, so, which, led to)"
+              ]
             },
             {
               "k": "C",
@@ -1547,7 +2426,56 @@
                 "These let ships sail across open water on a predictable schedule and find their way to ports such as Malacca."
               ],
               "earns": "You name a specific technology or knowledge (lateen sail, monsoon wind knowledge, compass, astrolabe, dhow, junk) and explain how it made the voyage possible.",
-              "weak": "\"They had good ships.\" This names no technology and does not explain."
+              "weak": "\"They had good ships.\" This names no technology and does not explain.",
+              "check": [
+                [
+                  "lateen",
+                  "monsoon",
+                  "compass",
+                  "astrolabe",
+                  "dhow",
+                  "junk"
+                ],
+                [
+                  "because",
+                  "as",
+                  "sparking",
+                  "angered",
+                  "drained",
+                  "weakened",
+                  "divided",
+                  "created",
+                  "spread",
+                  "ended",
+                  "so",
+                  "so that",
+                  "which",
+                  "this meant",
+                  "this let",
+                  "this made",
+                  "this gave",
+                  "this allowed",
+                  "led to",
+                  "leading to",
+                  "allowed",
+                  "let",
+                  "made",
+                  "helped",
+                  "as a result",
+                  "therefore",
+                  "since",
+                  "meaning",
+                  "caused",
+                  "resulted",
+                  "enabled",
+                  "by",
+                  "through"
+                ]
+              ],
+              "checkLabels": [
+                "Names a technology or knowledge (lateen sail, monsoons, compass, astrolabe)",
+                "Explains how or why (because, so, which, led to)"
+              ]
             }
           ]
         }
@@ -2007,7 +2935,20 @@
                 "Because ships traveling between India and China had to pass through the strait, the fees created a steady stream of income."
               ],
               "earns": "You accurately describe a way stated in the passage (fees on passing ships, or building a navy to keep the strait safe so trade would continue).",
-              "weak": "\"They traded a lot.\" This does not describe how the location produced wealth."
+              "weak": "\"They traded a lot.\" This does not describe how the location produced wealth.",
+              "check": [
+                [
+                  "fees",
+                  "fee",
+                  "charging",
+                  "navy",
+                  "taxes",
+                  "tolls"
+                ]
+              ],
+              "checkLabels": [
+                "Names a way from the passage (fees on ships, a navy)"
+              ]
             },
             {
               "k": "B",
@@ -2020,7 +2961,26 @@
                 "Waiting merchants bought, sold, and paid fees, so the city's population and wealth grew."
               ],
               "earns": "You link monsoon timing to a specific consequence for trading cities (merchants waiting in port, ports becoming meeting points, more trade and wealth).",
-              "weak": "\"The wind helped them sail.\" This does not explain how the winds helped cities grow."
+              "weak": "\"The wind helped them sail.\" This does not explain how the winds helped cities grow.",
+              "check": [
+                [
+                  "monsoon",
+                  "winds"
+                ],
+                [
+                  "wait",
+                  "waiting",
+                  "stop",
+                  "stay",
+                  "meeting",
+                  "port",
+                  "ports"
+                ]
+              ],
+              "checkLabels": [
+                "Mentions the monsoon winds",
+                "Links them to merchants waiting in port"
+              ]
             },
             {
               "k": "C",
@@ -2033,7 +2993,33 @@
                 "Local cultures also influenced the merchants, producing blended cultures such as Swahili language and culture."
               ],
               "earns": "You name a specific community or place and a specific cultural effect (the spread of Islam, a blended language, intermarriage, or two-way influence).",
-              "weak": "\"Different people lived together.\" This names no specific community or effect."
+              "weak": "\"Different people lived together.\" This names no specific community or effect.",
+              "check": [
+                [
+                  "arab",
+                  "persian",
+                  "swahili",
+                  "indian",
+                  "chinese",
+                  "merchants",
+                  "community"
+                ],
+                [
+                  "islam",
+                  "language",
+                  "arabic",
+                  "swahili",
+                  "intermarriage",
+                  "married",
+                  "blended",
+                  "religion",
+                  "culture"
+                ]
+              ],
+              "checkLabels": [
+                "Names a community or place",
+                "Names a cultural effect (Islam, language, intermarriage)"
+              ]
             }
           ]
         },
@@ -2054,7 +3040,23 @@
                 "This shows a city's fortunes depended on political security and its food supply as well as on trade."
               ],
               "earns": "You accurately describe a pattern in the table (growth and decline factors mirror each other, or stability, commerce, and farming matter in both lists).",
-              "weak": "\"There are many factors.\" This is not a pattern from the table."
+              "weak": "\"There are many factors.\" This is not a pattern from the table.",
+              "check": [
+                [
+                  "opposite",
+                  "mirror",
+                  "growth",
+                  "decline",
+                  "stability",
+                  "farm",
+                  "farming",
+                  "agricultural",
+                  "commerce"
+                ]
+              ],
+              "checkLabels": [
+                "Describes a pattern in the table"
+              ]
             },
             {
               "k": "B",
@@ -2067,7 +3069,62 @@
                 "The wealth and Islamic learning drew merchants and scholars, which made Timbuktu a major center of trade and learning. (Other strong answers: Samarkand, Kashgar, Hangzhou, Malacca.)"
               ],
               "earns": "You name a specific city and explain how a trade network caused its growth.",
-              "weak": "\"Trade made cities bigger.\" This names no city and gives no specific link."
+              "weak": "\"Trade made cities bigger.\" This names no city and gives no specific link.",
+              "check": [
+                [
+                  "timbuktu",
+                  "samarkand",
+                  "calicut",
+                  "malacca",
+                  "hangzhou",
+                  "kilwa",
+                  "venice",
+                  "baghdad",
+                  "cairo",
+                  "mombasa",
+                  "gujarat",
+                  "constantinople"
+                ],
+                [
+                  "because",
+                  "as",
+                  "sparking",
+                  "angered",
+                  "drained",
+                  "weakened",
+                  "divided",
+                  "created",
+                  "spread",
+                  "ended",
+                  "so",
+                  "so that",
+                  "which",
+                  "this meant",
+                  "this let",
+                  "this made",
+                  "this gave",
+                  "this allowed",
+                  "led to",
+                  "leading to",
+                  "allowed",
+                  "let",
+                  "made",
+                  "helped",
+                  "as a result",
+                  "therefore",
+                  "since",
+                  "meaning",
+                  "caused",
+                  "resulted",
+                  "enabled",
+                  "by",
+                  "through"
+                ]
+              ],
+              "checkLabels": [
+                "Names a specific city",
+                "Explains how or why (because, so, which, led to)"
+              ]
             },
             {
               "k": "C",
@@ -2080,7 +3137,33 @@
                 "The destruction of the city and its people ended its role as a major political and trading center. (Other strong answers: Constantinople after 1204 and plague; Kashgar after Tamerlane's attacks.)"
               ],
               "earns": "You name a specific city and give a specific cause of its decline (invasion, plague, or political instability) with evidence.",
-              "weak": "\"Cities declined because of problems.\" This names no city or cause."
+              "weak": "\"Cities declined because of problems.\" This names no city or cause.",
+              "check": [
+                [
+                  "baghdad",
+                  "constantinople",
+                  "kaifeng",
+                  "cairo",
+                  "venice",
+                  "samarkand",
+                  "timbuktu",
+                  "hangzhou"
+                ],
+                [
+                  "invasion",
+                  "invaded",
+                  "sacked",
+                  "plague",
+                  "instability",
+                  "war",
+                  "mongols",
+                  "crusaders"
+                ]
+              ],
+              "checkLabels": [
+                "Names a specific city",
+                "Names a cause (invasion, plague, instability)"
+              ]
             }
           ]
         }

@@ -1320,7 +1320,32 @@
         "This ended the Byzantine Empire and gave the Ottomans a major trade center, which made the empire richer and stronger."
        ],
        "earns": "You name a specific empire and a specific gunpowder event, and explain how the weapons led to the gain.",
-       "weak": "\"Gunpowder made empires strong.\" Too general: name the empire, the event and how it helped."
+       "weak": "\"Gunpowder made empires strong.\" Too general: name the empire, the event and how it helped.",
+       "check": [
+        [
+         "ottoman",
+         "ottomans",
+         "mughal",
+         "mughals",
+         "safavid",
+         "russia",
+         "morocco",
+         "constantinople",
+         "mehmed"
+        ],
+        [
+         "cannon",
+         "cannons",
+         "gunpowder",
+         "artillery",
+         "muskets",
+         "firearms"
+        ]
+       ],
+       "checkLabels": [
+        "Names an empire or event",
+        "Names the gunpowder weapon"
+       ]
       },
       {
        "k": "B",
@@ -1333,7 +1358,23 @@
         "This victory founded the Mughal Empire, which Akbar then expanded across northern India."
        ],
        "earns": "A different empire from part A, with its own event (Panipat, Chaldiran, Tondibi, Cossacks in Siberia).",
-       "weak": "Repeating the empire from part A, or naming a battle without saying what gunpowder did."
+       "weak": "Repeating the empire from part A, or naming a battle without saying what gunpowder did.",
+       "check": [
+        [
+         "panipat",
+         "chaldiran",
+         "tondibi",
+         "cossacks",
+         "siberia",
+         "babur",
+         "mughal",
+         "morocco",
+         "russia"
+        ]
+       ],
+       "checkLabels": [
+        "Names a different empire's event (Panipat, Chaldiran, Tondibi, Siberia)"
+       ]
       }
      ]
     }
@@ -1698,7 +1739,22 @@
         "Both built a class of officials who owed their position to the ruler, not to noble families."
        ],
        "earns": "Two different empires, each with a correct administration example.",
-       "weak": "Two examples from the same empire, or a revenue example like tax farming."
+       "weak": "Two examples from the same empire, or a revenue example like tax farming.",
+       "check": [
+        [
+         "devshirme",
+         "janissaries",
+         "table of ranks",
+         "bureaucracy",
+         "civil service",
+         "exam",
+         "intendants",
+         "officials"
+        ]
+       ],
+       "checkLabels": [
+        "Names an administration example (devshirme, Table of Ranks, intendants)"
+       ]
       },
       {
        "k": "B",
@@ -1711,7 +1767,23 @@
         "Both used religion to make obeying the ruler a religious duty."
        ],
        "earns": "Two different empires or regions, each using religion or architecture to justify rule.",
-       "weak": "Naming a building without saying how it showed the ruler's power."
+       "weak": "Naming a building without saying how it showed the ruler's power.",
+       "check": [
+        [
+         "caliph",
+         "divine right",
+         "mandate of heaven",
+         "taj mahal",
+         "versailles",
+         "portraits",
+         "temples",
+         "sacrifice",
+         "religion"
+        ]
+       ],
+       "checkLabels": [
+        "Names a legitimacy example (caliph, divine right, Mandate of Heaven, architecture)"
+       ]
       },
       {
        "k": "C",
@@ -1724,7 +1796,21 @@
         "In both, someone other than the central government did the collecting and kept part."
        ],
        "earns": "Two different empires' systems, such as tax farming, zamindars or tribute.",
-       "weak": "Mixing up which system belongs to which empire."
+       "weak": "Mixing up which system belongs to which empire.",
+       "check": [
+        [
+         "tax farming",
+         "tax farmers",
+         "zamindar",
+         "zamindars",
+         "tribute",
+         "jizya",
+         "taxes"
+        ]
+       ],
+       "checkLabels": [
+        "Names a revenue system (tax farming, zamindars, tribute)"
+       ]
       }
      ]
     }
@@ -2061,7 +2147,20 @@
         "This meant Catholic belief stayed the same even as the Church fixed corruption."
        ],
        "earns": "A specific thing that stayed the same, with evidence such as Trent or the Sunni Ottomans.",
-       "weak": "Saying \"religion stayed important\" with no evidence."
+       "weak": "Saying \"religion stayed important\" with no evidence.",
+       "check": [
+        [
+         "trent",
+         "core teachings",
+         "doctrine",
+         "sunni",
+         "pope",
+         "catholic"
+        ]
+       ],
+       "checkLabels": [
+        "Names something that stayed the same, with evidence (Trent, Sunni Ottomans)"
+       ]
       },
       {
        "k": "B",
@@ -2074,7 +2173,25 @@
         "This broke Western Europe's religious unity and led to wars like the Thirty Years' War."
        ],
        "earns": "A specific change with evidence (the 95 Theses, Jesuit missions, the Sunni–Shi'a rivalry).",
-       "weak": "Describing the change without saying what caused it or what it led to."
+       "weak": "Describing the change without saying what caused it or what it led to.",
+       "check": [
+        [
+         "luther",
+         "95 theses",
+         "ninety-five",
+         "protestant",
+         "reformation",
+         "jesuit",
+         "jesuits",
+         "sunni",
+         "shi'a",
+         "shia",
+         "safavid"
+        ]
+       ],
+       "checkLabels": [
+        "Names a change with evidence (Luther, Jesuits, Sunni–Shi'a split)"
+       ]
       }
      ]
     }
@@ -2444,7 +2561,35 @@
         "This similarity existed because gunpowder weapons, which had spread west from China, let armies beat cavalry and break city walls, so any empire that adopted them could grow quickly."
        ],
        "earns": "A real similarity, two named empires with evidence, and a reason why (not just what).",
-       "weak": "\"Both were big empires.\" Too general, and no explanation of why."
+       "weak": "\"Both were big empires.\" Too general, and no explanation of why.",
+       "check": [
+        [
+         "ottoman",
+         "ottomans",
+         "mughal",
+         "mughals",
+         "safavid",
+         "qing",
+         "russia",
+         "mexica",
+         "inca",
+         "songhai",
+         "morocco"
+        ],
+        [
+         "because",
+         "since",
+         "so",
+         "which",
+         "existed",
+         "let",
+         "allowed"
+        ]
+       ],
+       "checkLabels": [
+        "Names the empires",
+        "Explains why the similarity existed"
+       ]
       }
      ]
     }
@@ -2515,7 +2660,24 @@
         "Firearms let the Ottoman army beat an enemy that still relied on horsemen."
        ],
        "earns": "You name cannons, artillery, firearms or the Janissaries, tied to the passage.",
-       "weak": "\"The Ottomans were stronger.\" Too general; name the weapons or the troops."
+       "weak": "\"The Ottomans were stronger.\" Too general; name the weapons or the troops.",
+       "check": [
+        [
+         "cannons",
+         "cannon",
+         "artillery",
+         "firearms",
+         "guns",
+         "janissary",
+         "janissaries",
+         "muskets",
+         "musketeers",
+         "gunpowder"
+        ]
+       ],
+       "checkLabels": [
+        "Names a military factor from the passage (cannons, Janissaries)"
+       ]
       },
       {
        "k": "B",
@@ -2528,7 +2690,58 @@
         "Because each side saw the other's Islam as heresy, border disputes became religious wars, which made the rivalry long and bitter."
        ],
        "earns": "You identify Sunni Ottomans versus Shi'a Safavids and explain how that difference fueled or intensified the conflict.",
-       "weak": "\"They had different religions.\" Name the branches and explain the effect."
+       "weak": "\"They had different religions.\" Name the branches and explain the effect.",
+       "check": [
+        [
+         "sunni"
+        ],
+        [
+         "shi'a",
+         "shia",
+         "shiite",
+         "shi'ite"
+        ],
+        [
+         "because",
+         "as",
+         "sparking",
+         "angered",
+         "drained",
+         "weakened",
+         "divided",
+         "created",
+         "spread",
+         "ended",
+         "so",
+         "so that",
+         "which",
+         "this meant",
+         "this let",
+         "this made",
+         "this gave",
+         "this allowed",
+         "led to",
+         "leading to",
+         "allowed",
+         "let",
+         "made",
+         "helped",
+         "as a result",
+         "therefore",
+         "since",
+         "meaning",
+         "caused",
+         "resulted",
+         "enabled",
+         "by",
+         "through"
+        ]
+       ],
+       "checkLabels": [
+        "Says the Ottomans were Sunni",
+        "Says the Safavids were Shi'a",
+        "Explains how or why (because, so, which, led to)"
+       ]
       },
       {
        "k": "C",
@@ -2541,7 +2754,23 @@
         "This change let the Safavids reach their height and defend themselves against the Ottomans."
        ],
        "earns": "You describe a specific change (Abbas I's military reforms, ghulams, Isfahan as capital) and explain why it followed the defeat.",
-       "weak": "\"They got better.\" Say what changed and who changed it."
+       "weak": "\"They got better.\" Say what changed and who changed it.",
+       "check": [
+        [
+         "abbas",
+         "ghulam",
+         "ghulams",
+         "isfahan",
+         "muskets",
+         "gunpowder",
+         "artillery",
+         "reform",
+         "reforms"
+        ]
+       ],
+       "checkLabels": [
+        "Names a specific change (Abbas I's reforms, ghulams, Isfahan)"
+       ]
       }
      ],
      "src": "P7"
@@ -2562,7 +2791,27 @@
         "Its size and beauty displayed Mughal wealth and reinforced the ruler's authority."
        ],
        "earns": "Any accurate method with an example: divine right, caliph claim, Mandate of Heaven, human sacrifice, sun temples, imperial portraits, Versailles, Taj Mahal, Askia promoting Islam.",
-       "weak": "\"Rulers built things.\" Name the building and the ruler."
+       "weak": "\"Rulers built things.\" Name the building and the ruler.",
+       "check": [
+        [
+         "divine right",
+         "caliph",
+         "mandate of heaven",
+         "sacrifice",
+         "temple",
+         "temples",
+         "portrait",
+         "portraits",
+         "versailles",
+         "taj mahal",
+         "architecture",
+         "askia",
+         "religion"
+        ]
+       ],
+       "checkLabels": [
+        "Names a method with an example"
+       ]
       },
       {
        "k": "B",
@@ -2575,7 +2824,64 @@
         "In both cases, linking the ruler to God made opposing him look like opposing the faith, which strengthened central authority."
        ],
        "earns": "Two empires, one shared method, and a reason the method worked.",
-       "weak": "Listing two examples without saying how they are alike."
+       "weak": "Listing two examples without saying how they are alike.",
+       "check": [
+        [
+         "ottoman",
+         "ottomans",
+         "mughal",
+         "mughals",
+         "france",
+         "french",
+         "qing",
+         "inca",
+         "mexica",
+         "aztec",
+         "songhai",
+         "safavid",
+         "russia",
+         "spain"
+        ],
+        [
+         "because",
+         "as",
+         "sparking",
+         "angered",
+         "drained",
+         "weakened",
+         "divided",
+         "created",
+         "spread",
+         "ended",
+         "so",
+         "so that",
+         "which",
+         "this meant",
+         "this let",
+         "this made",
+         "this gave",
+         "this allowed",
+         "led to",
+         "leading to",
+         "allowed",
+         "let",
+         "made",
+         "helped",
+         "as a result",
+         "therefore",
+         "since",
+         "meaning",
+         "caused",
+         "resulted",
+         "enabled",
+         "by",
+         "through"
+        ]
+       ],
+       "checkLabels": [
+        "Names the empires",
+        "Explains how or why (because, so, which, led to)"
+       ]
       },
       {
        "k": "C",
@@ -2588,7 +2894,24 @@
         "The Ottoman system taxed the empire's own subjects through a market in collection rights, while the Mexica relied on force and fear over peoples they had conquered."
        ],
        "earns": "Two specific systems from two empires and an explanation of the difference.",
-       "weak": "Describing only one empire."
+       "weak": "Describing only one empire.",
+       "check": [
+        [
+         "tax farming",
+         "tax farmers",
+         "zamindar",
+         "zamindars",
+         "tribute",
+         "jizya",
+         "mit'a",
+         "mita",
+         "encomienda",
+         "taxes"
+        ]
+       ],
+       "checkLabels": [
+        "Names two revenue systems (tax farming, zamindars, tribute)"
+       ]
       }
      ]
     },
@@ -2608,7 +2931,22 @@
         "By saying their power came from God, kings like Louis XIV and James I placed themselves above earthly challenge."
        ],
        "earns": "Any religion example from the table, correctly described.",
-       "weak": "Choosing an art or architecture example for a religion question."
+       "weak": "Choosing an art or architecture example for a religion question.",
+       "check": [
+        [
+         "divine right",
+         "caliph",
+         "mandate of heaven",
+         "sacrifice",
+         "temple",
+         "temples",
+         "religion",
+         "god"
+        ]
+       ],
+       "checkLabels": [
+        "Names a religion example from the table"
+       ]
       },
       {
        "k": "B",
@@ -2621,7 +2959,58 @@
         "Religion, art and architecture gave diverse subjects a reason to accept the ruler beyond military force."
        ],
        "earns": "You connect diversity or conquest to the need for legitimacy, with a specific example.",
-       "weak": "Restating the table without explaining why."
+       "weak": "Restating the table without explaining why.",
+       "check": [
+        [
+         "diverse",
+         "diversity",
+         "many",
+         "groups",
+         "minority",
+         "conquered",
+         "different",
+         "ethnic"
+        ],
+        [
+         "because",
+         "as",
+         "sparking",
+         "angered",
+         "drained",
+         "weakened",
+         "divided",
+         "created",
+         "spread",
+         "ended",
+         "so",
+         "so that",
+         "which",
+         "this meant",
+         "this let",
+         "this made",
+         "this gave",
+         "this allowed",
+         "led to",
+         "leading to",
+         "allowed",
+         "let",
+         "made",
+         "helped",
+         "as a result",
+         "therefore",
+         "since",
+         "meaning",
+         "caused",
+         "resulted",
+         "enabled",
+         "by",
+         "through"
+        ]
+       ],
+       "checkLabels": [
+        "Connects diversity or conquest to the need",
+        "Explains how or why (because, so, which, led to)"
+       ]
       },
       {
        "k": "C",
@@ -2634,7 +3023,56 @@
         "This angered Hindus, Sikhs and others, sparking rebellions that, along with costly wars, drained the empire."
        ],
        "earns": "A specific policy and how it weakened a state (Aurangzeb; Louis XIV's revocation of the Edict of Nantes driving out skilled Huguenots; Jahangir's execution of Guru Arjan).",
-       "weak": "\"Religion caused problems.\" Name the ruler, the policy and the effect."
+       "weak": "\"Religion caused problems.\" Name the ruler, the policy and the effect.",
+       "check": [
+        [
+         "aurangzeb",
+         "jizya",
+         "edict of nantes",
+         "huguenots",
+         "jahangir",
+         "guru arjan"
+        ],
+        [
+         "because",
+         "as",
+         "sparking",
+         "angered",
+         "drained",
+         "weakened",
+         "divided",
+         "created",
+         "spread",
+         "ended",
+         "so",
+         "so that",
+         "which",
+         "this meant",
+         "this let",
+         "this made",
+         "this gave",
+         "this allowed",
+         "led to",
+         "leading to",
+         "allowed",
+         "let",
+         "made",
+         "helped",
+         "as a result",
+         "therefore",
+         "since",
+         "meaning",
+         "caused",
+         "resulted",
+         "enabled",
+         "by",
+         "through"
+        ]
+       ],
+       "checkLabels": [
+        "Names a policy (Aurangzeb's jizya, the Edict of Nantes, Guru Arjan)",
+        "Explains how or why (because, so, which, led to)"
+       ]
       }
      ],
      "src": "T3"
@@ -2655,7 +3093,17 @@
         "This shows that the religious split had widened and that rulers had to accept more diversity."
        ],
        "earns": "You state the addition of Calvinism (or a correct change) and ground it in the passage.",
-       "weak": "Describing only one treaty."
+       "weak": "Describing only one treaty.",
+       "check": [
+        [
+         "calvinism",
+         "calvinist",
+         "calvin"
+        ]
+       ],
+       "checkLabels": [
+        "Says Calvinism was added (Peace of Westphalia)"
+       ]
       },
       {
        "k": "B",
@@ -2668,7 +3116,58 @@
         "As Lutheran, Calvinist and Anglican churches formed, Europe split into rival states that fought over religion."
        ],
        "earns": "Luther, Calvin, Henry VIII or Church corruption, with an explanation of how it divided Europe.",
-       "weak": "Naming Luther with no explanation."
+       "weak": "Naming Luther with no explanation.",
+       "check": [
+        [
+         "luther",
+         "calvin",
+         "henry viii",
+         "indulgences",
+         "corruption",
+         "reformation",
+         "95 theses",
+         "ninety-five"
+        ],
+        [
+         "because",
+         "as",
+         "sparking",
+         "angered",
+         "drained",
+         "weakened",
+         "divided",
+         "created",
+         "spread",
+         "ended",
+         "so",
+         "so that",
+         "which",
+         "this meant",
+         "this let",
+         "this made",
+         "this gave",
+         "this allowed",
+         "led to",
+         "leading to",
+         "allowed",
+         "let",
+         "made",
+         "helped",
+         "as a result",
+         "therefore",
+         "since",
+         "meaning",
+         "caused",
+         "resulted",
+         "enabled",
+         "by",
+         "through"
+        ]
+       ],
+       "checkLabels": [
+        "Names a cause (Luther, Calvin, Henry VIII, corruption)",
+        "Explains how or why (because, so, which, led to)"
+       ]
       },
       {
        "k": "C",
@@ -2681,7 +3180,56 @@
         "These efforts kept southern Europe Catholic and spread Catholicism to Asia and the Americas."
        ],
        "earns": "Trent, the Jesuits, the Inquisition or the Index, with its effect.",
-       "weak": "Saying the Church 'fought back' with no specifics."
+       "weak": "Saying the Church 'fought back' with no specifics.",
+       "check": [
+        [
+         "trent",
+         "jesuit",
+         "jesuits",
+         "inquisition",
+         "index",
+         "counter-reformation"
+        ],
+        [
+         "because",
+         "as",
+         "sparking",
+         "angered",
+         "drained",
+         "weakened",
+         "divided",
+         "created",
+         "spread",
+         "ended",
+         "so",
+         "so that",
+         "which",
+         "this meant",
+         "this let",
+         "this made",
+         "this gave",
+         "this allowed",
+         "led to",
+         "leading to",
+         "allowed",
+         "let",
+         "made",
+         "helped",
+         "as a result",
+         "therefore",
+         "since",
+         "meaning",
+         "caused",
+         "resulted",
+         "enabled",
+         "by",
+         "through"
+        ]
+       ],
+       "checkLabels": [
+        "Names a response (Trent, Jesuits, Inquisition, Index)",
+        "Explains how or why (because, so, which, led to)"
+       ]
       }
      ],
      "src": "P9"
@@ -3090,7 +3638,21 @@
         "This shows they enforced the monarch's law fairly in the counties."
        ],
        "earns": "You describe enforcing the king's law, treating rich and poor equally, or carrying out the King's Commission.",
-       "weak": "\"They were officials.\" Describe what they had to do."
+       "weak": "\"They were officials.\" Describe what they had to do.",
+       "check": [
+        [
+         "equal",
+         "poor",
+         "rich",
+         "law",
+         "laws",
+         "commission",
+         "justice"
+        ]
+       ],
+       "checkLabels": [
+        "Names a duty from the excerpt"
+       ]
       },
       {
        "k": "B",
@@ -3103,7 +3665,59 @@
         "Because local order now depended on officials enforcing royal law, the crown no longer needed to rely on independent nobles."
        ],
        "earns": "You connect the justices to weaker nobles or stronger royal control with a specific detail.",
-       "weak": "Repeating part A."
+       "weak": "Repeating part A.",
+       "check": [
+        [
+         "nobles",
+         "lords",
+         "feudal",
+         "royal",
+         "monarch",
+         "king",
+         "county",
+         "counties",
+         "local"
+        ],
+        [
+         "because",
+         "as",
+         "sparking",
+         "angered",
+         "drained",
+         "weakened",
+         "divided",
+         "created",
+         "spread",
+         "ended",
+         "so",
+         "so that",
+         "which",
+         "this meant",
+         "this let",
+         "this made",
+         "this gave",
+         "this allowed",
+         "led to",
+         "leading to",
+         "allowed",
+         "let",
+         "made",
+         "helped",
+         "as a result",
+         "therefore",
+         "since",
+         "meaning",
+         "caused",
+         "resulted",
+         "enabled",
+         "by",
+         "through"
+        ]
+       ],
+       "checkLabels": [
+        "Connects them to royal control or weaker nobles",
+        "Explains how or why (because, so, which, led to)"
+       ]
       },
       {
        "k": "C",
@@ -3116,7 +3730,26 @@
         "So English kings were checked by Parliament, while the French king held complete authority."
        ],
        "earns": "England (Parliament, Bill of Rights) versus France (absolutism, Louis XIV, intendants, Versailles), with an explanation.",
-       "weak": "Describing only France."
+       "weak": "Describing only France.",
+       "check": [
+        [
+         "parliament",
+         "bill of rights",
+         "limited"
+        ],
+        [
+         "absolute",
+         "absolutism",
+         "louis xiv",
+         "divine right",
+         "intendants",
+         "versailles"
+        ]
+       ],
+       "checkLabels": [
+        "England: Parliament, Bill of Rights or limited monarchy",
+        "France: absolutism, Louis XIV or intendants"
+       ]
       }
      ],
      "src": "R5"
@@ -3137,7 +3770,24 @@
         "Taking the city ended the Byzantine Empire and gave the Ottomans a capital that controlled the Bosporus."
        ],
        "earns": "Any accurate example: Constantinople, Chaldiran, Panipat, Tondibi, Cossacks in Siberia, Manchu banners.",
-       "weak": "\"They had guns.\" Name the empire and the event."
+       "weak": "\"They had guns.\" Name the empire and the event.",
+       "check": [
+        [
+         "constantinople",
+         "chaldiran",
+         "panipat",
+         "tondibi",
+         "cossacks",
+         "siberia",
+         "manchu",
+         "banners",
+         "mehmed",
+         "babur"
+        ]
+       ],
+       "checkLabels": [
+        "Names an example (Constantinople, Panipat, Chaldiran, Tondibi)"
+       ]
       },
       {
        "k": "B",
@@ -3150,7 +3800,60 @@
         "In both cases gunpowder gave smaller forces an advantage over armies using older tactics, which let them take new territory."
        ],
        "earns": "Two empires, one shared method, and why it worked.",
-       "weak": "Two separate descriptions with no comparison."
+       "weak": "Two separate descriptions with no comparison.",
+       "check": [
+        [
+         "ottoman",
+         "ottomans",
+         "mughal",
+         "mughals",
+         "morocco",
+         "moroccan",
+         "safavid",
+         "russia",
+         "qing",
+         "songhai"
+        ],
+        [
+         "because",
+         "as",
+         "sparking",
+         "angered",
+         "drained",
+         "weakened",
+         "divided",
+         "created",
+         "spread",
+         "ended",
+         "so",
+         "so that",
+         "which",
+         "this meant",
+         "this let",
+         "this made",
+         "this gave",
+         "this allowed",
+         "led to",
+         "leading to",
+         "allowed",
+         "let",
+         "made",
+         "helped",
+         "as a result",
+         "therefore",
+         "since",
+         "meaning",
+         "caused",
+         "resulted",
+         "enabled",
+         "by",
+         "through"
+        ]
+       ],
+       "checkLabels": [
+        "Names the empires",
+        "Explains how or why (because, so, which, led to)"
+       ]
       },
       {
        "k": "C",
@@ -3163,7 +3866,38 @@
         "Without money and with revolts spreading, the empire weakened, letting Britain and France gain power in India."
        ],
        "earns": "A specific cause (costly wars, weak heirs and harem politics, failure to modernize, high taxes, rebellions) for a named empire.",
-       "weak": "\"It got weak.\" Explain why."
+       "weak": "\"It got weak.\" Explain why.",
+       "check": [
+        [
+         "wars",
+         "war",
+         "cost",
+         "costs",
+         "heirs",
+         "harem",
+         "modernize",
+         "taxes",
+         "rebellion",
+         "rebellions",
+         "revolts",
+         "treasury"
+        ],
+        [
+         "mughal",
+         "mughals",
+         "ottoman",
+         "ottomans",
+         "safavid",
+         "songhai",
+         "aurangzeb",
+         "qing",
+         "spain"
+        ]
+       ],
+       "checkLabels": [
+        "Names a cause (costly wars, weak heirs, high taxes, revolts)",
+        "Names the empire"
+       ]
       }
      ]
     },
@@ -3183,7 +3917,21 @@
         "This challenged the Hindu social order that ranked people by birth."
        ],
        "earns": "One God, devotion over ritual, equality, rejecting caste, welcoming Hindus and Muslims.",
-       "weak": "\"He taught about God.\" Be specific."
+       "weak": "\"He taught about God.\" Be specific.",
+       "check": [
+        [
+         "equal",
+         "equality",
+         "caste",
+         "one god",
+         "devotion",
+         "hindus and muslims",
+         "ritual"
+        ]
+       ],
+       "checkLabels": [
+        "Names a teaching from the passage (equality, rejecting caste, one God)"
+       ]
       },
       {
        "k": "B",
@@ -3196,7 +3944,59 @@
         "This makes it an example of syncretism, a new faith created by contact between existing ones."
        ],
        "earns": "Hindu–Muslim contact, syncretism, and how the faith reflects both.",
-       "weak": "Calling it a mix with no explanation."
+       "weak": "Calling it a mix with no explanation.",
+       "check": [
+        [
+         "hindu",
+         "hindus",
+         "hinduism"
+        ],
+        [
+         "muslim",
+         "muslims",
+         "islam"
+        ],
+        [
+         "because",
+         "as",
+         "sparking",
+         "angered",
+         "drained",
+         "weakened",
+         "divided",
+         "created",
+         "spread",
+         "ended",
+         "so",
+         "so that",
+         "which",
+         "this meant",
+         "this let",
+         "this made",
+         "this gave",
+         "this allowed",
+         "led to",
+         "leading to",
+         "allowed",
+         "let",
+         "made",
+         "helped",
+         "as a result",
+         "therefore",
+         "since",
+         "meaning",
+         "caused",
+         "resulted",
+         "enabled",
+         "by",
+         "through"
+        ]
+       ],
+       "checkLabels": [
+        "Mentions Hinduism",
+        "Mentions Islam",
+        "Explains how or why (because, so, which, led to)"
+       ]
       },
       {
        "k": "C",
@@ -3209,7 +4009,27 @@
         "This persecution pushed Sikhs toward armed self-defense, and in 1699 Guru Gobind Singh founded the Khalsa."
        ],
        "earns": "A specific before and after, with an explanation.",
-       "weak": "Describing only Akbar or only Jahangir."
+       "weak": "Describing only Akbar or only Jahangir.",
+       "check": [
+        [
+         "akbar",
+         "support",
+         "land grants",
+         "tolerance"
+        ],
+        [
+         "jahangir",
+         "arjan",
+         "persecution",
+         "executed",
+         "aurangzeb",
+         "khalsa"
+        ]
+       ],
+       "checkLabels": [
+        "Before: Akbar's support",
+        "After: persecution (Jahangir, Guru Arjan, Aurangzeb)"
+       ]
       }
      ],
      "src": "P6"
